@@ -1,0 +1,707 @@
+sentence,logit,prediction,sentiment_score
+"title,
+BofA names picks to play growing penetration of online commerce,?",[0.68069303 0.01485556 0.3044514 ],positive,0.66583747
+"Judge sets October timelines to litigate Trump's TikTok ban,?",[0.17348939 0.34792003 0.4785906 ],neutral,-0.17443064
+"Walmart a top idea for Q4 at Bank of America,?",[0.06866208 0.02975872 0.90157926],neutral,0.03890336
+"Retail stunner: 11% of Americans estimated to already have Walmart Plus,?",[0.08049916 0.09024587 0.829255  ],neutral,-0.0097467005
+"Walmart eyes using Tesla Semi trucks in Canada to lower costs,?",[0.82741743 0.02230797 0.15027459],positive,0.80510944
+"Beyond Meat gains on expanded Walmart distribution deal,?",[0.8603532  0.08747477 0.05217198],positive,0.7728784
+"Walmart deserves high trading multiple - Credit Suisse,?",[0.10780492 0.02148422 0.8707109 ],neutral,0.0863207
+"Walmart in talks for up to $25B investment in Tata app - report,?",[0.20363556 0.01201785 0.7843466 ],neutral,0.19161771
+"Favorite food retail names from BMO Capital,?",[0.02729261 0.04340054 0.9293069 ],neutral,-0.01610793
+"Walmart closes in on Asda buyer after long path,?",[0.11250328 0.66618794 0.22130878],negative,-0.55368465
+"Justice Dept  keeps pushing on weekend TikTok ban,?",[0.06673495 0.63951975 0.29374534],negative,-0.5727848
+"Judge directs U S  to either respond by Friday or postpone TikTok ban,?",[0.06734623 0.39532354 0.53733027],neutral,-0.3279773
+"605 and Walmart expand existing relationship,?",[0.7482516  0.02892984 0.22281852],positive,0.7193218
+"Walmart+ seen growing to 10M members by the end of 2021,?",[0.7577701  0.01113431 0.23109554],positive,0.7466358
+"""Walmart, Goldman to offer Marketplace sellers access to capital"",?",[0.3137114  0.00918374 0.6771049 ],neutral,0.30452767
+"Conflicting deal structure could threaten Oracle-TikTok takeover,?",[0.01577451 0.95253897 0.0316865 ],negative,-0.9367645
+"Investors camp out in Walmart and Campbell Soup amid pandemic focus,?",[0.06081195 0.5309639  0.4082241 ],negative,-0.47015196
+"Retail check: Holiday sales seen rising 1 0% to 2 6%,?",[0.93191004 0.02716825 0.04092162],positive,0.90474176
+"ByteDance denies TikTok Global will be American owned,?",[0.04690318 0.2900012  0.66309565],neutral,-0.24309804
+"Walmart widens fashion focus with new private clothing label,?",[0.8082241  0.01861407 0.1731618 ],positive,0.78961
+"""Oracle, Walmart fill in details of investment in TikTok Global"",?",[0.03403217 0.01333492 0.9526329 ],neutral,0.02069725
+"Trump says he gives Oracle-TikTok deal his 'blessing',?",[0.16060068 0.03695085 0.8024485 ],neutral,0.123649836
+"""Instagram, TikTok heads engage as deadlines close in"",?",[0.08596607 0.42887908 0.48515493],neutral,-0.342913
+"TikTok and WeChat downloads to be barred in U S  starting Sunday,?",[0.02362338 0.80801517 0.16836146],negative,-0.78439176
+"""Walmart makes store organization changes, hikes pay for 165K"",?",[0.34023893 0.14431849 0.5154426 ],neutral,0.19592044
+"""Treasury, Oracle, ByteDance agree on TikTok terms - reports"",?",[0.25770766 0.0397688  0.7025235 ],neutral,0.21793886
+"Trump to decide on Oracle-TikTok in 24-36 hours - CNBC,?",[0.0543357  0.03520324 0.9104611 ],neutral,0.019132461
+"Flipkart eyes IPO as Walmart looks to double its investment,?",[0.8480061  0.04275173 0.10924215],positive,0.8052544
+"""Amazon plans 1,000 delivery hubs in smaller towns - Bloomberg"",?",[0.04397279 0.01039555 0.9456317 ],neutral,0.033577237
+"TikTok plans stand-alone global company with Oracle as minority holder - FT,?",[0.02512082 0.01318475 0.96169436],neutral,0.011936072
+"Walmart launches highly anticipated delivery service,?",[0.70364165 0.02304607 0.27331233],positive,0.6805956
+"ByteDance will not sell TikTok's U S  operations to Oracle - CGTN Digital,?",[0.02889002 0.1053622  0.8657478 ],neutral,-0.07647218
+"Oracle chosen to acquire TikTok U S  as tech partner (updated),?",[0.06385088 0.0238947  0.9122544 ],neutral,0.039956175
+"TikTok rejects Microsoft bid for U S  operations,?",[0.02753629 0.8980959  0.07436781],negative,-0.87055963
+"""TikTok presses toward U S  deal as hurdles mount, deadline nears - Bloomberg"",?",[0.4349235  0.12722565 0.43785083],neutral,0.30769783
+"China prefers TikTok shutdown to forced sale - Reuters,?",[0.08984601 0.22362548 0.6865285 ],neutral,-0.13377947
+"There will be no extension of TikTok deadline - Trump,?",[0.05028867 0.06638385 0.8833275 ],neutral,-0.016095176
+"Walmart and Schneider push for renewable energy transition,?",[0.10251737 0.00974285 0.8877398 ],neutral,0.092774525
+"""TikTok, U S  in talks over ways to avoid sale"",?",[0.08144176 0.0989717  0.8195865 ],neutral,-0.017529942
+"Walmart to test using drones for deliveries,?",[0.07446384 0.02305301 0.90248317],neutral,0.05141083
+"Investors chip away at specialty retail names,?",[0.05977204 0.5192578  0.42097017],negative,-0.45948574
+"TikTok buyers explore four options to revive buyout talks - Reuters,?",[0.4355169  0.01957332 0.5449098 ],neutral,0.41594356
+"TikTok deal tangles on whether algorithms can be sold - WSJ,?",[0.04134978 0.14729501 0.81135523],neutral,-0.10594523
+"Macy 셲 helping department stores show signs of life: At the Open,?",[0.24901825 0.06344245 0.68753934],neutral,0.18557581
+"""Walmart sized up after run to new high, Walmart+ introduction"",?",[0.77633405 0.05012741 0.17353858],positive,0.72620666
+"Oak Street to open three health clinics with Walmart in Texas,?",[0.29463318 0.01968386 0.68568295],neutral,0.2749493
+"Walmart+ a hit on Wall Street and Main Street at first blush,?",[0.40007693 0.2345894  0.36533374],positive,0.16548753
+"Murphy USA and Walmart extend partnership to membership service,?",[0.73712546 0.01174959 0.25112495],positive,0.7253759
+"""Walmart+ focuses on loyalty, not competition with Amazon Prime"",?",[0.21984343 0.00780918 0.7723474 ],neutral,0.21203424
+"Walmart -2% on downgrade citing 'muted outlook',?",[0.01883228 0.9569174  0.02425028],negative,-0.93808514
+"""ByteDance will follow new China export laws, denies Triller talks"",?",[0.15196906 0.04251374 0.8055172 ],neutral,0.10945532
+"""China tightens tech export rules, complicating TikTok talks"",?",[0.11975264 0.78615564 0.09409177],negative,-0.666403
+"""Centricus, Triller propose new TikTok purchase"",?",[0.0593429  0.01312986 0.9275272 ],neutral,0.046213035
+"Financials have a shot to lead the week as rates bounce: At the Open,?",[0.36688924 0.13919328 0.49391744],neutral,0.22769596
+"""Walmart first sought to be majority TikTok owner, with Alphabet/SoftBank - CNBC"",?",[0.06321339 0.0049561  0.93183047],neutral,0.05825728
+"Walmart teams with Microsoft on TikTok bid - CNBC (updated),?",[0.54835993 0.11135843 0.34028167],positive,0.4370015
+"""TikTok sale likely in coming days, in $20B-$30B range - CNBC"",?",[0.09232868 0.01763307 0.89003825],neutral,0.0746956
+"Amazon expands beyond Whole Foods with first Fresh store,?",[0.85583925 0.00912335 0.13503729],positive,0.8467159
+"DoorDash plans for IPO in Q4 as demand stays strong,?",[0.4280253  0.10291954 0.46905518],neutral,0.32510576
+"Retailers scramble with holiday shopping expected to be heavily online,?",[0.17132731 0.21423772 0.61443496],neutral,-0.042910412
+"Bidding could heat up for Walmart's Asda,?",[0.21986209 0.01690684 0.76323104],neutral,0.20295525
+"Consumer smallcap ETFs harbor alpha as battle for wallets heats up,?",[0.32681632 0.0807428  0.5924409 ],neutral,0.24607351
+"""Target kills it with digital, but watch private label: At the Open"",?",[0.03486757 0.05969048 0.90544194],neutral,-0.02482291
+"Walmart turns lower after pointing to normalizing trends,?",[0.01668216 0.9532971  0.03002082],negative,-0.93661493
+"Walmart +6% after e-commerce surge leads to earnings smasher,?",[0.04392887 0.94449204 0.01157912],negative,-0.9005632
+"""Walmart EPS beats by $0 31, beats on revenue"",?",[0.40744203 0.13082635 0.4617316 ],neutral,0.27661568
+"Walmart Q2 2021 Earnings Preview,?",[0.08756435 0.51776296 0.39467272],negative,-0.4301986
+"""The retailers to gain from the new normal, in D A  Davidson initiation"",?",[0.30365336 0.02345599 0.6728907 ],neutral,0.28019738
+"Walmart to extend store hours at majority of stores,?",[0.05234502 0.5943056  0.35334942],negative,-0.54196054
+"WeChat ban challenges Apple's $44B market in China,?",[0.02521688 0.9174249  0.05735824],negative,-0.89220804
+"""At-home food inflation dips in July, but consumers still feeling the pinch"",?",[0.12558948 0.6756006  0.19880994],negative,-0.5500111
+"Walmart and Instacart to expand partnership,?",[0.908675   0.0119579  0.07936698],positive,0.89671713
+"UPS tacks on extra fees to prep for huge holiday rush,?",[0.1329032  0.19002253 0.67707425],neutral,-0.057119325
+"Sanders goes after pandemic wealth gains as Biden moves closer on taxes,?",[0.3838534  0.2923531  0.32379347],positive,0.09150031
+"Walmart unveils drive-in theater plan,?",[0.14139436 0.02674694 0.8318587 ],neutral,0.11464742
+"Another delay for Walmart's same-day delivery service amid the pandemic,?",[0.02238073 0.9014614  0.07615789],negative,-0.8790807
+"Plug Power pops on U K  supermarket deal,?",[0.08133134 0.16138901 0.7572797 ],neutral,-0.080057666
+"""Walmart memo points to cutting jobs in """"streamlining"""""",?",[0.02805701 0.9315519  0.04039106],negative,-0.9034949
+"Beyond Meat shares fall as Impossible Burger hits Walmart,?",[0.01578843 0.9539744  0.03023716],negative,-0.938186
+"""Best Buy, Target, Dick's and Walmart will be closed for Thanksgiving Day 2020"",?",[0.02817057 0.19276188 0.7790675 ],neutral,-0.16459131
+"""Flipkart gets aggressive in India with deliveries, hyperlocal business"",?",[0.87831956 0.01604847 0.10563197],positive,0.8622711
+"Walmart preps to take Asda bids,?",[0.09450135 0.01394504 0.8915536 ],neutral,0.08055632
+"FDA warns on toxic hand sanitizers,?",[0.0215674 0.907603  0.0708295],negative,-0.8860356
+"Walmart turns up health moves with plans for six more Atlanta clinics,?",[0.32345775 0.02889838 0.6476438 ],neutral,0.29455936
+"Ascena Retail joins the retail graveyard with bankruptcy filing,?",[0.04081785 0.09170325 0.8674789 ],neutral,-0.050885405
+"India roundup: Amazon makes foray into auto insurance,?",[0.7493486  0.01077986 0.23987158],positive,0.7385687
+"Walmart to pay out another $428M in bonuses,?",[0.08606844 0.6034242  0.3105073 ],negative,-0.51735574
+"Walmart looks to modernize in Canada,?",[0.59714407 0.01376584 0.38909006],positive,0.58337826
+"Walmart starts to shop Asda again,?",[0.2958899  0.12352175 0.5805883 ],neutral,0.17236817
+"Retail sector tripped up again by COVID-19 anxiety,?",[0.01821204 0.94836724 0.03342075],negative,-0.9301552
+"Walmart to require face coverings in U S ,?",[0.0733917  0.1528946  0.77371365],neutral,-0.0795029
+"Walmart invests $1 2B in Flipkart's commerce business,?",[0.06745344 0.00734259 0.925204  ],neutral,0.06011085
+"Walmart seen getting big boost from online delivery play,?",[0.927802   0.01901979 0.05317819],positive,0.90878224
+"""Walmart a 'sleeping giant' in health care, Morgan Stanley says"",?",[0.07307646 0.10953177 0.81739175],neutral,-0.03645531
+"Costco looks more indicative of consumer staples trends than Walgreens,?",[0.08628135 0.01351792 0.9002007 ],neutral,0.07276343
+"Amazon pulls Washington Redskins merch as team weighs name change,?",[0.0489759  0.47351834 0.47750574],neutral,-0.42454243
+"Walmart jobs ads hint at healthcare insurance move,?",[0.06352542 0.59197295 0.34450164],negative,-0.5284475
+"Walmart takes on Amazon with $98/year delivery service - Recode,?",[0.5098517  0.05223352 0.43791476],positive,0.45761818
+"UBS reviews names to watch in 'consumerization of healthcare',?",[0.03985329 0.03861342 0.9215333 ],neutral,0.0012398697
+"Walmart lands bullish upgrade from UBS,?",[0.7600042  0.18628706 0.05370881],positive,0.5737172
+"Walmart discloses 10 7% stake in Dada Nexus,?",[0.0320102  0.02772794 0.94026184],neutral,0.0042822603
+"Party hats in the retail sector,?",[0.07534985 0.32230553 0.6023446 ],neutral,-0.24695568
+"Internet still the retail hero,?",[0.10847365 0.06386296 0.82766336],neutral,0.044610694
+"Walmart testing self-checkout only location,?",[0.02956947 0.05528634 0.9151442 ],neutral,-0.025716871
+"Walmart buys Carezone technology for prescription management,?",[0.5431716  0.02475943 0.432069  ],positive,0.5184122
+"Shopify jumps 4% after Walmart partnership,?",[0.89528376 0.06313945 0.04157683],positive,0.8321443
+"EV semis move toward proof of concept,?",[0.5216518  0.03396215 0.44438607],positive,0.48768964
+"Inflation data show food-at-home still a retail tailwind for some - Nomura,?",[0.0358524  0.8631012  0.10104645],negative,-0.8272488
+"Investors take refuge in Walmart,?",[0.03953117 0.67711025 0.28335857],negative,-0.6375791
+"Rural is the retail sweet spot,?",[0.06778968 0.17143992 0.7607704 ],neutral,-0.103650235
+"HanesBrands appoints 25-year industry veteran as new CEO,?",[0.12378232 0.20488788 0.6713298 ],neutral,-0.08110556
+"Investors bid up specialty retail names,?",[0.10782424 0.02343888 0.8687369 ],neutral,0.08438536
+"Walmart skips big market rally,?",[0.05938446 0.68847054 0.252145  ],negative,-0.6290861
+"Protests see Walmart remove guns from sales floor,?",[0.02010409 0.9175835  0.06231245],negative,-0.8974794
+"Nationwide protests force retail closures,?",[0.01448725 0.94611335 0.03939937],negative,-0.9316261
+"Stay-at-home selloff continues as economy revs up,?",[0.30249873 0.45779353 0.23970774],negative,-0.1552948
+"Walmart teams with ThredUP to enter into fashion resale market,?",[0.87554437 0.01130054 0.11315506],positive,0.8642438
+"""Averages surge, but rally cools for stay-at-home plays"",?",[0.3729609  0.43375897 0.19328016],negative,-0.06079808
+"""JioMart online grocery service takes on Amazon, Flipkart"",?",[0.0355708  0.0351454  0.92928386],neutral,0.00042539835
+"Odeon picks 'downtrodden' retail for reopening plays,?",[0.10731395 0.04539523 0.8472908 ],neutral,0.061918717
+"Walmart at risk of spending downturn - UBS,?",[0.0159215  0.9261605  0.05791802],negative,-0.91023904
+"Walmart to quadruple Sam's Clubs in China,?",[0.5203154  0.08268766 0.39699692],positive,0.43762773
+"Baird finds retail trends in consumer search-term growth,?",[0.27199903 0.03703344 0.6909675 ],neutral,0.2349656
+"Walmart to discontinue Jet com,?",[0.03440997 0.60132724 0.3642628 ],negative,-0.56691724
+"Walmart +4% after earnings smasher,?",[0.04181213 0.8882926  0.06989527],negative,-0.8464805
+"""Walmart EPS beats by $0 09, beats on revenue"",?",[0.36193144 0.12425479 0.5138138 ],neutral,0.23767665
+"Retail rally ahead of Walmart earnings,?",[0.36084893 0.39140764 0.24774343],negative,-0.030558705
+"Walmart Q1 2021 Earnings Preview,?",[0.09332947 0.4914326  0.41523793],negative,-0.39810315
+"Panic favorites underperform as broad market rallies,?",[0.01885161 0.9600361  0.02111225],negative,-0.94118446
+"Pockets of strength amid record drop in retail sales,?",[0.12468452 0.76417404 0.11114142],negative,-0.63948953
+"Walmart seen turning double-digit Q1 comp,?",[0.1689398 0.5856242 0.245436 ],negative,-0.41668442
+"""Seeing April trough, Nomura raises some retail price targets"",?",[0.67330146 0.11232875 0.21436974],positive,0.5609727
+"Peak fear is past but consumer recovery could be slow,?",[0.03344687 0.8628897  0.10366344],negative,-0.82944286
+"Walmart seen generating 9% Q1 U S  comp,?",[0.73591614 0.07041424 0.19366969],positive,0.6655019
+"""Odeon finds retail opportunities, 'generational' mall prospects"",?",[0.38562334 0.0172948  0.5970819 ],neutral,0.36832854
+"Meat shortage worries grow - Kroger to limit purchases,?",[0.0293011  0.87530756 0.09539143],negative,-0.84600645
+"Walmart to offer faster delivery service,?",[0.66133684 0.01015423 0.32850897],positive,0.6511826
+"""These retailers face up to sweeping pandemic change, UBS says"",?",[0.23605333 0.03686136 0.72708523],neutral,0.19919197
+"Investors move past stockpiling bets,?",[0.06665543 0.285031   0.6483136 ],neutral,-0.21837556
+"Workers start to push back on safety at essential businesses,?",[0.04908683 0.8440337  0.10687944],negative,-0.7949469
+"Nomura lists retailers with exposure to reopening states,?",[0.02619872 0.08632069 0.88748056],neutral,-0.06012197
+"Walmart store shut by Colorado following three coronavirus deaths,?",[0.01189376 0.952975   0.03513134],negative,-0.9410812
+"Oppenheimer names top grocery picks,?",[0.05450397 0.02412641 0.9213696 ],neutral,0.03037756
+"Walmart unloads Vudu to Fandango,?",[0.04563881 0.24503662 0.70932454],neutral,-0.1993978
+"Time to mask up at Walmart,?",[0.1096286  0.24991398 0.64045745],neutral,-0.14028537
+"Walmart ramps up hiring again,?",[0.8652009  0.06723198 0.06756714],positive,0.7979689
+"Let's-go-out trade dominates retail,?",[0.1323805  0.02627636 0.8413431 ],neutral,0.10610414
+"The retail rich get richer,?",[0.3414848  0.06213365 0.59638155],neutral,0.27935117
+"Winners and losers from the retail sales report,?",[0.0755788  0.30146962 0.62295157],neutral,-0.22589082
+"Walmart ca adds PayPal as payment option,?",[0.17664878 0.01498682 0.80836445],neutral,0.16166195
+"Chain store sales go negative,?",[0.01051317 0.9671956  0.02229129],negative,-0.9566824
+"Barron's doubles down on 12 YTD winners,?",[0.02173532 0.9236426  0.05462214],negative,-0.90190727
+"Walmart checks all the boxes for Citi,?",[0.03336575 0.16966741 0.7969668 ],neutral,-0.13630167
+"Walmart sits out big market rally,?",[0.24021725 0.1573595  0.60242325],neutral,0.08285776
+"""Uber, Flipkart team for deliveries in India"",?",[0.12097602 0.01293243 0.8660916 ],neutral,0.10804358
+"Walmart limits store traffic,?",[0.03017913 0.71465695 0.25516394],negative,-0.6844778
+"Walmart gains on report of huge March U S  sales tally,?",[0.7149128  0.24477954 0.0403077 ],positive,0.47013324
+"Walmart to keep Asda for now,?",[0.04316035 0.12906812 0.8277715 ],neutral,-0.08590777
+"Big-box shocker out of Vermont,?",[0.0498466  0.48340204 0.46675137],negative,-0.43355542
+"U S  starts enhanced measures to disrupt supply of illegal drugs: coronavirus briefing,?",[0.3882244  0.0438798  0.56789577],neutral,0.3443446
+"Investors hunker down in Walmart and Procter &amp; Gamble again,?",[0.05622075 0.25069705 0.6930822 ],neutral,-0.1944763
+"Temperature check at Walmart,?",[0.03642508 0.2301158  0.7334591 ],neutral,-0.19369072
+"Investors play defense with Walmart and Procter &amp; Gamble again,?",[0.04242349 0.14291565 0.8146609 ],neutral,-0.100492164
+"""Indian lockdown creates hurdles for Amazon, Flipkart"",?",[0.07497802 0.58641416 0.33860788],negative,-0.51143616
+"Walmart hiring on the rise,?",[0.11224905 0.6595255  0.22822544],negative,-0.54727644
+"Walmart offers rent relief for in-store partners,?",[0.23072623 0.10728389 0.66198987],neutral,0.12344234
+"""State AGs ask Amazon, Walmart to prevent price gouging"",?",[0.443445   0.05616746 0.50038755],neutral,0.38727754
+"Retail giants stumble despite $2T stimulus development,?",[0.01585648 0.9671354  0.01700809],negative,-0.9512789
+"Let's-go-out trade dominates consumer sector,?",[0.12723579 0.03501555 0.8377487 ],neutral,0.09222023
+"Odeon Capital picks retail favorites,?",[0.06089585 0.02735405 0.91175014],neutral,0.03354179
+"Walmart raises minimum wage in e-commerce warehouses by $2,?",[0.40634322 0.39262083 0.20103596],positive,0.01372239
+"Virus plays sold as animal spirits makes appearance,?",[0.03632217 0.1819528  0.781725  ],neutral,-0.14563063
+"Walmart paying out $365M in special bonuses,?",[0.08000863 0.13492839 0.78506297],neutral,-0.054919764
+"Food and grocery stocks rally as pantries stocked,?",[0.5733526  0.37606382 0.05058359],positive,0.19728875
+"'Clear winner' Walmart moves to 52-week high,?",[0.859743   0.05615542 0.08410154],positive,0.80358756
+"Credit Suisse bullish on Walmart amid consumer disruption,?",[0.02492294 0.92072344 0.05435359],negative,-0.89580053
+"Everyone-must-eat rally takes hold,?",[0.13648632 0.3628201  0.50069356],neutral,-0.22633377
+"Oppenheimer says take shelter in Walmart,?",[0.04693685 0.1907994  0.76226383],neutral,-0.14386255
+"Dollar General gives seniors an early shopping window,?",[0.07545153 0.07715819 0.8473903 ],neutral,-0.0017066598
+"Walmart catches bids for Asda,?",[0.08835815 0.34024742 0.5713944 ],neutral,-0.2518893
+"UBS takes a crack at the retail upheaval,?",[0.10098458 0.3590107  0.54000473],neutral,-0.25802612
+"Walmart and Target bid down amid giant coronavirus challenge,?",[0.01411935 0.9598783  0.02600238],negative,-0.945759
+"President and retail heads urge stop to panic buying,?",[0.07069721 0.46734348 0.46195927],negative,-0.39664626
+"Amazon wants to sell Go tech to Walmart,?",[0.03455425 0.01579147 0.9496543 ],neutral,0.018762786
+"Grocers are struggling to keep up with demand - WSJ,?",[0.01594857 0.9540863  0.02996507],negative,-0.9381377
+"Walmart cuts store hours due to coronavirus,?",[0.01209423 0.9639834  0.02392234],negative,-0.95188916
+"President Trump declares national emergency over coronavirus,?",[0.02844665 0.79680365 0.17474975],negative,-0.768357
+"Crushing day for retail as coronavirus reality sets in,?",[0.06861405 0.60351    0.32787588],negative,-0.53489596
+"Which S&amp;P 500 stocks have gained over the past month ,?",[0.8489651  0.04276637 0.10826849],positive,0.8061987
+"Walmart reacts to coronavirus case,?",[0.05298526 0.6791045  0.2679102 ],negative,-0.62611926
+"Retailers that are winning amid the coronavirus outbreak,?",[0.47857374 0.15553226 0.36589396],positive,0.3230415
+"Select retailers fight the weak tape,?",[0.10277082 0.44262463 0.4546045 ],neutral,-0.33985382
+"Retail starts to crack under coronavirus pressure,?",[0.02988615 0.8762075  0.09390639],negative,-0.84632134
+"Retail execs don't sound alarmed,?",[0.05194731 0.44142848 0.5066242 ],neutral,-0.3894812
+"Yes Bank taken over by India's central bank,?",[0.02826139 0.09011717 0.8816215 ],neutral,-0.061855778
+"Big let's-stock-up rally in retail,?",[0.49879485 0.1201094  0.3810957 ],positive,0.37868544
+"Walmart discusses 5G partnership with Verizon,?",[0.40128058 0.01460075 0.58411866],neutral,0.38667983
+"Consumer heavyweights battered on coronavirus fears,?",[0.01866493 0.92924803 0.05208707],negative,-0.9105831
+"Walmart eyes Asda sale,?",[0.04255779 0.06256957 0.89487267],neutral,-0.020011783
+"Debut of Walmart Fulfillment Services,?",[0.13532656 0.01199476 0.8526787 ],neutral,0.12333181
+"Walmart changes merchandise buying strategy,?",[0.1673433  0.23671564 0.59594107],neutral,-0.06937234
+"Amazon Go Grocery opens in Seattle,?",[0.04746486 0.05743163 0.8951036 ],neutral,-0.009966772
+"""Fox, Comcast eye ad-supported video services"",?",[0.02628057 0.03107419 0.9426453 ],neutral,-0.0047936216
+"NBCUniversal eyes Vudu purchase - WSJ,?",[0.04423075 0.18414828 0.771621  ],neutral,-0.13991752
+"Major pharmacy chains downplay rates of prescription mistakes,?",[0.02385743 0.86045176 0.11569075],negative,-0.83659434
+"Baird stays bullish on Walmart,?",[0.03310272 0.87116915 0.09572804],negative,-0.83806646
+"Walmart rallies right past rare profit miss,?",[0.39762124 0.17373143 0.4286473 ],neutral,0.22388981
+"Oppenheimer stays sidelined on Walmart,?",[0.03869901 0.32924566 0.63205534],neutral,-0.29054666
+"Opioid-related payouts to be less than expected - NYT,?",[0.01673502 0.9666831  0.01658187],negative,-0.9499481
+"Walmart slips after comparable sales miss,?",[0.01119352 0.97256035 0.01624615],negative,-0.96136683
+"Walmart raises annual dividend by 1 9% to $2 16,?",[0.9123832  0.03229595 0.05532089],positive,0.88008726
+"""Walmart EPS misses by $0 06, revenue in-line"",?",[0.1887787  0.59844023 0.21278109],negative,-0.40966153
+"Walmart Q4 2020 Earnings Preview,?",[0.08520854 0.44022298 0.47456846],neutral,-0.35501444
+"""Amazon, Flipkart push back against Indian e-commerce tax"",?",[0.48949152 0.17752008 0.33298838],positive,0.31197143
+"Walmart to go different direction with Jetblack,?",[0.055381   0.26193336 0.6826857 ],neutral,-0.20655236
+"Walmart in the mix to land Pier 1 sales,?",[0.48117772 0.06281946 0.4560029 ],positive,0.41835827
+"Walmart dabbles with higher starting minimum wage,?",[0.23071432 0.22497545 0.5443103 ],neutral,0.0057388693
+"Walmart eyes Flipkart deal in India,?",[0.09926485 0.04615937 0.85457575],neutral,0.053105474
+"Effort to crack down on e-commerce fakes,?",[0.05410825 0.26566026 0.6802315 ],neutral,-0.211552
+"Tivity Health inks deal with Walmart,?",[0.07224295 0.0611615  0.8665955 ],neutral,0.011081446
+"National Vision expands Walmart agreement,?",[0.6605827  0.02807733 0.31133997],positive,0.6325054
+"Impinj +6% after analyst sees Walmart using RFID,?",[0.24398679 0.47526544 0.2807478 ],negative,-0.23127866
+"Walmart makes some C-suite moves,?",[0.1139412  0.03552382 0.850535  ],neutral,0.078417376
+"Walmart sized up after Target's guidance shocker,?",[0.39658508 0.50052416 0.10289077],negative,-0.103939086
+"Retail heavyweights stung after light sales from Target,?",[0.0260887  0.9532443  0.02066706],negative,-0.9271556
+"Walmart expands its robot army,?",[0.704367   0.04954632 0.24608667],positive,0.6548207
+"Walmart sacks 50+ executives in India,?",[0.01205624 0.9560192  0.03192449],negative,-0.943963
+"""Et tu, Walmart  Cleveland Research warns on Q4"",?",[0.05392408 0.26819757 0.6778783 ],neutral,-0.21427348
+"A tale of two holidays in retail,?",[0.09432007 0.22526509 0.6804149 ],neutral,-0.13094503
+"Pharmacy chains sue Ohio doctors over role in opioid epidemic,?",[0.01500427 0.9540907  0.03090509],negative,-0.93908644
+"Walmart said to be eyeing Grubhub,?",[0.03636179 0.05125663 0.9123816 ],neutral,-0.014894836
+"Walmart accelerates expansion in Mexico,?",[0.8799108  0.01211997 0.10796925],positive,0.8677909
+"""Apple, Microsoft top Dow 2019 standings; Walgreens wobbles to the bottom"",?",[0.03133077 0.8605796  0.10808964],negative,-0.82924885
+"U S  holiday shopping hits new record,?",[0.45417812 0.16263661 0.38318524],positive,0.29154152
+"Super Saturday sales top Black Friday by 10%,?",[0.3819297  0.4267778  0.19129254],negative,-0.044848114
+"""Roku, Walmart launch smart TVs in Mexico"",?",[0.15253887 0.01573037 0.8317307 ],neutral,0.1368085
+"Walmart bets on future of supercenter,?",[0.10935327 0.06639323 0.82425356],neutral,0.042960033
+"Late Cyber Monday nips at retail sales in November,?",[0.02568488 0.8843429  0.08997216],negative,-0.858658
+"Bonobos founder is leaving Walmart,?",[0.03544603 0.51838744 0.44616652],negative,-0.48294142
+"Consumer sector volatile as trade deal nears finish line,?",[0.01469907 0.9460728  0.0392282 ],negative,-0.9313738
+"Walmart tests autonomous grocery deliveries,?",[0.03757585 0.0448378  0.9175863 ],neutral,-0.007261947
+"Shopping traffic up 14% over Thanksgiving weekend,?",[0.9331309  0.04172647 0.02514266],positive,0.89140445
+"Strong early read on holiday sales,?",[0.80195063 0.08785611 0.11019329],positive,0.7140945
+"Mexicans sue Walmart over Texas shooting,?",[0.01236391 0.9559388  0.03169719],negative,-0.9435749
+"Walmart looks to get past dog days of in-house grocery delivery,?",[0.77702177 0.02821058 0.1947677 ],positive,0.7488112
+"Walmart picks new boss for Sam's Club,?",[0.06758154 0.15536341 0.7770551 ],neutral,-0.08778187
+"Stocks end little changed in lackluster session,?",[0.0962019  0.7288826  0.17491554],negative,-0.6326807
+"Walmart +3% after profit beat,?",[0.43769127 0.5013591  0.06094962],negative,-0.063667834
+"""Walmart EPS beats by $0 07, revenue in-line"",?",[0.29330572 0.29781815 0.4088761 ],neutral,-0.0045124292
+"Back to earnings    Walmart and Nvidia,?",[0.04623439 0.23423663 0.719529  ],neutral,-0.18800224
+"Walmart Q3 2020 Earnings Preview,?",[0.07996873 0.40084592 0.5191853 ],neutral,-0.3208772
+"Amazon pushes forward with new grocery brand,?",[0.9188937  0.01278234 0.06832404],positive,0.90611136
+"Tesla and Walmart said to settle solar panel suit,?",[0.10116127 0.2826296  0.61620915],neutral,-0.18146834
+"Former McDonald's CEO resigns Walmart board seat,?",[0.03236726 0.780097   0.18753578],negative,-0.7477297
+"Walmart eyes Vudu sale,?",[0.04981796 0.17955537 0.77062666],neutral,-0.1297374
+"Amazon invests $600M into India units,?",[0.06111734 0.00785377 0.93102896],neutral,0.053263567
+"Green Dot +15 5% on Walmart MoneyCard extension,?",[0.34130523 0.07651372 0.58218104],neutral,0.2647915
+"Walmart finds new boss for Jetblack,?",[0.07381384 0.5202887  0.40589735],negative,-0.44647485
+"Amazon Fresh now free for Prime members,?",[0.04295412 0.01044519 0.94660074],neutral,0.032508932
+"Three top retailers pull 22-ounce J&amp;J Baby Powder off shelves,?",[0.01137355 0.9590872  0.02953932],negative,-0.9477136
+"Walmart to kick off holiday deals early,?",[0.06856729 0.428062   0.5033707 ],neutral,-0.3594947
+"""Grocery sales up, margins not so much"",?",[0.5921394  0.28056392 0.12729666],positive,0.3115755
+"Walmart launches Amazon Key rival service,?",[0.13072637 0.03376171 0.8355119 ],neutral,0.09696466
+"Walmart ratchets up marketplace war with Amazon,?",[0.03161503 0.9083157  0.06006926],negative,-0.8767007
+"FreshDirect on the sales block,?",[0.0387399  0.29141322 0.6698469 ],neutral,-0.25267333
+"Walmart eyes setting PhonePe free,?",[0.09776798 0.21349715 0.6887349 ],neutral,-0.11572917
+"Walmart names new U S  boss,?",[0.05973393 0.06920867 0.87105745],neutral,-0.009474739
+"Layoffs at Bonobos as Walmart looks to cut losses,?",[0.01335007 0.96780235 0.01884763],negative,-0.9544523
+"""Roku, Walmart launch soundbar and subwoofer"",?",[0.03692303 0.04610431 0.91697264],neutral,-0.00918128
+"Huge numbers from Flipkart's shopping event,?",[0.17337044 0.10937309 0.7172565 ],neutral,0.06399735
+"Holiday sales seen rising around 4% this year,?",[0.8832399  0.02202491 0.09473526],positive,0.861215
+"Walmart tests healthcare programs in the U S ,?",[0.03370953 0.0357816  0.93050885],neutral,-0.0020720623
+"Walmart joins other retail chains in pulling Zantac,?",[0.07601944 0.48492953 0.43905103],negative,-0.4089101
+"""Amazon, Flipkart report strong festival sales"",?",[0.91160345 0.02807966 0.06031687],positive,0.8835238
+"Walmart mulls over options for JetBlack,?",[0.03861185 0.5341304  0.42725772],negative,-0.49551854
+"Walmart snuffs out e-cigarette sales,?",[0.0281344 0.7838886 0.187977 ],negative,-0.7557542
+"EEOC looks for Walmart to resolve female wage gap issue,?",[0.3355257  0.3005558  0.36391854],neutral,0.034969896
+"Barclays brushes off risk to CVS from Walmart healthcare initiative,?",[0.5567785  0.30922148 0.13400005],positive,0.24755701
+"Walmart's 'unlimited' grocery delivery goes nationwide,?",[0.16189341 0.01010147 0.82800514],neutral,0.15179195
+"Food retail prices under pressure from Walmart,?",[0.04130942 0.8458637  0.11282689],negative,-0.8045543
+"Huge upside seen for Walmart from PhonePe asset,?",[0.79174954 0.09074111 0.11750937],positive,0.70100844
+"Feds grant $1 8B to fight opioid epidemic,?",[0.8857048  0.03282939 0.08146571],positive,0.8528754
+"Walmart pulls back on gun sales,?",[0.02058992 0.9269802  0.05242996],negative,-0.9063903
+"Walmart Mexico offers same-day delivery,?",[0.02880748 0.03521581 0.93597674],neutral,-0.006408328
+"Walmart offers mental health services at new clinic,?",[0.0263492  0.04084738 0.93280345],neutral,-0.01449818
+"New boss for Walmart Canada,?",[0.05280812 0.22561865 0.72157323],neutral,-0.17281052
+"Target earnings tip strong consumer spending,?",[0.7180656  0.08318466 0.19874975],positive,0.63488096
+"""Walmart sues Tesla, claiming solar panels caused fires at its stores"",?",[0.0191244  0.91696686 0.0639088 ],negative,-0.89784247
+"Walmart chief marketing officer exiting - Ad Age,?",[0.03464228 0.12247344 0.8428843 ],neutral,-0.08783116
+"JD com joint venture mulls $500M U S  IPO - report,?",[0.04673879 0.28412625 0.6691349 ],neutral,-0.23738746
+"Analysts see Walmart momentum continuing,?",[0.8828258  0.01652131 0.10065296],positive,0.86630446
+"""Walmart tops day's gainers after higher Q2 sales, upbeat profit forecast"",?",[0.89522314 0.05813542 0.04664135],positive,0.83708775
+"""WMT, CSIQ among premarket gainers"",?",[0.11001315 0.22832733 0.66165954],neutral,-0.118314184
+"Walmart +5% after hiking profit guidance,?",[0.67847526 0.27099335 0.05053136],positive,0.4074819
+"""Walmart EPS beats by $0 05, beats on revenue"",?",[0.33504087 0.11582044 0.54913867],neutral,0.21922043
+"Walmart Q2 2020 Earnings Preview,?",[0.08789983 0.37912795 0.5329722 ],neutral,-0.29122812
+"Macy's carnage spreads far and wide across retail,?",[0.10159959 0.01975011 0.8786503 ],neutral,0.081849486
+"Spotlight on Walmart's margins,?",[0.10020679 0.02713198 0.87266123],neutral,0.07307481
+"Retail rallies after tariffs delayed,?",[0.02684488 0.91894007 0.0542151 ],negative,-0.8920952
+"Investors shy away from consumer discretionary stocks,?",[0.05423854 0.60917413 0.3365873 ],negative,-0.5549356
+"Walmart take steps on violent video games,?",[0.16256566 0.23385887 0.60357547],neutral,-0.071293205
+"Walmart to stick with gun sales after El Paso store shooting,?",[0.10196336 0.49042523 0.40761146],negative,-0.3884619
+"Amazon eyes stake in India's Reliance Retail - ET,?",[0.03740487 0.03164314 0.93095195],neutral,0.0057617202
+"Consumer names stumble after Fed rate cut,?",[0.02284382 0.91991115 0.05724511],negative,-0.8970673
+"Walmart to run small test of self-driving car,?",[0.1145232  0.03688959 0.8485872 ],neutral,0.07763361
+"Walmart moves to integrate stores and digital - CNBC,?",[0.38685554 0.00995972 0.6031848 ],neutral,0.37689582
+"Drug distributors down on opioid epidemic risk,?",[0.02222476 0.9190446  0.0587307 ],negative,-0.89681983
+"Rivals get larger Prime Day boost - report,?",[0.58095306 0.13329808 0.28574887],positive,0.44765496
+"Fourth annual Prime Day kicks off,?",[0.05982437 0.13153431 0.8086413 ],neutral,-0.071709946
+"Walmart looks for regulatory relief in India,?",[0.22751303 0.22767405 0.5448129 ],neutral,-0.00016102195
+"Goldman Sachs doubles down on big-box retail,?",[0.01928897 0.93936914 0.04134185],negative,-0.9200802
+"Walmart workers in Chile walk off the job,?",[0.01633325 0.9430835  0.04058324],negative,-0.9267503
+"Walmart reports solid sales in Mexico and Central America,?",[0.93337554 0.02878166 0.03784277],positive,0.9045939
+"A Prime headache setting up in grocery/food sector,?",[0.06956583 0.5165414  0.4138927 ],negative,-0.4469756
+"E-commerce losses pile up at Walmart,?",[0.01322703 0.96190256 0.02487034],negative,-0.9486755
+"Retail lags as focus turns to economic data,?",[0.03064873 0.83380246 0.13554877],negative,-0.80315375
+"Walmart invests in China logistics,?",[0.0300693  0.01857708 0.9513536 ],neutral,0.011492221
+"Walmart to relist minority stake in Seiyu,?",[0.06767243 0.19959041 0.7327372 ],neutral,-0.13191798
+"""India questions Amazon, Flipkart rule compliance"",?",[0.1540359  0.06768319 0.778281  ],neutral,0.086352706
+"Retailers plot Amazon Prime Day strategies,?",[0.0264199  0.01947803 0.9541021 ],neutral,0.0069418643
+"""Norway's wealth fund cleared to reinvest in Rio, Walmart, others"",?",[0.21269785 0.01333319 0.773969  ],neutral,0.19936466
+"JetBlue sues over use of Jetblack name,?",[0.01591458 0.9386408  0.04544473],negative,-0.9227262
+"Walmart settles over FCPA violations,?",[0.02731079 0.9087679  0.06392139],negative,-0.8814571
+"""Walmart launching online sales of AT&amp;T plans, phones"",?",[0.07378094 0.00720518 0.91901386],neutral,0.06657576
+"Retail sales solid as e-commerce underpins,?",[0.39628774 0.5754831  0.02822925],negative,-0.17919534
+"Retailers skirt around tariff costs,?",[0.04034076 0.6913978  0.26826143],negative,-0.651057
+"FDA names companies to build blockchain network for drug supply chain,?",[0.21646023 0.00890698 0.77463275],neutral,0.20755324
+"Target fires latest shot in delivery wars,?",[0.06626303 0.07766977 0.85606724],neutral,-0.011406742
+"Walmart to absorb disappointing Jet com into e-commerce operations,?",[0.6560029  0.26937616 0.07462096],positive,0.38662672
+"Walmart inks power deal with US Solar,?",[0.4277519  0.03160571 0.5406424 ],neutral,0.39614618
+"Stifel expects Walmart momentum to continue,?",[0.8808065  0.00943936 0.10975423],positive,0.87136716
+"Walmart takes grocery battle to next level,?",[0.2521237 0.0329485 0.7149278],neutral,0.21917522
+"Walmart leads the retail pack in EV charging,?",[0.23897645 0.01232673 0.74869686],neutral,0.22664972
+"Walmart tackles minimum wage issue,?",[0.06884717 0.40357235 0.5275805 ],neutral,-0.33472517
+"Walmart preps for shareholder meeting,?",[0.03592401 0.14339674 0.82067925],neutral,-0.107472725
+"Walmart targets high-school students,?",[0.02428805 0.069549   0.906163  ],neutral,-0.04526095
+"Walmart finds new boss for Store No  8,?",[0.3585348  0.12639977 0.51506543],neutral,0.23213504
+"Walmart hires tech heavyweight for CTO position,?",[0.07145735 0.15274337 0.7757993 ],neutral,-0.08128602
+"More pressure on Walmart ahead of annual meeting,?",[0.07244698 0.7485703  0.17898273],negative,-0.6761233
+"No fear from Target positive for retail,?",[0.19081207 0.14513752 0.66405046],neutral,0.045674548
+"Walmart direct pitch to corporate ad buyers,?",[0.08176075 0.01302893 0.9052104 ],neutral,0.068731815
+"Bernie Sanders to visit Walmart's annual meeting,?",[0.03909538 0.19271223 0.76819235],neutral,-0.15361685
+"Retailers to face Egyptian cotton lawsuit,?",[0.0216062  0.91896456 0.05942932],negative,-0.89735836
+"SoftBank leads $200M round in Indian grocer,?",[0.38804513 0.0715525  0.5404024 ],neutral,0.31649262
+"Walmart hints at higher prices,?",[0.4685882  0.09681735 0.43459442],positive,0.37177086
+"Walmart +2% after solid U S  comp,?",[0.77169305 0.19405037 0.03425658],positive,0.5776427
+"""Walmart beats by $0 11, misses on revenue"",?",[0.4265093 0.3403187 0.233172 ],positive,0.08619058
+"What to look for in Walmart's earnings,?",[0.05487904 0.01909486 0.92602605],neutral,0.03578418
+"Walmart Q1 2020 Earnings Preview,?",[0.09021672 0.36953092 0.5402524 ],neutral,-0.2793142
+"Consumer spending soggy in April,?",[0.01614368 0.93963325 0.04422306],negative,-0.9234896
+"Walmart weighs IPO for U K  arm Asda,?",[0.08579519 0.29186222 0.6223426 ],neutral,-0.20606703
+"One-day shipping latest retail salvo,?",[0.04092259 0.16346404 0.79561335],neutral,-0.12254145
+"Major retailers exploring CBD product lines,?",[0.07221744 0.01363093 0.9141516 ],neutral,0.058586515
+"Walmart lifts tobacco age requirement,?",[0.34470677 0.3184571  0.3368361 ],positive,0.026249677
+"Walmart -1% after rare bear call arrives,?",[0.15415661 0.47195435 0.37388903],negative,-0.31779772
+"Veterinary clinic push from Walmart,?",[0.06764565 0.08487841 0.8474759 ],neutral,-0.017232768
+"Bernstein confident on Walmart,?",[0.293468   0.10598922 0.6005428 ],neutral,0.18747878
+"""Walmart to test fewer, higher-paid store manager strategy"",?",[0.7914675  0.01511964 0.19341287],positive,0.7763479
+"Walmart teases one-day free shipping,?",[0.05430841 0.2694568  0.6762347 ],neutral,-0.21514839
+"Retail sector rattled by Amazon shipping move,?",[0.01611941 0.9550682  0.02881242],negative,-0.93894875
+"No deal between Sainsbury and Asda,?",[0.08077234 0.22251113 0.69671655],neutral,-0.14173879
+"Walmart goes after kids sales with style,?",[0.05242012 0.01953788 0.928042  ],neutral,0.032882236
+"""Fines threatened for Walmart, Kroger, others in selling tobacco to minors"",?",[0.02261849 0.879623   0.09775863],negative,-0.8570045
+"Walmart shifts to remodeling vs  new stores,?",[0.11648129 0.19206822 0.6914505 ],neutral,-0.07558693
+"Walmart continues to diversify shopping experience,?",[0.9096158  0.00965218 0.08073197],positive,0.8999636
+"Walmart unveils Google-powered grocery shopping,?",[0.08108778 0.03646475 0.8824474 ],neutral,0.044623032
+"Amazon cutting Whole Foods prices - WSJ,?",[0.02878512 0.88404953 0.0871653 ],negative,-0.8552644
+"Walmart closing at least 11 U S  stores,?",[0.01356892 0.9223941  0.064037  ],negative,-0.90882516
+"Walmart technology chief leaving - Reuters,?",[0.03670269 0.08451584 0.8787815 ],neutral,-0.047813155
+"Asda and Sainsbury pledge to lower prices,?",[0.11062004 0.3771164  0.51226354],neutral,-0.26649636
+"Walmart looks to get in on tablet action,?",[0.47473484 0.04210636 0.48315886],neutral,0.43262848
+"Walmart CTO takes stage at SXSW,?",[0.02499861 0.0798591  0.8951423 ],neutral,-0.054860495
+"FDA cracks down on retail chains for youth tobacco sales,?",[0.01657202 0.9285039  0.05492405],negative,-0.9119319
+"Amazon coming in big with new grocery store concept,?",[0.8529252  0.01893487 0.12813994],positive,0.83399034
+"Amazon plans new grocery chain - report,?",[0.03162024 0.0755704  0.89280933],neutral,-0.04395016
+"Meet the FedEx SameDay Bot,?",[0.0640813  0.07463326 0.8612855 ],neutral,-0.010551959
+"Walmart pushes harder into digital ads,?",[0.39792952 0.08852587 0.5135446 ],neutral,0.30940366
+"Walmart acquires Aspectiva,?",[0.04496334 0.04591396 0.9091227 ],neutral,-0.0009506196
+"KKR weighs a run at Walmart's Asda,?",[0.02736936 0.92021465 0.05241594],negative,-0.8928453
+"Buffett explains retail vs  brand battle--like elephants fighting,?",[0.10918605 0.263253   0.627561  ],neutral,-0.15406695
+"M&amp;A options for Walmart's Asda,?",[0.03190308 0.02219857 0.94589835],neutral,0.009704512
+"""Trouble for Amazon, Flipkart in India "",?",[0.04544555 0.24989307 0.70466137],neutral,-0.20444752
+"Sainsbury-Asda deal in major jeopardy,?",[0.02005062 0.9038564  0.07609294],negative,-0.88380575
+"BAML dissects Walmart's strong quarter,?",[0.8570342  0.07157788 0.0713879 ],positive,0.7854563
+"Walmart declares $2 12 dividend,?",[0.05884252 0.72128475 0.21987274],negative,-0.6624422
+"""Walmart tops comparable sales view, ups dividend"",?",[0.83632964 0.05466302 0.10900725],positive,0.78166664
+"""Walmart beats by $0 08, revenue in-line"",?",[0.42352593 0.3709254  0.20554864],positive,0.052600533
+"Walmart Q4 2018 Earnings Preview,?",[0.07432058 0.45962623 0.46605325],neutral,-0.38530564
+"Walmart headlines earnings calendar this week,?",[0.08618253 0.7310318  0.18278566],negative,-0.64484924
+"When retail sales reports go rogue,?",[0.0204668  0.875744   0.10378925],negative,-0.8552772
+"Tech execs join Trump's workforce board,?",[0.06509261 0.0741611  0.8607463 ],neutral,-0.0090684965
+"Levi Strauss files for IPO,?",[0.03368901 0.03842405 0.9278869 ],neutral,-0.0047350414
+"""Walmart, Deliv end online grocery partnership"",?",[0.05079679 0.05907486 0.8901284 ],neutral,-0.008278076
+"Retailers brush off racketeering lawsuit,?",[0.02245246 0.8939044  0.08364315],negative,-0.8714519
+"Walmart launches private-label furniture brand,?",[0.17318137 0.02753343 0.79928523],neutral,0.14564794
+"FDA to bar certain Walgreens and Circle Ks from selling tobacco products,?",[0.03329622 0.7867313  0.17997244],negative,-0.7534351
+"Early look at Walmart earnings,?",[0.0508449  0.10154882 0.84760624],neutral,-0.05070392
+"Morgan Stanley updates on Walmart's Flipkart losses,?",[0.06826907 0.4397582  0.49197266],neutral,-0.37148914
+"Retail royalty tracks lower,?",[0.01787705 0.9451567  0.03696627],negative,-0.92727965
+"""India won't delay policies hitting Amazon, Walmart"",?",[0.15538299 0.04752161 0.7970954 ],neutral,0.107861385
+"Flipkart warns of major 'customer disruption',?",[0.01323559 0.9596674  0.02709712],negative,-0.9464318
+"Walmart gets aggressive in bid for more truck drivers,?",[0.7947274  0.1076668  0.09760583],positive,0.6870606
+"Morgan Stanley expects Walmart momentum to continue,?",[0.87563485 0.00904063 0.11532445],positive,0.8665942
+"""Synchrony to sell Walmart portfolio, extends Sam's Club pact"",?",[0.8489319  0.01125282 0.13981527],positive,0.8376791
+"Heavyweight interest seen for eBay Marketplace,?",[0.1459288  0.03960754 0.8144637 ],neutral,0.10632126
+"CVS inks new PBM contract with Walmart,?",[0.5644023  0.17602466 0.2595731 ],positive,0.3883776
+"Walmart expands grocery delivery program,?",[0.6610826  0.02301548 0.31590188],positive,0.6380671
+"Walmart scraps plans for new video streaming service,?",[0.02295731 0.9067782  0.07026445],negative,-0.8838209
+"Online holiday sales up 17% in 2018,?",[0.9362731  0.02667813 0.0370488 ],positive,0.90959495
+"Walmart to exit CVS drugstore network,?",[0.06084413 0.54002297 0.39913288],negative,-0.47917885
+"Amazon Go seen as long-term winner,?",[0.838556   0.03671466 0.12472937],positive,0.8018413
+"Whole Foods eyes vacant Sears stores,?",[0.02623088 0.7459823  0.22778678],negative,-0.7197514
+"Retail sector bruising after disappointing guidance updates,?",[0.01617002 0.96539605 0.01843394],negative,-0.949226
+"Walmart to partner with Udelv in autonomous delivery testing,?",[0.82704294 0.01000812 0.16294895],positive,0.81703484
+"Retail sector breaks higher,?",[0.11748477 0.81860876 0.06390645],negative,-0.701124
+"""Merck, Pfizer top Dow 2018 standings; Goldman Sachs slides to the bottom"",?",[0.0378437  0.8314235  0.13073282],negative,-0.7935798
+"Digging through the retail stocks bin,?",[0.07466134 0.31848463 0.6068541 ],neutral,-0.24382329
+"UBS: Holiday toy spending comes up short,?",[0.01811456 0.954112   0.02777346],negative,-0.9359974
+"KeyBanc: Toy makers set for 2019 growth,?",[0.5381041  0.04160091 0.42029506],positive,0.4965032
+"""India's new rules could hit Amazon, Walmart"",?",[0.0571099  0.47212765 0.47076246],negative,-0.41501775
+"""U S  holiday retail sales rose 5 1%, best since 2012, MasterCard survey says"",?",[0.92933923 0.04379959 0.02686118],positive,0.88553965
+"Amazon struggles in grocery push,?",[0.03600882 0.89683837 0.06715283],negative,-0.86082953
+"Walmart's Flipkart plans streaming service,?",[0.03244993 0.08170275 0.8858473 ],neutral,-0.04925282
+"""Retail read: Traffic up at J C  Penney, Target and Kohl's"",?",[0.08875782 0.06826844 0.84297377],neutral,0.02048938
+"Retail heavyweights seen racking up big holiday numbers,?",[0.23525381 0.2743861  0.4903601 ],neutral,-0.039132297
+"""Target, Walmart sued over lead jewelry kits"",?",[0.01395641 0.9402197  0.04582388],negative,-0.9262633
+"Amazon Go goes real small in Seattle,?",[0.04909505 0.39396372 0.5569412 ],neutral,-0.34486866
+"Automation revolution    Walmart testing 'Flippy',?",[0.05516517 0.31902766 0.62580717],neutral,-0.2638625
+"Amazon-Target intrigue again,?",[0.06203911 0.2713761  0.6665848 ],neutral,-0.209337
+"Online holiday sales tracking at +19% pace,?",[0.15087762 0.08916677 0.75995564],neutral,0.061710857
+"Walmart acquires Art com,?",[0.04708677 0.04948074 0.9034325 ],neutral,-0.0023939759
+"Tesco questions Sainsbury-Asda deal,?",[0.09950606 0.03862326 0.8618707 ],neutral,0.0608828
+"Walmart to deploy hundreds of robot janitors,?",[0.04146081 0.44289285 0.51564634],neutral,-0.40143204
+"Retailers bounce on tariff relief,?",[0.15572017 0.73267084 0.111609  ],negative,-0.57695067
+"U S  retailers prep for new tariffs,?",[0.0628425  0.41334713 0.5238103 ],neutral,-0.35050464
+"Cyber Monday IT watch,?",[0.04698656 0.23152587 0.7214876 ],neutral,-0.1845393
+"Black Friday online sales trending strong,?",[0.92522687 0.03407327 0.04069981],positive,0.8911536
+"Online shopping up 29% from last year,?",[0.94536763 0.02925687 0.02537554],positive,0.91611075
+"U S  online shipping up 17% this season,?",[0.93710196 0.03189029 0.03100766],positive,0.9052117
+"Retail sector hammered after earnings dump,?",[0.01225663 0.9724706  0.01527279],negative,-0.96021396
+"Bernie Sanders takes aim at Walmart,?",[0.04486787 0.58577776 0.36935437],negative,-0.5409099
+"Nutrien names Walmart's Farah as new CFO,?",[0.02430884 0.04126985 0.93442136],neutral,-0.016961006
+"Investors bid down retail stocks,?",[0.02682007 0.8771737  0.09600627],negative,-0.85035366
+"Walmart higher after U S  comparable sales beat,?",[0.79524165 0.16785643 0.03690191],positive,0.62738526
+"""Walmart beats by $0 07, misses on revenue"",?",[0.09715044 0.76702845 0.13582112],negative,-0.669878
+"""Berkshire buys JPMorgan, Oracle, exits Sanofi"",?",[0.03464383 0.0170633  0.94829285],neutral,0.017580528
+"""Ford, Walmart to test driverless delivery"",?",[0.20953351 0.02658355 0.76388294],neutral,0.18294996
+"Walmart earnings preview,?",[0.0622043  0.43159315 0.5062026 ],neutral,-0.36938885
+"Flipkart CEO steps down,?",[0.02947666 0.6602742  0.31024915],negative,-0.63079756
+"Black Friday deals before Thanksgiving ,?",[0.03547334 0.31314328 0.6513834 ],neutral,-0.27766994
+"Retailers eye minimum wage pressure,?",[0.02343155 0.90807724 0.06849126],negative,-0.8846457
+"Microsoft and Walmart will open joint engineering office,?",[0.05791733 0.02337824 0.9187044 ],neutral,0.034539092
+"Amazon ratchets up holiday sales battle,?",[0.5261728  0.27135226 0.2024749 ],positive,0.25482056
+"Synchrony takes hit as Walmart dispute prompts downgrade by Stephens,?",[0.01619555 0.9494388  0.03436569],negative,-0.9332433
+"Synchrony -5 2% after Walmart files suit in card portfolio dispute,?",[0.03761951 0.9069791  0.0554014 ],negative,-0.86935955
+"Adobe: US online holiday sales will top $124B,?",[0.67617923 0.04912108 0.27469966],positive,0.62705815
+"Jet com adds Nike and Bonobos products,?",[0.0235281  0.03790214 0.9385698 ],neutral,-0.01437404
+"Blue Apron and Walmart to partner,?",[0.12338279 0.01138887 0.86522835],neutral,0.11199392
+"Sam's Club ups cashierless game,?",[0.04661553 0.51074    0.44264454],negative,-0.46412444
+"""Walmart, Michigan retirement fund reach $160M settlement"",?",[0.33590224 0.19453548 0.4695623 ],neutral,0.14136676
+"Moody's positive on retail,?",[0.35412663 0.06692038 0.57895297],neutral,0.28720626
+"Walmart expands free shipping offer,?",[0.59907687 0.05536385 0.34555924],positive,0.54371303
+"Holiday shopping competition heats up,?",[0.04969862 0.5140397  0.43626168],negative,-0.46434107
+"Winners and losers from Piper's teen survey,?",[0.06650996 0.4488088  0.4846812 ],neutral,-0.38229883
+"Walmart gains 2% amid investor day festivities,?",[0.8396009  0.11813367 0.0422655 ],positive,0.72146726
+"Walmart guidance updates roll in,?",[0.05499143 0.15899535 0.7860132 ],neutral,-0.10400391
+"Walmart lowers 2019 earnings forecast,?",[0.01883787 0.9520482  0.02911394],negative,-0.9332103
+"New Walmart brand strategy extends with Bare Necessities pickup,?",[0.7556069  0.00911938 0.23527372],positive,0.7464875
+"Bloomberg: Walmart considering streaming service to take on Amazon,?",[0.1586143  0.01632095 0.8250647 ],neutral,0.14229333
+"""Carving up Sears and Toys """"R"""" Us holiday sales"",?",[0.03409435 0.10484468 0.8610609 ],neutral,-0.070750326
+"'Messaging win' on China could lift consumer products stocks,?",[0.8758873  0.0616439  0.06246883],positive,0.8142434
+"Sears files for Chapter 11 bankruptcy,?",[0.02652046 0.7523305  0.22114912],negative,-0.72581005
+"Walmart to buy online intimates retailer Bare Necessities,?",[0.05841871 0.03688054 0.90470076],neutral,0.021538164
+"""Amazon attracts Indian festival shoppers, Flipkart diss"",?",[0.0536618  0.11123168 0.8351065 ],neutral,-0.057569884
+"Walmart Canada to invest in store upgrades,?",[0.29586482 0.01224911 0.69188607],neutral,0.2836157
+"Walmart and Eko form interactive entertainment joint venture,?",[0.09084544 0.01529433 0.8938602 ],neutral,0.07555111
+"Walmart and PayPal team up for financial products,?",[0.30629513 0.0164517  0.6772532 ],neutral,0.2898434
+"Walmart Canada explores cannabis-based products,?",[0.03334647 0.02810916 0.93854433],neutral,0.005237311
+"Deutsche Bank bullish on Walmart ahead of holidays,?",[0.04433575 0.85812473 0.09753947],negative,-0.813789
+"Game planning the toy holiday season,?",[0.04228089 0.14670923 0.8110099 ],neutral,-0.10442835
+"Walmart to boost video-on-demand service Vudu,?",[0.89799476 0.02068793 0.08131734],positive,0.8773068
+"Target to launch new discount brand,?",[0.08456393 0.0110016  0.90443444],neutral,0.07356233
+"Amazon leads toy shopping in consumer-spending survey,?",[0.39564165 0.08672423 0.5176341 ],neutral,0.30891743
+"Spotlight on wages in retail sector,?",[0.06680014 0.34679016 0.5864097 ],neutral,-0.27999002
+"Holiday retail sales forecast to rise 4 3% to 4 8%,?",[0.9130733  0.02576882 0.06115788],positive,0.8873045
+"Walmart to acquire Eloquii,?",[0.03557828 0.05628508 0.90813667],neutral,-0.020706803
+"Walmart eyes using blockchain tech for food safety,?",[0.07708887 0.032752   0.89015913],neutral,0.044336867
+"Walmart will require some suppliers to use IBM's food safety solution,?",[0.06579076 0.02319116 0.9110181 ],neutral,0.042599607
+"Retailers warn on higher prices from tariffs,?",[0.15068606 0.56590027 0.28341362],negative,-0.4152142
+"Walmart: Tariffs could force price hikes,?",[0.14051531 0.64429057 0.21519417],negative,-0.50377524
+"More details on Amazon cashierless store report,?",[0.02938592 0.07545984 0.8951543 ],neutral,-0.04607392
+"Retail shocker: Amazon said to be planning 3K stores,?",[0.05486465 0.20747924 0.7376562 ],neutral,-0.1526146
+"U K  regulator warns on Sainsbury-Asda deal,?",[0.0587433  0.791043   0.15021372],negative,-0.7322997
+"Walmart acquires Cornershop,?",[0.06446815 0.05329585 0.882236  ],neutral,0.011172291
+"Nike included in Jet com revamp,?",[0.03447771 0.03495803 0.9305643 ],neutral,-0.0004803203
+"Walmart's Jet com gets a makeover,?",[0.32838956 0.06431797 0.6072924 ],neutral,0.26407158
+"Spotlight on Walmart in India,?",[0.05679857 0.07367063 0.8695308 ],neutral,-0.016872063
+"Chain store sales impress again,?",[0.10157724 0.74446064 0.15396205],negative,-0.6428834
+"Barclays confident on Walmart,?",[0.15813462 0.15296726 0.68889815],neutral,0.005167365
+"Walmart prepping for holiday season,?",[0.04554735 0.29238233 0.6620703 ],neutral,-0.24683498
+"""Amazon launching food sales in Mexico; shares hit $2,000 for first time"",?",[0.81069344 0.02312095 0.16618557],positive,0.7875725
+"Walmart takes Handy partnership online,?",[0.20988342 0.03785727 0.7522594 ],neutral,0.17202616
+"84% of companies dabbling in blockchain,?",[0.02898452 0.05727685 0.91373867],neutral,-0.028292324
+"British regulator to probe Asda-Sainsbury deal,?",[0.04047462 0.5742159  0.3853095 ],negative,-0.5337413
+"Retail heavyweights lead sector higher,?",[0.8233683  0.10477424 0.07185739],positive,0.7185941
+"Signs of retail recovery continue,?",[0.86245745 0.02615196 0.11139049],positive,0.8363055
+"Walmart looks to sidestep Trump tariffs,?",[0.39333272 0.07312965 0.5335376 ],neutral,0.32020307
+"Walmart closes on Flipkart investment,?",[0.03812091 0.71405035 0.24782878],negative,-0.6759294
+"""Consumer staples rally a defensive play against macro concerns, analysts say"",?",[0.5093414  0.19541204 0.2952465 ],positive,0.31392938
+"Smashing earnings from Walmart lifts retail sector,?",[0.2860401  0.65997744 0.05398246],negative,-0.37393734
+"U S  sales impress at Walmart,?",[0.04507372 0.6551523  0.29977396],negative,-0.6100786
+"""Walmart beats by $0 07, beats on revenue"",?",[0.67597723 0.11147489 0.21254787],positive,0.56450236
+"Walmart earnings preview,?",[0.0622043  0.43159315 0.5062026 ],neutral,-0.36938885
+"Analysts weigh in on Lowe's renewing Synchrony credit pact,?",[0.56438136 0.21577913 0.21983956],positive,0.34860224
+"Chain store sales start to impress,?",[0.6331694  0.2327173  0.13411328],positive,0.4004521
+"Higher prices add to labor inflation pressure,?",[0.11869451 0.6352979  0.24600752],negative,-0.51660335
+"""Walmart, JD com invest in Chinese online delivery"",?",[0.20154738 0.01077437 0.78767824],neutral,0.19077301
+"Curbside pickup launched at Whole Foods,?",[0.03226494 0.06910679 0.8986282 ],neutral,-0.03684185
+"Lawsuit claims Walmart stole produce technology,?",[0.01709166 0.90141505 0.08149324],negative,-0.8843234
+"Walmart aims for Middle America with streaming service,?",[0.06186781 0.00565781 0.93247443],neutral,0.05621
+"Sprint expanding into 700 Walmart stores,?",[0.25588682 0.01080003 0.73331314],neutral,0.2450868
+"Synchrony slumps 10% after Walmart fails to renew credit card pact,?",[0.01271276 0.9745739  0.01271323],negative,-0.96186113
+"Capital One said to have won Walmart card deal,?",[0.5931567  0.02830881 0.37853447],positive,0.5648479
+"Super premium for Supervalu,?",[0.19213851 0.02304952 0.784812  ],neutral,0.16908899
+"Walmart pushes into the baby business,?",[0.11639202 0.01127846 0.87232953],neutral,0.10511356
+"Walmart streaming service a go: Variety,?",[0.03071784 0.12953547 0.83974665],neutral,-0.098817624
+"""Walmart eyes challenging Netflix, Amazon in streaming"",?",[0.13282813 0.18702662 0.68014526],neutral,-0.05419849
+"""Walmart, Microsoft deepen tech partnership"",?",[0.74902093 0.02224123 0.22873785],positive,0.7267797
+"Analysts weigh in on Synchrony's risk of losing Walmart credit card pact,?",[0.02099414 0.9300227  0.04898304],negative,-0.9090286
+"Walmart says not leaving Japan,?",[0.08602361 0.54958755 0.3643888 ],negative,-0.46356392
+"Walmart credit card business up for bidding - report,?",[0.16598843 0.02559336 0.8084182 ],neutral,0.14039506
+"Walmart looking to exit Japan,?",[0.03975102 0.4521842  0.5080648 ],neutral,-0.41243318
+"Jet com to land grocery delivery service in NYC,?",[0.05951704 0.02935675 0.91112626],neutral,0.030160291
+"Toy story: Amazon to publish holiday catalog,?",[0.02931248 0.03520225 0.9354853 ],neutral,-0.005889766
+"Walmart political flap shows risk of online platforms,?",[0.04662687 0.7113013  0.24207176],negative,-0.66467446
+"Walmart pulls anti-Trump clothing from website,?",[0.01346436 0.93507665 0.05145906],negative,-0.9216123
+"U S  corporate bond market braces for flood of supply from M&amp;A wave: Bloomberg,?",[0.06960957 0.13547418 0.7949162 ],neutral,-0.06586461
+"Spotlight on Whole Foods during Amazon Prime Day,?",[0.09470595 0.02201626 0.88327783],neutral,0.07268969
+"Amazon acquires online pharmacy start-up PillPack,?",[0.23441456 0.02255577 0.7430297 ],neutral,0.2118588
+"Walmart rolls out 3D virtual shopping,?",[0.03355556 0.04196634 0.9244781 ],neutral,-0.008410778
+"BJ's Wholesale Club prices IPO,?",[0.04568976 0.1159375  0.8383727 ],neutral,-0.07024774
+"Walmart comes heavy into the bond market,?",[0.13442847 0.08510943 0.7804621 ],neutral,0.049319044
+"Trade fight between U S  and China escalates,?",[0.02010301 0.9376003  0.04229673],negative,-0.9174973
+"Canadian backlash against U S  companies,?",[0.02278199 0.9158484  0.0613696 ],negative,-0.8930664
+"Microsoft takes aim at Amazon Go,?",[0.04138527 0.4924145  0.46620023],negative,-0.45102924
+"Advent International to acquire 80% stake in Walmart Brazil,?",[0.10362069 0.01134484 0.88503444],neutral,0.09227584
+"Walmart tests concierge shopping service,?",[0.07118089 0.03127363 0.89754546],neutral,0.039907265
+"Walmart introduces new college assistance program,?",[0.5768764  0.02989419 0.39322942],positive,0.5469822
+"Walmart faces opposition to Flipkart deal,?",[0.06955596 0.64185566 0.28858837],negative,-0.5722997
+"SoftBank sells Flipkart stake to Walmart,?",[0.04774401 0.19569582 0.7565602 ],neutral,-0.14795181
+"""Goldman Sachs: Hedge funds betting against Nvidia, Intel"",?",[0.04230886 0.22684951 0.7308417 ],neutral,-0.18454064
+"E-commerce sales soar at Walmart,?",[0.08704507 0.7206256  0.19232935],negative,-0.6335805
+"""Walmart beats by $0 01, beats on revenue"",?",[0.5935612  0.12053951 0.28589928],positive,0.47302166
+"Amazon Prime casts a large shadow in grocery sector,?",[0.03933625 0.6193034  0.3413604 ],negative,-0.57996714
+"JPMorgan: Amazon will match Walmart in US sales by 2021,?",[0.9085435  0.02260457 0.06885187],positive,0.88593894
+"Walmart may launch Flipkart IPO by 2022,?",[0.04818337 0.0117778  0.94003886],neutral,0.03640557
+"Report: SoftBank mulls keeping stake in Flipkart as taxes sort out,?",[0.07925269 0.16742009 0.7533272 ],neutral,-0.0881674
+"Details on Walmart's Flipkart investment,?",[0.02353515 0.01784672 0.9586181 ],neutral,0.0056884326
+"SoftBank confirms Walmart-Flipkart deal,?",[0.21939999 0.06477449 0.7158255 ],neutral,0.1546255
+"Uber ends delivery service with Walmart,?",[0.04720502 0.60468155 0.34811342],negative,-0.5574765
+"Walmart-Flipkart deal set to come this week,?",[0.06711508 0.02478598 0.908099  ],neutral,0.042329095
+"Walmart tracks lower amid retail sector anxiety,?",[0.01389266 0.95922667 0.02688061],negative,-0.945334
+"Flipkart clears $15B stake sale to Walmart,?",[0.3178491  0.03039601 0.65175486],neutral,0.2874531
+"Walmart-Humana deal seen as natural fit,?",[0.13096727 0.01728034 0.8517524 ],neutral,0.113686934
+"Amazon makes offer for India's Flipkart,?",[0.19726287 0.02241951 0.7803176 ],neutral,0.17484336
+"Walmart's Asda confirms Sainsbury merger,?",[0.04942653 0.15297428 0.79759926],neutral,-0.103547744
+"Sainsbury in talks with Walmart on Asda pickup,?",[0.04554986 0.07157663 0.88287354],neutral,-0.026026774
+"Walmart closes in on India's Flipkart,?",[0.02580051 0.8857806  0.08841888],negative,-0.85998005
+"Walmart expected to nab controlling stake of Flipkart,?",[0.03250498 0.01662437 0.9508707 ],neutral,0.015880618
+"Electrify America signs deal with Walmart,?",[0.7709822  0.03973797 0.18927978],positive,0.73124427
+"Walmart gives its website a makeover,?",[0.12857491 0.19649217 0.6749329 ],neutral,-0.06791726
+"Retail sales head back up,?",[0.71669483 0.15718164 0.12612347],positive,0.5595132
+"Retailers watch for legislative action on farm bill,?",[0.07693682 0.12292087 0.8001423 ],neutral,-0.045984052
+"Walmart close to buying majority of Flipkart,?",[0.05347176 0.02706719 0.919461  ],neutral,0.026404569
+"Walmart expands online grocery program through Postmates deal,?",[0.8136021  0.01174008 0.17465775],positive,0.801862
+"Walmart makes inroads with young consumers,?",[0.35613945 0.03184919 0.6120114 ],neutral,0.32429028
+"BlackRock to offer guns-free funds,?",[0.09642435 0.02661946 0.8769562 ],neutral,0.069804884
+"Amazon could launch competing bid for India's Flipkart: report,?",[0.13217156 0.01262912 0.8551993 ],neutral,0.119542435
+"MoneyGram and Walmart launch new service,?",[0.1104608  0.01233147 0.87720776],neutral,0.098129325
+"CNBC: Walmart looking to buy online pharmacy startup PillPack,?",[0.31582075 0.02070763 0.66347164],neutral,0.29511312
+"Wolfe Research positive on potential Walmart-Humana deal,?",[0.6139272  0.04254385 0.34352896],positive,0.57138336
+"Hospital operators anxiously eyeing Walmart - Humana deal,?",[0.05006471 0.66215885 0.28777656],negative,-0.61209416
+"""Walmart opens next-gen, small-format grocery store in China"",?",[0.07992072 0.00906512 0.9110142 ],neutral,0.070855595
+"Humana up 13 5% on report Walmart eyes possible acquisition,?",[0.87235415 0.09250392 0.03514196],positive,0.77985024
+"Walmart to reduce emissions in China,?",[0.42453584 0.05453147 0.52093273],neutral,0.3700044
+"Retail sector outperforms with Amazon in retreat,?",[0.0286181  0.9615843  0.00979752],negative,-0.93296623
+"Walmart cozies up to Tencent in China,?",[0.71831155 0.02917252 0.252516  ],positive,0.689139
+"Walmart and Target ready to pounce in toys,?",[0.04709449 0.2728491  0.68005633],neutral,-0.22575462
+"The stock market's biggest losers speak volumes about Trump tariffs,?",[0.07936141 0.41566706 0.50497156],neutral,-0.33630565
+"FedEx to add 500 new locations in Walmart stores across U S ,?",[0.56819504 0.01268032 0.4191246 ],positive,0.55551475
+"CalPERS rejects gun divestment proposal,?",[0.06500424 0.5604656  0.37453023],negative,-0.49546134
+"""Handy's coming to 2,000 Walmart stores"",?",[0.08275292 0.02506839 0.89217865],neutral,0.05768453
+"U S  retailers urge Trump against tariffs,?",[0.05714986 0.59815943 0.34469074],negative,-0.54100955
+"Google to convert product searches into cash,?",[0.17584467 0.01424014 0.80991524],neutral,0.16160452
+"Walmart in reverse after ex-employee alleges wrongdoing,?",[0.01155049 0.9622722  0.02617731],negative,-0.95072174
+"Walmart goes big into grocery delivery,?",[0.15701444 0.0237964  0.81918913],neutral,0.13321805
+"Toys 'R' Us planning to liquidate - Bloomberg,?",[0.02848991 0.09959757 0.87191254],neutral,-0.07110767
+"Walmart steps up grocery war with Amazon,?",[0.16369654 0.50423616 0.33206725],negative,-0.34053963
+"Oppenheimer trims Walmart rating on e-commerce growth concern,?",[0.308562   0.24011685 0.45132113],neutral,0.06844516
+"Reuters: Walmart raising firearm/ammo purchase age requirement to 21,?",[0.8335721  0.04593097 0.12049686],positive,0.7876411
+"Amazon might have the OS of future retail,?",[0.10437743 0.00839221 0.8872304 ],neutral,0.09598523
+"Walmart launches Allswell brand,?",[0.15535384 0.02687816 0.8177679 ],neutral,0.12847568
+"Walmart unveils new private apparel brands,?",[0.1636848 0.0138009 0.8225143],neutral,0.1498839
+"Grocery intrigue: Sam's Club partners with Instacart,?",[0.04965962 0.02262907 0.9277113 ],neutral,0.027030556
+"Credit Suisse sees bumpy road for Walmart,?",[0.11810785 0.49767077 0.38422135],negative,-0.3795629
+"Walmart to launch new higher-end brands,?",[0.15274885 0.01056245 0.8366887 ],neutral,0.1421864
+"Spotlight on Walmart's e-commerce chief,?",[0.03773465 0.10322337 0.8590419 ],neutral,-0.06548871
+"Walmart launches 'All Things Home',?",[0.12060232 0.0634427  0.815955  ],neutral,0.057159618
+"Investors puzzle over Walmart's e-commerce speed bump,?",[0.04283835 0.79209554 0.16506612],negative,-0.7492572
+"Walmart bid down 7% in early trading,?",[0.00916363 0.97436225 0.01647413],negative,-0.96519864
+"Walmart declares $2 08 dividend,?",[0.06225216 0.7329808  0.20476703],negative,-0.6707286
+"Walmart sets full-year profit guidance below expectations,?",[0.01772436 0.93072206 0.0515536 ],negative,-0.9129977
+"""Walmart misses by $0 04, beats on revenue"",?",[0.02092554 0.9322115  0.04686295],negative,-0.911286
+"Walmart in talks for major Flipkart stake,?",[0.05458907 0.03402634 0.9113846 ],neutral,0.02056273
+"Amazon making a splash in apparel,?",[0.43880892 0.03481589 0.52637523],neutral,0.40399304
+"Walmart to cut some store management positions,?",[0.01934545 0.93907326 0.04158133],negative,-0.9197278
+"""Walmart, Cisco, Coca-Cola among dividend hikers next week - Bloomberg"",?",[0.363432   0.10327553 0.53329253],neutral,0.26015645
+"Walmart eyes huge stake in Flipkart,?",[0.06884194 0.01875038 0.9124077 ],neutral,0.05009156
+"Walmart adds Square CFO to board,?",[0.09356678 0.1104743  0.79595894],neutral,-0.016907528
+"Walmart looks to capture e-commerce profit,?",[0.5875298  0.01501254 0.39745772],positive,0.5725172
+"Discounters look attractive to BAML,?",[0.30641526 0.03242321 0.6611616 ],neutral,0.27399206
+"Retail rally gains steam,?",[0.79146326 0.10242102 0.10611571],positive,0.6890422
+"Walmart acquires Spatialand,?",[0.0635134  0.01534122 0.9211453 ],neutral,0.048172176
+"Blue Apron mentioned as potential Walmart target,?",[0.0405704  0.10204432 0.8573853 ],neutral,-0.061473925
+"Wal-Mart eyes stake in Flipkart,?",[0.05801743 0.03147596 0.91050667],neutral,0.026541464
+"Bloomberg: JD com plans U S  foray,?",[0.03453005 0.09847257 0.86699736],neutral,-0.06394252
+"Walmart partners up with Rakuten,?",[0.28071454 0.05710164 0.6621838 ],neutral,0.2236129
+"Wal-Mart to cut jobs at Arkansas HQ,?",[0.01223523 0.97041523 0.01734953],negative,-0.95818
+"Walmart shopping Brazil unit stake,?",[0.03350928 0.05660935 0.9098814 ],neutral,-0.023100063
+"Goldman brings out the conviction on Walmart,?",[0.05679057 0.16403934 0.77917004],neutral,-0.10724877
+"Walmart names new boss for international business,?",[0.07836417 0.10083982 0.820796  ],neutral,-0.022475652
+"Walmart takes on the opioid crisis,?",[0.05990188 0.28892815 0.65116996],neutral,-0.22902627
+"Reports: Wal-Mart COO McKenna to lead international unit,?",[0.08499939 0.01089635 0.90410423],neutral,0.07410304
+"""WSJ: Wal-Mart plans to cut 1,000-plus corporate jobs"",?",[0.01548719 0.963569   0.02094376],negative,-0.9480818
+"Walmart outlines Sam's Club strategy,?",[0.03089181 0.01273475 0.95637345],neutral,0.018157061
+"Portfolio review leads to Sam's Club closings,?",[0.03238828 0.1611092  0.8065025 ],neutral,-0.12872091
+"Costco spikes after reports of Sam's Club closings,?",[0.03731076 0.94016707 0.02252218],negative,-0.9028563
+"""Walmart to pay employee bonuses, boosts minimum wage"",?",[0.8692413  0.04383205 0.08692668],positive,0.82540923
+"Feds crack open eggs case involving Walmart and Cal-Maine Foods,?",[0.01850645 0.93208826 0.04940529],negative,-0.9135818
+"Target rallies after strong profit outlook,?",[0.73349166 0.17232272 0.09418563],positive,0.5611689
+"Store closures good sign for Walmart ,?",[0.14783327 0.5946723  0.25749448],negative,-0.44683903
+"Oppenheimer Large Cap Revenue ETF (RWL) December Summary,?",[0.04635286 0.39834034 0.55530673],neutral,-0.35198748
+"2017 leaders and laggards,?",[0.04283317 0.60272616 0.35444066],negative,-0.559893
+"""Boeing, Caterpillar top Dow 2017 standings; GE lags far behind"",?",[0.20404077 0.47463995 0.32131934],negative,-0.2705992
+"Retail names on the move on strong early Xmas numbers,?",[0.60911477 0.14629203 0.24459316],positive,0.46282274
+"Walmart testing fully-automated stores,?",[0.03549136 0.04057253 0.92393607],neutral,-0.005081173
+"UBS sees toy sector reset,?",[0.0306958  0.8085133  0.16079095],negative,-0.7778175
+"Citi sees another breakout for Wal-Mart,?",[0.3622956  0.13407864 0.50362575],neutral,0.22821696
+"Retail sales shine in November,?",[0.03213056 0.9016552  0.06621414],negative,-0.86952466
+"Mad dash by Walmart into holidays,?",[0.06445866 0.62729216 0.3082492 ],negative,-0.5628335
+"Walmart makes name change official,?",[0.05362967 0.19933338 0.74703693],neutral,-0.14570372
+"Wal-Mart invests in Brazil initiatives,?",[0.0566275  0.00925198 0.93412054],neutral,0.04737552
+"Oppenheimer Large Cap Revenue ETF (RWL) November Summary,?",[0.04658447 0.40456167 0.5488538 ],neutral,-0.3579772
+"Oppenheimer Global ESG Revenue ETF (ESGF) November Summary,?",[0.05262569 0.29107442 0.6562999 ],neutral,-0.23844874
+"Costco blows away some Amazon fears with 10% comp,?",[0.15444008 0.5452205  0.30033946],negative,-0.39078042
+"Blowout Cyber Monday numbers expected,?",[0.0245425  0.87439024 0.10106719],negative,-0.84984773
+"Wal-Mart closing in on Amazon ,?",[0.04619512 0.73309046 0.2207144 ],negative,-0.6868954
+"Retail stocks gain as Black Friday heats up,?",[0.28048342 0.6365187  0.08299782],negative,-0.3560353
+"Goldman Sachs cools on Wal-Mart after strong run,?",[0.13720666 0.7694857  0.0933076 ],negative,-0.63227904
+"Wal-Mart to test out Tesla trucks,?",[0.0891588  0.02389002 0.8869512 ],neutral,0.065268785
+"Wal-Mart races to all-time high,?",[0.83964646 0.04889706 0.11145651],positive,0.7907494
+"E-commerce growth explodes at Wal-Mart,?",[0.2027932  0.12464494 0.67256194],neutral,0.07814826
+"""Wal-Mart beats by $0 03, beats on revenue"",?",[0.55759156 0.19270432 0.24970411],positive,0.36488724
+"Wal-Mart partners with Lord &amp; Taylor,?",[0.03222833 0.0347367  0.933035  ],neutral,-0.0025083646
+"Bernstein talks Amazon aftershocks,?",[0.03509763 0.11707449 0.84782785],neutral,-0.08197686
+"Black Friday pricing wars start to rev up,?",[0.6538347  0.05913357 0.28703168],positive,0.5947011
+"Wal-Mart lifts some online prices,?",[0.6244004  0.28624958 0.08935004],positive,0.3381508
+"Wal-Mart gears up for Black Friday,?",[0.0681932 0.2264999 0.7053068],neutral,-0.15830669
+"Wal-Mart flirting with +$90 close,?",[0.16149186 0.48205394 0.35645422],negative,-0.32056206
+"Positive sell-side action on Wal-Mart,?",[0.85010934 0.09251045 0.05738017],positive,0.7575989
+"Earlier Thanksgiving open for retailers,?",[0.03750357 0.51512444 0.44737196],negative,-0.47762087
+"Retail majors nudged higher on tax relief hopes,?",[0.7749795  0.15664506 0.06837541],positive,0.6183344
+"Oppenheimer Large Cap Revenue ETF (RWL) October Summary,?",[0.04570762 0.4521099  0.5021824 ],neutral,-0.4064023
+"Oppenheimer Global ESG Revenue ETF (ESGF) October Summary,?",[0.05300837 0.3388653  0.6081263 ],neutral,-0.28585693
+"Holiday partying at Wal-Mart,?",[0.04648142 0.31092995 0.6425886 ],neutral,-0.26444852
+"Wal-Mart eyes online mall concept,?",[0.03934492 0.03317277 0.9274823 ],neutral,0.0061721466
+"""JD com makes Singles Day moves in teaming with Tencent, Wal-Mart"",?",[0.48687708 0.02512068 0.48800224],neutral,0.4617564
+"Retailers test out online food stamp program,?",[0.1751966  0.01542812 0.8093753 ],neutral,0.15976849
+"Retail cheer: Consumers blaze with confidence into holidays,?",[0.1558996  0.05099792 0.79310244],neutral,0.10490169
+"Highlights from Wal-Mart's investment meeting,?",[0.02625302 0.03805172 0.93569523],neutral,-0.011798704
+"""Wal-Mart flies to 52-week high, lifts retail peers"",?",[0.8907764 0.0561506 0.053073 ],positive,0.8346258
+"""Wal-Mart update includes new buybacks, +3% growth forecast"",?",[0.49579352 0.0567615  0.44744498],positive,0.43903202
+"Wal-Mart launches new returns program for mobile orders,?",[0.7134355  0.0182898  0.26827475],positive,0.69514567
+"Wal-Mart plays defense with smart speaker discount,?",[0.05744956 0.03394252 0.9086079 ],neutral,0.02350704
+"Oppenheimer Large Cap Revenue ETF (RWL) September Summary,?",[0.04719514 0.38987032 0.5629345 ],neutral,-0.34267518
+"Oppenheimer Global ESG Revenue ETF (ESGF) September Summary,?",[0.05475416 0.3445221  0.60072374],neutral,-0.28976792
+"Whole Foods price cuts have an impact,?",[0.07387182 0.62607324 0.3000549 ],negative,-0.5522014
+"Wal-Mart acquires logistics startup Parcel,?",[0.08105718 0.02361183 0.895331  ],neutral,0.05744535
+"Jet com expected to launch a private-label brand,?",[0.03623987 0.01119781 0.95256233],neutral,0.025042053
+"Wal-Mart making Jet com fashionable,?",[0.10202414 0.05730025 0.8406756 ],neutral,0.044723883
+"Big baby move from Wal-Mart,?",[0.34796822 0.1292184  0.5228134 ],neutral,0.21874982
+"Wal-Mart partners with August Home,?",[0.21934699 0.0257314  0.7549216 ],neutral,0.19361559
+"Wal-Mart expected to pounce in toys and baby products,?",[0.068929   0.30469346 0.6263775 ],neutral,-0.23576446
+"Curveball from Wal-Mart with holiday hiring plan,?",[0.20230125 0.375072   0.42262682],neutral,-0.17277075
+"Investors assess new landscape for toys,?",[0.11792301 0.01650798 0.86556906],neutral,0.10141502
+"Wal-Mart in the running for grocery chain in China,?",[0.11740999 0.16915989 0.7134301 ],neutral,-0.0517499
+"Wal-Mart extends food stamp ordering online,?",[0.3123564  0.04006691 0.64757663],neutral,0.2722895
+"Toys 'R' Us files for bankruptcy,?",[0.03008149 0.6566719  0.31324655],negative,-0.6265904
+"Wal-Mart to build new HQ,?",[0.100178   0.03133551 0.86848646],neutral,0.068842486
+"Wal-Mart to consolidate U S  operations,?",[0.1762379  0.08906115 0.7347009 ],neutral,0.08717675
+"Retailers head lower as Target cuts prices,?",[0.0160647  0.94974476 0.0341906 ],negative,-0.93368006
+"Wal-Mart hits 1K online grocery pickup locations,?",[0.687701   0.12851796 0.18378112],positive,0.559183
+"Wal-Mart launches holiday layaway program,?",[0.16351905 0.14946873 0.68701214],neutral,0.01405032
+"Oppenheimer Large Cap Revenue ETF (RWL) August Summary,?",[0.0477268  0.43400973 0.5182635 ],neutral,-0.38628292
+"Oppenheimer Global ESG Revenue ETF (ESGF) August Summary,?",[0.05446695 0.33791026 0.6076228 ],neutral,-0.2834433

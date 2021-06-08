@@ -1,0 +1,465 @@
+sentence,logit,prediction,sentiment_score
+"title,
+Investors' Covid trend expectations laid bare in Q3 analysis of top performers,?",[0.09420487 0.03290966 0.87288547],neutral,0.06129521
+"""Awaiting Nvidia deal approval, Arm launches new autonomous chip designs"",?",[0.25443813 0.0095395  0.7360224 ],neutral,0.24489863
+"""VMware announces Nvidia AI tie-up, Carbon Black-based security solutions"",?",[0.20024239 0.00899878 0.7907588 ],neutral,0.1912436
+"""Evercore expects chips to keep leading, but volatility makes careful picks more important"",?",[0.71330744 0.05734327 0.2293493 ],positive,0.6559642
+"""KLAC and LRCX top, while AMKR and OLED bottom Citi Analyst's semiconductor rankings"",?",[0.17116651 0.18516615 0.6436674 ],neutral,-0.013999641
+"Li Auto adopts Nvidia's autonomous driving smart chip Orin,?",[0.32356194 0.00907708 0.667361  ],neutral,0.31448486
+"""Nvidia apologizes for selling out of RTX 3080 GPUs, increases supplies"",?",[0.5885733  0.3563427  0.05508399],positive,0.23223057
+"U K  mulling job conditions in Nvidia's Arm purchase - Bloomberg,?",[0.0310662  0.82660425 0.14232957],negative,-0.79553807
+"Nvidia gets Street-high target at Needham on 'risky' Arm deal,?",[0.44692785 0.3533037  0.19976848],positive,0.093624145
+"""Nvidia's $40B Arm offer draws Street-high target, criticism"",?",[0.2206309  0.35855553 0.42081353],neutral,-0.13792463
+"Nvidia confirms $40B deal for Arm Holdings,?",[0.31002638 0.02967538 0.6602982 ],neutral,0.28035098
+"Nvidia nears $40B+ purchase of Arm Holdings from Softbank - WSJ,?",[0.20225698 0.04610128 0.7516418 ],neutral,0.1561557
+"Tech enters correction territory: At the Open,?",[0.05820103 0.30924258 0.63255644],neutral,-0.25104153
+"Chip stocks continue to trend lower following yesterday's tech bloodbath,?",[0.01568833 0.9686876  0.01562407],negative,-0.95299923
+"Nvidia gets Street-high price target at BofA after Ampere GPU launch,?",[0.60429    0.12409944 0.27161056],positive,0.48019058
+"Nvidia announces RTX 30 Ampere GPUs,?",[0.07305605 0.12523533 0.80170864],neutral,-0.052179284
+"Megacaps looking increasingly Teflon: At the Open,?",[0.0942452  0.24572137 0.66003346],neutral,-0.15147617
+"AMD adds to long run as Ryzen wins PC notice; chipmakers rise ahead of catalysts,?",[0.8080791  0.07088546 0.12103532],positive,0.73719364
+"Intel +1 9% after details on new Tiger Lake graphics chips leak,?",[0.04121526 0.9377882  0.02099648],negative,-0.89657295
+"""Sector Watch: Nvidia, Intel events could wake up a sleepy semi sector"",?",[0.09476454 0.291388   0.6138475 ],neutral,-0.19662347
+"FAANG (S)  A surging Salesforce makes its case for tech titan inclusion,?",[0.61935997 0.05643936 0.3242007 ],positive,0.56292063
+"Semi giant chasing 5G outperforms NVDA while sporting valuation more rooted in fundamentals,?",[0.49128973 0.42269233 0.086018  ],positive,0.068597406
+"Nvidia dips after earnings but analysts rave on long-term potential,?",[0.01911097 0.9644049  0.01648402],negative,-0.9452939
+"Nvidia declares $0 16 dividend,?",[0.04281844 0.8101166  0.14706498],negative,-0.76729816
+"""Nvidia reports upside Q2 on gaming strength, record data center sales"",?",[0.48737618 0.10840619 0.40421754],positive,0.37897
+"""NVIDIA EPS beats by $0 21, beats on revenue"",?",[0.30155164 0.12708509 0.5713633 ],neutral,0.17446655
+"Nvidia's gaming strength expected to drive Q2 beats - preview,?",[0.64231384 0.05553203 0.30215415],positive,0.5867818
+"Nvidia Q2 2021 Earnings Preview,?",[0.06247045 0.44093272 0.49659684],neutral,-0.37846226
+"Nvidia gets Street-high target ahead of 'strong' earnings,?",[0.8589514  0.05096865 0.09007998],positive,0.80798274
+"Nvidia 셲 still-strong momentum lifts tech: At the Open,?",[0.62907684 0.1553444  0.2155788 ],positive,0.47373244
+"Semiconductors face pressure at record highs even as Applied Materials jumps: At the Open,?",[0.0631607  0.75236326 0.18447605],negative,-0.68920255
+"Nvidia hosting GeForce event on Sept  1,?",[0.027937   0.04760882 0.92445415],neutral,-0.019671818
+"Nvidia's gaming tailwind drives Street-high price target,?",[0.02732508 0.9009549  0.07172009],negative,-0.8736298
+"Nvidia nearing deal for SoftBank's Arm - Bloomberg,?",[0.17001134 0.0168302  0.8131585 ],neutral,0.15318114
+"Seven downgrades so far for Intel post-earnings; shares slump 13%,?",[0.01009242 0.97628933 0.01361831],negative,-0.9661969
+"Nvidia interested in SoftBank's Arm - Bloomberg,?",[0.02589667 0.02550511 0.94859827],neutral,0.00039155595
+"TSMC's capex boost benefits semi equipment stocks - BofA,?",[0.8606523  0.02932162 0.11002605],positive,0.8313307
+"Nvidia price target lifted on data center strength,?",[0.14604324 0.5877204  0.2662364 ],negative,-0.44167715
+"""Deconstruct FAANG stocks, and the 'N' should be replaced with another"",?",[0.09224724 0.0571586  0.85059416],neutral,0.03508864
+"NexOptic Technology +22% on joining NVIDIA partner network,?",[0.33794808 0.0192164  0.64283556],neutral,0.31873167
+"Nvidia hits Street-high target on data center demand,?",[0.5681503  0.28927088 0.14257883],positive,0.2788794
+"""Strong gaming demand to drive 10% upside for some semis, Bank of America says"",?",[0.9046275  0.02435342 0.07101908],positive,0.88027406
+"Nvidia passes Intel's market cap on GPU tailwinds,?",[0.6982168  0.2165323  0.08525088],positive,0.4816845
+"Nvidia gets Street-high price target on console catalyst,?",[0.6057762  0.17917433 0.21504949],positive,0.42660186
+"Gaming and Internet ETFs top the competition in historic first half,?",[0.46711653 0.04760727 0.48527622],neutral,0.41950926
+"Nvidia gets Street-high target on Mellanox potential,?",[0.71890736 0.08763256 0.19346006],positive,0.6312748
+"""Mercedes, Nvidia team on automated driving architecture"",?",[0.09075327 0.01074928 0.8984975 ],neutral,0.08000399
+"Nvidia hits record as bull sees GPU strength,?",[0.8064052  0.09863642 0.09495834],positive,0.7077688
+"BofA on chip-stock 'moods': Stick to reliable growth and the cloud,?",[0.2755569  0.02142071 0.7030224 ],neutral,0.25413617
+"""Wall Street ends down in late selling, Dow snaps 3-day win streak"",?",[0.14416087 0.6915599  0.16427922],negative,-0.54739904
+"Chip rally shows 'euphoria' over economic recovery,?",[0.06083501 0.80349934 0.13566564],negative,-0.74266434
+"""Nvida, AMD gain as BofA sees early gaming tailwinds"",?",[0.16146788 0.76170564 0.07682646],negative,-0.6002377
+"Stocks stay little changed as Powell speaks again,?",[0.12041817 0.51339656 0.36618534],negative,-0.3929784
+"T-Mobile joins just 8 S&amp;P stocks in red amid stake sale report,?",[0.08217698 0.74050826 0.17731477],negative,-0.6583313
+"""Nvidia, Intel downgraded on 'elevated' valuation"",?",[0.07707737 0.6977802  0.2251425 ],negative,-0.6207028
+"Main Street has killed Wall Street during this rally  Here are the stocks they're buying,?",[0.0442716 0.3332743 0.6224541],neutral,-0.28900272
+"Nomura stays positive on key chip stocks despite challenges ahead,?",[0.776084   0.1500506  0.07386538],positive,0.6260334
+"Semiconductor industry lobbies for billions - WSJ,?",[0.04453847 0.21951438 0.73594713],neutral,-0.17497592
+"""In volatile market, Morgan Stanley chooses secular growth winners"",?",[0.16008705 0.01865648 0.82125646],neutral,0.14143057
+"Stay-at-home selloff continues as economy revs up,?",[0.30249873 0.45779353 0.23970774],negative,-0.1552948
+"""Averages surge, but rally cools for stay-at-home plays"",?",[0.3729609  0.43375897 0.19328016],negative,-0.06079808
+"Nvidia declares $0 16 dividend,?",[0.04281844 0.8101166  0.14706498],negative,-0.76729816
+"Nvidia hits new all-time high after Q1 results,?",[0.67550105 0.1537028  0.17079616],positive,0.52179825
+"Sell-side weighs in on Nvidia results; shares gain 1% post-earnings,?",[0.8437781  0.12239081 0.03383101],positive,0.72138727
+"Nvidia posts strong FQ1 after closing Mellanox deal,?",[0.86051583 0.11012833 0.02935583],positive,0.7503875
+"""Nvidia EPS beats by $0 12, beats on revenue"",?",[0.35833648 0.12929839 0.51236516],neutral,0.22903809
+"Nvidia attracts Credit Suisse to the bull camp,?",[0.05944917 0.11360176 0.8269491 ],neutral,-0.054152593
+"Nvidia Q1 2021 Earnings Preview,?",[0.06444957 0.4113831  0.52416736],neutral,-0.3469335
+"Nvidia gets 50% price target boost,?",[0.89709204 0.03174789 0.07116006],positive,0.86534417
+"Chip stocks gain as TSMC plans U S  factory,?",[0.33697385 0.5483884  0.11463772],negative,-0.21141458
+"Semis poised to beat earnings estimates - Jefferies,?",[0.7765199  0.12154943 0.10193062],positive,0.65497047
+"Nvidia's price target raised ahead of GPU event,?",[0.58872694 0.12603512 0.2852379 ],positive,0.4626918
+"Nvidia seen running higher after acquisitions factor in,?",[0.8864787  0.06235075 0.0511706 ],positive,0.824128
+"Nvidia +2 3% to record alongside Street-high Needham target,?",[0.9095586  0.06042774 0.03001375],positive,0.84913087
+"Nvidia favoring TSMC for next-gen GPUs - report,?",[0.2375378 0.0811317 0.6813305],neutral,0.1564061
+"Nvidia acquiring network software company Cumulus,?",[0.04043866 0.16237344 0.79718786],neutral,-0.12193479
+"Nvidia's game streaming services loses more publishers,?",[0.01439741 0.96187985 0.02372274],negative,-0.94748247
+"Marvell unseats Nvidia as Citi's top pick,?",[0.1517396  0.07160039 0.77665997],neutral,0.080139205
+"Nvidia-Mellanox deal closing April 27,?",[0.03601586 0.02108688 0.94289726],neutral,0.014928982
+"Nvidia-Mellanox deal gets Chinese approval,?",[0.8409     0.02722162 0.13187836],positive,0.8136784
+"Nvidia-Mellanox deal nears Chinese approval - Dealreporter,?",[0.3612525  0.12958848 0.509159  ],neutral,0.231664
+"""Nvidia downgraded to Hold after """"vast"""" outperformance"",?",[0.0249323  0.93425155 0.04081618],negative,-0.9093192
+"Nvidia set for gaming tailwinds - BofA,?",[0.03243133 0.7412118  0.22635688],negative,-0.7087804
+"Semis slide after analyst warnings,?",[0.01249211 0.95491135 0.03259651],negative,-0.94241923
+"""CIOs expect lower PC, higher security spending - Instinet"",?",[0.5346048  0.14006636 0.32532886],positive,0.39453843
+"NVIDIA files for mixed shelf,?",[0.04107852 0.26031488 0.6986066 ],neutral,-0.21923636
+"Mellanox +8 5% on reported agreement with Chinese regulators,?",[0.4937468  0.2610355  0.24521767],positive,0.23271129
+"Needham turns bullish on Nvidia during pandemic,?",[0.02060963 0.9211182  0.05827215],negative,-0.9005086
+"BofA highlights 'high-quality' semis amid outbreak,?",[0.4438794  0.07716144 0.47895917],neutral,0.36671796
+"Semi targets trimmed ahead of recession,?",[0.12755656 0.34177455 0.53066885],neutral,-0.21421799
+"Piper likes these chip stocks for 'next five years',?",[0.04577591 0.00843645 0.94578767],neutral,0.037339456
+"Nvidia named a top idea amid uncertainty,?",[0.3319326  0.01779435 0.650273  ],neutral,0.31413826
+"Nvidia reschedules GTC keynote announcements,?",[0.04203591 0.24140567 0.7165584 ],neutral,-0.19936976
+"Nvidia acquires SwiftStack,?",[0.06369499 0.04060581 0.8956992 ],neutral,0.023089185
+"Semi levels attractive after pullback - Mizuho,?",[0.2597855  0.3837508  0.35646376],negative,-0.12396529
+"Nvidia moves conference online due to coronavirus,?",[0.01532411 0.9231091  0.06156683],negative,-0.907785
+"PC stocks fall after Microsoft warning,?",[0.01564308 0.9596803  0.02467659],negative,-0.94403726
+"Nomura bearish on Nvidia amid coronavirus outbreak,?",[0.02046993 0.9353425  0.04418757],negative,-0.9148726
+"Semis slide as coronavirus fears grow,?",[0.01557056 0.94874275 0.03568663],negative,-0.93317217
+"""Nvidia, Mellanox refile for Chinese approval"",?",[0.23320988 0.02063116 0.74615896],neutral,0.21257871
+"Semi ETFs gain on Nvidia's new high,?",[0.7910885  0.17236994 0.03654156],positive,0.61871856
+"Bernstein turns bullish on Nvidia stability,?",[0.04141482 0.8330415  0.12554371],negative,-0.7916267
+"Mellanox gets new Street-high target,?",[0.75886106 0.04481601 0.1963229 ],positive,0.71404505
+"U S /China technology war likely to do more harm than good,?",[0.03188367 0.876142   0.09197421],negative,-0.84425837
+"Nvidia targets raised after 'blowout' quarter,?",[0.46547014 0.20938282 0.32514712],positive,0.2560873
+"""AMD, Micron gain after Nvidia earnings"",?",[0.45926306 0.33481842 0.2059185 ],positive,0.12444463
+"Nvidia beats estimates on data center strength; shares +6%,?",[0.64627576 0.2090951  0.14462914],positive,0.43718064
+"Nvidia declares $0 16 dividend,?",[0.04281842 0.8101166  0.14706498],negative,-0.76729816
+"""Nvidia EPS beats by $0 22, beats on revenue"",?",[0.3264685 0.128572  0.5449595],neutral,0.1978965
+"Nvidia Q4 2020 Earnings Preview,?",[0.05997176 0.4179853  0.52204293],neutral,-0.35801354
+"Nvidia targets hiked on data center upside,?",[0.17888747 0.645729   0.17538357],negative,-0.46684152
+"Wells Fargo raises Nvidia on earnings optimism,?",[0.17339745 0.6018453  0.22475722],negative,-0.42844787
+"""Nvidia +3 7%, with RBC seeing earnings upside"",?",[0.40944153 0.5454433  0.04511521],negative,-0.13600177
+"Arm unveils AI chip for small devices,?",[0.21045394 0.02306796 0.7664781 ],neutral,0.18738598
+"Nvidia launches Google Stadia competitor; shares +2 8%,?",[0.07754254 0.19388357 0.7285739 ],neutral,-0.11634103
+"""Nvidia, Intel dip after AMD forecast"",?",[0.02611715 0.8951101  0.07877282],negative,-0.8689929
+"""PCs, data center drive Intel beats; shares +6%"",?",[0.11484607 0.02605292 0.85910106],neutral,0.08879316
+"Nvidia boosted on product cycle upside,?",[0.8336405  0.12622084 0.04013864],positive,0.7074197
+"Mizuho names top semi picks for 2020,?",[0.04146312 0.05185338 0.90668356],neutral,-0.010390256
+"Nvidia target raised on semi 'recovery year',?",[0.5620866  0.16371018 0.2742032 ],positive,0.3983764
+"Nvidia raised on 2020 growth potential; shares +1 3%,?",[0.79614925 0.01975274 0.18409802],positive,0.7763965
+"""Post-CES, Citi puts 'positive catalyst watch' on hot-handed tech name"",?",[0.8100722  0.03475159 0.15517618],positive,0.7753206
+"Nvidia-Mellanox closing soon ,?",[0.03144845 0.36490706 0.6036445 ],neutral,-0.3334586
+"Semis ending 2019 up 60% after trade turbulence,?",[0.9279715  0.04285191 0.02917655],positive,0.88511956
+"Benchmark gives Nvidia a Street-high target,?",[0.15585712 0.03462905 0.8095138 ],neutral,0.12122807
+"""Nvidia named top pick, target raised; shares +1 9%"",?",[0.6535877  0.03437297 0.31203932],positive,0.6192147
+"Nvidia approved by EU to swallow Mellanox,?",[0.13633208 0.01900543 0.8446624 ],neutral,0.11732665
+"EU to clear Nvidia-Mellanox deal without conditions - Reuters,?",[0.5541552  0.07300402 0.3728408 ],positive,0.48115116
+"""Nvidia raised on gaming, AI strength"",?",[0.47726727 0.05444028 0.46829247],positive,0.42282698
+"No Nvidia concessions for Mellanox deal,?",[0.05398756 0.509964   0.43604845],negative,-0.45597643
+"BofA bullish on under-owned semi stocks,?",[0.0396234  0.82332355 0.13705301],negative,-0.78370017
+"Nvidia +4 5% as Morgan Stanley turns bullish,?",[0.12809247 0.75130475 0.12060283],negative,-0.6232123
+"""KeyBanc praises NVDA, AMD for HPC momentum"",?",[0.03550687 0.03376442 0.93072873],neutral,0.0017424524
+"Nvidia targets raised after Q3 beats,?",[0.4262078  0.07305836 0.50073385],neutral,0.35314944
+"""Nvidia +1% after beats, gaming strength"",?",[0.581979   0.04126154 0.37675944],positive,0.5407174
+"Nvidia declares $0 16 dividend,?",[0.04281842 0.8101166  0.14706498],negative,-0.76729816
+"""Nvidia EPS beats by $0 20, beats on revenue"",?",[0.28691584 0.12344677 0.58963746],neutral,0.16346908
+"BMO lifts NVDA target on positive Q3 position,?",[0.8299002  0.12389214 0.04620769],positive,0.7060081
+"Back to earnings    Walmart and Nvidia,?",[0.04623438 0.2342367  0.7195289 ],neutral,-0.18800232
+"Nvidia Q3 2020 Earnings Preview,?",[0.05923397 0.39396334 0.5468027 ],neutral,-0.33472937
+"""Nvidia target lifted before earnings, 7nm launches"",?",[0.09727296 0.29424405 0.608483  ],neutral,-0.19697109
+"Nvidia target boosted on product optimism,?",[0.8466097  0.09096593 0.06242432],positive,0.7556438
+"Nvidia target lifted on 2020 product cycle,?",[0.16777289 0.1078508  0.7243763 ],neutral,0.059922084
+"Nvidia's 7nm data center product delayed - analyst,?",[0.04050852 0.5945073  0.3649842 ],negative,-0.55399877
+"Nvidia supplying AI tech to USPS,?",[0.03761409 0.0560912  0.90629476],neutral,-0.018477112
+"Nvidia +1 6% after Craig-Hallum target boost,?",[0.6448273  0.2634118  0.09176093],positive,0.38141552
+"Nvidia launches two Shield TVs; NVDA +1 5%,?",[0.06097518 0.06603459 0.8729902 ],neutral,-0.0050594173
+"NVDA gets new Street-high target (update),?",[0.7568002  0.0511307  0.19206908],positive,0.70566946
+"Peers move after Intel's earnings beats,?",[0.07708626 0.76611865 0.15679507],negative,-0.6890324
+"Chip stocks slide after Texas Instruments guidance,?",[0.0116538  0.961743   0.02660315],negative,-0.9500892
+"""Texas Instruments -9% after misses, downside forecast"",?",[0.03773662 0.83476967 0.12749363],negative,-0.7970331
+"NVDA forms big tech partnerships for 5G,?",[0.16399527 0.00831936 0.8276854 ],neutral,0.1556759
+"Semis gain on US-China progress,?",[0.46427542 0.46240908 0.07331555],positive,0.0018663406
+"AMD +2% as Morgan Stanley sees market gains,?",[0.9052881  0.03848979 0.05622216],positive,0.8667983
+"Mvidia-Mellanox Chinese approval seems stuck - Faber,?",[0.04278585 0.6832801  0.2739341 ],negative,-0.6404943
+"New Nvidia Shield TV Pro coming soon ,?",[0.09189226 0.01875487 0.88935286],neutral,0.073137395
+"Nvidia +1 8% on new Street-high target,?",[0.6403001  0.22576715 0.1339328 ],positive,0.41453296
+"Trade optimism gives semiconductors a boost,?",[0.81146556 0.04264586 0.14588852],positive,0.7688197
+"Nvidia +1 3% after RBC price target boost,?",[0.5795275  0.2861398  0.13433275],positive,0.2933877
+"IIVI-Finisar deal receives Chinese approval,?",[0.6388432  0.02103343 0.3401234 ],positive,0.6178098
+"Nvidia gains a bear,?",[0.17209023 0.52255815 0.3053516 ],negative,-0.35046792
+"Chinese antitrust regulator starts NVDA-MLNX review,?",[0.05429069 0.31008047 0.6356288 ],neutral,-0.2557898
+"Nvidia insider sells $2 5M in shares,?",[0.04569902 0.08880738 0.8654936 ],neutral,-0.043108363
+"""Apple, chip stocks take a beating after China tariffs, Trump tough talk"",?",[0.07556926 0.7108492  0.21358149],negative,-0.63527995
+"Mellanox-Nvidia merger spread balloons after Trump tweets,?",[0.02655032 0.8694187  0.10403101],negative,-0.8428683
+"Nvidia +3 2% as bull touts GPU potential,?",[0.33837467 0.56893975 0.09268557],negative,-0.23056507
+"Nvidia bringing realistic graphics to 'Minecraft',?",[0.59474903 0.0265644  0.37868655],positive,0.5681846
+"Nvidia declares $0 16 dividend,?",[0.04281842 0.8101166  0.14706498],negative,-0.76729816
+"Nvidia +6% as gaming strength offsets datacenter,?",[0.56620765 0.3985284  0.03526396],positive,0.16767925
+"""Nvidia EPS beats by $0 09, beats on revenue"",?",[0.4066307  0.11830773 0.4750616 ],neutral,0.28832296
+"What to watch in NVDA's Q2 report,?",[0.0309583  0.01486182 0.95417994],neutral,0.01609648
+"Nvidia Q2 2020 Earnings Preview,?",[0.06006149 0.37986755 0.560071  ],neutral,-0.31980607
+"""AMD, ASML among top semi decliners"",?",[0.22474985 0.05423046 0.72101974],neutral,0.17051938
+"Hyperscale cloud spending picking up - analyst,?",[0.1783176  0.22952719 0.5921552 ],neutral,-0.051209584
+"RBC trims Nvidia target before earnings,?",[0.04659597 0.7984371  0.15496688],negative,-0.7518411
+"Nvidia -1% after AMD's earnings,?",[0.05167    0.71130395 0.23702602],negative,-0.65963393
+"""Semis, tech inch up after busy earnings"",?",[0.1982452  0.647637   0.15411784],negative,-0.4493918
+"Mellanox reports earnings miss,?",[0.01431275 0.96478844 0.02089875],negative,-0.9504757
+"Semis gain after TXN beats,?",[0.27066937 0.5918436  0.13748704],negative,-0.32117423
+"Piper gaming survey positive for Nvidia,?",[0.82053864 0.09476736 0.0846939 ],positive,0.7257713
+"Nvidia upgraded on hyperscale cloud strength,?",[0.84804404 0.08394295 0.06801297],positive,0.7641011
+"Tumble in Samsung profit forecast hits chip sector,?",[0.03124602 0.9056298  0.06312415],negative,-0.8743838
+"Nvidia's Super gaming GPUs racing AMD,?",[0.03222274 0.08963072 0.8781465 ],neutral,-0.05740797
+"Semiconductor confidence after U S -Sino trade detente,?",[0.17417954 0.7159144  0.10990595],negative,-0.5417349
+"Semis gain on US-China trade truce,?",[0.3745914  0.56274736 0.06266122],negative,-0.18815595
+"Wedbush bullish on Nvidia's 'strong growth prospects',?",[0.74857473 0.18091977 0.07050546],positive,0.56765497
+"Nvidia gains a bull,?",[0.11894279 0.62692183 0.25413537],negative,-0.50797904
+"""Semis soar ahead of Trump, Xi meeting"",?",[0.08554018 0.04416022 0.8702996 ],neutral,0.04137995
+"Volvo and Nvidia in AI pact,?",[0.04011159 0.16467895 0.79520947],neutral,-0.12456735
+"Nvidia hires WDC vet as CAO,?",[0.03862393 0.15139218 0.8099839 ],neutral,-0.11276825
+"Nvidia approaching H2 gaming recovery - Oppenheimer,?",[0.07873767 0.18528558 0.73597676],neutral,-0.106547914
+"""TSMC hit with Huawei cuts, potential partner loss"",?",[0.02364898 0.94191265 0.03443842],negative,-0.9182637
+"Intel slides as analysts praise AMD's roadmap,?",[0.30662423 0.5559782  0.13739756],negative,-0.24935395
+"Trade war could delay Nvidia/Mellanox - Piper,?",[0.01539802 0.94719726 0.03740464],negative,-0.93179923
+"""Mellanox, Quantenna gain as acquirers seek Chinese approval"",?",[0.86722594 0.03998626 0.09278776],positive,0.8272397
+"""Nvidia gains despite pulled FY outlook, downgrade"",?",[0.7164736  0.24328746 0.0402389 ],positive,0.47318614
+"""Nvidia +6% on Q1 beats, gaming recovery"",?",[0.7163458  0.20560353 0.07805073],positive,0.51074225
+"Nvidia declares $0 16 dividend,?",[0.04281842 0.8101166  0.14706498],negative,-0.76729816
+"""Nvidia beats by $0 07, beats on revenue"",?",[0.68776774 0.1182131  0.19401914],positive,0.5695546
+"What to watch in Nvidia's Q1 print,?",[0.03342692 0.02271491 0.94385815],neutral,0.010712011
+"Nvidia Q1 Earnings Preview,?",[0.06684794 0.43745667 0.49569535],neutral,-0.37060872
+"HP unveils dual-screen gaming laptop,?",[0.14977229 0.01781122 0.8324165 ],neutral,0.13196106
+"Nvidia's PT boosted on potential gaming upside,?",[0.66443217 0.26390082 0.07166708],positive,0.40053135
+"Xperi sues Nvidia for semi patent royalties,?",[0.02141546 0.8913306  0.08725401],negative,-0.8699151
+"""Semis, Chinese tech drop on trade tensions"",?",[0.01845459 0.93722355 0.0443218 ],negative,-0.91876894
+"AMD +5% on revenue beat,?",[0.52640814 0.23605989 0.237532  ],positive,0.29034823
+"Tech sees red amid data center woes,?",[0.08073131 0.8282933  0.0909753 ],negative,-0.747562
+"""Sell-side shakes off Intel print, looks to H2"",?",[0.10069996 0.58843315 0.31086686],negative,-0.4877332
+"""Micron, Nvidia sink as Intel slashes outlook"",?",[0.01488513 0.9601703  0.02494451],negative,-0.9452852
+"""Laptop makers, AMD move on Nvidia launch"",?",[0.04599519 0.06897967 0.88502514],neutral,-0.022984475
+"Nvidia fires back at Tesla chip claims,?",[0.01709376 0.94185585 0.04105034],negative,-0.92476207
+"Tesla preps for Autonomy Day,?",[0.04427476 0.27457666 0.6811486 ],neutral,-0.2303019
+"Nvidia regaining GPU share - Susquehanna,?",[0.09936465 0.69618505 0.20445031],negative,-0.5968204
+"Mellanox reports Q1 beats,?",[0.09491117 0.34194714 0.5631417 ],neutral,-0.24703598
+"Nvidia Quadro Virtual Workstation joins Google Cloud,?",[0.10466525 0.11854351 0.7767913 ],neutral,-0.013878256
+"Nvidia taps veteran litigator Neal for board,?",[0.0510339  0.18263227 0.7663339 ],neutral,-0.13159837
+"Nvidia CEO: No plans for more M&amp;A,?",[0.03451859 0.17939809 0.78608334],neutral,-0.1448795
+"Nvidia gets new bull on gaming growth,?",[0.7367619  0.05946673 0.2037713 ],positive,0.6772952
+"Automakers look to air it out,?",[0.03695545 0.03508373 0.9279608 ],neutral,0.0018717162
+"Analysts optimistic after Nvidia meeting,?",[0.22668049 0.45188057 0.321439  ],negative,-0.22520009
+"Analyst takeaways from Nvidia's conference keynote,?",[0.05437431 0.04170666 0.90391904],neutral,0.0126676485
+"What analysts want from tomorrow's Nvidia event,?",[0.03959534 0.0188746  0.94153005],neutral,0.020720733
+"""Semis gain on bottom call, NAND orders"",?",[0.56098366 0.2743569  0.16465944],positive,0.28662676
+"Citi sees investor day catalyst for Nvidia,?",[0.07359743 0.09266955 0.833733  ],neutral,-0.019072123
+"Nvidia acquires Mellanox for $6 9B,?",[0.06519849 0.02138649 0.913415  ],neutral,0.04381199
+"Nvidia outbids Intel for Mellanox purchase - reports,?",[0.28171784 0.60817444 0.11010768],negative,-0.3264566
+"Semis gain on trade optimism,?",[0.4256281  0.402057   0.17231496],positive,0.023571104
+"""Nvidia gets Overweight start, gains on optimism"",?",[0.7485003  0.11287111 0.13862854],positive,0.6356292
+"Analog Devices report spurs semi optimism,?",[0.28634128 0.36822274 0.345436  ],negative,-0.08188146
+"Analysts doubt Nvidia's FY guidance,?",[0.01349758 0.96346796 0.0230345 ],negative,-0.94997036
+"Nvidia declares $0 16 dividend,?",[0.04281842 0.8101166  0.14706498],negative,-0.76729816
+"Nvidia +9% on upside FY20 outlook,?",[0.137955   0.38853103 0.47351405],neutral,-0.25057602
+"""Nvidia beats by $0 17, misses on revenue"",?",[0.5325177  0.23997328 0.227509  ],positive,0.2925444
+"Lynx: Nvidia's crypto chip demand &quot;unlikely&quot; to return,?",[0.11753221 0.06010384 0.8223639 ],neutral,0.05742837
+"Nvidia Q4 2018 Earnings Preview,?",[0.05606908 0.3515979  0.592333  ],neutral,-0.29552883
+"Goldman cuts Nvidia target before earnings,?",[0.03294757 0.83219576 0.1348567 ],negative,-0.7992482
+"Citi replaces Top Pick Nvidia,?",[0.04521504 0.73740095 0.21738407],negative,-0.69218594
+"Bernstein downgardes Nvidia on increasing headline risk,?",[0.09000047 0.8700003  0.03999929],negative,-0.77999985
+"Chip stocks slide on Goldman warning,?",[0.01628692 0.94641566 0.03729742],negative,-0.93012875
+"SoftBank dumps Nvidia stake,?",[0.01833859 0.90131557 0.08034579],negative,-0.882977
+"""Semis, suppliers gain on Apple, AMD reports"",?",[0.13236943 0.78062665 0.08700389],negative,-0.64825726
+"More target cuts from Nvidia's warning,?",[0.17525773 0.3828484  0.44189382],neutral,-0.20759068
+"Nvidia slips on two-notch downgrade,?",[0.01478025 0.95742416 0.02779563],negative,-0.94264394
+"Analyst slashes Nvidia target by 34%,?",[0.02145734 0.950576   0.02796669],negative,-0.9291187
+"Nvidia -15% on Q4 guidance cut,?",[0.0649592  0.8994954  0.03554536],negative,-0.8345362
+"Jefferies removes Nvidia from Franchise Picks,?",[0.02863002 0.80929697 0.16207306],negative,-0.78066695
+"Intel rivals drop on weak FY outlook,?",[0.0108337  0.9707736  0.01839264],negative,-0.9599399
+"Semis outperform on trade optimism,?",[0.03570806 0.946731   0.01756098],negative,-0.9110229
+"TSMC's dire guidance weighs on chips,?",[0.02109008 0.91458404 0.06432591],negative,-0.89349395
+"AMD demos 7nm gaming GPU,?",[0.03680314 0.08547699 0.8777198 ],neutral,-0.048673857
+"Credit Suisse lowers Nvidia estimates,?",[0.01658743 0.93870926 0.0447033 ],negative,-0.9221218
+"Nvidia says new Drive AutoPilot platform to start production in 2020,?",[0.10353964 0.01163182 0.8848285 ],neutral,0.091907814
+"Nvidia introduces new gaming chip,?",[0.57033825 0.04628284 0.38337895],positive,0.5240554
+"Tough quarter leaves semis in the red,?",[0.0455506  0.83721817 0.11723115],negative,-0.7916676
+"""RBC cuts Nvidia target, warns on ASPs"",?",[0.0645666  0.80686677 0.1285667 ],negative,-0.74230015
+"Semi stocks slide after Fed hike,?",[0.01498205 0.9512737  0.0337443 ],negative,-0.93629164
+"""Nvidia, AMD get target trims on pricing"",?",[0.14646974 0.04031372 0.8132165 ],neutral,0.10615602
+"""Citi upgrades Marvell, adds Nvidia to shopping list"",?",[0.12597875 0.03890056 0.83512074],neutral,0.0870782
+"RBC cuts Nvidia target on SoftBank report,?",[0.03117068 0.9138027  0.05502674],negative,-0.882632
+"Nvidia -2% on SoftBank stake sale headlines (update),?",[0.06540105 0.35189384 0.5827051 ],neutral,-0.2864928
+"Invesco S&amp;P 500 Quality ETF (SPHQ) November Summary,?",[0.04509376 0.5658879  0.38901836],negative,-0.52079415
+"Veeva sinks 4 5% on bearish Citron tweet,?",[0.02327526 0.95622087 0.02050391],negative,-0.9329456
+"Nvidia unveils T-Rex GPU,?",[0.07637117 0.14079578 0.78283304],neutral,-0.06442461
+"First commercial driverless truck license,?",[0.07685024 0.01043644 0.91271335],neutral,0.06641379
+"Bernstein: Nvidia fundamentals unchanged despite reset,?",[0.5293799  0.2858901  0.18472995],positive,0.2434898
+"""AMD, Nvidia gain as analyst sees GPU rebound"",?",[0.40418822 0.5504683  0.04534341],negative,-0.14628011
+"Nvidia +3% after bullish Credit Suisse call,?",[0.630362   0.301784   0.06785405],positive,0.32857797
+"""Nvidia, Chinese startups team for self-driving tech"",?",[0.15100725 0.012928   0.83606476],neutral,0.13807926
+"Nvidia +3% as Citron turns buyer,?",[0.22369705 0.4522624  0.32404056],negative,-0.22856535
+"Nvidia's inventory clear could take quarters - WSJ,?",[0.0157399 0.940124  0.0441361],negative,-0.92438406
+"""Goldman """"clearly wrong"""" on Nvidia"",?",[0.04221713 0.261166   0.6966169 ],neutral,-0.21894887
+"Nvidia -17% on downside guide as crypto boom ends,?",[0.02833692 0.9445182  0.02714493],negative,-0.91618127
+"Nvidia declares $0 16 dividend,?",[0.04281842 0.8101166  0.14706498],negative,-0.76729816
+"""Nvidia beats by $0 13, misses on revenue"",?",[0.5190145  0.24966085 0.23132472],positive,0.26935363
+"""Firm goes Positive on Xilinx, Nvidia"",?",[0.8462914  0.09043409 0.06327447],positive,0.75585735
+"Analyst: Nvidia faces tough earnings report,?",[0.03335952 0.9349685  0.03167209],negative,-0.90160894
+"Nvidia and Nike among those seen boosting dividends,?",[0.8785613  0.02920767 0.09223109],positive,0.8493537
+"Invesco S&amp;P 500 Quality ETF (SPHQ) October Summary,?",[0.04478485 0.58399683 0.37121835],negative,-0.539212
+"Morgan Stanley cuts Nvidia target on gaming weakness,?",[0.02694903 0.9230527  0.04999821],negative,-0.8961037
+"""JPMorgan upgrades Nvidia, lowers target"",?",[0.12705216 0.5415576  0.3313902 ],negative,-0.41450545
+"""Semis slide on rough week of misses, warnings"",?",[0.02761599 0.87828267 0.0941014 ],negative,-0.8506667
+"""AMD plunges 22% on Q3 revenue miss, weak guidance; crypto revenue vanishes"",?",[0.01062091 0.97409135 0.01528776],negative,-0.96347046
+"""Nvidia -5 6% on UBS target cut, Nasdaq pains"",?",[0.08993955 0.6226753  0.2873852 ],negative,-0.53273576
+"""BofAML: Semi correction normal, here's what to buy"",?",[0.03438496 0.06346688 0.9021481 ],neutral,-0.029081922
+"Semi rating shuffle at Goldman; Nvidia a conviction buy,?",[0.04585041 0.07715985 0.8769898 ],neutral,-0.031309437
+"Goldman Sachs dials up the conviction on Nvidia,?",[0.04969383 0.17227201 0.77803415],neutral,-0.122578174
+"Meet the new eSports/gaming ETF,?",[0.40253812 0.02454205 0.57291985],neutral,0.37799606
+"Morgan Stanley: Chip stocks aren't &quot;out of the woods&quot;,?",[0.0515235  0.4303566  0.51811993],neutral,-0.3788331
+"Tesla to unveil new chip in six months,?",[0.29329544 0.02381742 0.68288714],neutral,0.26947802
+"""Early premarket losers include SQ, AMZN, NFLX"",?",[0.03787865 0.32265612 0.6394652 ],neutral,-0.28477746
+"AI chips drop on Huawei's new products,?",[0.01266384 0.9627228  0.02461337],negative,-0.95005894
+"Volvo and Nvidia to partner on AI car computer,?",[0.78521895 0.01174523 0.20303582],positive,0.77347374
+"How to introduce self-driving vehicles ,?",[0.09556883 0.00633811 0.8980931 ],neutral,0.089230716
+"Invesco S&amp;P 500 Quality ETF (SPHQ) September Summary,?",[0.04557368 0.57420176 0.3802246 ],negative,-0.5286281
+"Microsoft unveils game streaming service with 2019 public trials,?",[0.0697525  0.01452777 0.91571975],neutral,0.055224728
+"Invesco QQQ ETF (QQQ) September Summary,?",[0.03470256 0.68927586 0.2760216 ],negative,-0.6545733
+"Rambus renews patent license with Nvidia,?",[0.7155977  0.03088894 0.25351346],positive,0.6847087
+"DOT takes hands-off approach to self-driving cars,?",[0.13438147 0.00887737 0.85674113],neutral,0.1255041
+"Microsoft launches the Surface Pro 6 (updates),?",[0.04997112 0.02176085 0.9282681 ],neutral,0.028210275
+"Nvidia gains on target boost to 50% upside (update),?",[0.8951407  0.07530873 0.02955057],positive,0.81983197
+"""Bernstein cautious on chips, favoring Broadcom, Nvidia"",?",[0.14230148 0.17206617 0.68563235],neutral,-0.029764682
+"KeyBanc starts 10 semi names at Sector Weight,?",[0.04159232 0.08438779 0.8740199 ],neutral,-0.042795476
+"""BofAML: Nvidia top gaming pick, Street Turing doubts """"short-sighted"""""",?",[0.07891494 0.1826434  0.7384416 ],neutral,-0.10372846
+"RBC presents AMD bull case; reports of sell-side firm questioning share gain,?",[0.32711926 0.45857853 0.21430226],negative,-0.13145927
+"Nomura unconvinced by Nvidia's Turing GPU price,?",[0.02964219 0.9186049  0.05175285],negative,-0.88896275
+"Analyst notes mixed reviews on Nvidia's new GeForce; NVDA -1 2%,?",[0.05005383 0.9035047  0.0464414 ],negative,-0.8534509
+"Goldman Sachs reiterates Nvidia's Buy on data center moat,?",[0.12872969 0.04131668 0.8299537 ],neutral,0.087413
+"Needham raises Nvidia to Street-high target,?",[0.76712525 0.05162061 0.1812541 ],positive,0.71550465
+"Rosenblatt raises AMD target to 34% upside on Nvidia competition,?",[0.62697315 0.14499168 0.22803517],positive,0.48198146
+"Intel acquires SoC tool company NetSpeed Systems,?",[0.14447051 0.05444035 0.8010891 ],neutral,0.09003016
+"Invesco S&amp;P 500 Quality ETF (SPHQ) August Summary,?",[0.04632061 0.5877675  0.36591187],negative,-0.54144686
+"Invesco QQQ ETF (QQQ) August Summary,?",[0.03432294 0.69149554 0.27418151],negative,-0.6571726
+"Nvidia -1 9% on report that Microsoft is considering Huawei chip,?",[0.45635933 0.3821076  0.16153309],positive,0.07425174
+"""Evercore names top semi picks for year's end, says avoid Intel"",?",[0.10765133 0.03684905 0.85549957],neutral,0.07080228
+"Microsoft Azure now has Nvidia GPU Cloud support,?",[0.07156151 0.00678494 0.92165357],neutral,0.06477656
+"Nvidia +3 2% on new performance specs for gaming GPU,?",[0.7974759  0.08928031 0.11324383],positive,0.70819557
+"""Citron Research: Nvidia """"on its way to $200"""""",?",[0.06261732 0.03671497 0.90066767],neutral,0.02590235
+"Nvidia continues gains after Turing GPU announcement,?",[0.9194556  0.03035793 0.05018654],positive,0.88909763
+"EA sets open beta dates for 'Battlefield V',?",[0.03970382 0.0171803  0.94311583],neutral,0.022523515
+"Oppenheimer upgrades Nvidia on Turing potential,?",[0.22387132 0.14265338 0.6334753 ],neutral,0.081217945
+"""Chip stocks on watch as Applied Materials, Nvidia offer lackluster guidance"",?",[0.02119203 0.9130895  0.06571854],negative,-0.8918975
+"""Nvidia -5% on downside guide, crypto-related OEM revenue drop"",?",[0.01160501 0.9738062  0.0145889 ],negative,-0.9622012
+"Nvidia declares $0 15 dividend,?",[0.04132413 0.8134368  0.14523906],negative,-0.77211267
+"""Nvidia beats by $0 10, beats on revenue"",?",[0.639486   0.14034885 0.22016515],positive,0.49913716
+"""Wells Fargo lowers Micron target, ups Nvidia"",?",[0.06541116 0.5816005  0.35298827],negative,-0.51618934
+"""Nvidia unveils Turing architecture, three graphics cards coming in Q4"",?",[0.12212227 0.01011842 0.8677593 ],neutral,0.11200385
+"""Cowen names Nvidia a """"top pick"""" on gaming chips"",?",[0.72102106 0.02063503 0.2583439 ],positive,0.70038605
+"Invesco S&amp;P 500 Quality ETF (SPHQ) July Summary,?",[0.04568502 0.5679347  0.3863803 ],negative,-0.5222497
+"Semi stocks slip after Morgan Stanley downgrade,?",[0.01286298 0.9677206  0.01941638],negative,-0.95485765
+"Intel unveiling plans to stave off AMD,?",[0.15044023 0.07110771 0.77845204],neutral,0.07933252
+"Smooth ride for Tesla after earnings,?",[0.3182612  0.09161431 0.5901245 ],neutral,0.2266469
+"BofAML downgrades Intel on another 10nm chip delay,?",[0.01618666 0.95576847 0.0280449 ],negative,-0.9395818
+"EU adds charge to Qualcomm antitrust investigation,?",[0.03214721 0.86907095 0.09878188],negative,-0.8369237
+"""Evercore, Cowen name semi picks ahead of earnings"",?",[0.11098313 0.11425842 0.77475846],neutral,-0.0032752901
+"Intel -1 3% on Evercore downgrade (update),?",[0.04245389 0.81800336 0.13954273],negative,-0.7755495
+"""The Information: Huawei plans AI chip to rival Nvidia, Intel"",?",[0.3408429  0.01531621 0.6438409 ],neutral,0.32552668
+"White House tariff plans send semi stocks sliding,?",[0.01722074 0.9576141  0.02516512],negative,-0.9403934
+"""Daimler, Bosch to test robo-taxi program in California using Nvidia system"",?",[0.2505349  0.01094727 0.7385178 ],neutral,0.23958762
+"Invesco S&amp;P 500 Quality ETF (SPHQ) June Summary,?",[0.04624702 0.5639825  0.38977042],negative,-0.5177355
+"Canadian General Investments YTD NAV rises 9 0%,?",[0.8382664  0.12052962 0.04120399],positive,0.7177367
+"Raymond James: Buy Nvidia ahead of gaming chip launch,?",[0.11744022 0.01118987 0.87136984],neutral,0.10625035
+"Nvidia 1 4% after Benchmark New Buy rating,?",[0.41225183 0.42603266 0.1617155 ],negative,-0.013780832
+"Semiconductor stocks drop on reported investment restrictions on China,?",[0.01180584 0.9699406  0.01825352],negative,-0.9581348
+"UBS raises its Nvidia target on facial recognition boom,?",[0.86251473 0.05215669 0.08532856],positive,0.81035805
+"Intel -1 3% on analyst downgrade with 18% downside (update),?",[0.02166105 0.91115654 0.06718244],negative,-0.8894955
+"""PVAC +3 7%, FLT +4 5% on index changes; NVDA to S&amp;P 100"",?",[0.07584109 0.33023635 0.5939225 ],neutral,-0.25439525
+"U S  debuts &quot;world's fastest&quot; supercomputer from IBM,?",[0.22181424 0.01589466 0.7622911 ],neutral,0.20591958
+"""Analysts concerned about Nvidia """"tactical setback"""" with GPU delay"",?",[0.01780269 0.95102984 0.03116739],negative,-0.9332271
+"Invesco QQQ ETF (QQQ) May Summary,?",[0.03575392 0.66222495 0.30202115],negative,-0.62647104
+"Nvidia CEO says next gaming GPUs won't come for &quot;a long time&quot;,?",[0.03679947 0.69766134 0.26553923],negative,-0.66086185
+"Invesco QQQ Trust ETF (QQQ) May Summary,?",[0.0425143  0.48863408 0.46885163],negative,-0.4461198
+"""BofAML sees PC potential for AMD and Nvidia, limited crypto downside"",?",[0.14460582 0.30734277 0.5480514 ],neutral,-0.16273695
+"""Semiconductors strong after Marvell earnings beat, AMD target boost"",?",[0.93142486 0.03471535 0.03385979],positive,0.8967095
+"""Goldman Sachs: Hedge funds betting against Nvidia, Intel"",?",[0.04230886 0.22684951 0.7308417 ],neutral,-0.18454064
+"Nvidia goes ex-dividend tomorrow,?",[0.04922462 0.2995969  0.6511785 ],neutral,-0.2503723
+"""NXP Semiconductors, Micron among movers on trade war hold"",?",[0.06185681 0.48966765 0.44847557],negative,-0.42781085
+"Cowen initiates Nvidia at 31% upside,?",[0.08486447 0.49039537 0.4247402 ],negative,-0.4055309
+"""Point72 adds heavy in WYNN, AVGO; trims CMCSA, APC, MU"",?",[0.45933595 0.06223107 0.47843295],neutral,0.3971049
+"Needham raises Nvidia target to 28% upside,?",[0.67176694 0.08104327 0.2471898 ],positive,0.5907237
+"Analyst raise Nvidia's price targets after earnings,?",[0.10845251 0.05971693 0.8318305 ],neutral,0.048735585
+"""Nvidia earnings call: GPU pricing, crypto demand, and TAMs"",?",[0.04021082 0.06688607 0.89290303],neutral,-0.02667525
+"""Nvidia -1 7% after Q1 beats, upside guide, strength in Gaming and Datacenter"",?",[0.8413218  0.07848884 0.08018935],positive,0.762833
+"""Nvidia beats by $0 39, beats on revenue"",?",[0.6174359  0.13104911 0.251515  ],positive,0.48638678
+"Nvidia +4 4% as BofAML maintains 25% upside,?",[0.259517   0.15924528 0.58123773],neutral,0.10027173
+"Barclays upgrades Nvidia to 23% upside,?",[0.86547387 0.08944154 0.04508461],positive,0.7760323
+"PowerShares QQQ Trust ETF (QQQ) April Summary,?",[0.0463824  0.302746   0.65087163],neutral,-0.2563636
+"Google launches Nvidia Tesla V100 GPUS on cloud,?",[0.03663551 0.03531418 0.92805034],neutral,0.0013213307
+"Graphics card shipment drop coming in April on crypto weakness,?",[0.0107063  0.9705272  0.01876654],negative,-0.95982087
+"BofA: Some 4-7% more downside in chips into Apple earnings,?",[0.01730831 0.9559192  0.02677243],negative,-0.9386109
+"ASM International falls short and chipmakers stay in downdraft,?",[0.01156646 0.9647078  0.0237257 ],negative,-0.95314133
+"Breakeven cost for bitcoin mining is $8 6K - Morgan Stanley,?",[0.06326573 0.08600605 0.8507282 ],neutral,-0.022740312
+"""Taiwan Semi phone-based softness dragging Apple, other chipmakers"",?",[0.04507319 0.6613556  0.29357126],negative,-0.6162824
+"Taiwan Semi trims revenue outlook on softer smartphone demand,?",[0.01523703 0.96995354 0.0148095 ],negative,-0.9547165
+"Meet the electric/autonomous vehicle ETF,?",[0.23053285 0.02674676 0.7427204 ],neutral,0.2037861
+"""BofAML more confident on Nvidia, short seller disagrees"",?",[0.25330073 0.5775977  0.16910158],negative,-0.32429695
+"PC shipments fall for 14th straight quarter,?",[0.01104653 0.97610533 0.01284819],negative,-0.9650588
+"Needham defends Nvidia on crypto concerns; crypto competitor hits delay,?",[0.02028341 0.94187593 0.03784066],negative,-0.92159253
+"Morgan Stanley upgrades Nvidia on cryptocurrency mining offsets,?",[0.13038786 0.66120785 0.20840429],negative,-0.53082
+"Morgan Stanley upgrades Nvidia to 20% upside,?",[0.8068386  0.13296904 0.06019234],positive,0.67386955
+"""Evercore raises semi price targets, calls now a buying opportunity"",?",[0.21315098 0.02261653 0.7642325 ],neutral,0.19053446
+"""Nvidia -2 6% as Citron presses short, sees sub-$200 price"",?",[0.05084391 0.79143673 0.15771928],negative,-0.74059284
+"""Tech stocks down as U S , China reveal new tariffs"",?",[0.01906937 0.94000846 0.04092221],negative,-0.9209391
+"BofAML adds Nvidia to top ideas list,?",[0.11128135 0.05628776 0.83243096],neutral,0.054993592
+"Wells Fargo cuts Nvidia EPS estimate on falling GPU demand,?",[0.01421751 0.9628072  0.02297535],negative,-0.9485897
+"""Chips, Apple suppliers drop on Intel news"",?",[0.01478908 0.9473085  0.03790242],negative,-0.9325194
+"Nvidia CEO: Uber doesn't use our self-driving platform,?",[0.03266895 0.29707295 0.6702581 ],neutral,-0.264404
+"Analysts see near-8% Nvidia drop as overdone,?",[0.01187637 0.97139376 0.01672989],negative,-0.9595174
+"Nvidia on crypto-driven GPU shortage,?",[0.02300093 0.8883715  0.08862756],negative,-0.8653706
+"""Nvidia launches self-driving simulation system, Kubernetes support"",?",[0.27399027 0.01218323 0.71382654],neutral,0.26180705
+"Reuters: Nvidia suspends self-driving test program after Uber fatality,?",[0.01496243 0.9575809  0.02745663],negative,-0.9426185
+"""The Information: Google, Qualcomm, Samsung teaming on open source chip"",?",[0.02222473 0.02324166 0.9545337 ],neutral,-0.0010169297
+"""Analyst color on AMD downgrade, Nvidia target cut"",?",[0.06421875 0.5919037  0.34387755],negative,-0.5276849
+"Venture capital deals of the week,?",[0.03981891 0.09317428 0.8670068 ],neutral,-0.053355373
+"Argus raises its Nvidia target to 14% upside,?",[0.81427777 0.04694632 0.13877591],positive,0.7673315
+"U S  safety agencies probe first self-driving death,?",[0.02483397 0.8622144  0.1129517 ],negative,-0.8373804
+"RBC Capital raises Nvidia target to 15% upside,?",[0.85247    0.06755242 0.0799776 ],positive,0.78491753
+"""Jefferies: This upcoming film could serve as Nvidia, AMD catalyst"",?",[0.19929066 0.01004274 0.7906666 ],neutral,0.18924792
+"California takes humans out of driverless cars,?",[0.03820214 0.644753   0.31704485],negative,-0.6065508
+"Nvidia goes ex-dividend tomorrow,?",[0.04922464 0.2995969  0.6511784 ],neutral,-0.25037226
+"Nvidia +2% after CFO's comments at tech conference,?",[0.1737472  0.54814494 0.27810794],negative,-0.37439775
+"Analysts raise Nvidia price targets after earnings,?",[0.14624901 0.11141409 0.74233687],neutral,0.03483492
+"""Nvidia +11 5% on 34% revenue growth, upside guidance, gaming and data demand"",?",[0.25012952 0.04210733 0.70776314],neutral,0.20802219
+"""Nvidia beats by $0 56, beats on revenue"",?",[0.62089884 0.12784341 0.2512577 ],positive,0.49305543
+"""Nvidia, Continental AG team up on self-driving vehicle project"",?",[0.84516656 0.01288364 0.1419498 ],positive,0.8322829
+"Citron takes aim at Nvidia; shares down 3%,?",[0.00998678 0.9687264  0.02128681],negative,-0.95873964
+"Goldman Sachs removes Nvidia from Conviction Buy list; shares -1 2% (update),?",[0.05078489 0.7389661  0.210249  ],negative,-0.6881812
+"""Semiconductors finishing day strong after AMD, Samsung reports"",?",[0.77226806 0.07379029 0.15394168],positive,0.69847775
+"""AMD, Nvidia on the move after Intel's earnings report"",?",[0.09038855 0.12202973 0.78758174],neutral,-0.031641178
+"""Mizuho raises its Xilinx price target, prefers AMD and Nvidia"",?",[0.30502453 0.03453394 0.6604416 ],neutral,0.2704906
+"""BofA hikes Nvidia price target, estimates"",?",[0.06785496 0.26738456 0.6647604 ],neutral,-0.19952959
+"""Susquehanna: $500M in Q4 GPU sales thanks to crypto mining; AMD, Nvidia up"",?",[0.54333043 0.06091215 0.39575747],positive,0.48241827
+"Meet the names in the Amplify blockchain ETF,?",[0.0318835  0.03389031 0.9342262 ],neutral,-0.0020068102
+"""Chinese automaker will use self-driving platform from Nvidia, Baidu"",?",[0.23606476 0.00864961 0.7552856 ],neutral,0.22741516
+"Nvidia rolling out patches for chip security flaw,?",[0.3181974  0.05830095 0.62350166],neutral,0.25989646
+"More partners for Nvidia's self-driving tech,?",[0.61838186 0.01719642 0.36442173],positive,0.60118544
+"""Goldman Sachs calls Nvidia, Entegris top picks"",?",[0.36916617 0.02188051 0.60895336],neutral,0.34728566
+"""Benchmark: WDC, NVDA adding fuel to RISC-V movement"",?",[0.2400696  0.01278642 0.7471439 ],neutral,0.22728318
+"""NRG, Align Tech top year-end S&amp;P 500; Frontier brings up the rear"",?",[0.06272847 0.05878353 0.878488  ],neutral,0.003944941
+"Nvidia confirms GPU license change,?",[0.20285864 0.21835366 0.57878774],neutral,-0.015495017
+"Tech companies down on crypto crash,?",[0.01881986 0.9195434  0.06163677],negative,-0.9007235
+"Nvidia partners with Japanese builder for safer sites,?",[0.8203225  0.05975676 0.11992074],positive,0.76056576
+"Nvidia down after ex-Facebook exec implies caution,?",[0.02510359 0.9087857  0.06611075],negative,-0.88368213
+"CNBC: Musk confirms Tesla making AI hardware,?",[0.1619861  0.02297535 0.8150385 ],neutral,0.13901076
+"Nvidia introduces the Titan V,?",[0.0386676  0.03900606 0.9223263 ],neutral,-0.00033846498
+"Mizuho says Nvidia needs to shift focus; Nvidia insider sells shares,?",[0.1166486  0.12066018 0.7626912 ],neutral,-0.004011579
+"Nuance Communications up after rollout of radiology AI Marketplace,?",[0.89194536 0.020158   0.0878966 ],positive,0.87178737
+"""GE, Nvidia to partner in bringing AI platform to GE Healthcare"",?",[0.8194074  0.00825613 0.17233649],positive,0.81115127
+"Nvidia goes ex-dividend tomorrow,?",[0.04922462 0.2995969  0.6511785 ],neutral,-0.2503723
+"""BMO upgrades Nvidia, increases price target (update)"",?",[0.7870382  0.05289301 0.16006875],positive,0.7341452
+"Analysts raise Nvidia price targets after earnings,?",[0.14624901 0.11141409 0.74233687],neutral,0.03483492
+"""Nvidia reports Q3 beats, upside guidance, and strength in Datacenter"",?",[0.7291032  0.03974847 0.23114829],positive,0.6893547
+"""Nvidia beats by $0 26, beats on revenue"",?",[0.6426949  0.12727189 0.23003323],positive,0.515423
+"Chips down ahead of Nvidia's earnings; what to look for in the report,?",[0.04442357 0.54306513 0.41251132],negative,-0.49864155
+"Intel hires AMD's chief architect of Radeon,?",[0.03767503 0.02253394 0.9397911 ],neutral,0.015141094
+"Intel hires AMD's chief architect of Radeon,?",[0.03767503 0.02253394 0.9397911 ],neutral,0.015141094
+"Intel hires AMD's chief architect of Radeon,?",[0.03767503 0.02253394 0.9397911 ],neutral,0.015141094
+"WSJ: AMD and Intel planning joint PC chip to take on Nvidia (update),?",[0.15168132 0.01889247 0.8294262 ],neutral,0.13278885
+"What to watch for in Intel's aftermarket report,?",[0.03714724 0.02637553 0.93647724],neutral,0.01077171
+"Xilinx down after Mizuho Securities note,?",[0.01340327 0.9513562  0.03524053],negative,-0.9379529
+"Jefferies increases Nvidia's price target (update),?",[0.3792244  0.12207408 0.49870148],neutral,0.2571503
+"Mizuho Securities raises its Nvidia price target on GPU strength,?",[0.80890137 0.05668272 0.13441595],positive,0.75221866
+"Needham ups Nvidia price target on data center potential,?",[0.05928994 0.15388238 0.7868276 ],neutral,-0.094592445
+"Goldman Sachs ups Nvidia's price target,?",[0.07419784 0.08530179 0.84050035],neutral,-0.011103943
+"""Nvidia, partners announce self-driving delivery truck test fleet"",?",[0.2425273  0.01155609 0.7459166 ],neutral,0.23097122
+"Nvidia unveils new self-driving taxi hardware,?",[0.58665395 0.01397113 0.39937496],positive,0.5726828
+"""Retiring TSMC founder expects spending increases, praises Nvidia"",?",[0.67719525 0.02106816 0.30173656],positive,0.6561271
+"Barclays raises Nvidia price target,?",[0.23770823 0.17954369 0.5827481 ],neutral,0.058164537
+"Citi raises Nvidia price target,?",[0.21425782 0.18906154 0.59668064],neutral,0.025196284
+"Google Assistant comes to Nvidia Shield TV today,?",[0.04739913 0.09319348 0.85940737],neutral,-0.045794353
+"Nvidia announces server partnerships for V100 accelerators,?",[0.345636   0.02449961 0.6298644 ],neutral,0.3211364
+"Bloomberg: Tesla replacing Nvidia with Intel for infotainment components,?",[0.08640859 0.02152428 0.8920672 ],neutral,0.06488432
+"ICE announces launch of FANG-based tech index,?",[0.2493433  0.03674898 0.71390766],neutral,0.21259433
+"""AMD, Nvidia fall after Intel processor reveal"",?",[0.01764867 0.9323879  0.04996352],negative,-0.91473925
+"AMD partner denies Tesla product commitment,?",[0.05915422 0.2191662  0.72167957],neutral,-0.16001199
+"Analysts weigh in on AMD's Tesla collaboration,?",[0.33872953 0.30522785 0.35604262],neutral,0.033501685
+"CNBC: Tesla working with AMD on self-driving car chip,?",[0.353709   0.01265057 0.6336404 ],neutral,0.34105843
+"BofAML ups Nvidia price target to near Street high,?",[0.7390763  0.15836707 0.10255659],positive,0.5807092
+"Semiconductors nearing 17-year high,?",[0.4092257  0.17889398 0.4118803 ],neutral,0.23033172
+"Evercore ISI raises Nvidia price target,?",[0.35413793 0.26174596 0.38411608],neutral,0.09239197
+"Voluntary rules for self-driving cars,?",[0.03710391 0.0174054  0.94549066],neutral,0.019698514
+"""Semiconductor revenue totals $101 4B in Q2, AMD and Nvidia lead growths"",?",[0.83606076 0.02673834 0.13720086],positive,0.8093224
+"Self-driving guidelines hit the road,?",[0.09836008 0.18344855 0.7181914 ],neutral,-0.08508847
+"""Jefferies expects cryptocurrency demand to continue for Nvidia, AMD"",?",[0.75941867 0.01149701 0.2290843 ],positive,0.74792165

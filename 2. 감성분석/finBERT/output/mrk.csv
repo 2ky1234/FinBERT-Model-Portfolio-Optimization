@@ -1,0 +1,656 @@
+sentence,logit,prediction,sentiment_score
+"title,
+First rolling review of COVID-19 vaccine data underway in Europe,?",[0.10127038 0.00674081 0.8919888 ],neutral,0.09452957
+"Phreesia acquires web-based workflow applications,?",[0.14327598 0.00620393 0.8505201 ],neutral,0.13707206
+"FDA issues final rule for importation of drugs from abroad,?",[0.15427677 0.01095887 0.83476436],neutral,0.14331791
+"All six COVID-19 vaccines in industrial manufacturing - HHS Secretary Azar,?",[0.03194725 0.07600048 0.8920523 ],neutral,-0.044053234
+"Stricter FDA standards make COVID-19 vaccine approval unlikely before election day,?",[0.04808173 0.6615122  0.29040617],negative,-0.61343044
+"""Vaccinex lead candidate flunks Huntington's study, shares crater 59%"",?",[0.22922811 0.09719853 0.6735734 ],neutral,0.13202958
+"Merck's Keytruda improves survival in first-line esophageal cancer study,?",[0.47696438 0.13776457 0.38527104],positive,0.3391998
+"Keytruda/Lenvima combo shows positive action in range of cancers,?",[0.6027805  0.02369149 0.37352803],positive,0.57908905
+"Merck announces encouraging data on three pipeline candidates at ESMO,?",[0.9041739  0.02312689 0.07269926],positive,0.881047
+"Merck 셲 Keytruda delays recurrence and distant metastasis vs  placebo in skin cancer,?",[0.06302406 0.64853203 0.28844395],negative,-0.585508
+"""AstraZeneca, Merck Lynparza shows positive action in late-stage prostate cancer study"",?",[0.68090916 0.03354327 0.28554758],positive,0.64736587
+"Seeking Alpha Catalyst Watch,?",[0.05278904 0.02536338 0.9218475 ],neutral,0.027425667
+"AstraZeneca's Lynparza shows positive effect in BRCA-mutated ovarian cancer,?",[0.646052   0.04785112 0.30609685],positive,0.5982009
+"Immutep reports encouraging results from mid-stage TACTI-002 study,?",[0.9398823  0.01807286 0.04204494],positive,0.92180943
+"Vaccinex partners with Merck in cancer,?",[0.05740223 0.02481735 0.91778034],neutral,0.032584876
+"Exicure's cavrotolimod shows encouraging action in early-stage solid tumor study,?",[0.8120037  0.02224988 0.16574639],positive,0.7897538
+"Cancer advances ignite broad biotech and specialized ETF surge,?",[0.4246683  0.01883635 0.55649537],neutral,0.40583196
+"Merck Enbrel biosimilar OK'd in Canada for four new uses,?",[0.06008569 0.02838484 0.9115295 ],neutral,0.03170085
+"Seattle Genetics teams up with Merck in cancer,?",[0.07469005 0.01913268 0.9061773 ],neutral,0.055557374
+"Merck COVID-19 vaccine begins human testing in Belgium study - WSJ,?",[0.03836596 0.05533863 0.9062954 ],neutral,-0.016972668
+"AstraZeneca COVID-19 vaccine on track for 2020 filing: Soriot,?",[0.05173551 0.10661171 0.8416528 ],neutral,-0.054876205
+"Merck's 15-valent pneumonia vaccine successful in late-stage studies,?",[0.7759123  0.02073781 0.20335   ],positive,0.75517446
+"AstraZeneca COVID-19 vaccine study put on hold after adverse reaction,?",[0.02661951 0.7979556  0.1754249 ],negative,-0.7713361
+"Drug company chiefs sign pledge backing COVID-19 vaccine safety and efficacy,?",[0.8193724  0.0219725  0.15865509],positive,0.79739994
+"Merck's gefapixant successful in late-stage chronic cough studies,?",[0.33461374 0.02530533 0.640081  ],neutral,0.3093084
+"""Sanofi/GSK initiate Phase 1/2 COVID-19 trial, first results expected early December"",?",[0.06569541 0.00797095 0.92633367],neutral,0.057724457
+"Prepare for coronavirus vaccine as soon as late October - CDC,?",[0.02955941 0.02581155 0.944629  ],neutral,0.0037478544
+"""Muddy Waters goes short on Inovio, citing Covid 'hype'"",?",[0.02214979 0.8997175  0.07813262],negative,-0.8775677
+"AstraZeneca starts U S  final-stage trial of COVID-19 vaccine,?",[0.14977111 0.07003865 0.78019017],neutral,0.07973246
+"Sanofi plans to start human testing of COVID-19 vaccine - Bloomberg,?",[0.04666161 0.0088614  0.94447696],neutral,0.037800208
+"Coronavirus vaccine makers seek EU liability protections,?",[0.14412247 0.01899662 0.8368809 ],neutral,0.12512586
+"Don 셳 cry for 3 Dow Jones leavers; stocks tend to hold up,?",[0.20465948 0.445213   0.35012752],negative,-0.24055351
+"""Pfizer booted from DJIA, Amgen replaces"",?",[0.03991183 0.7671187  0.1929695 ],negative,-0.7272069
+"Merck's Keytruda nabs two nods in Japan,?",[0.25571135 0.2658606  0.4784281 ],neutral,-0.0101492405
+"Investors in COVID-19 stocks face turmoil in coming weeks on vaccine data readouts,?",[0.01631607 0.9358412  0.04784285],negative,-0.91952515
+"Merck's Keytruda extends survival in first-line esophageal cancer,?",[0.65841734 0.04264484 0.2989379 ],positive,0.6157725
+"""Merck finds London site for 짙1B research, business hub"",?",[0.12468508 0.0128159  0.86249906],neutral,0.11186918
+"Clovis up 20% on rucaparib data in prostate cancer,?",[0.92114663 0.05368267 0.02517072],positive,0.86746395
+"WeChat ban challenges Apple's $44B market in China,?",[0.02521687 0.91742486 0.05735825],negative,-0.892208
+"Investors bag profits in COVID-19 vaccine players after run-up,?",[0.2715537 0.6375692 0.0908771],negative,-0.3660155
+"Russia nod on COVID-19 vaccine a propaganda win for Putin - NYT,?",[0.43382865 0.22358507 0.34258622],positive,0.21024358
+"Trump signs executive action to boost U S  production of 'essential' drugs,?",[0.9132695  0.01540008 0.07133035],positive,0.89786947
+"Current value of COVID-19 vaccine players overly bullish - Leerink,?",[0.03165428 0.87538695 0.0929588 ],negative,-0.84373266
+"Merck in-licenses NASH candidate from Hanmi Pharmaceutical,?",[0.0703757  0.04316401 0.88646036],neutral,0.027211696
+"Merck completes diclazuril deal with Elanco,?",[0.27689746 0.03781286 0.6852896 ],neutral,0.2390846
+"Merck +3% on Q2 beat; EPS guidance raised above expectations,?",[0.93147945 0.04122052 0.02729994],positive,0.8902589
+"""Merck EPS beats by $0 32, beats on revenue"",?",[0.30501252 0.08713823 0.60784924],neutral,0.21787429
+"Merck Q2 2020 Earnings Preview,?",[0.071109  0.2582578 0.6706332],neutral,-0.18714881
+"FDA accepts Merck applications for expanded uses of Keytruda,?",[0.13049155 0.02329945 0.84620905],neutral,0.10719211
+"FDA grants accelerated review to Merck's MK-6482 for rare kidney cancer,?",[0.5119796  0.01896252 0.46905795],positive,0.49301708
+"Merck declares $0 61 dividend,?",[0.05620442 0.74999493 0.19380066],negative,-0.6937905
+"Lumos rises on sale of its priority voucher rights for $60M,?",[0.89568055 0.0446096  0.05970979],positive,0.85107094
+"COVID-19 vaccine makers have different plans on pricing,?",[0.03839271 0.02571319 0.93589413],neutral,0.012679525
+"FDA accepts Merck application for heart drug vericiguat under accelerated review,?",[0.2785494  0.04034819 0.6811024 ],neutral,0.23820122
+"Nabriva inks Sivextro distribution with Merck,?",[0.03351284 0.02340922 0.94307786],neutral,0.010103622
+"Novocure teams up with Merck in lung cancer study,?",[0.23521845 0.01308037 0.7517012 ],neutral,0.22213809
+"""Healthcare resilient, but still looking for a breakout moment"",?",[0.5909431  0.05366684 0.3553901 ],positive,0.53727627
+"FDA OKs Merck Animal Health one-month chews for fleas and ticks,?",[0.07724098 0.2979685  0.62479055],neutral,-0.22072753
+"Merck nabs accelerated review in U S  for Keytruda for second-line cHL,?",[0.09190615 0.06923821 0.8388557 ],neutral,0.022667937
+"Merck inks new deal with Zymeworks for up to three antibodies,?",[0.7547362  0.04031535 0.2049485 ],positive,0.71442086
+"Moderna completes enrollment in mid-stage study of COVID-19 vaccine,?",[0.61735433 0.02872269 0.35392296],positive,0.58863163
+"Bellus Health lead drug flunks chronic cough study,?",[0.03619815 0.11260311 0.85119873],neutral,-0.07640496
+"Merck Animal Health completes acquisition of U S  rights to Sentinel brand,?",[0.10169286 0.0166051  0.881702  ],neutral,0.085087754
+"Smaller cap COVID-19 vaccine players under pressure on Pfizer data,?",[0.02457161 0.9238917  0.05153666],negative,-0.8993201
+"FDA guides on COVID-19 vaccine approval criteria,?",[0.03657035 0.01064005 0.95278955],neutral,0.0259303
+"FDA OKs Merck's Keytruda for highly mutating forms of colorectal cancer,?",[0.11470297 0.04271861 0.8425784 ],neutral,0.07198436
+"Vaxart +70% after Covid-19 'Warp Speed' designation for its vaccine,?",[0.74679536 0.07597691 0.1772277 ],positive,0.67081845
+"U S  debut on horizon for iTeos Therapeutics,?",[0.04321385 0.07660507 0.8801811 ],neutral,-0.033391215
+"FDA OKs Merck's Keytruda for treatment-resistant type of skin cancer,?",[0.22923899 0.03643911 0.73432195],neutral,0.19279988
+"""COVID-19 Update: NY and NJ impose inbound quarantine, CA and TX cases surge"",?",[0.078922  0.5894921 0.3315859],negative,-0.5105701
+"Merck teams up with Yumanity in neurodegenerative diseases,?",[0.1485945  0.01509618 0.8363093 ],neutral,0.13349833
+"Dosing underway in BioInvent's combination trial with Merck for solid tumors,?",[0.09900749 0.01446106 0.8865315 ],neutral,0.08454643
+"Merck pneumonia vaccine successful in late-stage studies,?",[0.8547918  0.0179393  0.12726885],positive,0.83685255
+"Merck's Keytruda OK'd in China for 2nd-line esophageal cancer,?",[0.08070796 0.06021986 0.8590722 ],neutral,0.020488098
+"""Merck completes Themis buy, coronavirus vaccine trials on tap"",?",[0.27661967 0.02064763 0.7027327 ],neutral,0.25597206
+"Merck prices $4 5B debt offering at par,?",[0.03228409 0.0315703  0.9361456 ],neutral,0.00071378425
+"FDA OKs Merck's Keytruda for second application based on biomarker,?",[0.14050007 0.02270183 0.8367981 ],neutral,0.11779824
+"Pfizer and Merck's diabetes med Steglatro shows mixed results in cardiovascular outcomes study,?",[0.01775952 0.94439465 0.03784592],negative,-0.92663515
+"FDA OKs new indication for Merck HPV vaccine,?",[0.3240751 0.0527436 0.6231813],neutral,0.2713315
+"Three key studies of COVID-19 vaccines to launch in summer,?",[0.05768608 0.00805446 0.9342594 ],neutral,0.049631618
+"Merck's Keytruda flunks first-line bladder cancer study,?",[0.03814101 0.12796167 0.83389735],neutral,-0.08982065
+"China in thick of race for COVID-19 vaccine,?",[0.3256775  0.15042606 0.52389646],neutral,0.17525145
+"FDA OKs Merck combo antibiotic for bacterial pneumonia,?",[0.16469109 0.05187543 0.7834335 ],neutral,0.11281566
+"White House picks five COVID vaccine candidates for Warp Speed initiative,?",[0.09721453 0.01676734 0.88601816],neutral,0.0804472
+"European advisory group backs new indications of five meds,?",[0.7491294  0.02139301 0.2294776 ],positive,0.7277364
+"Keytruda/Lenvima combo shows benefit liver and kidney cancers,?",[0.11186775 0.07545313 0.8126791 ],neutral,0.036414616
+"All eyes on ASCO,?",[0.03375925 0.19488904 0.7713517 ],neutral,-0.16112979
+"Merck declares $0 61 dividend,?",[0.05620442 0.74999493 0.19380066],negative,-0.6937905
+"COVID-19 vaccine timeframe 'very aggressive' - Merck CEO,?",[0.21916066 0.01911322 0.76172614],neutral,0.20004745
+"Merck jumps into COVID-19 arena with three initiatives,?",[0.72319835 0.01104074 0.26576093],positive,0.7121576
+"Vaxcyte files for IPO,?",[0.03710129 0.16984397 0.79305476],neutral,-0.13274269
+"Surface Oncology teams up with Merck in cancer study; shares up 35%,?",[0.8532449  0.01101006 0.13574496],positive,0.84223485
+"FDA OKs Lynparza for certain prostate cancer patients,?",[0.12689525 0.03842553 0.83467925],neutral,0.08846972
+"Merck names new CFO and CIO for Organon spinoff,?",[0.02925751 0.03148935 0.93925315],neutral,-0.0022318326
+"Teleflex up 5% on positive UroLift data,?",[0.9230185  0.05104728 0.02593422],positive,0.87197125
+"FDA OKs Myriad test as companion diagnostic for Lynparza in ovarian cancer,?",[0.20412038 0.02082659 0.775053  ],neutral,0.18329379
+"FDA OKs new use of AstraZeneca and Merck's Lynparza,?",[0.13403727 0.15646502 0.7094977 ],neutral,-0.022427753
+"Genprex up 39% premarket on Oncoprex IP deal,?",[0.889896   0.07670341 0.03340066],positive,0.81319255
+"FDA OKs six-week dosing of Merck's Keytruda,?",[0.12570898 0.52297723 0.3513138 ],negative,-0.39726824
+"Merck Keytruda sales up 45%; guidance lowered due to COVID-19 impact,?",[0.6493291  0.3299215  0.02074938],positive,0.3194076
+"""Merck EPS beats by $0 16, beats on revenue"",?",[0.25728986 0.07963219 0.6630779 ],neutral,0.17765766
+"Merck Q1 2020 Earnings Preview,?",[0.06798553 0.2404061  0.69160837],neutral,-0.17242056
+"Merck teams up with ISB to investigate mechanisms of COVID-19 infection,?",[0.22050332 0.01676969 0.762727  ],neutral,0.20373362
+"Heartburn meds for COVID-19  NY is trying it,?",[0.05914801 0.03250115 0.9083508 ],neutral,0.02664686
+"AstraZeneca's Lynparza extends survival in certain prostate cancer patients,?",[0.9253407  0.02270821 0.05195105],positive,0.9026325
+"FDA OKs Agilent companion test to Merck's Keytruda,?",[0.14907199 0.03261316 0.81831485],neutral,0.11645883
+"Merck refiles U S  application for six-week dosing for Keytruda,?",[0.7209903  0.0821733  0.19683643],positive,0.638817
+"Merck expands $0 co-pay program amid pandemic disruptions,?",[0.85548407 0.06541672 0.07909923],positive,0.7900673
+"Merck launches Herceptin biosimilar in U S ,?",[0.05918752 0.04923128 0.8915812 ],neutral,0.009956241
+"FDA OKs AstraZeneca and Merck's selumetinib for rare nervous system disorder,?",[0.03070643 0.89359504 0.07569858],negative,-0.86288863
+"""Big names open cash spigot to fight COVID-19, many others active"",?",[0.20478435 0.05156773 0.74364793],neutral,0.15321662
+"Rexahn bails on cancer candidate RX-5902 in triple negative breast cancer,?",[0.38957164 0.10787011 0.50255823],neutral,0.28170153
+"FDA OKs generic version of Merck bronchospasm med,?",[0.10921282 0.04871968 0.84206754],neutral,0.060493138
+"FDA accepts Merck application for expanded use of Keytruda,?",[0.40317297 0.05015332 0.54667366],neutral,0.35301965
+"""Cowen bullish on Amarin, sees potential $20/share"",?",[0.41476977 0.12750842 0.45772186],neutral,0.28726137
+"Merck's Keytruda shows positive effect in highly mutating colorectal cancer,?",[0.7797018  0.02477123 0.19552688],positive,0.7549306
+"Merck's vericiguat shows positive effect in large-scale CV outcomes study,?",[0.9280105  0.0250867  0.04690286],positive,0.9029238
+"Merck donates 300K masks to support COVID-19 response in New Jersey,?",[0.74989176 0.03371592 0.21639226],positive,0.71617585
+"FDA backs telemedicine for vets,?",[0.26284575 0.08609635 0.65105796],neutral,0.17674941
+"ANI Pharma files U S  application for competitor to Mallinckrodt's Acthar Gel,?",[0.12189359 0.02608228 0.85202414],neutral,0.095811315
+"Merck donates 500K masks to support Covid-19 response in NYC,?",[0.7388665  0.0308376  0.23029588],positive,0.7080289
+"Merck's gafapixant successful in late-stage cough studies,?",[0.427517   0.03193706 0.54054594],neutral,0.39557993
+"UK cost watchdog thumbs down on Merck's Keytruda for bladder cancer,?",[0.02211655 0.9394226  0.03846078],negative,-0.91730607
+"""When the going gets tough, the tough go shopping"",?",[0.07613832 0.27974913 0.6441126 ],neutral,-0.20361081
+"Merck extends research term of first program with Sutro,?",[0.6055904  0.01775466 0.37665495],positive,0.5878357
+"AstraZeneca's Lynparza doublet therapy flunks ovarian cancer study,?",[0.04226634 0.6877445  0.26998916],negative,-0.6454781
+"FDA adds boxed warning to Merck's asthma med Singulair,?",[0.25249526 0.16015773 0.58734703],neutral,0.092337534
+"Merck's Keytruda tops Seattle Genetics' Adcetris in late-stage lymphoma study,?",[0.09024853 0.07980163 0.8299498 ],neutral,0.010446891
+"Dems attack Trump over stalled efforts to lower drug prices,?",[0.01620423 0.9509424  0.03285347],negative,-0.93473816
+"Seattle Genetics' PADCEV nabs accelerated review for first-line bladder cancer,?",[0.09965253 0.03744002 0.86290747],neutral,0.06221251
+"FDA rejects six-week dosing for Merck's Keytruda,?",[0.02505767 0.91652244 0.05841995],negative,-0.89146477
+"Merck Ebola vaccine OK'd in four African countries,?",[0.0652947  0.24741161 0.6872937 ],neutral,-0.18211691
+"Merck's Keytruda meets PFS endpoint in TNBC study,?",[0.09141315 0.01913486 0.8894519 ],neutral,0.07227829
+"Merck passes on KalVista DME candidate,?",[0.16938673 0.04725295 0.78336036],neutral,0.122133784
+"Bristol-Myers Squibb and Merck going opposite ways with PD-1 inhibitors,?",[0.0936502 0.2001029 0.7062469],neutral,-0.106452696
+"""Merck slips 1% on Q4 results, spinout planned"",?",[0.01194579 0.9701342  0.01791988],negative,-0.9581884
+"Merck to sharpen focus on key growth drivers via spinout of non-core units,?",[0.8151102  0.01964378 0.16524597],positive,0.7954664
+"""Merck EPS beats by $0 01, misses on revenue"",?",[0.1352496 0.5340921 0.3306583],negative,-0.3988425
+"Merck Q4 2019 Earnings Preview,?",[0.0572838  0.26362535 0.67909086],neutral,-0.20634155
+"FDA accepts Merck application for expanded use of Recarbrio,?",[0.37913296 0.04567776 0.57518923],neutral,0.3334552
+"Merck withdraws Keytruda application in Europe for esophageal cancer,?",[0.02606564 0.9083887  0.06554568],negative,-0.882323
+"Merck declares $0 61 dividend,?",[0.05620442 0.74999493 0.19380067],negative,-0.6937905
+"FDA OKs expanded use for Merck's Dificid,?",[0.7709678  0.03114333 0.19788887],positive,0.7398245
+"Keytruda combo OK'd in Canada for first-line kidney cancer,?",[0.06293228 0.46487707 0.47219062],neutral,-0.4019448
+"Leap's DKN-01 shows positive effect in esophagogastric cancer,?",[0.8336441  0.03192585 0.13443005],positive,0.80171824
+"Merck expands licensing agreement with Theramex for oral contraceptive,?",[0.9035382  0.02318713 0.07327468],positive,0.8803511
+"Merck sues Teva to block entry of generic Dificid,?",[0.01944729 0.93538046 0.0451722 ],negative,-0.9159332
+"AstraZeneca's Lynparza nabs accelerated review in U S  for prostate cancer,?",[0.104748   0.09885862 0.79639333],neutral,0.005889371
+"BerGenBio's bemcentinib shows positive action in mid-stage lung cancer study,?",[0.71252173 0.02911523 0.25836313],positive,0.6834065
+"Drugmakers getting creative over ways to pay for pricey meds,?",[0.26921806 0.0777887  0.65299326],neutral,0.19142936
+"California mulling private-label generics to address high drug costs,?",[0.38789636 0.04048318 0.57162046],neutral,0.34741318
+"FDA OKs Merck's Keytruda for treatment-resistant bladder cancer,?",[0.24019367 0.05268138 0.70712495],neutral,0.18751228
+"Merck's Keytruda shows mixed results in late-stage lung cancer study,?",[0.02132473 0.9141654  0.06450991],negative,-0.8928406
+"Merck teams up with Taiho Pharma and Astex Pharma in cancer,?",[0.16419107 0.01309676 0.8227121 ],neutral,0.1510943
+"End-of-year drug approvals in U S  associated with more adverse events - study,?",[0.12943196 0.23464456 0.6359235 ],neutral,-0.1052126
+"""Apple, Microsoft top Dow 2019 standings; Walgreens wobbles to the bottom"",?",[0.03133077 0.8605796  0.10808964],negative,-0.82924885
+"Drugmakers to hike U S  prices of over 200 meds,?",[0.4761878  0.29905367 0.22475852],positive,0.17713413
+"Myriad up 6% premarket on FDA nod for test as Lynparza companion diagnostic,?",[0.84478086 0.11113977 0.04407939],positive,0.7336411
+"FDA OK's Lynparza as maintenance treatment of BRCA-mutated pancreatic cancer,?",[0.07033368 0.03952166 0.8901446 ],neutral,0.030812025
+"New indications for Merck's Keytruda OK'd in Japan,?",[0.30581737 0.01646386 0.6777188 ],neutral,0.28935352
+"FDA OKs Merck Ebola vaccine,?",[0.10544816 0.25674295 0.6378089 ],neutral,-0.1512948
+"White House releases plan allowing drug imports from Canada,?",[0.3705067  0.03044211 0.59905124],neutral,0.3400646
+"Merck adds to aquaculture portfolio with Vaki purchase,?",[0.21524711 0.00813047 0.7766224 ],neutral,0.20711663
+"FDA advisory committee backs Merck's Keytruda for NMIBC,?",[0.26908514 0.18515588 0.54575896],neutral,0.083929256
+"Merck begins tender offer to acquire Arqule,?",[0.294185   0.01584306 0.6899719 ],neutral,0.27834195
+"Key events this week - healthcare,?",[0.0487745  0.06027637 0.8909492 ],neutral,-0.0115018785
+"OncoSec Medical down 13% despite positive TOVA data in TNBC,?",[0.01071854 0.9779348  0.01134672],negative,-0.96721625
+"European advisory group backs Merck's combo anti-infective,?",[0.58527094 0.22708015 0.18764892],positive,0.35819077
+"""House passes drug pricing bill, Senate unlikely to support"",?",[0.33575028 0.14121519 0.5230345 ],neutral,0.19453509
+"Merck's Keytruda extends survival in first-line lung cancer,?",[0.49412635 0.02833709 0.47753653],positive,0.46578926
+"KalVista's KVD001 flunks mid-stage DME study; shares down 20% premarket,?",[0.00908874 0.9768485  0.01406283],negative,-0.9677597
+"ArQule up 101% premarket on Merck bid,?",[0.85796183 0.1018316  0.04020651],positive,0.7561302
+"Algernon Pharma up 29% on encouraging ifenprodil data,?",[0.86430657 0.10554649 0.03014692],positive,0.7587601
+"AstraZeneca's Lynparza OK'd in China for 1st-line maintenance of ovarian cancer,?",[0.09701457 0.05856766 0.84441775],neutral,0.03844691
+"Seattle Genetics &amp; Astellas team up with Merck in first-line urothelial cancer,?",[0.5874478 0.0120432 0.400509 ],positive,0.57540464
+"Merck's Keytruda nabs accelerated review in U S  for bladder cancer,?",[0.05519229 0.06306623 0.88174146],neutral,-0.007873941
+"Merck's Keytruda lands another approval in China,?",[0.7799759  0.06415821 0.15586583],positive,0.7158177
+"Launch of new generic drugs in U S  still lags - WSJ,?",[0.08999056 0.54090893 0.3691005 ],negative,-0.45091838
+"Merck's Keytruda OK'd in Europe for first-line HNSCC,?",[0.0849579  0.05221415 0.8628279 ],neutral,0.03274375
+"Merck declares $0 61 dividend,?",[0.05620442 0.74999493 0.19380066],negative,-0.6937905
+"FDA accepts Bioepis' application for Avastin biosimilar,?",[0.46773538 0.03672331 0.49554133],neutral,0.43101206
+"Ontario and Quebec on board with Merck HIV meds,?",[0.08838544 0.09088285 0.82073164],neutral,-0.0024974048
+"Merck and Bayer's vericiguat successful in late-stage heart failure study,?",[0.69033015 0.03904433 0.2706255 ],positive,0.6512858
+"FDA's OK's Merck's topical med for cats,?",[0.05803215 0.01119566 0.9307721 ],neutral,0.046836488
+"FDA accepts selumetinib marketing application for NF1,?",[0.12579185 0.12810214 0.74610597],neutral,-0.002310291
+"Merck Ebola vaccine OK'd in Europe,?",[0.06156261 0.29385614 0.6445812 ],neutral,-0.23229353
+"BioLineRx down 7% on BL-8040 data,?",[0.00949901 0.9744981  0.01600292],negative,-0.9649991
+"Boston nonprofit playing big role in drug pricing,?",[0.06044889 0.00998659 0.92956454],neutral,0.050462306
+"Merck strikes out in bid to reverse adverse ruling in Hep C patent fight with Gilead,?",[0.4330123  0.47721216 0.0897755 ],negative,-0.044199854
+"""Drug shortages reflect """"broken market"""" - FDA"",?",[0.03655954 0.74596983 0.21747068],negative,-0.7094103
+"Merck up 3% premarket on Q3 beat,?",[0.83892035 0.12145744 0.03962224],positive,0.7174629
+"""Merck EPS beats by $0 27, beats on revenue"",?",[0.2500114  0.06945346 0.68053514],neutral,0.18055795
+"Merck Q3 2019 Earnings Preview,?",[0.05277926 0.22102825 0.7261925 ],neutral,-0.16824898
+"Merck down 4% on Bristol-Myers' lung cancer data,?",[0.01036141 0.9704996  0.01913905],negative,-0.96013814
+"Merck to cut 500 commercial jobs next quarter,?",[0.01190544 0.9697687  0.01832584],negative,-0.9578633
+"European advisory group backs new regimens of Merck's Keytruda,?",[0.5246912  0.04834402 0.42696473],positive,0.4763472
+"European advisory group backs Merck Ebola vaccine,?",[0.1190877  0.10110367 0.7798087 ],neutral,0.017984025
+"Pelosi drug bill passes first House committee,?",[0.1061075  0.06412653 0.829766  ],neutral,0.041980974
+"Pelosi drug bill would save $345B - CBO,?",[0.5330992  0.10223491 0.36466596],positive,0.43086427
+"FDA OKs Hisamitsu Pharma's asenapine patch for schizophrenia,?",[0.13546827 0.45580274 0.408729  ],negative,-0.32033446
+"Congo to use J&amp;J Ebola vaccine to counter current outbreak,?",[0.32169133 0.02622395 0.6520847 ],neutral,0.29546738
+"""Keytruda on path to become world's no  1 selling drug, research firm says"",?",[0.86173546 0.02003918 0.11822534],positive,0.84169626
+"Merck 셲 Keytruda approved as monotherapy in China for patients with NSCLC,?",[0.04991926 0.19568625 0.7543945 ],neutral,-0.14576699
+"FDA accepts Merck's two applications for Dificid,?",[0.75708735 0.05154712 0.19136545],positive,0.70554024
+"""AstraZeneca, Merck's Lynparza meets primary goal in late-stage study"",?",[0.16305654 0.00981838 0.8271251 ],neutral,0.15323816
+"Merck's Recarbrio successful in late-stage RESTORE-IMI 2 study,?",[0.56393504 0.02140024 0.4146648 ],positive,0.5425348
+"Sell-siders weight in on ESMO data presentations,?",[0.07174364 0.52151406 0.40674227],negative,-0.44977042
+"I-Mab Bio collaborates with MSD to evaluate TJC4 in combination with KEYTRUDA,?",[0.3499334  0.00989776 0.64016885],neutral,0.34003562
+"Congo to deploy J&amp;J's Ebola vaccine,?",[0.09616691 0.06714915 0.8366839 ],neutral,0.029017754
+"Drug makers up after McConnell thumbs down on Pelosi price pricing plan,?",[0.1654755  0.7373854  0.09713921],negative,-0.5719099
+"FDA OKs expanded use for Merck HIV meds,?",[0.74661    0.02708678 0.22630323],positive,0.7195232
+"""Keytruda/Lenvima combo simultaneously OK'd in U S , Australia and Canada"",?",[0.32599533 0.05422759 0.619777  ],neutral,0.27176774
+"FDA accepts Merck application for Ebola vaccine,?",[0.4194026  0.08766384 0.4929336 ],neutral,0.33173877
+"EC OKs Keytruda/Inlyta combo for first-line kidney cancer,?",[0.05204011 0.08256549 0.8653944 ],neutral,-0.030525375
+"Boehringer and Merck settle swine vaccine patent dispute,?",[0.06519707 0.82824224 0.10656069],negative,-0.7630452
+"FDA warns on rare liver injury with HCV meds,?",[0.06135828 0.6778155  0.26082617],negative,-0.6164572
+"Mitsubishi Tanabe launches late-stage study in U S  for continuous Parkinson's therapy,?",[0.19885163 0.03294569 0.76820266],neutral,0.16590594
+"HHS pledges $23M for Merck's Ebola vaccine,?",[0.33665425 0.01300353 0.6503422 ],neutral,0.32365072
+"Ra Pharma earns milestone from Merck on start of early-stage study,?",[0.9217029  0.02934458 0.0489525 ],positive,0.89235836
+"FDA OKs Roche's cancer med entrectinib,?",[0.06638918 0.2515995  0.6820113 ],neutral,-0.18521032
+"AstraZeneca and Merck's Lynparza shows positive effect in late-stage ovarian cancer study,?",[0.78770673 0.04432873 0.16796453],positive,0.743378
+"AstraZeneca and Merck's Lynparza shows treatment benefit in late-stage prostate cancer study,?",[0.29328743 0.02157048 0.68514204],neutral,0.27171695
+"FDA OKs new use for Merck's Keytruda,?",[0.20216706 0.03523793 0.762595  ],neutral,0.16692913
+"Trump readies plan to allow drug imports from Canada,?",[0.23189083 0.02099379 0.7471153 ],neutral,0.21089704
+"Merck up 3% premarket on Q2 beat,?",[0.84074634 0.11872934 0.04052428],positive,0.722017
+"""Merck EPS beats by $0 14, beats on revenue"",?",[0.2576572  0.09556246 0.6467803 ],neutral,0.16209474
+"Merck Q2 2019 Earnings Preview,?",[0.05541131 0.2302006  0.71438813],neutral,-0.1747893
+"European advisory group backs expanded label for Merck's Zerbaxa,?",[0.7155474  0.02422911 0.26022354],positive,0.6913183
+"European advisory group backs Merck's Keytruda + Pfizer's Inlyta in first-line kidney cancer,?",[0.2484341  0.05962532 0.69194055],neutral,0.18880878
+"Merck's Keytruda shows positive effect in late-stage TNBC study; shares up 1% premarket,?",[0.94264156 0.03141272 0.02594573],positive,0.91122884
+"Drug pricing bill passes Senate committee,?",[0.09736327 0.0569513  0.8456854 ],neutral,0.040411968
+"Merck's islatravir shows positive action in mid-stage HIV study,?",[0.7998946  0.02741064 0.17269482],positive,0.77248394
+"FDA OKs Merck's Humira biosimilar,?",[0.08642121 0.35875615 0.5548226 ],neutral,-0.27233493
+"Merck declares $0 55 dividend,?",[0.05124653 0.7506905  0.19806294],negative,-0.699444
+"Keytruda + Lenvima Breakthrough Therapy for first-line liver cancer,?",[0.08455542 0.02010241 0.89534223],neutral,0.064453006
+"Intec Pharma's Accordion Pill flunks late-stage Parkinson's study; shares down 78% premarket,?",[0.00921905 0.9751589  0.01562207],negative,-0.9659398
+"Ebola outbreak declared global health emergency,?",[0.02267757 0.89132786 0.08599456],negative,-0.8686503
+"Aussie regulator conditionally OKs expanded uses for Merck's Keytruda,?",[0.64323354 0.03734661 0.3194198 ],positive,0.60588694
+"FDA OKs Merck's triplet antibiotic,?",[0.19075918 0.10650935 0.70273143],neutral,0.08424983
+"AbbVie enters STING field with Mavupharma buy,?",[0.06672461 0.06590395 0.8673715 ],neutral,0.0008206591
+"Big Biopharma in the red as investors wait for Trump's drug price plan,?",[0.12227999 0.30262405 0.57509595],neutral,-0.18034406
+"FDA accepts supplemental BLAs from Merck to update dosing frequency for Keytruda,?",[0.15034215 0.0421031  0.8075547 ],neutral,0.10823905
+"Rule requiring drug prices in TV ads blocked,?",[0.0264234  0.77331036 0.20026621],negative,-0.74688697
+"Biotechs and biopharmas under pressure ahead of Trump order on drug prices,?",[0.02890452 0.8849845  0.08611099],negative,-0.85608
+"Drug stocks slip after Trump talks up `favored nations' plan,?",[0.03068205 0.93824273 0.03107514],negative,-0.9075607
+"Pfizer may trim Prevnar 13 guidance after ACIP vote - Cantor,?",[0.1005898  0.05886873 0.8405415 ],neutral,0.041721072
+"U S  drugmakers institute new round of increases,?",[0.56877416 0.02739524 0.40383062],positive,0.5413789
+"CDC advisory group backs HPV catch-up vaccination,?",[0.25453413 0.04273125 0.70273465],neutral,0.21180287
+"Pharma players in green on AbbVie/Allergan deal,?",[0.03242384 0.07224407 0.8953321 ],neutral,-0.039820235
+"""New data on Affimed's lead candidate fails to excite investors, shares down 12%"",?",[0.01167435 0.97367746 0.01464826],negative,-0.9620031
+"Morgan Stanley boosts Merck after analyst day,?",[0.6023275  0.23057882 0.16709371],positive,0.3717487
+"Merck's animal health medicine M&amp;A interest moving the sector,?",[0.05736744 0.0096231  0.9330095 ],neutral,0.04774434
+"""Merck considers CMO, CFO for lead role - Bloomberg"",?",[0.0273347  0.02295591 0.94970936],neutral,0.0043787826
+"LYNPARZA OK'd in Japan as first-line maintenance therapy for ovarian cancer,?",[0.04090732 0.04774174 0.9113509 ],neutral,-0.006834425
+"Merck's LYNPARZA OK'd in EU for ovarian cancer,?",[0.08628557 0.19967917 0.7140353 ],neutral,-0.1133936
+"Drug companies file suit to block disclosure of drug prices in TV ads,?",[0.02738814 0.7726023  0.2000095 ],negative,-0.74521416
+"FDA names companies to build blockchain network for drug supply chain,?",[0.21646023 0.00890698 0.77463275],neutral,0.20755324
+"IMV's DPX-Survivac shows encouraging action in mid-stage DLBCL study,?",[0.9233172  0.01318991 0.06349296],positive,0.9101273
+"FDA OKs Agilent companion diagnostic for Keytruda in HNSCC,?",[0.07058264 0.08661117 0.8428062 ],neutral,-0.016028523
+"FDA OKs Merck's Keytruda for first-line HNSCC,?",[0.10688794 0.02614294 0.86696917],neutral,0.080745004
+"Merck to acquire Tilos Therapeutics for up to $773M,?",[0.05125405 0.00600023 0.94274575],neutral,0.045253817
+"Novo's oral semaglutide successful in two late-stage T2D studies,?",[0.79475975 0.04022194 0.1650184 ],positive,0.7545378
+"FDA OKs expanded use of Merck's Zerbaxa,?",[0.6593428  0.06034392 0.28031328],positive,0.5989989
+"Aduro down 42% on underwhelming data on STING candidate,?",[0.00996367 0.97642595 0.01361046],negative,-0.96646225
+"England's cost watchdog on board with Merck's Prevymis,?",[0.10245007 0.02810947 0.86944044],neutral,0.0743406
+"Merck presents final data from late-stage study of Keytruda in first-line HNSCC,?",[0.04587469 0.02570807 0.9284172 ],neutral,0.020166615
+"Merck declares $0 55 dividend,?",[0.05124653 0.7506905  0.19806294],negative,-0.699444
+"OncoSec's TAVO shows encouraging action in mid-stage TNBC study,?",[0.9133112  0.01522237 0.07146642],positive,0.8980888
+"Merck to acquire Peloton Therapeutics for up to $2 2B,?",[0.07379538 0.00596113 0.92024344],neutral,0.06783425
+"Merck's Keytruda fails to beat chemo in late-stage breast cancer study,?",[0.12779523 0.7917305  0.08047427],negative,-0.6639353
+"Intec Pharma +14% on Merck collaboration,?",[0.15996976 0.08564491 0.75438535],neutral,0.07432485
+"Iovance up 28% premarket on positive TIL data,?",[0.88406014 0.0898269  0.02611297],positive,0.79423326
+"FDA finalizes guidance on interchangeable biosimilars,?",[0.10185465 0.00869719 0.88944817],neutral,0.09315746
+"Takeda in-licenses STING candidate from Curadev,?",[0.09538225 0.13653408 0.76808363],neutral,-0.04115183
+"Drug makers to face added pricing pressure in Canada under new proposal - Reuters,?",[0.7122327  0.16497713 0.12279012],positive,0.5472556
+"Drug makers to disclose prices in TV ads as early as this summer,?",[0.03426061 0.41447988 0.5512595 ],neutral,-0.38021928
+"Merck's 15-valent pneumonia vaccine on par with 13-valent in mid-stage study,?",[0.51133883 0.03045327 0.45820788],positive,0.48088557
+"Merck's Belsomra successful in late-stage study in Alzheimer's insomnia,?",[0.8214797  0.01886103 0.1596593 ],positive,0.8026186
+"Merck steps up MMR vaccine production,?",[0.5446829  0.02430429 0.43101278],positive,0.52037865
+"Checkpoint up 5% on positive cosibelimab data,?",[0.9361852  0.04284165 0.02097315],positive,0.8933435
+"Merck up 1% on Q1 beat; raised guidance,?",[0.93860346 0.03235632 0.02904027],positive,0.90624714
+"Merck to restructure to optimize manufacturing and supply chain,?",[0.3861382  0.01933392 0.5945279 ],neutral,0.36680427
+"""Merck beats by $0 17, beats on revenue"",?",[0.42383644 0.09405905 0.48210457],neutral,0.3297774
+"Merck Q1 2019 Earnings Preview,?",[0.05254334 0.20559247 0.74186414],neutral,-0.15304913
+"European advisory group backs AstraZeneca's Lynparza in first-line ovarian cancer,?",[0.22623934 0.3009598  0.47280088],neutral,-0.07472046
+"Merck boosting U S  supply of MMR vaccine,?",[0.88365626 0.06203941 0.05430435],positive,0.8216168
+"Merck's Keytruda fails to beat chemo in first-line gastric/GEJ cancer study,?",[0.19007634 0.7687709  0.04115278],negative,-0.5786945
+"FDA OKs Merck 셲 Keytruda in combination with Inlyta for RCC,?",[0.08604135 0.23665874 0.6773    ],neutral,-0.15061739
+"Drugmaker selloff intensifies on D C  pricing headwinds,?",[0.0314892  0.9244717  0.04403912],negative,-0.8929825
+"Merck's Zerbaxa on par with meropenem in late-stage pneumonia study,?",[0.17840712 0.04104775 0.7805451 ],neutral,0.13735937
+"FDA OKs expanded use for Merck's Keytruda,?",[0.7638068  0.03395269 0.20224042],positive,0.7298541
+"European Commission OKs new use of AstraZeneca's Lynparza,?",[0.21790177 0.03697066 0.74512756],neutral,0.1809311
+"Endo to supply generic version of PROVENTIL in U S ,?",[0.11466596 0.01668136 0.8686527 ],neutral,0.097984605
+"Myriad expands partnership with AstraZeneca and Merck,?",[0.9075457  0.01429927 0.07815501],positive,0.8932464
+"Iovance Bio up 6% on pipeline update,?",[0.9172157  0.0613836  0.02140069],positive,0.8558321
+"Trillium adds STING candidate to pipeline,?",[0.14191386 0.04246913 0.815617  ],neutral,0.09944473
+"BerGenBio extends phase II combination trial in NSCLC,?",[0.8003331  0.01892826 0.18073866],positive,0.78140485
+"Syndax down 4% on updated entinostat data,?",[0.00904127 0.97559935 0.01535933],negative,-0.9665581
+"Advaxis up 39% premarket on positive ADXS-PSA data,?",[0.91392565 0.06200187 0.02407253],positive,0.85192376
+"Merck up 1% premarket on Keytruda approval for first-line lung cancer in China,?",[0.838558   0.13137357 0.03006843],positive,0.70718443
+"FDA grants Breakthrough Therapy Designation for Selumetinib in NF1,?",[0.828774   0.02318051 0.14804558],positive,0.8055935
+"FDA tentatively OKs Teva's generic Stromectol,?",[0.21851383 0.07453252 0.7069537 ],neutral,0.14398131
+"Novo's oral semaglutide beats Merck's Januvia in late-stage study,?",[0.41546434 0.29990005 0.2846356 ],positive,0.11556429
+"Conatus flop fails to move NASH players,?",[0.03554343 0.8360987  0.12835798],negative,-0.8005552
+"Reuters: UPS eyes health logistics market with home vaccine test,?",[0.39360046 0.05713165 0.5492679 ],neutral,0.33646882
+"Merck extends partnership with NGM Biopharmaceuticals,?",[0.9068689  0.01167122 0.08145989],positive,0.89519763
+"EC OK's Merck's Keytruda in first-line lung cancer,?",[0.04687927 0.06116333 0.8919574 ],neutral,-0.014284059
+"Conatus up 22% ahead of Emricasan data presentation,?",[0.9298243  0.04221787 0.0279579 ],positive,0.88760644
+"Hemispherx Bio up 8% on Ampligen progress,?",[0.8818779  0.09319567 0.02492635],positive,0.7886822
+"Trump 2020 drug pricing initiatives - part 2,?",[0.05858786 0.01319763 0.92821455],neutral,0.04539023
+"Trump aiming to rein in drug cost with range of proposals,?",[0.25155717 0.01099634 0.7374464 ],neutral,0.24056083
+"Immutep down 4% on lead candidate data,?",[0.00962849 0.9755646  0.01480688],negative,-0.9659361
+"Merck prices $5B debt offering,?",[0.03375999 0.05544501 0.91079503],neutral,-0.021685023
+"Merck prevails in Levothyrox litigation in France,?",[0.1762609  0.4706265  0.35311258],negative,-0.29436558
+"Merck begins tender offer for Immune Design,?",[0.43785214 0.01632122 0.5458266 ],neutral,0.42153093
+"European advisory group backs new dosing regimen for Merck's Keytruda,?",[0.570231   0.03697818 0.39279082],positive,0.53325284
+"Pharma chiefs defend merits of current system on innovation at Senate hearing,?",[0.34418508 0.10217885 0.5536361 ],neutral,0.24200624
+"Day of reckoning for Big Pharma,?",[0.12897167 0.03318312 0.83784527],neutral,0.09578855
+"U S  healthcare spending to rise 5 5% per annum over next decade,?",[0.93548167 0.0123371  0.05218122],positive,0.9231446
+"Merck to acquire Immune Design for $300M,?",[0.03121265 0.01466295 0.9541244 ],neutral,0.016549695
+"Merck nabs accelerated review for Keytruda in treatment-resistant SCLC,?",[0.14663696 0.03770497 0.8156581 ],neutral,0.10893199
+"Merck's Keytruda flunks liver cancer study,?",[0.03279876 0.12806723 0.83913404],neutral,-0.09526846
+"Maryland strikes out in reviving drug price-gouging law,?",[0.50890714 0.07255215 0.4185407 ],positive,0.436355
+"Merck's Keytruda tops Pfizer's Sutent in first-line kidney cancer,?",[0.08636748 0.58177996 0.33185259],negative,-0.49541247
+"FDA OKs expanded use for Merck's Keytruda,?",[0.7638068  0.03395269 0.20224042],positive,0.7298541
+"FDA creates new accelerated review pathway for generic drug applications,?",[0.64949435 0.01183326 0.33867237],positive,0.6376611
+"""Cerecor nabs new patent in U S  for nOH, shares up 14% premarket"",?",[0.9386991  0.02419114 0.03710975],positive,0.914508
+"FDA grants accelerated review for Merck's application for Keytruda + Inlyta in first-line kidney cancer,?",[0.49362454 0.01967482 0.48670068],positive,0.47394973
+"Keytruda combo therapies show positive effects in prostate cancer study,?",[0.49741408 0.02560307 0.47698292],positive,0.471811
+"Merck's Keytruda trumps Opdivo + Yervoy in first-line kidney cancer; shares up 3%,?",[0.9153491  0.03342758 0.05122334],positive,0.8819215
+"SELLAS to launch study of GPS + Keytruda in WT1+ cancers; shares up 4% premarket,?",[0.9252524  0.03384048 0.04090717],positive,0.8914119
+"Boehringer Ingelheim teams up with IBM to explore use of blockchain in clinical trials,?",[0.65819544 0.01477881 0.3270257 ],positive,0.64341664
+"FDA grants priority review for Merck 셲 KEYTRUDA for HNSCC,?",[0.20284547 0.02767568 0.7694789 ],neutral,0.1751698
+"Merck KGaA teams up with Glaxo to develop cancer candidate,?",[0.8105841  0.01285529 0.17656063],positive,0.79772884
+"Codexis up 13% premarket on Merck deal,?",[0.87022644 0.09154249 0.03823109],positive,0.77868396
+"""BofA/Merrill Lynch likes Merck, top pharma pick"",?",[0.4989443  0.03046109 0.4705946 ],positive,0.4684832
+"European advisory group backs Merck's Keytruda in first-line lung cancer,?",[0.3772154  0.08407989 0.53870475],neutral,0.2931355
+"Drug wholesalers/PBMs claw back from selloff from proposed elimination of rebates,?",[0.48686698 0.48629266 0.02684039],positive,0.00057432055
+"Oncosec up 2% on TAVO + Keytruda data in melanoma,?",[0.9124365  0.06522534 0.02233819],positive,0.8472111
+"Merck Q4 top line up 5%,?",[0.9038698  0.05566536 0.04046481],positive,0.84820443
+"""Merck beats by $0 01, beats on revenue"",?",[0.39448163 0.08377212 0.5217462 ],neutral,0.3107095
+"Merck Q4 2018 Earnings Preview,?",[0.06433408 0.27151656 0.6641494 ],neutral,-0.20718248
+"FDA OKs new use for Lilly's Alimta,?",[0.17119618 0.05258448 0.77621937],neutral,0.1186117
+"FDA grants accelerated review status for Merck's 15-valent pneumococcal vaccine,?",[0.8333163  0.01722826 0.14945537],positive,0.8160881
+"Merck declares $0 55 dividend,?",[0.05124648 0.7506905  0.19806293],negative,-0.69944406
+"Tiny Israeli firm touts cancer cure,?",[0.11096476 0.17471549 0.7143197 ],neutral,-0.06375073
+"Mid-stage melanoma study of Evelo's EDP1503 + Keytruda underway,?",[0.04515016 0.11525691 0.83959293],neutral,-0.070106745
+"Early Q4 reports weigh on large cap drug makers,?",[0.01702694 0.9430623  0.03991076],negative,-0.92603534
+"Hospitals squeezed by high drug costs,?",[0.01736939 0.9282488  0.05438172],negative,-0.91087943
+"Biopharma firms under pressure on Brexit uncertainty,?",[0.02554046 0.90402794 0.07043155],negative,-0.87848747
+"FDA to beef up cell and gene therapy staff,?",[0.08739396 0.80803335 0.10457266],negative,-0.7206394
+"FDA Commish touts advances/successes,?",[0.0690129 0.1513903 0.7795968],neutral,-0.082377404
+"Merck's Keytruda improves survival in certain esophageal cancer patients,?",[0.78406763 0.07454195 0.14139037],positive,0.7095257
+"Rep  Cummings opens investigation into drug prices,?",[0.05710392 0.2034302  0.73946595],neutral,-0.14632627
+"Dem lawmakers introduce bill to lower U S  drug prices,?",[0.3899921  0.21655986 0.39344808],neutral,0.17343223
+"MiRagen's cobomarsen shows positive action in early-stage blood cancer studies,?",[0.5577134  0.02648156 0.41580504],positive,0.5312318
+"Drug applications take back seat to safety surveillance at FDA during shutdown,?",[0.28142598 0.06187796 0.6566961 ],neutral,0.21954802
+"Brain tumor study underway assessing MN-166 + chemo,?",[0.05392067 0.07892106 0.86715823],neutral,-0.025000393
+"Hemispherx Bio up 22% on Ampligen + Keytruda studies,?",[0.92518646 0.05084604 0.02396753],positive,0.8743404
+"Moderna up 6% premarket on pipeline update,?",[0.8696652  0.08624564 0.04408922],positive,0.78341955
+"""Biotechs lead broad market advance, XBI up 5%"",?",[0.9280057  0.02137722 0.05061716],positive,0.9066285
+"Generex up 26% on possible NuGenerex spinout,?",[0.8862999  0.08691274 0.02678729],positive,0.79938716
+"Cocrystal Pharma up 11% on Merck collaboration,?",[0.8978576  0.07543442 0.02670794],positive,0.82242316
+"Japan OKs five new indications for Merck's Keytruda,?",[0.443981   0.04343033 0.5125887 ],neutral,0.40055066
+"Merck in-licenses NASH/T2D candidate,?",[0.046437   0.05956897 0.89399403],neutral,-0.013131969
+"Drug makers OK with price inclusion in TV ads if done fairly,?",[0.16820462 0.01973196 0.81206346],neutral,0.14847267
+"Scorecard for the markets in 2018,?",[0.03809049 0.04382417 0.91808534],neutral,-0.00573368
+"""Merck, Pfizer top Dow 2018 standings; Goldman Sachs slides to the bottom"",?",[0.0378437  0.8314235  0.13073282],negative,-0.7935798
+"""FDA approves Merck, Sanofi pediatric vaccine"",?",[0.6891896  0.02322184 0.28758857],positive,0.66596776
+"FDA extends review period 90 days for Merck's Keytruda in first-line lung cancer,?",[0.5225225  0.10835528 0.36912218],positive,0.41416723
+"AstraZeneca's Lynparza successful in late-stage study in third-line ovarian cancer,?",[0.7779312  0.03125028 0.19081852],positive,0.7466809
+"FDA OKs Merck's Keytruda for rare type of skin cancer,?",[0.18028347 0.12616768 0.69354886],neutral,0.054115787
+"FDA OKs expanded use for AstraZeneca's Lynparza,?",[0.6348785  0.05524209 0.30987936],positive,0.57963645
+"Aduro Bio out-licenses cGAS-STING inhibitor program to Eli Lilly; shares up 32% after hours,?",[0.8892127  0.02106205 0.0897252 ],positive,0.86815065
+"Merck's Keytruda OK'd in Europe for adjuvant advanced melanoma,?",[0.11861551 0.02174207 0.8596424 ],neutral,0.09687344
+"J&amp;J weighing on big biopharma players,?",[0.0551872  0.2871435  0.65766937],neutral,-0.2319563
+"Leap's TRX518 shows positive action in Phase 1/2 cancer study,?",[0.7469259 0.0313684 0.2217057],positive,0.7155575
+"Idera Pharma down 11% premarket on updated mid-stage tilsotolimod data,?",[0.00961771 0.97571534 0.01466704],negative,-0.96609765
+"Merck to acquire Antelliq Group for    1B plus debt,?",[0.0397894  0.01954057 0.94066995],neutral,0.020248827
+"""Senate Dems introduce bill to block """"excessive"""" increases in drug prices"",?",[0.06372406 0.4535793  0.48269662],neutral,-0.38985527
+"Merck teams up with Brazilian non-profit to develop dengue vaccine,?",[0.8380633  0.01268641 0.14925033],positive,0.82537687
+"Roche teams up with Merck to develop new companion test for Keytruda,?",[0.7201562  0.01084981 0.26899397],positive,0.70930636
+"BioLineRx up 2% premarket on start of triple combo arm in mid-stage pancreatic cancer study,?",[0.9219002  0.04179171 0.036308  ],positive,0.8801085
+"Merck announces executive appointments,?",[0.0326717  0.08121426 0.88611406],neutral,-0.048542563
+"Ebola spreads to major Congo city,?",[0.05309131 0.7776815  0.16922724],negative,-0.72459024
+"Merck HIV treatments OK'd in Europe,?",[0.07092453 0.13553317 0.7935423 ],neutral,-0.06460864
+"NewLink up 14% on Merck BLA for Ebola vaccine,?",[0.90469414 0.07120463 0.02410121],positive,0.83348954
+"Merck's Keytruda beats chemo in late-stage study in esophageal cancer,?",[0.06304125 0.04800941 0.88894933],neutral,0.015031844
+"Merck starts rolling BLA for Ebola vaccine,?",[0.40779716 0.07944456 0.51275826],neutral,0.3283526
+"Express Scripts launches new formulary aimed at reducing drug costs,?",[0.79577124 0.02592365 0.17830513],positive,0.7698476
+"FDA accepts AstraZeneca's marketing application for expanded use for Lynparza,?",[0.5606134  0.03774249 0.4016441 ],positive,0.5228709
+"Investors underwhelmed with Aduro's early-stage data on STING candidate; shares down 11%,?",[0.00969757 0.9780195  0.01228295],negative,-0.9683219
+"Keytruda + Lenvima combo shows positive effect in Phase 1b/2 study in three tumor types,?",[0.8177028  0.03886858 0.14342865],positive,0.7788342
+"Merck's cancer candidates MK-4280 and MK-7684 show encouraging action in early-stage studies,?",[0.7359818  0.01623997 0.24777822],positive,0.7197418
+"Alkermes up 3% on accelerated plan for ALKS 4230,?",[0.91078216 0.06460162 0.02461625],positive,0.84618056
+"OncoSec down 56% premarket on mid-stage TAVO data,?",[0.00942791 0.973489   0.01708314],negative,-0.9640611
+"BioXcel up 7% premarket on advancement of lead I-O candidate,?",[0.9289741  0.04412155 0.02690443],positive,0.8848525
+"Advaxis bails on Phase 1/2 study of AXAL + Imfinzi; may tweak design of Phase 3 trial of AXAL monotherapy to accelerate data readout; shares down 6% premarket,?",[0.01198134 0.9741917  0.013827  ],negative,-0.96221036
+"TG Therapeutics up 7% on positive umbralisib + ublituximab data,?",[0.9312706  0.04414259 0.02458682],positive,0.887128
+"FDA OKs genetic test to inform on drug metabolism,?",[0.08477455 0.02178529 0.8934402 ],neutral,0.062989265
+"FDA OKs Merck's Keytruda + chemo for first-line lung cancer,?",[0.26376727 0.07970118 0.6565316 ],neutral,0.18406609
+"Generex to launch mid-stage study of AE37 + Keytruda in TNBC; shares up 3%,?",[0.9191616  0.0196455  0.06119286],positive,0.8995161
+"ViiV Healthcare's cabotegravir and rilpivirine regimen shows durable treatment effect in mid-stage HIV study,?",[0.5285279  0.02131515 0.45015693],positive,0.50721276
+"Syndax Pharma down 25% on negative outcome of entinostat study,?",[0.00938942 0.9757447  0.01486588],negative,-0.9663553
+"Trump mulling tieing U S  drug prices to Europe's,?",[0.09964583 0.30177897 0.5985752 ],neutral,-0.20213315
+"Merck Q3 top line up 5%; non-GAAP EPS up 7%; raises non-GAAP EPS guidance,?",[0.9432594  0.02645308 0.0302875 ],positive,0.91680634
+"Merck declares $0 55 dividend,?",[0.05124653 0.7506905  0.19806294],negative,-0.699444
+"""Merck beats by $0 05, misses on revenue"",?",[0.26776677 0.33543375 0.39679942],neutral,-0.06766698
+"Merck's Keytruda shows treatment benefit in late-stage HNSCC study,?",[0.55136764 0.02519523 0.42343712],positive,0.5261724
+"Bristol-Myers Squibb down 3% premarket on diminished prospects of overtaking Merck in first-line lung cancer,?",[0.01228507 0.97167724 0.01603771],negative,-0.9593922
+"Dynavax up 18% premarket on SD-101 + Keytruda data in melanoma,?",[0.87821686 0.09357496 0.02820824],positive,0.7846419
+"EMA adopts positive opinion for Merck 셲 KEYTRUDA as adjuvant therapy in Melanoma,?",[0.84023637 0.04424113 0.1155225 ],positive,0.79599524
+"Merck's STING agonist shows positive action in early-stage cancer study,?",[0.6037322  0.03088133 0.36538646],positive,0.5728509
+"Merck's Keytruda shows positive effect in mid-stage bladder cancer study,?",[0.85641754 0.02357915 0.12000329],positive,0.8328384
+"BioLineRx down 21% on mid-stage data for BL-8040 in pancreatic cancer,?",[0.01009485 0.97574276 0.01416235],negative,-0.96564794
+"EMA advisory group backs new indications for three meds,?",[0.53678936 0.01839294 0.4448177 ],positive,0.51839644
+"Merck's Keytruda + Pfizer's Inlyta successful in late-stage kidney cancer study,?",[0.09037901 0.02646391 0.883157  ],neutral,0.0639151
+"Merck appoints Jim Scholefield as Chief Information and Digital Officer,?",[0.03760055 0.08521076 0.8771887 ],neutral,-0.04761021
+"FDA issues new guidance aimed at more efficient drug development,?",[0.5877442  0.01367825 0.3985775 ],positive,0.5740659
+"OncoSec launches mid-stage study of TAVO + Keytruda in TNBC,?",[0.06347065 0.04298851 0.89354086],neutral,0.020482134
+"Dynavax SD-101 + Keytruda to be evaluated in mid-stage breast cancer study,?",[0.04568209 0.02822362 0.92609423],neutral,0.017458472
+"Merck bails on Lantus biosimilar,?",[0.09448291 0.62856245 0.2769546 ],negative,-0.53407955
+"FDA rejects Acacia Pharma's amisulpride for postop nausea and vomiting,?",[0.02716899 0.9110142  0.06181678],negative,-0.8838452
+"FDA OKs expanded use for Merck's Gardasil 9 HPV vaccine,?",[0.7757096  0.02976479 0.19452554],positive,0.74594486
+"Merck's HIV med Delstrigo shows long-term treatment effect in late-stage switching study,?",[0.18707514 0.02046428 0.79246056],neutral,0.16661087
+"Merck's Delstrigo shows sustained treatment effect in late-stage HIV study,?",[0.7636732  0.02536158 0.21096519],positive,0.7383116
+"Antibiotic developers in the green on Paratek news,?",[0.04967894 0.04300541 0.9073157 ],neutral,0.0066735297
+"""Sloan Kettering CEO leaves Merck, Charles River boards after disclosure"",?",[0.02432676 0.8232255  0.15244775],negative,-0.79889876
+"FDA issues new draft guidance aimed at speedier generic approvals,?",[0.50230527 0.01959274 0.478102  ],positive,0.48271254
+"NGM Biopharmaceuticals on deck for IPO,?",[0.03545481 0.04748069 0.9170645 ],neutral,-0.012025889
+"Merck board rescinds mandatory CEO retirement policy,?",[0.04231154 0.31369764 0.6439909 ],neutral,-0.2713861
+"Pfizer facing difficult path to ramp up biosimilar business,?",[0.39793867 0.11786977 0.4841916 ],neutral,0.2800689
+"Express Scripts taking credit for Gilead's planned launch of generic HCV meds,?",[0.09152287 0.00930432 0.89917284],neutral,0.08221855
+"Gilead to launch generic versions of Epclusa and Harvoni,?",[0.11791696 0.00717194 0.87491107],neutral,0.11074502
+"European advisory group backs Merck's HIV meds Delstrigo and Pifeltro,?",[0.4219331  0.09109214 0.48697478],neutral,0.33084098
+"Daiichi Sankyo to launch study of DS-8201/Keytruda combo in HER2+ cancers,?",[0.12329454 0.01107731 0.8656281 ],neutral,0.11221723
+"Bristol-Myers Opdivo price in China half of U S ,?",[0.05195354 0.61737406 0.33067238],negative,-0.5654205
+"House nixes drug prices in TV ads,?",[0.01647685 0.9259904  0.05753276],negative,-0.90951353
+"FDA action date approaches for Acacia Pharma's nausea and vomiting med amisulpride,?",[0.05994929 0.02992987 0.9101209 ],neutral,0.030019417
+"FDA grants priority review to Merck 셲 sBLA for KEYTRUDA as monotherapy for treatment of locally advanced or metastatic NSCLC,?",[0.29168266 0.01268982 0.6956275 ],neutral,0.27899283
+"Merck's combo antibiotic successful in late-stage pneumonia study,?",[0.70406914 0.01720477 0.2787261 ],positive,0.6868644
+"Alkermes adds Merck's Keytruda to early-stage study of ALKS 4230 in solid tumors,?",[0.10265882 0.01841128 0.8789299 ],neutral,0.084247544
+"European Commission approves Merck 셲 KEYTRUDA in combination with pemetrexed and platinum chemotherapy for the treatment of metastatic nonsquamous NSCLC,?",[0.8410575  0.01465782 0.14428478],positive,0.8263997
+"Ebola outbreak spreading in Congo,?",[0.02097552 0.90477365 0.07425079],negative,-0.8837981
+"Biotechs and biopharmas in the red,?",[0.04861803 0.03826561 0.91311634],neutral,0.010352418
+"Adocia's BioChaperone Pramlintide Insulin shows positive action in early-stage study in T1D,?",[0.6667694  0.04442897 0.2888016 ],positive,0.62234044
+"Eisai's Lenvima OK'd in China for liver cancer,?",[0.04921906 0.2640896  0.6866913 ],neutral,-0.21487056
+"FDA grants priority review to Merck 셲 sBLA for KEYTRUDA for the treatment of MCC,?",[0.44871122 0.01677322 0.53451556],neutral,0.431938
+"Big Pharma in the red after AstraZeneca lupus flop,?",[0.50323045 0.15182735 0.3449422 ],positive,0.35140312
+"FDA OKs two new HIV treatments from Merck,?",[0.6393562  0.14916056 0.21148318],positive,0.49019563
+"Roche to maintain leadership in oncology - Bloomberg Intelligence,?",[0.77638394 0.01354711 0.21006897],positive,0.7628368
+"FDA OKs BI's NexGard for prevention of Lyme disease in dogs,?",[0.24999437 0.06560069 0.6844049 ],neutral,0.18439367
+"23andMe cuts off app developers from raw genetic data,?",[0.01482677 0.9325509  0.05262228],negative,-0.91772413
+"AstraZeneca's Lynparza OK'd in China for ovarian cancer,?",[0.05789167 0.4620127  0.48009557],neutral,-0.40412104
+"Oklahoma first state to negotiate efficacy-based drug prices,?",[0.30938944 0.01920702 0.6714035 ],neutral,0.2901824
+"Eisai's Lenvima OK'd in Europe for first-line liver cancer,?",[0.05276247 0.11123236 0.83600515],neutral,-0.05846988
+"Congo clears more experimental Ebola treatments,?",[0.19210345 0.16408518 0.6438114 ],neutral,0.028018266
+"FDA OKs expanded use for Agilent companion diagnostic test; shares up 1%,?",[0.9307662  0.02050766 0.04872613],positive,0.9102586
+"Rexahn teams up with Merck on combo study in TNBC,?",[0.1396475  0.01627356 0.8440789 ],neutral,0.12337393
+"FDA OKs Merck's Keytruda for first-line lung cancer; shares up 2%,?",[0.9303515  0.03227305 0.03737548],positive,0.89807844
+"Big Pharma in the green in early trade,?",[0.09555165 0.13693275 0.7675156 ],neutral,-0.04138109
+"FDA OKs Eisai's Lenvima for first line liver cancer,?",[0.11482722 0.1322367  0.75293607],neutral,-0.017409489
+"Agenus earns second $4M milestone payment from Merck,?",[0.8328846  0.03450377 0.13261168],positive,0.79838085
+"FDA OKs birth control app,?",[0.06780986 0.10705474 0.8251354 ],neutral,-0.039244875
+"BeiGene launches late-stage study of tislelizumab in first-line lung cancer,?",[0.11615654 0.02130644 0.862537  ],neutral,0.09485011
+"Perrigo in-licenses rights to OTC version of Nasonex from Merck,?",[0.09992675 0.00472338 0.89534986],neutral,0.09520337
+"Vaccinations begin for Congo Ebola outbreak,?",[0.0898862  0.42049298 0.48962077],neutral,-0.3306068
+"AbbVie and Enanta down on loss of preferred status in HCV with Express Scripts,?",[0.0105309  0.96893734 0.02053167],negative,-0.95840645
+"Ebola vaccinations to begin in eastern Congo,?",[0.04105273 0.16746265 0.7914846 ],neutral,-0.12640992
+"Congo declares new Ebola outbreak,?",[0.03468395 0.8617283  0.10358765],negative,-0.82704437
+"Pfizer's Read thinks drug rebates going bye-bye in U S ,?",[0.09407671 0.08845076 0.8174725 ],neutral,0.0056259483
+"U S  healthcare spending nearing 20% of GDP,?",[0.4335152  0.21213244 0.35435238],positive,0.22138275
+"Lenvima/Keytruda combo a Breakthrough Therapy for type of endometrial cancer,?",[0.41347212 0.01394631 0.5725816 ],neutral,0.39952582
+"European advisory group backs Merck's Keytruda in first-line lung cancer,?",[0.3772154  0.08407989 0.53870475],neutral,0.2931355
+"""Merck tops estimates, lifts guidance; shares up 0 7%"",?",[0.92317694 0.04247833 0.03434465],positive,0.8806986
+"""Merck beats by $0 03, beats on revenue"",?",[0.35752624 0.08579146 0.5566823 ],neutral,0.27173477
+"Biogen slump pressures other biotechs,?",[0.03082874 0.86316097 0.10601034],negative,-0.83233225
+"AstraZeneca's selumetinib flunks late-stage thyroid cancer study,?",[0.02710728 0.84626526 0.12662745],negative,-0.81915796
+"Merck's Keytruda OK'd in China for advanced melanoma,?",[0.09104388 0.03629468 0.8726614 ],neutral,0.054749206
+"Merck's Keytruda extends survival in first-line HNSCC in late-stage study,?",[0.91449994 0.04138217 0.04411798],positive,0.87311774
+"End to Congo's ninth ebola outbreak,?",[0.03143192 0.8571186  0.11144939],negative,-0.8256867
+"BeiGene launches late-stage study of tislelizumab in first-line lung cancer,?",[0.11615654 0.02130644 0.862537  ],neutral,0.09485011
+"Merck declares $0 48 dividend,?",[0.0686477  0.68358976 0.24776256],negative,-0.6149421
+"Merck's doravirine shows treatment effect in late-stage HIV study,?",[0.15961869 0.03221042 0.80817086],neutral,0.12740827
+"BeiGene commences late-stage study of PARP inhibitor pamiparib in gastric cancer,?",[0.08779424 0.02416558 0.8880402 ],neutral,0.063628666
+"Merck says its prices fell in 2017,?",[0.01322692 0.9637818  0.02299136],negative,-0.95055485
+"Big Pharma in the red on ramped up pressure on drug prices,?",[0.23705223 0.58779377 0.17515403],negative,-0.35074154
+"Roche's Tecentriq shows treatment benefit in late-stage lung cancer study,?",[0.39529762 0.02128943 0.58341295],neutral,0.37400818
+"FDA committed to easing approval path for biosimilars,?",[0.7956273  0.01603281 0.18833989],positive,0.7795945
+"FDA OKs J&amp;J's single tablet darunavir-based regimen for HIV-1,?",[0.05793595 0.0509568  0.8911072 ],neutral,0.006979145
+"CVS responds to Trump Administration's request for info on now to lower drug prices,?",[0.44169956 0.06458196 0.4937185 ],neutral,0.3771176
+"Drug prices still marching upward - Bloomberg,?",[0.26511264 0.17230695 0.5625804 ],neutral,0.09280568
+"Big Pharma in the red after Pfizer backs away from price hikes,?",[0.25236553 0.6264341  0.1212004 ],negative,-0.37406856
+"""FDA accepts Merck's Keytruda application for advanced liver cancer, action date November 9"",?",[0.3356129  0.01738697 0.64700013],neutral,0.31822592
+"""Pricing transparency law in California having effect, drug makers nix planned increases"",?",[0.3463707  0.04767595 0.60595334],neutral,0.29869473
+"Vaccinex files for $46M initial public offering,?",[0.02942645 0.01280753 0.957766  ],neutral,0.01661892
+"Biotechs give up gains after Trump tweet on prices,?",[0.02842117 0.9060743  0.06550448],negative,-0.8776531
+"BELLUS Health launches early-stage of lead drug BLU-5937 for chronic cough; shares up 4%,?",[0.90692353 0.02406332 0.06901322],positive,0.8828602
+"Big Pharma in the green on Biogen's bullish news,?",[0.23213767 0.10034645 0.6675159 ],neutral,0.1317912
+"Alzheimer's players in the green on Biogen news,?",[0.06353623 0.10879105 0.82767266],neutral,-0.04525482
+"Insurers making headway on corralling drug costs with copay accumulators,?",[0.4249033  0.13278973 0.44230697],neutral,0.29211357
+"Pfizer boosts prices of certain drugs by almost 10%,?",[0.9224367  0.01521448 0.06234882],positive,0.9072222
+"""FDA grants accelerated review for Merck's Keytruda for first-line lung cancer, action date October 30"",?",[0.50797296 0.01366839 0.47835866],positive,0.49430457
+"AstraZeneca's Lynparza OK'd in Japan for type of breast cancer,?",[0.05493788 0.6645148  0.28054732],negative,-0.6095769
+"AstraZeneca +1 3% on Lynparza success,?",[0.07061559 0.71150285 0.21788153],negative,-0.64088726
+"Merck gets Feb  16 PDUFA date for Keytruda in melanoma,?",[0.15903744 0.0692523  0.7717103 ],neutral,0.089785144
+"FDA OKs Merck's Keytruda for type of non-Hodgkin lymphoma,?",[0.0775332  0.27739665 0.64507014],neutral,-0.19986345
+"FDA grants accelerated review for Merck's Gardasil application for expanded age indication; shares up 1% premarket,?",[0.92340225 0.04326607 0.03333164],positive,0.8801362
+"FDA OKs Merck's Keytruda for advanced cervical cancer,?",[0.15988187 0.04920079 0.7909173 ],neutral,0.11068109
+"EC OKs AstraZeneca's Tagrisso for first-line lung cancer,?",[0.06547913 0.29095277 0.6435681 ],neutral,-0.22547364
+"PBMs one-up drug makers on drug copay assistance schemes,?",[0.04718095 0.42635828 0.52646077],neutral,-0.37917733
+"Idera Pharma down 11% despite encouraging tilsotolimod data in melanoma,?",[0.0124124  0.97543323 0.01215439],negative,-0.9630208
+"Merck up 2% premarket on positive Keytruda data; Bristol-Myers down 2%,?",[0.07144305 0.904947   0.02361001],negative,-0.83350396
+"""Preliminary data on Jounce Therapeutics' lead candidate JTX-2011 fails to excite investors, shares down 19% premarket"",?",[0.01100321 0.97465265 0.01434418],negative,-0.96364945
+"ASCO wary of Trump plan to lower drug prices,?",[0.05384834 0.80205715 0.14409445],negative,-0.7482088
+"Neon Therapeutics readies IPO,?",[0.03946332 0.09308989 0.86744684],neutral,-0.053626567
+"FDA issues draft guidance aimed at easing regulatory path for generic drugs,?",[0.6821893  0.01615897 0.30165178],positive,0.6660303
+"Merck teams up with Premier to reduce recurrence of C  diff infection,?",[0.90865654 0.02605466 0.06528889],positive,0.88260186
+"InsightShares Patriotic Employers ETF (HONR) April Summary,?",[0.05352293 0.7402233  0.2062537 ],negative,-0.68670034
+"Xeris Pharmaceuticals on deck for IPO,?",[0.03888106 0.06714192 0.893977  ],neutral,-0.028260864
+"Eisai and Merck provide update on sNDA for Lenvatinib in HCC,?",[0.03093063 0.03015528 0.9389141 ],neutral,0.00077535585
+"Foundation Medicine teams up with Merck to develop companion diagnostic tests for Keytruda,?",[0.76677454 0.01151813 0.22170727],positive,0.7552564
+"Merck's Keytruda increased survival in first-line lung cancer study,?",[0.8207637  0.06744108 0.11179518],positive,0.7533226
+"Merck declares $0 48 dividend,?",[0.06864768 0.68358976 0.24776256],negative,-0.6149421
+"Two new Ebola deaths in Congo,?",[0.02095764 0.90797025 0.07107211],negative,-0.8870126
+"Congo begins Ebola vaccinations,?",[0.05249648 0.19870687 0.74879664],neutral,-0.14621039
+"Merck recovers from FDA alert-stoked selloff,?",[0.6137405  0.32451257 0.06174692],positive,0.28922793
+"Investors bullish on biotechs after Trump drug pricing speech,?",[0.5382825  0.19343632 0.2682812 ],positive,0.3448462
+"Congo's Ebola outbreak in 'new phase',?",[0.08435297 0.6013724  0.31427467],negative,-0.51701945
+"""Point72 adds heavy in WYNN, AVGO; trims CMCSA, APC, MU"",?",[0.45933595 0.06223107 0.47843295],neutral,0.3971049
+"Oryzon Genomics commences mid-stage study of Alzheimer's candidate,?",[0.08320498 0.01122021 0.90557486],neutral,0.07198476
+"New Ebola outbreak hits Congo,?",[0.02473808 0.898128   0.07713391],negative,-0.8733899
+"Trump speech on drug prices light on specifics,?",[0.03127027 0.05446739 0.9142624 ],neutral,-0.023197122
+"Trump plan on drug prices to be announced this afternoon,?",[0.05478737 0.04423248 0.9009801 ],neutral,0.010554884
+"OncoSec teams up with Merck in mid-stage study of ImmuoPulse + Keytruda in TNBC,?",[0.36816305 0.0167493  0.6150877 ],neutral,0.35141376
+"Expanded use of Lynparza approved in Europe,?",[0.6747038  0.01184762 0.31344864],positive,0.66285616
+"Merck's Keytruda meets response endpoint in late-stage study in first-line lung cancer; shares ahead 2% premarket,?",[0.5734248  0.08052849 0.3460467 ],positive,0.49289632
+"Developers backing away from IDO inhibitors after Incyte's epacadostat flop,?",[0.02182306 0.9326572  0.04551975],negative,-0.91083413
+"Merck Q1 revenues up 6%; non-GAAP EPS up 19%; updates guidance,?",[0.94687074 0.02250096 0.03062823],positive,0.9243698
+"""Merck beats by $0 05, misses on revenue"",?",[0.26776677 0.33543375 0.39679942],neutral,-0.06766698
+"FDA grants priority review for Merck's Keytruda in first-line lung cancer,?",[0.55703074 0.02635699 0.4166123 ],positive,0.53067374
+"Early-stage study of Keytruda/radiotherapy combo in bladder cancer suspended,?",[0.04432632 0.09348629 0.86218745],neutral,-0.049159966
+"EMA accepts Merck's marketing application for Keytruda for first-line lung cancer,?",[0.7843927  0.03182478 0.18378247],positive,0.75256795
+"Novartis Q1 results weigh on pharma stocks,?",[0.01554088 0.94738454 0.0370745 ],negative,-0.93184364
+"Dynavax Tech's lead candidate combined with Keytruda shows positive action in early-stage studies,?",[0.86548066 0.01376209 0.12075727],positive,0.85171854
+"Bristol-Myers' Opdivo/Yervoy combo beats chemo in first-line lung cancer; shares down 5% on Merck Keytruda data,?",[0.0098791  0.9775687  0.01255221],negative,-0.9676896
+"Merck's Keytruda shows treatment benefit in late-stage study in advanced melanoma; shares up 1% premarket,?",[0.9272346  0.020416   0.05234933],positive,0.90681857
+"Glaxo shingles vaccine capturing bulk of U S  market - Reuters,?",[0.04637214 0.27757657 0.6760513 ],neutral,-0.23120442
+"Merck's Keytruda successful in late-stage study in first-line lung cancer; shares up 3% premarket,?",[0.9413725  0.01869224 0.03993534],positive,0.92268026
+"Incyte epacadostat flop weighing on certain biotechs premarket,?",[0.04051606 0.58199894 0.37748498],negative,-0.54148287
+"Incyte's epacadostat flunks late-stage melanoma study,?",[0.05058068 0.51549506 0.4339243 ],negative,-0.46491438
+"Bullish prospects for Keytruda behind Barclays upgrade of Merck,?",[0.5608068  0.09572635 0.34346682],positive,0.46508047
+"Oryzon Genomics on go with mid-stage study of Alzheimer's candidate ORY-2001,?",[0.0640059  0.00951439 0.92647976],neutral,0.054491505
+"CMS finalizes policies to reduce drug costs for Medicare beneficiaries,?",[0.7569309  0.01674786 0.22632124],positive,0.740183
+"The EMA accepts regulatory submission for LYNPARZA in BRCA-mutated HER2-negative metastatic breast cancer,?",[0.41076952 0.02556695 0.5636635 ],neutral,0.38520256
+"Myriad Genetics BRACAnalysis test OK'd in Japan as companion diagnostic with Lynparza,?",[0.10955816 0.01760935 0.8728325 ],neutral,0.09194881
+"FDA working on policies to boost biosimilars,?",[0.4943293  0.01968305 0.4859877 ],positive,0.47464624
+"Big Pharma in the green as bargain hunters move in,?",[0.1265252  0.04170369 0.83177114],neutral,0.0848215
+"TESARO's Zejula + Merck's Keytruda shows positive effect in platinum-resistant ovarian cancer; shares up 2% after hours,?",[0.94651    0.02463655 0.02885334],positive,0.92187345
+"Eisai's Lenvima OK'd in Japan for liver cancer,?",[0.05100567 0.3440869  0.6049074 ],neutral,-0.29308122
+"FDA OKs Sun Pharma's Ilumya for plaque psoriasis,?",[0.13233265 0.46234524 0.4053221 ],negative,-0.3300126
+"FDA grants accelerated review for Merck's Keytruda in cervical cancer,?",[0.68786925 0.02472431 0.28740644],positive,0.66314495
+"Merck teams up with Eisai to commercialize cancer med Lenvima in deal valued as high as $5 76B,?",[0.8790901 0.0092604 0.1116495],positive,0.86982965
+"FDA OKs TaiMed's HIV med ibalizumab,?",[0.06493232 0.1699642  0.7651035 ],neutral,-0.10503188
+"Aduro earns $3M milestone from Merck on initiation of study of anti-CD27 antibody,?",[0.8918056  0.03057452 0.07761987],positive,0.8612311
+"Key events next week - healthcare,?",[0.03136595 0.05637266 0.91226137],neutral,-0.025006715
+"European advisory group backs the use of Merck's Isentress for newborns,?",[0.38396138 0.0537093  0.5623293 ],neutral,0.33025208
+"European advisory group backs expanded use for AstraZeneca's Lynparza,?",[0.8583709  0.01517154 0.12645756],positive,0.8431994
+"Merck takes out Aussie biotech Viralytics for $394M,?",[0.12598175 0.13280845 0.7412098 ],neutral,-0.006826699
+"Merck to buy Viralytics for $394M,?",[0.05901979 0.01029869 0.93068147],neutral,0.048721105
+"Gilead wins big reversal of patent verdict,?",[0.8030555  0.11023241 0.08671207],positive,0.6928231
+"FDA issues draft industry guidance for early-stage Alzheimer's disease,?",[0.07602201 0.01022304 0.9137549 ],neutral,0.06579897
+"AstraZeneca's selumetinib an Orphan Drug in U S  for NF1,?",[0.04541639 0.6432084  0.31137526],negative,-0.59779197
+"Merck bails on Alzheimer's candidate verubecestat,?",[0.09883048 0.34487024 0.5562993 ],neutral,-0.24603976
+"Merck slips 1% premarket on positive BMY data in first-line NSCLC,?",[0.01995822 0.96210116 0.01794057],negative,-0.94214296
+"Merck Q4 revenues up 3%; non-GAAP EPS up 10; updates guidance,?",[0.9480483  0.02578301 0.02616868],positive,0.9222653
+"""Merck beats by $0 04, misses on revenue"",?",[0.26643464 0.3240798  0.40948555],neutral,-0.057645172
+"Updated data on Affimed's AFM13 shows 89% response rate in HL patients; shares up 28%,?",[0.85813546 0.04022819 0.10163639],positive,0.8179073
+"Big biopharma firms poised to end session in the red after Trump comments on high prices,?",[0.08415074 0.732258   0.1835912 ],negative,-0.6481073
+"Height weighs in on Amazon/Berkshire/JPMorgan healthcare venture,?",[0.08256514 0.2274933  0.6899415 ],neutral,-0.14492816
+"Imprimis Pharma supplying two glaucoma drugs on FDA shortage list; shares ahead 51% premarket,?",[0.21053961 0.07313807 0.7163223 ],neutral,0.13740154
+"Big biopharma in the green after AbbVie's Q4 beat,?",[0.31303436 0.2701127  0.416853  ],neutral,0.042921662
+"Key events next week - healthcare,?",[0.03136595 0.05637266 0.91226137],neutral,-0.025006715
+"""European advisory group backs seven medicines for approval, rejects Repros' enclomiphene"",?",[0.06510641 0.7850403  0.1498532 ],negative,-0.7199339
+"Profit-taking weighs on biotechs and biopharmas,?",[0.03711341 0.8341043  0.12878221],negative,-0.7969909
+"Merck declares $0 48 dividend,?",[0.0686477  0.68358976 0.24776256],negative,-0.6149421
+"Merck's Keytruda shows treatment effect in mid-stage liver cancer study,?",[0.09922826 0.01622483 0.88454694],neutral,0.08300343
+"AstraZeneca's Lynparza OK'd in Japan for ovarian cancer; shares up 1% premarket,?",[0.9135296  0.04893785 0.03753253],positive,0.8645917
+"Big Biopharma in the red in early trade,?",[0.09136625 0.2954806  0.6131531 ],neutral,-0.20411435
+"""Merck's gain is Bristol-Myers' pain, shares down 5% on Keytruda success in first-line lung cancer"",?",[0.01136582 0.97232616 0.01630805],negative,-0.9609603
+"FDA launches new program to boost transparency of clinical data used to support approvals,?",[0.8644118  0.01315174 0.12243646],positive,0.85126
+"Dosing underway in early-stage study of Leap's TRX518 in advanced solid tumors; shares ahead 5% premarket,?",[0.5231433  0.05589592 0.42096072],positive,0.46724737
+"Merck's Keytruda successful in first-line lung cancer study; shares up 1% premarket,?",[0.9390112  0.02097074 0.04001804],positive,0.91804045
+"Keytruda/Lenvima combo a Breakthrough Therapy for kidney cancer,?",[0.23270938 0.0119342  0.75535643],neutral,0.22077517
+"Start of JPM18 fails to buoy healthcare stocks,?",[0.05678624 0.9068033  0.03641047],negative,-0.8500171
+"Merck's Keytruda extends recurrence-free survival in high-risk melanoma in late-stage study,?",[0.8748982  0.05137156 0.07373033],positive,0.8235266
+"FDA accepts Merck's NDAs for doravirine for HIV-1 infection,?",[0.7013012  0.05708365 0.24161509],positive,0.64421755
+"Goldman bullish on biopharma in 2018,?",[0.05836136 0.72708946 0.21454915],negative,-0.6687281
+"FDA advancing plan to streamline generic drug reviews,?",[0.47686931 0.0168237  0.506307  ],neutral,0.4600456
+"U S  drug approvals highest in 21 years,?",[0.41051763 0.13345073 0.45603165],neutral,0.2770669
+"Merck's Keytruda OK'd in Japan for treatment-resistant bladder cancer,?",[0.08355723 0.0703894  0.84605336],neutral,0.013167836
+"2017 leaders and laggards,?",[0.04283315 0.6027263  0.3544406 ],negative,-0.55989313
+"""Boeing, Caterpillar top Dow 2017 standings; GE lags far behind"",?",[0.20404077 0.4746399  0.3213193 ],negative,-0.27059913
+"FDA OKs Merck's Steglatro for type 2 diabetics,?",[0.1388745  0.13399994 0.7271256 ],neutral,0.0048745573
+"FDA OKs Merck's ertugliflozin/sitagliptin for T2D,?",[0.10006868 0.5070282  0.3929031 ],negative,-0.40695953
+"FDA accepts Samsung Bioepis' marketing application for Herceptin biosimilar,?",[0.3173639  0.04823356 0.6344025 ],neutral,0.26913032
+"Merck's Keytruda flunks late-stage study in second-line gastric cancer,?",[0.05536693 0.33211672 0.61251634],neutral,-0.2767498
+"FDA accepts Merck's marketing application for Keytruda for type of lymphoma; shares up 2%,?",[0.9097773  0.03996321 0.05025944],positive,0.8698141
+"Halaven/Keytruda combo shows 26% response rate in TNBC study,?",[0.57263505 0.07045535 0.3569096 ],positive,0.5021797
+"Merck weak ahead of Roche data release from late-stage study of Tecentriq in lung cancer; shares down 3%,?",[0.00928538 0.97527516 0.01543948],negative,-0.96598977
+"Merck announces increased quarterly dividend and $10B share repurchase authorization,?",[0.8905868  0.01980389 0.0896093 ],positive,0.8707829
+"Premarket analyst action - healthcare,?",[0.03490145 0.0790403  0.8860583 ],neutral,-0.044138853
+"Report: UPS license lets it get into pharma supply chain,?",[0.05266168 0.01672089 0.93061745],neutral,0.035940792
+"""Merck under pressure premarket on positive data Tecentriq data in lung cancer, shares down 2% premarket"",?",[0.01087264 0.97584915 0.01327815],negative,-0.9649765
+"Agenus receives $4M from Merck for advancement of antibody,?",[0.39550087 0.01432501 0.59017414],neutral,0.38117585
+"""Syndax Pharma reports study results that support treatment benefit of entinostat, investors unmoved after Nektar data, shares down 11%"",?",[0.01181845 0.9749408  0.01324066],negative,-0.9631223
+"Galectin's GR-MD-02 + Merck's Keytruda shows positive effect in melanoma patients in early-stage study; shares up 7%,?",[0.94610023 0.02044585 0.03345399],positive,0.9256544
+"FDA OKs Heron's Cinvanti for chemo-induced nausea and vomiting,?",[0.07534976 0.58608407 0.33856618],negative,-0.5107343
+"FDA OKs Merck's Prevymis for preventing CMV infection in HSCT patients,?",[0.49651575 0.05468917 0.448795  ],positive,0.44182658
+"Immunovaccine on go with mid-stage study of triplet therapy in DLBCL; shares up 2%,?",[0.7753431  0.01933512 0.20532177],positive,0.75600797
+"Seattle Genetics and Astellas launch early-stage study of enfortumab vedotin in urothelial cancer,?",[0.11231703 0.01515844 0.87252456],neutral,0.09715858
+"OncoSec's ImmunoPulse shows durable treatment effect in mid-stage melanoma study; shares ahead 81% premarket,?",[0.7139356  0.04959291 0.23647152],positive,0.6643427
+"Mallinckrodt's rough treatment after Q3 revenue miss reflects the space - WSJ,?",[0.02315108 0.93342644 0.0434225 ],negative,-0.91027534
+"CMS issues final list of therapies facing expiration of pass-through status for 2018,?",[0.02939827 0.02546594 0.9451357 ],neutral,0.003932325
+"Premarket analyst action - healthcare,?",[0.03490145 0.0790403  0.8860583 ],neutral,-0.044138853
+"Premarket analyst action - healthcare,?",[0.03490145 0.0790403  0.8860583 ],neutral,-0.044138853
+"Merck down 5% premarket on withdrawal of European marketing application for Keytruda in NSCLC,?",[0.01105553 0.9716356  0.01730882],negative,-0.96058005
+"Merck withdraws European marketing application for Keytruda in first-line NSCLC,?",[0.04888209 0.827777   0.12334085],negative,-0.77889496
+"Merck logs ugliest day in over six years after Q3 revenue miss; shares down 6%,?",[0.00941416 0.9766226  0.01396319],negative,-0.96720845
+"Merck Q3 revenues off 2%; non-GAAP EPS up 4%; updates guidance,?",[0.20144361 0.7736981  0.02485828],negative,-0.5722545
+"""Merck beats by $0 08, misses on revenue"",?",[0.18902987 0.5069895  0.30398065],negative,-0.3179596
+"Pfizer to launch consumer health unit sale next month - Reuters,?",[0.08412456 0.00818781 0.90768766],neutral,0.07593674
+"""Big pharma/biotech players under pressure, Valeant only bright spot"",?",[0.2906038  0.08051717 0.6288791 ],neutral,0.21008661
+"""Merck to lay off 1,800 sales reps"",?",[0.01357219 0.9619295  0.02449827],negative,-0.9483573
+"Merck's Keytruda doubles survival over chemo in lung cancer study,?",[0.12975855 0.0642585  0.805983  ],neutral,0.06550005
+"""President Trump at it again with comments on """"out of control"""" drug prices"",?",[0.04916247 0.24603671 0.7048008 ],neutral,-0.19687423
+"Glaxo shingles vaccine OK'd in Canada,?",[0.04645706 0.62994355 0.32359934],negative,-0.5834865
+"""Merck bails on cholesterol med anacetrapib, no regulatory applications planned; shares down 1% after hours"",?",[0.01081515 0.97140944 0.01777551],negative,-0.9605943
+"Hurricane-related damage could cause shortages of 40 drugs - FDA,?",[0.01787209 0.9311383  0.05098965],negative,-0.9132662
+"KalVista Pharma inks deal with Merck for DME candidate KVD001; shares up 108% premarket,?",[0.8840581  0.02950968 0.08643218],positive,0.85454845
+"California enacts law aimed at corralling high drug prices,?",[0.35850686 0.0343475  0.60714567],neutral,0.32415935
+"China to accept out-of-country trial data to speed up drug approvals,?",[0.7713931  0.04502703 0.18357979],positive,0.7263661
+"Roche bladder cancer drug struggles as medics focus on survival,?",[0.06001117 0.62328416 0.31670463],negative,-0.563273
+"U S  Orphan Drug tally,?",[0.04541868 0.46721753 0.48736385],neutral,-0.42179886
+"SELLAS Life Sciences to collaborate with Merck on clinical trial assessing combo treatment for range of cancers; merger partner Galena up 6%,?",[0.92819834 0.02848461 0.04331705],positive,0.89971375
+"""Med stocks up early, biotechs lead"",?",[0.43226027 0.23300108 0.33473864],positive,0.19925919
+"Merck bails on future HCV drugs; shares down 1%,?",[0.0096787  0.97428054 0.01604075],negative,-0.9646018
+"FDA launches new tool aimed at easier access to adverse event data,?",[0.78152174 0.01516051 0.20331776],positive,0.76636124
+"FDA OKs Merck's Keytruda for gastric cancer,?",[0.16623758 0.06204255 0.7717199 ],neutral,0.10419503
+"FDA's Woodcock says clinical trials system &quot;broken&quot;,?",[0.05205838 0.39273855 0.5552031 ],neutral,-0.34068018
+"Merck's Keytruda shows treatment effect in mid-stage gastric cancer study,?",[0.11030302 0.01593033 0.87376666],neutral,0.09437269
+"FDA halts patient recruitment in three Opdivo combo studies in MM after safety signal observed related to Keytruda combo,?",[0.01319816 0.961142   0.02565984],negative,-0.94794387
+"Merck to acquire cancer immunotherapy innovator Rigontec for up to   64M,?",[0.17982182 0.00770925 0.81246895],neutral,0.17211257
+"Merck's Keytruda OK'd in Europe for certain bladder cancer patients,?",[0.07588807 0.02237672 0.9017352 ],neutral,0.05351136

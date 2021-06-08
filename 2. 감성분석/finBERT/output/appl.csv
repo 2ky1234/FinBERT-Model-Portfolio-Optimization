@@ -1,0 +1,1750 @@
+sentence,logit,prediction,sentiment_score
+"title,
+""Apple, Epic Games choose bench trial over jury"",?",[0.04756588 0.02633736 0.9260968 ],neutral,0.021228528
+"Tim Cook scores first major stock grant since 2011,?",[0.5406459  0.0611899  0.39816424],positive,0.479456
+"Apple accused of delaying blood-oxygen suit; Epic judge recommends jury trial,?",[0.02618011 0.8468996  0.12692022],negative,-0.82071954
+"BofA names the defensive stocks to consider to ride out fall volatility,?",[0.04058125 0.01823097 0.9411878 ],neutral,0.02235028
+"Apple's largest assemblers invest $900M in India smartphone production,?",[0.06781498 0.01516118 0.9170239 ],neutral,0.0526538
+"Apple pauses 30% cut on real-world Facebook Events,?",[0.03696484 0.8795255  0.08350971],negative,-0.84256065
+"Buy the dip in Apple ahead of new iPhone launch - Morgan Stanley's Huberty,?",[0.17181204 0.1310613  0.6971266 ],neutral,0.040750742
+"EU appeals Apple tax ruling to European Court of Justice,?",[0.04372471 0.65735006 0.2989252 ],negative,-0.61362535
+"""Spotify, Match Group, and Epic Games join app fairness nonprofit taking on Apple"",?",[0.31677747 0.01341183 0.6698108 ],neutral,0.30336565
+"Apple sidelined at UBS on 'unsustainable' growth,?",[0.01384236 0.9460002  0.04015744],negative,-0.9321579
+"Apple launches first online store in India,?",[0.5486572  0.04514259 0.40620026],positive,0.5035146
+"How's work from home going Apple sees permanent changes,?",[0.10657341 0.04068159 0.852745  ],neutral,0.065891825
+"FAANG reversal and industrial lift may be another signal of renaissance for real economy,?",[0.40390944 0.078513   0.5175775 ],neutral,0.32539645
+"Apple's upsell mastery noted to be on display again,?",[0.12632616 0.05613592 0.81753796],neutral,0.070190236
+"""Barclays sees valuations at dot-com bubble levels, cuts megacaps"",?",[0.02340072 0.92828745 0.04831187],negative,-0.9048867
+"An antidote for waning tech lurks in materials ETF's biggest winners,?",[0.19482183 0.0791562  0.72602195],neutral,0.11566564
+"Jefferies raises Apple target on 5G enthusiasm,?",[0.41522226 0.11737289 0.46740493],neutral,0.29784936
+"""Retail investors had 'de minimis' impact on latest rally, BMO's Belski says"",?",[0.28870922 0.31829876 0.39299202],neutral,-0.029589534
+"""Apple launches $399 Watch Series 6, $279 Watch SE, new iPads"",?",[0.12521629 0.01389932 0.86088437],neutral,0.111316964
+"""Apple expected to unveil iPad, cheaper Watch at tomorrow's event"",?",[0.14343841 0.01396999 0.84259164],neutral,0.12946843
+"""Amid pandemic, streaming music revenues may rise by $1B-plus in 2020"",?",[0.92118764 0.01373056 0.06508173],positive,0.90745705
+"Weekly Wrap: Nasdaq loses technical support in correction,?",[0.01124315 0.97380865 0.01494812],negative,-0.9625655
+"Apple loosens App Store rules on game streaming rivals (slightly),?",[0.04921666 0.8996112  0.05117219],negative,-0.8503945
+"iPhone sales ?¬oderating substantiallyahead of new launch J.P. Morgan,?",[0.07833265 0.26153904 0.6601283 ],neutral,-0.1832064
+"Epic says Apple reversed 'Sign In' removal; Apple denies block,?",[0.03561356 0.8760438  0.08834265],negative,-0.84043026
+"""Apple countersues Epic for breach of contract, amping up App Store fight"",?",[0.04837643 0.8540031  0.09762049],negative,-0.80562663
+"Apple announces 5G iPhone event for September 15 (update),?",[0.04146227 0.03893943 0.91959834],neutral,0.002522841
+"Tech enters correction territory: At the Open,?",[0.05820103 0.30924258 0.63255644],neutral,-0.25104153
+"""Apple roundup: 5G iPhone production ramps, analysts disagree on growth potential"",?",[0.02840283 0.9080173  0.06357989],negative,-0.8796145
+"""Italy probes Apple, Google and Dropbox cloud storage services"",?",[0.03598351 0.10883714 0.8551793 ],neutral,-0.07285364
+"Epic makes another attempt at reversing 'Fortnite' App Store ban,?",[0.1944911  0.1490037  0.65650517],neutral,0.045487404
+"Weekly Wrap: Microsoft hit harder than Apple by the tech shakeout,?",[0.03232783 0.93007195 0.03760025],negative,-0.8977441
+"Apple market cap falls below $2T; Fab 5 shed $900B in two days,?",[0.01456304 0.9639932  0.02144378],negative,-0.94943017
+"Apple under scrutiny from Japan's FTC amid Epic row,?",[0.01550123 0.95093524 0.03356351],negative,-0.93543404
+"Apple confirms it's delaying privacy measures in iOS 14,?",[0.05768793 0.67761964 0.26469246],negative,-0.6199317
+"Apple on pace for biggest one-day drop in market cap in history at $150B,?",[0.0176061  0.95670485 0.02568909],negative,-0.9390988
+"Not your average rotation; risky recovery plays getting tech money,?",[0.04834655 0.12854289 0.8231106 ],neutral,-0.080196336
+"Apple said to delay iOS privacy change upsetting ad market - report,?",[0.02326627 0.91237086 0.06436282],negative,-0.8891046
+"Big Tech responds to European tech taxes by passing on fees,?",[0.07643797 0.00817052 0.91539156],neutral,0.06826744
+"VirnetX validates motion for relief from judgment brought by Apple,?",[0.25954324 0.22740115 0.5130556 ],neutral,0.032142088
+"""History says Apple, Tesla momentum can become even more extraordinary"",?",[0.66654176 0.02684947 0.3066087 ],positive,0.6396923
+"""Google, Apple building COVID-19 notifications straight into phones this month"",?",[0.19855474 0.02589224 0.77555305],neutral,0.1726625
+"""Apple price targets raised on upside drivers, momentum"",?",[0.5104057  0.06782573 0.42176852],positive,0.44257998
+"Apple expects 75-80M 5G iPhone units this year - Bloomberg,?",[0.08467954 0.0159972  0.8993233 ],neutral,0.06868234
+"Stock split mania continues for Tesla and Apple investors,?",[0.062007   0.54200083 0.39599213],negative,-0.47999382
+"""Baupost clients' skepticism of famed value fund grows, new findings show"",?",[0.29614192 0.11426228 0.58959585],neutral,0.18187964
+"""Apple, Tesla moves validate early split optimism as combined market caps swell by $100B"",?",[0.72784615 0.12892209 0.1432318 ],positive,0.59892404
+"Comcast turns attention to smart-TV competition,?",[0.03524693 0.05509802 0.9096551 ],neutral,-0.019851092
+"How should you trade the Apple and Tesla stock splits,?",[0.04064025 0.10520835 0.85415137],neutral,-0.0645681
+"Publishers face hit from upcoming Apple privacy controls,?",[0.02106348 0.9438662  0.03507029],negative,-0.9228027
+"Apple terminates Epic Games' developer account,?",[0.02077585 0.83630425 0.1429199 ],negative,-0.8155284
+"""Facebook's Zuckerberg fires at Apple over App Store, ad changes"",?",[0.02208268 0.8931331  0.08478424],negative,-0.8710504
+"Roku tags all-time high as DB survey reinforces leadership,?",[0.8296887  0.0842439  0.08606732],positive,0.74544483
+"""Facebook says Apple wouldn't let it notify purchasers about its 30% cut, claimed it was &quot;irrelevant&quot;"",?",[0.04515661 0.7842689  0.17057441],negative,-0.7391123
+"FAANG (S) A surging Salesforce makes its case for tech titan inclusion,?",[0.61935997 0.05643936 0.3242007 ],positive,0.56292063
+"Facebook says new iOS update could trim in-app ad business by more than half,?",[0.02167504 0.9435067  0.0348182 ],negative,-0.92183167
+"Apple planning AR features for TV+ - Bloomberg,?",[0.0293705  0.03418135 0.93644816],neutral,-0.004810849
+"""Apple's newest Street-high price target, $700 bull case"",?",[0.12644754 0.01949172 0.8540607 ],neutral,0.10695583
+"Apple buys VR firm that creates immersive Zoom calls,?",[0.0920868  0.01156393 0.89634925],neutral,0.080522865
+"Apple opening first online store in India - Bloomberg,?",[0.44419175 0.03127831 0.52452993],neutral,0.41291344
+"""Apple can block 'Fortnite' from App Store (for now), but not Unreal Engine - judge"",?",[0.0436734  0.5697379  0.38658863],negative,-0.5260645
+"Apple's iPhones in China safe from WeChat impact - Wedbush,?",[0.3442145  0.1718412  0.48394436],neutral,0.1723733
+"Microsoft tells court Apple-Epic fight could hurt its games,?",[0.01400261 0.95816135 0.02783611],negative,-0.94415873
+"Apple gets Street-high price target at Morgan Stanley on ecosystem strength,?",[0.440104   0.23730262 0.32259327],positive,0.20280139
+"""Apple/CBS, Verizon/Disney chip away at old TV bundle"",?",[0.04646479 0.340404   0.6131312 ],neutral,-0.29393923
+"What's powering small cap value ETFs A relentless US consumer,?",[0.10147674 0.15447418 0.7440491 ],neutral,-0.05299744
+"Apple tells court Epic Games requested special treatment,?",[0.11366637 0.11766032 0.76867324],neutral,-0.003993951
+"""Apple, Google, Roku join as distribution partners for 'Mulan'"",?",[0.19879553 0.00701996 0.7941845 ],neutral,0.19177556
+"""News publishers jump into Apple fray, criticizing App Store terms"",?",[0.02720121 0.88281554 0.08998325],negative,-0.8556143
+"DOJ antitrust unit to shake up operations for better oversight - WSJ,?",[0.05506169 0.7550717  0.1898666 ],negative,-0.70001
+"Epic-Apple judge ruled for Apple in similar 2013 case,?",[0.10894119 0.6516098  0.23944901],negative,-0.5426686
+"Apple tops $2 trillion in market cap,?",[0.39326787 0.10663831 0.5000938 ],neutral,0.28662956
+"Apple facing strong iPhone upgrade cycle in China - Morgan Stanley,?",[0.8831497  0.04893366 0.06791662],positive,0.834216
+"Apple builds out streaming radio to take on Spotify,?",[0.48278856 0.01990854 0.49730286],neutral,0.46288002
+"""Apple TV Plus offers first bundle, with CBS/Showtime"",?",[0.39330724 0.01368676 0.593006  ],neutral,0.3796205
+Buffett finds profits - not religion - in GOLD.,[0.1283145 0.0222801 0.8494054],neutral,0.1060344
+"""Facebook criticizes Apple store fees, joining growing dispute"",?",[0.01897719 0.93656474 0.04445799],negative,-0.9175876
+"""Epic Games sues Google after 'Fortnite' removal from Play store, and draws allies"",?",[0.01558775 0.94708174 0.0373305 ],negative,-0.931494
+"""ViacomCBS zooms in on streaming rebrand, and isn't opposed to company sale - FT"",?",[0.16599868 0.0103727  0.8236286 ],neutral,0.15562598
+"Apple sued by Epic Games after removing Fortnite from App Store,?",[0.01458274 0.9532498  0.03216747],negative,-0.93866706
+"""Apple creating TV+ bundle with CBS All Access, Showtime - Bloomberg"",?",[0.4222832  0.01206002 0.5656568 ],neutral,0.4102232
+"Apple planning $5.5B bond sale - Bloomberg,?",[0.03629198 0.03969603 0.924012  ],neutral,-0.003404051
+"Apple plans Services bundles with fitness app; Peloton shares drop,?",[0.01018519 0.9725696  0.01724532],negative,-0.9623844
+"WeChat ban challenges Apple's $44B market in China,?",[0.02521688 0.9174249  0.05735824],negative,-0.89220804
+"Chinese smartphone demand plunge could hurt Apple - Evercore,?",[0.01284999 0.96803814 0.01911177],negative,-0.95518816
+"Apple signs first-look deal with Martin Scorsese,?",[0.4457227  0.03176726 0.5225101 ],neutral,0.41395545
+"""Shell Asset adds Microsoft, cuts Apple, exits Anglogold Ashanti"",?",[0.03212337 0.8125272  0.15534943],negative,-0.7804038
+"Apple's iPhone shipments could fall 30% on WeChat ban - analyst,?",[0.01000054 0.97622764 0.01377185],negative,-0.9662271
+"Apple gets Street-high price target with $600 bull case,?",[0.3541501  0.08919044 0.55665946],neutral,0.26495963
+"How will stocks perform under different U.S. election scenarios,?",[0.05763473 0.01105674 0.93130857],neutral,0.046577998
+"""Goldman sounds off on tech again, says vaccine approval could spark rotation"",?",[0.39364567 0.03460783 0.57174647],neutral,0.35903785
+"Tech war escalates as Washington unveils 'Clean Network' program,?",[0.13492602 0.60566676 0.25940722],negative,-0.47074074
+"Apple downgraded at BofA on risk/reward profile,?",[0.02552782 0.9159705  0.05850165],negative,-0.89044267
+"Apple marketing chief Phil Schiller steps aside,?",[0.03592222 0.57551026 0.38856748],negative,-0.53958803
+"Apple expressing interest in TikTok - Axios,?",[0.08710545 0.01901116 0.89388347],neutral,0.06809428
+"M&amp;A ignites dormant tech giant and ETFs from the QQQs to the ESG ETF 'SUSL',?",[0.08210886 0.07774446 0.84014666],neutral,0.004364401
+"Microsoft and Apple take Nasdaq to another all-time high,?",[0.7118216  0.10072357 0.18745477],positive,0.61109805
+"Apple's new mobile payments deal could take on Square - Bloomberg,?",[0.03535567 0.03403143 0.9306129 ],neutral,0.001324244
+"Tech keeps climbing as more benefit from megacap mania: At the Open,?",[0.387056   0.08723751 0.52570647],neutral,0.2998185
+"Apple sued in China over voice assistant patent,?",[0.01316605 0.9559248  0.03090923],negative,-0.94275874
+"""Apple, Amazon, Microsoft, Google and Facebook confound index skeptics, as their earnings beats drive the S&amp;P 500 to even greater concentration"",?",[0.17087835 0.5019193  0.3272023 ],negative,-0.33104098
+"""Apple purges 30,000 apps from its China store"",?",[0.01521999 0.91176397 0.07301608],negative,-0.896544
+"Megacap tech surge forces a rethink: fundamentals or multiple expansion,?",[0.17124255 0.03441007 0.79434735],neutral,0.13683248
+"India makes big push for smartphone production,?",[0.6781648  0.02466056 0.2971746 ],positive,0.6535042
+"""Facebook surge leads tech megacaps higher, but Alphabet stumbles"",?",[0.08070119 0.8823962  0.03690257],negative,-0.80169505
+"""Apple targets lifted on pandemic resilience, 5G iPhone"",?",[0.44836172 0.06176665 0.4898716 ],neutral,0.38659507
+"""Big tech - Apple, Amazon, Facebook, Alphabet show rally was no fluke"",?",[0.10723399 0.05258198 0.84018403],neutral,0.054652013
+"Apple confirms iPhone 12 delay,?",[0.04719133 0.77905744 0.17375119],negative,-0.7318661
+"""Apple jumps as iPhone beats expectations, lifting Skyworks and other peers"",?",[0.9117854  0.02830114 0.05991351],positive,0.8834843
+"""Apple EPS beats by $0.51, beats on revenue, iPhone revenue tops consensus, shares up 5%"",?",[0.9104516  0.05153079 0.03801766],positive,0.8589208
+"Apple declares $0.82 dividend,?",[0.05922789 0.6406952  0.30007693],negative,-0.58146733
+"Google sets Pixel 4a announcement for Monday,?",[0.04112581 0.120428   0.8384462 ],neutral,-0.079302184
+"""Apple FQ3: Watch for 5G iPhone delay, Q4 outlook"",?",[0.03506573 0.73845136 0.22648296],negative,-0.70338565
+"""Amazon, Google, Apple and Facebook report earnings after the close"",?",[0.07512586 0.10323856 0.82163554],neutral,-0.028112702
+"Samsung slump sees Huawei become world's biggest smartphone vendor,?",[0.74657583 0.05209184 0.20133229],positive,0.694484
+"""Qualcomm +13% on FQ3 beats, Huawei settlement"",?",[0.17325452 0.25454837 0.57219714],neutral,-0.08129385
+"Apple facing multi-state probe for iPhone throttling - Reuters,?",[0.02226328 0.8910909  0.08664583],negative,-0.86882764
+"Apple Q3 2020 Earnings Preview,?",[0.0565542  0.28017393 0.6632719 ],neutral,-0.22361973
+"Key House tech antitrust hearing under way after delay (updated),?",[0.04208205 0.20505492 0.75286305],neutral,-0.16297287
+"""CEOs of Amazon, Google, Apple and Facebook testify before Congress"",?",[0.02394485 0.02664694 0.9494082 ],neutral,-0.002702093
+"Apple's iPhone 11 goes into production in India,?",[0.07926838 0.03083009 0.8899015 ],neutral,0.04843829
+"Apple leaks reveal upcoming product launch dates,?",[0.03209059 0.50151414 0.46639532],negative,-0.46942356
+"New Oprah series coming to Apple TV+,?",[0.13403168 0.02156309 0.84440523],neutral,0.11246859
+"Apple removed from JPMorgan's Analyst Focus List before earnings,?",[0.01671606 0.92982996 0.05345388],negative,-0.9131139
+"""Ahead of testimony, Facebook, Twitter, Snapchat under fire from Presidential campaigns"",?",[0.02962731 0.72589624 0.2444765 ],negative,-0.6962689
+"House's tech antitrust hearing reset for Wednesday,?",[0.0394414 0.4179524 0.5426062],neutral,-0.37851098
+"House delays high-profile tech antitrust hearing,?",[0.02275096 0.87640065 0.10084847],negative,-0.8536497
+"Apple's new bear says fundamentals don't support rally,?",[0.03707427 0.8356346  0.12729119],negative,-0.7985603
+"Return of big sports set to move money flows around media names,?",[0.19799311 0.01415882 0.78784806],neutral,0.1838343
+"House's tech-antitrust hearing likely headed for delay,?",[0.02667787 0.8293273  0.14399491],negative,-0.80264944
+"""Apple -4%, facing consumer protection probe - Axios"",?",[0.27373484 0.34679425 0.37947094],neutral,-0.07305941
+"Investors should 'avoid' Apple stock - Goldman Sachs,?",[0.04091538 0.5555534  0.40353128],negative,-0.514638
+"""Apple defends its 30% App Store fee from antitrust scrutiny, pointing to Microsoft and Amazon"",?",[0.4358636  0.096595   0.46754146],neutral,0.33926862
+"Apple wasn't interested in Arm purchase - Bloomberg,?",[0.02771614 0.03506512 0.9372187 ],neutral,-0.007348975
+"Reinvention separates megacaps from dot-com??winners JMP??Lehmann,?",[0.15876609 0.380442   0.46079192],neutral,-0.2216759
+"""Apple, Amazon face antitrust probe in Italy"",?",[0.01929619 0.9140256  0.06667817],negative,-0.89472944
+"Apple commits to be 100% carbon neutral by 2030,?",[0.19651483 0.00791646 0.79556865],neutral,0.18859838
+"Tesla looks pricey vs. Apple and Amazon at the $300B marker,?",[0.15536417 0.28725258 0.55738324],neutral,-0.1318884
+"Apple's Q2 sales driven by iPhone SE,?",[0.16923745 0.1118802  0.7188824 ],neutral,0.05735725
+"Weekly Wrap: Retail Holds Its Own Without Amazon,?",[0.03406246 0.04693286 0.91900474],neutral,-0.012870409
+"Apple opens Beijing megastore amid U.S. criticism,?",[0.0362661  0.8337636  0.12997036],negative,-0.7974975
+"""Apple gains iPhone assemblers in India, China"",?",[0.37411523 0.02718804 0.5986967 ],neutral,0.3469272
+"Barr warns companies on pushing China's agenda; White House ponders travel ban,?",[0.03108195 0.86622745 0.10269057],negative,-0.8351455
+"EU antitrust watchdog probing voice assistants,?",[0.03849699 0.4676234  0.4938796 ],neutral,-0.4291264
+"Apple target raised on 5G and Services potential,?",[0.35264367 0.03473899 0.6126173 ],neutral,0.31790468
+"These big tech names are integral to Fund's S&amp;P-beating strategy,?",[0.10892107 0.00614568 0.88493323],neutral,0.102775395
+"""Apple News upgrades with audio stories, local content, recap show"",?",[0.02712329 0.03553266 0.9373441 ],neutral,-0.008409372
+"Apple target multiple raised at BofA on Services growth,?",[0.30287424 0.06434388 0.63278186],neutral,0.23853035
+"""Apple price target raised on services, wearable drivers"",?",[0.4166826  0.09574182 0.4875755 ],neutral,0.3209408
+"Apple wins appeal against 3B EU tax demand,?",[0.5320167  0.37072617 0.09725713],positive,0.16129053
+"""Evercore sees Q2 bottom for these IT hardware names, but how big a rebound"",?",[0.10830269 0.6337635  0.25793374],negative,-0.5254608
+"Apple shifts retail staff to remote work,?",[0.0191062  0.9031978  0.07769596],negative,-0.8840916
+"Market pares gains as momentum stocks lose some steam,?",[0.0146871  0.955355   0.02995792],negative,-0.94066787
+"Apple hits new record after Street-high target,?",[0.47424272 0.23106468 0.29469258],positive,0.24317804
+"Apple price target raised on iPhone trade-in programs,?",[0.06985428 0.55466074 0.375485  ],negative,-0.48480645
+"Megacaps rejoin the party with stocks set for broad-based rally,?",[0.366024   0.11301126 0.5209647 ],neutral,0.25301272
+"Apple increasing Q3 MacBook orders by 20% - DigiTimes,?",[0.89304584 0.0655404  0.04141375],positive,0.82750547
+"""Deconstruct FAANG stocks, and the 'N' should be replaced with another"",?",[0.09224724 0.0571586  0.85059416],neutral,0.03508864
+"""Apple, Foxconn producing AR lenses - The Information"",?",[0.0244652  0.03494676 0.94058806],neutral,-0.010481555
+"MacBook Pro with in-house chips coming in Q4 - analyst,?",[0.05276833 0.0123127  0.93491894],neutral,0.040455632
+"""HP, Lenovo top Q2 global PC shipments"",?",[0.3507742  0.16321225 0.4860136 ],neutral,0.18756194
+"""These 2020 double-digit tech gainers may have ~20% to go, Wedbush says"",?",[0.19055101 0.02567017 0.7837788 ],neutral,0.16488084
+"""Apple roundup: repair program expands, U.S. stores lead closures"",?",[0.01568361 0.94353676 0.04077959],negative,-0.92785317
+"Apple price target raised despite rally nervousness,?",[0.6987532  0.14931384 0.151933  ],positive,0.5494393
+"Apple's Irish tax appeal reaching decision next week,?",[0.14945704 0.22819516 0.6223478 ],neutral,-0.07873812
+"Apple makes up 43% of Berkshire Hathaway's portfolio,?",[0.02252068 0.01304729 0.96443206],neutral,0.009473387
+"Apple's iPhone 12 will 'fall short' of supercycle - Nomura,?",[0.09605137 0.6073753  0.2965733 ],negative,-0.5113239
+"Apple price target raised despite forecast concern,?",[0.6525731  0.1897917  0.15763527],positive,0.46278143
+"Apple sticking with OLEDs for 5G iPhones - Nikkei,?",[0.55008036 0.11133445 0.33858517],positive,0.43874592
+"""Twitter, Facebook to face free speech test in Hong Kong"",?",[0.11745086 0.15952833 0.7230208 ],neutral,-0.042077467
+"Big Tech CEOs set to testify before Congress,?",[0.05418841 0.06124176 0.8845699 ],neutral,-0.007053357
+"Apple re-closes 30 more U.S. stores,?",[0.01809624 0.93844974 0.04345394],negative,-0.92035353
+"""Apple roundup: Target boost before earnings, $120M film acquisition"",?",[0.28974196 0.03393992 0.6763181 ],neutral,0.25580204
+"Apple blocks thousands of game updates in China,?",[0.01377902 0.9411353  0.0450857 ],negative,-0.92735624
+"Apple accelerates 5G iPhone mass production - Nikkei,?",[0.75496346 0.05148483 0.19355173],positive,0.70347863
+"Apple Arcade cancels games in strategy shift - Bloomberg,?",[0.01923793 0.89555967 0.08520231],negative,-0.87632173
+"Shipment estimates cut for Apple's 5G iPhones - Digitimes,?",[0.02260299 0.93117476 0.0462222 ],negative,-0.9085718
+"NYT pulls out of Apple News partnership,?",[0.03632858 0.8451456  0.11852587],negative,-0.808817
+"Apple leaving adapters out of iPhone 12 box - analyst,?",[0.02691808 0.8659289  0.10715313],negative,-0.83901083
+"Apple seen benefiting from chips play,?",[0.88592    0.03452098 0.07955899],positive,0.851399
+"DOJ's Apple probe focusing on App Store payment rules - Bloomberg,?",[0.03301001 0.21180977 0.7551802 ],neutral,-0.17879976
+"Apple re-closing 14 stores in Florida,?",[0.0165535  0.9209441  0.06250243],negative,-0.9043906
+"Apple closes more stores amid spike in COVID-19 cases,?",[0.03500297 0.9354544  0.02954261],negative,-0.9004515
+"UBS reviews names to watch in 'consumerization of healthcare',?",[0.03985327 0.03861342 0.9215333 ],neutral,0.001239859
+"""Apple roundup: Acquires Fleetsmith, iPhone sales drop in China"",?",[0.01369316 0.9622523  0.02405448],negative,-0.94855917
+"""Apple antitrust probe possible from DOJ, state AGs"",?",[0.04265797 0.56398755 0.39335448],negative,-0.5213296
+"Big 5 tech stocks rallying further to new highs,?",[0.883144   0.04772787 0.06912811],positive,0.83541614
+"""Apple targets raised on WWDC, iPhone optimism"",?",[0.3398715  0.06657223 0.5935562 ],neutral,0.27329928
+"Apple WWDC: Macs leave Intel for custom silicon,?",[0.03398727 0.71872604 0.2472867 ],negative,-0.68473876
+"Apple's chip will outperform Intel's Macs - analyst,?",[0.51694894 0.4130855  0.06996565],positive,0.10386345
+"""Sonos to get acquired Apple may be lurking, Citron says"",?",[0.04999369 0.15029941 0.79970694],neutral,-0.10030572
+"What's happening at Apple WWDC 2020,?",[0.03209466 0.06857307 0.8993323 ],neutral,-0.036478415
+"Reopening-trade stocks stung as new COVID worries mount,?",[0.01751707 0.9662733  0.01620961],negative,-0.9487562
+"Apple may announce Intel breakup Monday - NYT,?",[0.03874877 0.09503616 0.8662151 ],neutral,-0.056287386
+"Apple closing some U.S. stores as coronavirus spikes,?",[0.01178137 0.9588372  0.02938138],negative,-0.9470558
+"Microsoft calls for App Store antitrust investigations,?",[0.02563755 0.7733925  0.2009699 ],negative,-0.74775493
+"Stocks jump early; oil tops $40/barrel,?",[0.58008164 0.23762341 0.18229493],positive,0.34245825
+"Apple gets another price target boost from 5G iPhone,?",[0.92130566 0.02197836 0.05671598],positive,0.8993273
+"Apple assembling new iPhone SE in India - The Information,?",[0.04660755 0.01037887 0.94301355],neutral,0.03622868
+"France calls U.S. withdrawal from digital tax talks a 'provocation',?",[0.01596131 0.9331032  0.05093556],negative,-0.9171419
+"Stocks stay little changed as Powell speaks again,?",[0.12041817 0.5133965  0.3661853 ],negative,-0.39297834
+"""Apple price target raised on buybacks, macro improvement"",?",[0.8402344  0.04903516 0.11073046],positive,0.79119927
+"Apple gets Street-high price target at Citi,?",[0.298292   0.15412518 0.5475828 ],neutral,0.14416683
+"Fresh EU antitrust probes launched against Apple,?",[0.02441827 0.9012842  0.07429761],negative,-0.8768659
+"Apple App Store ecosystem moved half-trillion dollars in commerce last year,?",[0.35401076 0.06568919 0.58030003],neutral,0.28832155
+"Oppenheimer weighs potential bidders for AT&amp;T's games business,?",[0.05821555 0.00911543 0.93266904],neutral,0.04910012
+Main Street has killed Wall Street during this rally.,[0.0237752  0.84605175 0.13017309],negative,-0.82227653
+"Grantham on 'fourth great stock market event' in his career,?",[0.12305027 0.0945412  0.78240854],neutral,0.028509066
+"""Apple launches racial equality initiative, confirms WWDC schedule"",?",[0.30316046 0.0202316  0.67660797],neutral,0.28292885
+"""Apple price target raised on resilience, 5G iPhone"",?",[0.73925084 0.0572102  0.20353892],positive,0.68204063
+"Apple price target raised on China smartphone recovery,?",[0.25517452 0.42504218 0.31978324],negative,-0.16986766
+"Big Tech is getting even bigger,?",[0.30122396 0.04633706 0.652439  ],neutral,0.2548869
+"Apple first phase of HQ return begins on June 15,?",[0.03777337 0.00609172 0.956135  ],neutral,0.031681657
+"""Gundlach sees stocks falling, gold rising despite 'Superman' Powell's heavy lifting"",?",[0.10641881 0.76941925 0.12416193],negative,-0.66300046
+"Apple launching Mac trade-ins at retail stores,?",[0.04032901 0.27764848 0.6820225 ],neutral,-0.23731947
+"Apple's iPhones set to start July production - report,?",[0.08862403 0.1237201  0.7876559 ],neutral,-0.03509607
+"Apple announcing Mac chips at WWDC - Bloomberg,?",[0.03697905 0.04448863 0.9185324 ],neutral,-0.007509582
+"Wedbush's names to benefit from tech's rebound rampage,?",[0.8226159  0.01484753 0.16253655],positive,0.8077684
+"Apple bull suggests DuckDuckGo purchase,?",[0.05182949 0.24605659 0.7021139 ],neutral,-0.1942271
+"""Wedbush sees 5G feeding Apple bull case, heavy upside"",?",[0.17165436 0.15394324 0.67440236],neutral,0.017711118
+"Apple seen riding App Store momentum even higher,?",[0.82147187 0.08288734 0.09564082],positive,0.7385845
+"Apple is tracking looted iPhones,?",[0.04539472 0.17794886 0.77665645],neutral,-0.13255414
+"Retailers slash iPhone prices in China as part of annual .18shopping festival,?",[0.01194201 0.96714383 0.02091414],negative,-0.9552018
+"Apple reopening rest of Japan stores Wednesday,?",[0.06193769 0.54524875 0.39281365],negative,-0.48331106
+"Nationwide protests force retail closures,?",[0.01448723 0.94611347 0.03939937],negative,-0.93162626
+"""JPMorgan bullish on Apple on India potential, September launches"",?",[0.11740118 0.29994893 0.5826499 ],neutral,-0.18254775
+"Leidos awarded $84.6M payment from VirnetX suit against Apple,?",[0.71153325 0.15058103 0.13788573],positive,0.5609522
+"Apple nabs Martin Scorsese's next film,?",[0.06828283 0.6158584  0.3158588 ],negative,-0.54757553
+"Apple bolsters AI portfolio through Inductiv acquisition,?",[0.84207964 0.00856692 0.14935341],positive,0.8335127
+"'Almost thrown in the towel' -- Novogratz on fighting the tape,?",[0.08330799 0.411561   0.50513095],neutral,-0.32825303
+"Apple to reopen 100 more U.S. stores this week - CNBC,?",[0.34914222 0.07988082 0.570977  ],neutral,0.26926142
+"Apple to start reopening stores in Japan this week,?",[0.14961076 0.03557761 0.81481165],neutral,0.11403315
+"Apple aims to boost original podcast game,?",[0.9216488  0.01106102 0.06729006],positive,0.9105878
+"Big tech has a big problem in D.C.,?",[0.02734627 0.8475222  0.12513152],negative,-0.82017595
+"Apple taking new AirPods to Vietnam - The Information,?",[0.11547317 0.04143209 0.84309477],neutral,0.074041076
+"Apple buying older content for TV+ - Bloomberg,?",[0.06014485 0.06200975 0.8778454 ],neutral,-0.001864895
+"Apple reopening 25 more U.S. stores,?",[0.26025152 0.22679362 0.51295483],neutral,0.033457905
+"China pushes back against Huawei crackdown,?",[0.30464107 0.48137116 0.21398768],negative,-0.1767301
+"Judge gives early OK to Apple's $310M-$500M throttling settlement,?",[0.17643104 0.39714944 0.4264195 ],neutral,-0.2207184
+"Apple included in China's potential Huawei retaliation - report,?",[0.04461694 0.08092178 0.87446123],neutral,-0.03630484
+"Taiwan Semiconductor confirms $12B U.S. plant,?",[0.1213451  0.25017717 0.62847775],neutral,-0.12883207
+"""Apple roundup: Glasses in 2022, acquires NextVR"",?",[0.07275635 0.00716606 0.9200776 ],neutral,0.06559029
+"""Despite spending slowdown, Nomura sees cloud computing boost in pandemic"",?",[0.8646534  0.04800994 0.0873366 ],positive,0.8166435
+"Apple bull raises price target on 5G iPhone potential,?",[0.5680513  0.11596729 0.31598142],positive,0.452084
+"iPhone sales slid in pandemic's April - KeyBanc,?",[0.01249819 0.9748868  0.01261508],negative,-0.9623886
+"Apple reopening some U.S. stores next week,?",[0.12970108 0.14819522 0.7221037 ],neutral,-0.018494144
+"Apple shifting some AirPods to Vietnam - report,?",[0.0685242  0.4740939  0.45738187],negative,-0.4055697
+"Peacock available on Apple devices at July launch,?",[0.02557562 0.03268459 0.94173974],neutral,-0.007108979
+Apple adds Magic Keyboard to 13-in.,[0.32136035 0.02923028 0.64940935],neutral,0.29213005
+"Apple leads wave of companies raising money today,?",[0.65452915 0.02015488 0.32531595],positive,0.63437426
+"""VirnetX, Apple heading for new damages trial; VHC -10%"",?",[0.14954723 0.43727458 0.41317818],negative,-0.28772736
+"""Apple named 'top pick' on iPhone, Services momentum"",?",[0.87707394 0.03328533 0.08964071],positive,0.8437886
+"Apple withholds June quarter guidance - earnings call,?",[0.02153742 0.8569038  0.12155888],negative,-0.83536637
+"Apple's services strength drives FQ2 beat,?",[0.6272675  0.20551883 0.16721366],positive,0.42174864
+"Apple raises dividend by 6.5%,?",[0.81382823 0.06276297 0.12340874],positive,0.75106525
+"""Apple EPS beats by $0.29, beats on revenue"",?",[0.22645494 0.10551411 0.6680309 ],neutral,0.120940834
+"""Apple Q2 preview: coronavirus, buybacks in focus"",?",[0.02901652 0.0520711  0.9189124 ],neutral,-0.02305458
+"Apple Q2 2020 Earnings Preview,?",[0.05842818 0.2774764  0.66409546],neutral,-0.21904822
+"""Of FAANG (+MSFT) earnings, Amazon and Microsoft to lead, Wedbush says"",?",[0.27468488 0.01371819 0.71159697],neutral,0.2609667
+"HBO Max to launch on Apple devices as well,?",[0.09062546 0.01261255 0.896762  ],neutral,0.078012906
+"Apple delays 5G iPhone production - WSJ,?",[0.01375172 0.95461625 0.03163203],negative,-0.9408645
+"Standoff over COVID-19 contact tracing,?",[0.01674677 0.9490594  0.03419384],negative,-0.93231267
+"Apple prepping own Mac chip for 2021,?",[0.07139789 0.04105565 0.8875465 ],neutral,0.030342232
+"Apple will add $75-100B in buybacks - analysts,?",[0.13807788 0.01300819 0.84891397],neutral,0.1250697
+"""Top Apple analyst sees SE strength, cuts Q2 estimates"",?",[0.02665857 0.92526317 0.0480782 ],negative,-0.8986046
+"Apple running behind on iPhone 12 - Nomura,?",[0.03438168 0.81235105 0.1532673 ],negative,-0.77796936
+"Apple wants to boost iPhone production - Nikkei,?",[0.91946334 0.02901108 0.05152561],positive,0.89045227
+"Apple's biggest services expansion in a decade,?",[0.7680409  0.02381967 0.2081395 ],positive,0.7442212
+"Leadership change at Apple's Beats,?",[0.09048071 0.1236727  0.7858466 ],neutral,-0.033191994
+"Apple cut to Sell with 20% downside at Goldman,?",[0.03911253 0.88975394 0.07113362],negative,-0.8506414
+"Apple gradually reopens stores outside China,?",[0.11381269 0.0170035  0.86918384],neutral,0.09680919
+"Apple unveils new budget iPhone with virtual launch,?",[0.32748356 0.02751858 0.64499784],neutral,0.299965
+"""Apple launches virus-tracking tool, clarifies contact tracing"",?",[0.10157205 0.00884975 0.8895782 ],neutral,0.092722304
+"Apple iPhone sales recovering in China,?",[0.02699247 0.949472   0.02353556],negative,-0.9224795
+"Trump agreed to mitigation efforts at first recommendation: Coronavirus briefing,?",[0.09642779 0.01036575 0.89320654],neutral,0.086062044
+"Apple target cut on iPhone weakness,?",[0.05796579 0.830463   0.11157112],negative,-0.7724972
+"""Apps collecting data to help stop virus spread could invade privacy, expert says"",?",[0.0296301  0.744676   0.22569399],negative,-0.71504587
+"""U.S. now has the world's deadliest outbreak, Apple/Google have a plan - coronavirus update"",?",[0.05950251 0.31524026 0.62525725],neutral,-0.25573775
+"""Trump announces $16B of aid for farmers, ranchers: coronavirus briefing"",?",[0.204289   0.02802403 0.767687  ],neutral,0.17626497
+"""Apple target boosted on ecosystem, balance sheet strength"",?",[0.7936344  0.05114118 0.15522441],positive,0.7424932
+"Apple's U.S. iPhone sales take hit - KeyBanc,?",[0.1479786  0.7090091  0.14301229],negative,-0.5610305
+"Apple's 5G iPhones could launch in December - Wedbush,?",[0.06030729 0.03149156 0.90820116],neutral,0.028815735
+"Apple price target trimmed at JPMorgan,?",[0.05109322 0.6375213  0.31138545],negative,-0.5864281
+"Apple target boosted on strong teen demand,?",[0.9298911  0.03046202 0.03964689],positive,0.8994291
+"Apple Music starts advance fund for indie labels,?",[0.14571914 0.01150662 0.8427742 ],neutral,0.13421252
+"Two U.S. companies offer to aid U.K. PM's treatment: coronavirus briefing,?",[0.67805964 0.02529626 0.2966441 ],positive,0.65276337
+"Apple producing 1M face shields per week,?",[0.03360419 0.8314386  0.13495712],negative,-0.7978344
+"Apple bull trims target on recession impact,?",[0.092089   0.7106367  0.19727442],negative,-0.6185477
+"Apple pushes back U.S. stores restart date,?",[0.14512132 0.50143695 0.3534418 ],negative,-0.3563156
+"Apple briefly confirms AirTags product,?",[0.06891607 0.13165644 0.79942745],neutral,-0.06274037
+"Apple won't take cut of Prime Video purchases,?",[0.05475864 0.20123018 0.7440112 ],neutral,-0.14647155
+"Tech giant's estimates lowered on demand concerns,?",[0.01838552 0.95843494 0.02317958],negative,-0.9400494
+"Apple acquires hyperlocal weather app,?",[0.20446944 0.06761671 0.72791386],neutral,0.13685274
+"""Apple roundup: Contractors get paid, Japan Display gets $200M"",?",[0.3480174  0.09624916 0.55573344],neutral,0.25176823
+"""Apple working on new HomePod, budget iPads - Bloomberg"",?",[0.06109976 0.03666892 0.9022314 ],neutral,0.024430841
+"Apple target cut on lower iPhone estimates,?",[0.05257357 0.8627543  0.08467215],negative,-0.8101807
+"Tech experts share their top picks for today's chaos,?",[0.07547309 0.06764769 0.85687923],neutral,0.007825404
+"""BofA cuts Apple target, 2020 iPhone estimate"",?",[0.03340796 0.8590525  0.10753959],negative,-0.8256445
+"5G iPhone launch likely delayed - Wedbush,?",[0.03121369 0.75411093 0.21467534],negative,-0.72289723
+"Apple mulls 5G iPhone delay - Nikkei,?",[0.02661693 0.8878955  0.08548752],negative,-0.8612786
+"Deutsche leaves Apple sidelines after sell-off,?",[0.02877143 0.88817483 0.08305371],negative,-0.8594034
+"India lockdown suspends output of Apple suppliers,?",[0.01136627 0.9581723  0.03046145],negative,-0.9468061
+"Apple reopening retail stores in April - Bloomberg,?",[0.06212131 0.05416957 0.88370913],neutral,0.007951744
+"Apple target cut on continuing virus impact,?",[0.03622358 0.8730053  0.09077115],negative,-0.8367817
+"""Apple roundup: Watch tariff exclusion, iPhone limits lifted"",?",[0.43287066 0.12579499 0.44133437],neutral,0.30707568
+"Apple cancels restrictions on iPhone buyers,?",[0.02332854 0.87901306 0.09765838],negative,-0.8556845
+"Trump sees Hill getting 'very close' on additional relief legislation,?",[0.5535155  0.05321195 0.39327258],positive,0.50030357
+"Chase offers temporary assistance to cardholders during Covid-19 crisis,?",[0.41695836 0.02816593 0.5548757 ],neutral,0.38879243
+"Apple is limiting online iPhone purchases,?",[0.0355747 0.4531247 0.5113006],neutral,-0.41755
+"Apple's 5G iPhones currently on schedule - Bloomberg,?",[0.03660629 0.09290747 0.87048626],neutral,-0.056301173
+"""Apple target, iPhone estimates trimmed on virus impact"",?",[0.03965618 0.7679701  0.19237371],negative,-0.7283139
+"""Apple launches new MacBook Air, iPad Pro"",?",[0.12368992 0.01452123 0.86178887],neutral,0.109168686
+"Apple's biggest bull trims target,?",[0.06897093 0.7187858  0.21224324],negative,-0.6498149
+"Apple closes retail stores 'until further notice',?",[0.020507   0.790573   0.18891998],negative,-0.770066
+"Apple falls on coronavirus unknowns,?",[0.02536213 0.87371504 0.1009228 ],negative,-0.8483529
+"France slaps .1B fine on Apple,?",[0.01675861 0.95518005 0.02806136],negative,-0.9384214
+"Wedbush says look to 2021 with Apple,?",[0.27760136 0.01949115 0.70290744],neutral,0.25811023
+"Apple to close all stores outside China until March 27,?",[0.01483349 0.9055303  0.07963624],negative,-0.89069676
+"VirnetX jumps after receiving $454M from Apple,?",[0.73561287 0.13128214 0.13310501],positive,0.6043307
+"Wells Fargo bullish on tech giant despite coronavirus risk,?",[0.7624834  0.12618408 0.11133249],positive,0.6362994
+"Apple could buy Disney after pullback - Rosenblatt,?",[0.1180335  0.01958568 0.86238086],neutral,0.098447815
+"Apple reopens all stores in China,?",[0.12513529 0.22860779 0.646257  ],neutral,-0.1034725
+"Apple receiving French antitrust fine on Monday - Reuters,?",[0.05534748 0.8629874  0.08166513],negative,-0.8076399
+"Apple signs deals with major record labels - FT,?",[0.60060954 0.04097103 0.35841945],positive,0.5596385
+"Apple's iPhone hit with supply issues - KeyBanc,?",[0.01453264 0.9566187  0.02884856],negative,-0.9420861
+"""Apple roundup: Fitness app for iPhone, Italy stores close"",?",[0.11096565 0.18838511 0.70064926],neutral,-0.07741947
+"BofA cuts tech giant on potential device delays,?",[0.01747855 0.9520405  0.03048087],negative,-0.93456197
+"""Apple TV+ could reach 95M subscribers, says BMO"",?",[0.5586088  0.01180712 0.42958415],positive,0.5468016
+"'Doomsday' level of iPhone shipments in China - Wedbush,?",[0.02561505 0.90662926 0.06775573],negative,-0.8810142
+"Apple target cut on coronavirus uncertainty,?",[0.11972403 0.5546333  0.3256427 ],negative,-0.43490928
+"""Apple, Netflix pull out of SXSW 2020"",?",[0.11573514 0.5272099  0.35705498],negative,-0.41147473
+"Apple warning stores about replacement iPhone shortage - Bloomberg,?",[0.02113651 0.8911117  0.0877518 ],negative,-0.86997515
+"Apple supply chain recovering faster than expected - Nomura,?",[0.5770916  0.38909063 0.03381782],positive,0.18800095
+"""Apple's mini-LED products not facing delay, says analyst"",?",[0.37450758 0.07545695 0.5500354 ],neutral,0.29905063
+"Wedbush still bullish on 5G iPhones,?",[0.4503499  0.18976186 0.35988823],positive,0.26058805
+"Apple settles throttling suit for up to $500M,?",[0.1964635  0.17555918 0.6279773 ],neutral,0.020904317
+"OpCo buys the dip in Apple; shares up 1% premarket,?",[0.84838855 0.10289412 0.04871734],positive,0.7454944
+"""Apple's Cook says virus issues 'temporary,' praises supply resilience"",?",[0.20525289 0.03912663 0.7556204 ],neutral,0.16612625
+"""Apple roundup: New iPad accessory, Chinese app deadline"",?",[0.07823625 0.03108555 0.89067817],neutral,0.047150698
+"""The """"Fab 5"""" mega-stocks will be painful to investors during the coming decade"",?",[0.05259309 0.41472873 0.5326782 ],neutral,-0.36213565
+"Apple loses key operations execs - Bloomberg,?",[0.01532152 0.92661065 0.05806787],negative,-0.9112891
+"""Apple annual meeting: India retail store, $40B in wearables sales"",?",[0.05594752 0.06497962 0.87907284],neutral,-0.0090321
+"Surge in streaming lifts recorded-music sales,?",[0.8792013  0.03715724 0.08364139],positive,0.84204406
+"""Apple roundup: Coronavirus impacts timeline, stroke study with J&amp;J"",?",[0.05427641 0.04727258 0.89845103],neutral,0.007003833
+"Needham cuts Apple estimates on virus impact,?",[0.02193653 0.90069985 0.07736359],negative,-0.8787633
+"Apple reopening more than half of China stores after coronavirus closures - Bloomberg,?",[0.05484929 0.54078496 0.40436578],negative,-0.48593566
+"Apple secures major new Manhattan office space - report,?",[0.19743954 0.03028852 0.77227193],neutral,0.167151
+"VirnetX +12.5% as Supreme Court won't hear Apple appeal,?",[0.035878   0.8835602  0.08056181],negative,-0.8476822
+"Apple bull sees April rebound for suppliers,?",[0.68091834 0.24530616 0.0737755 ],positive,0.43561217
+"""Apple roundup: iPhone takes hit in China, App Store grip loosening"",?",[0.08561008 0.7018363  0.21255355],negative,-0.6162262
+"Brussels proposes new digital strategy,?",[0.1359484  0.01021634 0.8538353 ],neutral,0.12573206
+"Apple's iPhone SE successor hits delay - NAR,?",[0.03855801 0.9040376  0.05740438],negative,-0.8654796
+"Apple AirTags launching in Q3,?",[0.04392079 0.02948512 0.9265941 ],neutral,0.014435666
+"""Apple suppliers, semi stocks drop on warnings"",?",[0.01155368 0.96538615 0.02306019],negative,-0.95383245
+"Wedbush stays bullish despite Apple warning,?",[0.28062698 0.59565204 0.12372102],negative,-0.31502506
+"Berkshire unloads a bit more of Apple stake,?",[0.10555656 0.03631942 0.85812396],neutral,0.069237135
+"Apple warns on revenue for March quarter due to coronavirus,?",[0.013059   0.9639247  0.02301622],negative,-0.9508657
+"Apple designing 5G iPhone antenna - Fast Company,?",[0.0944343  0.01443562 0.89113003],neutral,0.07999867
+"Apple reopening Shanghai store,?",[0.11052759 0.21946444 0.67000794],neutral,-0.108936846
+"Amazon topped Q4 smart speaker market,?",[0.7963108  0.03403931 0.16964987],positive,0.76227146
+"How has coronavirus impacted companies,?",[0.03294984 0.7387423  0.2283078 ],negative,-0.7057924
+"Apple reopening some Beijing stores,?",[0.07788172 0.28488055 0.6372377 ],neutral,-0.20699883
+"Apple hires Warner Music Group vet,?",[0.08259375 0.23515074 0.68225545],neutral,-0.15255699
+"FTC probing M&amp;A history of tech giants (update),?",[0.0319775  0.02743175 0.9405908 ],neutral,0.00454575
+"VirnetX +5% after appeals court denies Apple bid,?",[0.05952936 0.85965955 0.08081101],negative,-0.8001302
+"Trendforce cuts iPhone estimate after Foxconn delay,?",[0.0226446  0.92941564 0.04793978],negative,-0.90677106
+"Foxconn delay 'shock' to Apple's system - Wedbush,?",[0.04284151 0.8235272  0.13363129],negative,-0.7806857
+"Apple extends store closures in China,?",[0.01821605 0.93520975 0.04657415],negative,-0.9169937
+"France fines Apple 5M for slowed iPhones,?",[0.01835914 0.9559287  0.02571215],negative,-0.93756956
+"Foxconn delays return to Shenzhen facility,?",[0.02444055 0.8822898  0.09326959],negative,-0.8578493
+"Coronavirus threatening AirPods production - NAR,?",[0.01755147 0.8974977  0.08495073],negative,-0.87994623
+"App Store could see coronavirus gains - Morgan Stanely,?",[0.13089272 0.04716516 0.8219421 ],neutral,0.08372757
+"Apple loses News chief - Bloomberg,?",[0.0266638  0.8063967  0.16693948],negative,-0.77973294
+"DOJ contacting app developers about Apple - Reuters,?",[0.03369882 0.12122054 0.8450806 ],neutral,-0.087521724
+"Apple's Chinese suppliers starting back Feb. 10,?",[0.03890454 0.19513316 0.7659623 ],neutral,-0.15622862
+"""Goldman recommends big tech, dismisses signs of bubble"",?",[0.05737203 0.11403897 0.828589  ],neutral,-0.05666694
+"Apple analysts see limited coronavirus impact,?",[0.07295506 0.18309005 0.7439549 ],neutral,-0.11013499
+"Impacts of Apple's China closure are negligible - Wedbush,?",[0.04501517 0.6613679  0.29361695],negative,-0.61635274
+"Apple closing all China stores and offices,?",[0.01645108 0.8775911  0.10595778],negative,-0.86114
+"Vice News vet could join Apple-affiliated producer - WSJ,?",[0.05713129 0.01440843 0.9284603 ],neutral,0.042722866
+"New Apple Maps launches in the U.S.,?",[0.08973102 0.0440192  0.8662498 ],neutral,0.04571182
+"Apple topped Q4 smartphone shipments,?",[0.81543183 0.08491206 0.09965605],positive,0.7305198
+"""CalTech wins $1.1B patent case against Apple, Broadcom"",?",[0.5834717  0.1708887  0.24563958],positive,0.412583
+"Apple hires Netflix engineer for streaming push - WSJ,?",[0.08289564 0.04178746 0.87531686],neutral,0.041108187
+"Apple's India online sales starting in Q3 - report,?",[0.06356509 0.12906715 0.8073678 ],neutral,-0.06550206
+"Analysts weigh in on Apple's 'Picasso-like' earnings,?",[0.10663393 0.6169348  0.27643132],negative,-0.5103009
+"""Apple execs talk coronavirus impact, iPhone strength"",?",[0.25033167 0.047038   0.70263034],neutral,0.20329367
+"Strong iPhone sales drive Apple beat; shares +2.4%,?",[0.88678074 0.06284933 0.05036987],positive,0.8239314
+"Apple declares $0.77 dividend,?",[0.05602182 0.6645345  0.27944368],negative,-0.6085127
+"""Apple EPS beats by $0.45, beats on revenue"",?",[0.17897646 0.09015979 0.7308637 ],neutral,0.08881667
+"What to watch in Apple's Q1,?",[0.04181485 0.02186928 0.93631595],neutral,0.019945573
+"Apple earnings take center stage,?",[0.15401158 0.05847112 0.78751725],neutral,0.09554045
+"Apple Q1 2020 Earnings Preview,?",[0.05838563 0.26183176 0.6797826 ],neutral,-0.20344613
+"JPMorgan cautious ahead of Apple earnings,?",[0.02444646 0.9049687  0.07058492],negative,-0.8805222
+"Apple shares hit by China's coronavirus worries,?",[0.02046415 0.9214151  0.05812069],negative,-0.90095097
+"Intelligent Systems wins bullish rating from BTIG on Apple Card role,?",[0.88368034 0.0820924  0.03422726],positive,0.80158794
+"Deutsche raises Apple despite valuation concerns,?",[0.6982623  0.06946769 0.23227   ],positive,0.62879455
+"""Rosenblatt lifts Apple target, cautious on 5G"",?",[0.57837224 0.18565546 0.23597229],positive,0.39271677
+"Apple TV+ had 34M subscribers in Q4,?",[0.04005475 0.04797262 0.91197264],neutral,-0.00791787
+"Apple gets $400 target on 5G cycle,?",[0.33293596 0.07401029 0.59305376],neutral,0.25892568
+"Broadcom signs two deals with Apple; shares +2%,?",[0.52108824 0.02545583 0.45345595],positive,0.4956324
+"Apple's iPhone SE successor launching in March,?",[0.07673663 0.02605236 0.897211  ],neutral,0.050684266
+"Apple bull boosts target on Q1 upside,?",[0.5208336  0.25659513 0.22257127],positive,0.26423848
+"Google researchers disclose Apple Safari's flaws,?",[0.03041825 0.61422354 0.35535818],negative,-0.58380526
+"Apple plans new low-cost iPhone model - Bloomberg,?",[0.05770316 0.01315332 0.92914355],neutral,0.04454984
+"Apple TV+ considers original podcasts - Bloomberg,?",[0.03071237 0.05826877 0.91101885],neutral,-0.027556393
+"Apple dropped encrypted backups on FBI complaints,?",[0.01180832 0.9590278  0.02916383],negative,-0.9472195
+"""France, U.S. declare digital tax truce"",?",[0.08369107 0.1437194  0.77258956],neutral,-0.060028337
+"Digital tax in the spotlight this week,?",[0.08089678 0.29106742 0.6280358 ],neutral,-0.21017064
+"Apple signs deal with Julia Louis-Dreyfus,?",[0.35340676 0.04156598 0.6050272 ],neutral,0.31184077
+"Nomura questions Apple's 5G supercycle,?",[0.04143742 0.12489676 0.8336658 ],neutral,-0.08345934
+"Apple target raised on improving iPhone cycle,?",[0.87371624 0.03698605 0.08929764],positive,0.8367302
+"""NBCU's Peacock launches with free, $4.99, $9.99 tiers"",?",[0.08910976 0.00659919 0.90429103],neutral,0.08251057
+"Apple's 'The Banker' coming to theaters,?",[0.11879625 0.08173324 0.79947054],neutral,0.03706301
+"Comcast set to unveil details on Peacock streaming,?",[0.03024153 0.02887584 0.94088256],neutral,0.001365699
+"New iPhone will have ToF sensors - Barclays,?",[0.05684301 0.0227604  0.9203966 ],neutral,0.034082606
+"Apple sold nearly 60M AirPods last year - report,?",[0.07080805 0.02819643 0.90099555],neutral,0.042611614
+"Apple scoops up Beastie Boys documentary,?",[0.07922268 0.08386044 0.83691686],neutral,-0.004637763
+"Apple acquires edge AI startup for about $200M,?",[0.09056392 0.01324473 0.8961913 ],neutral,0.07731918
+"""Apple bull lifts target on 5G, low-cost iPhone"",?",[0.7217896  0.03280678 0.24540359],positive,0.68898284
+"Atlantic Equities turns bearish on smartphone giant,?",[0.03095837 0.91413975 0.05490186],negative,-0.8831814
+"Apple gets another PT boost on 5G,?",[0.89896786 0.04598626 0.0550459 ],positive,0.8529816
+"Big Tech dominates the S&amp;P 500,?",[0.05164221 0.02024401 0.9281138 ],neutral,0.031398207
+"Apple not cooperating with FBI - AG Barr,?",[0.02386947 0.80201447 0.174116  ],negative,-0.778145
+"Apple gets new Street-high target on 5G,?",[0.79748535 0.05025215 0.15226246],positive,0.7472332
+"Apple aims to become 'closed-loop' manufacturer,?",[0.14947832 0.00840674 0.8421149 ],neutral,0.14107157
+"Jefferies matches Street-high target for Apple,?",[0.15915239 0.04489292 0.7959547 ],neutral,0.11425947
+"Apple iPhone sales in China score big jump,?",[0.8696117  0.05195212 0.07843625],positive,0.81765956
+"Apple +1.4% after record year-end App Store sales,?",[0.47993505 0.48160264 0.03846225],negative,-0.001667589
+"Wedbush expects Apple earnings to sizzle,?",[0.19184145 0.2613661  0.54679245],neutral,-0.069524646
+"Services is king as Apple News hits 100M MAUs,?",[0.37327093 0.20397165 0.42275742],neutral,0.16929927
+"Apple bull continues to see upsides across products,?",[0.73736966 0.10655059 0.15607972],positive,0.6308191
+"Apple delaying some 5G iPhone launches - Susquehanna,?",[0.02120698 0.9083675  0.07042538],negative,-0.88716054
+"Tim Cook took home $125M in 2019 but that's less than the prior year,?",[0.02626658 0.8820591  0.09167431],negative,-0.8557925
+"Apple suing security vendor for trafficking goods,?",[0.01336229 0.9444995  0.04213825],negative,-0.9311372
+"""Apple targets raised on iPhone, wearables strength"",?",[0.60187787 0.04589937 0.3522227 ],positive,0.5559785
+"New all-time high as Apple tops $300,?",[0.50800866 0.11222243 0.3797689 ],positive,0.39578623
+"HBO's Plepler signs five-year Apple deal,?",[0.42770663 0.0335777  0.53871566],neutral,0.39412892
+"Tech gains after China eases monetary policy,?",[0.55019873 0.33237472 0.1174266 ],positive,0.21782401
+"Apple makes new deal with Imagination Tech,?",[0.6215691  0.03534989 0.34308103],positive,0.5862192
+"2019 leaders and laggards,?",[0.04704444 0.48457915 0.4683764 ],negative,-0.4375347
+"""Apple, Microsoft top Dow 2019 standings; Walgreens wobbles to the bottom"",?",[0.03133077 0.8605796  0.10808964],negative,-0.82924885
+"Hardware stocks underperformed in 2019,?",[0.11887726 0.85133344 0.02978937],negative,-0.7324562
+"Citi sees Apple wearables strength in 2020,?",[0.73299503 0.03129919 0.23570578],positive,0.70169586
+"Wedbush sees strengthening FAANG verticals in 2020,?",[0.92406493 0.01146837 0.06446671],positive,0.9125966
+"Apple 'clear winner' ahead of 5G - Wedbush,?",[0.8165047  0.06903101 0.11446426],positive,0.7474737
+"""JDI could sell plant to Apple, Sharp - Nikkei"",?",[0.14001852 0.0434701  0.8165114 ],neutral,0.09654842
+"Wedbush raises Apple on 5G tailwind,?",[0.21496879 0.42043692 0.36459434],negative,-0.20546813
+"Apple works on satellite-to-device tech,?",[0.02692081 0.02704734 0.9460318 ],neutral,-0.000126535
+"Piper raises Apple on early 5G strength,?",[0.316638   0.29888356 0.38447842],neutral,0.017754436
+"Bernstein sees big 2020 for Apple's AirPods,?",[0.3233655  0.03345374 0.6431808 ],neutral,0.28991178
+"""Apple, Samsung phones pass FCC RF radiation test"",?",[0.3955895  0.04494725 0.55946326],neutral,0.35064226
+"""Apple eyes James Bond, Pac-12 content"",?",[0.03653142 0.10782772 0.8556409 ],neutral,-0.071296304
+"""Amazon, Google partner on smart home standard"",?",[0.04234127 0.02565756 0.9320012 ],neutral,0.01668371
+"Stock buybacks jumped 6.3% in Q3,?",[0.92415726 0.02780365 0.04803908],positive,0.8963536
+"China iPhone sales dropped in November - Rosenblatt,?",[0.00970389 0.97290313 0.017393  ],negative,-0.96319926
+"Apple Arcade adds $50 yearly subscription,?",[0.12517837 0.03744939 0.8373723 ],neutral,0.08772898
+"""Apple gains as Cleveland sees iPhone, wearables strength"",?",[0.88437134 0.04987634 0.06575225],positive,0.834495
+"Apple tops holiday wish lists - Evercore,?",[0.15669878 0.07246835 0.7708329 ],neutral,0.08423043
+"Apple Podcasts come to Amazon Echo,?",[0.02658726 0.04925076 0.924162  ],neutral,-0.022663504
+"""Billboard adding Apple, YouTube plays to Hot 100"",?",[0.09852954 0.02907093 0.8723995 ],neutral,0.06945861
+"5G iPhone will disappoint in 2020 - Munster,?",[0.03871573 0.8066323  0.15465198],negative,-0.76791656
+"""Apple, semis gain on trade text deal"",?",[0.72603655 0.17030525 0.10365817],positive,0.5557313
+"Apple buys Spectral Edge for photo tech,?",[0.12154353 0.01409788 0.8643586 ],neutral,0.10744564
+"November iPhone sales dropped in China - Credit Suisse,?",[0.00893805 0.9773423  0.01371965],negative,-0.96840423
+"5G iPhone won't have major price increase - analyst,?",[0.5646798  0.06318782 0.37213233],positive,0.50149196
+"""Apple raised on holiday sales, 5G expectations"",?",[0.53267336 0.15371235 0.31361425],positive,0.37896103
+"U.S. tech probes to complete next year - AG,?",[0.04913427 0.53841174 0.41245398],negative,-0.48927745
+"""Max out Apple's Mac Pro for $52,599"",?",[0.12144846 0.02215276 0.8563988 ],neutral,0.09929569
+"Apple's iPhone 11 seeing strong holiday demand,?",[0.86568516 0.03565964 0.09865519],positive,0.83002555
+"Apple offers iPhone financing for Card holders,?",[0.03351156 0.01732372 0.94916475],neutral,0.016187843
+"""Apple TV+ needs 'mega-hit' show, says bull"",?",[0.42826533 0.03582876 0.5359059 ],neutral,0.39243656
+"Safari privacy features disrupt ad market,?",[0.01210227 0.9492363  0.03866144],negative,-0.937134
+"Mac Pro goes on sale tomorrow,?",[0.03710232 0.0228479  0.9400498 ],neutral,0.014254415
+"China Renaissance bullish on Apple,?",[0.07541817 0.7620646  0.16251719],negative,-0.6866464
+"Apple on watch as tariff deadline approaches,?",[0.04489062 0.5471423  0.4079671 ],negative,-0.5022517
+"Noted analyst expects five 2020 iPhone models,?",[0.03805802 0.02234551 0.9395964 ],neutral,0.01571251
+"Citi lifts AAPL estimates on holiday demand,?",[0.22916712 0.54454273 0.22629015],negative,-0.31537563
+"Apple's 5G iPhone 'top priority' - Qualcomm,?",[0.28357956 0.02050216 0.69591826],neutral,0.2630774
+"Rare Apple bear sees declining iPhone retention,?",[0.0223597 0.948468  0.0291722],negative,-0.92610836
+"U.K. set to introduce digital services tax,?",[0.07890837 0.07488786 0.8462038 ],neutral,0.004020512
+"U.S. weighing $2.4B of tariffs in response to France's digital services tax,?",[0.19031513 0.5738593  0.23582563],negative,-0.38354415
+"Apple still facing MacBook class action suit,?",[0.03061647 0.7702105  0.199173  ],negative,-0.73959404
+"Apple making mini LED push in 2020 - analyst,?",[0.6223622  0.039038   0.33859977],positive,0.5833242
+"JPMorgan raises iPhone sales estimates,?",[0.12961802 0.16889237 0.7014896 ],neutral,-0.03927435
+"Apple AirPods had strong Black Friday sales - Wedbush,?",[0.8710853  0.03866128 0.09025341],positive,0.832424
+"AirPods could face holiday shortage - Wedbush,?",[0.03856622 0.823224   0.13820972],negative,-0.7846578
+"Larger iPhone coming in 2020,?",[0.1096255  0.03503687 0.8553377 ],neutral,0.07458863
+"Apple doubling AirPods Pro production - report,?",[0.09846552 0.36617404 0.53536046],neutral,-0.2677085
+"India confirms iPhone exports,?",[0.33802325 0.36815193 0.29382488],negative,-0.030128688
+"Apple forecasts 100M+ 5G iPhone sales - report,?",[0.07265355 0.15939653 0.76794994],neutral,-0.086742975
+"Apple delays theatrical debut of 'The Banker',?",[0.01720325 0.9293858  0.05341102],negative,-0.9121825
+"VirnetX -22% as court tosses Apple award,?",[0.04148165 0.8719344  0.08658396],negative,-0.83045274
+"Apple seeing strong AirPods Pro demand - Bloomberg,?",[0.7945294  0.03779373 0.16767682],positive,0.7567356
+"Microsoft delays launch for AirPods competitor,?",[0.01553442 0.941278   0.04318762],negative,-0.9257436
+"""Apple, Intel suel SoftBank unit for patent hoarding"",?",[0.03222691 0.61286193 0.3549111 ],negative,-0.580635
+"Trump wants Apple's help building 5G infrastructure,?",[0.149034   0.01653874 0.83442724],neutral,0.13249525
+"""Trump says China not 'stepping up' in talks, could exempt Apple from tariffs"",?",[0.12731312 0.16251191 0.710175  ],neutral,-0.035198793
+"Apple Music expands into business offering - WSJ,?",[0.61567384 0.0178989  0.3664273 ],positive,0.5977749
+"Apple breaks ground for Austin expansion,?",[0.52239877 0.0381872  0.43941408],positive,0.48421156
+"House releases answers from Big Tech queries,?",[0.04246737 0.22335835 0.7341743 ],neutral,-0.18089098
+"Qualcomm forecasts 5G handset shipments,?",[0.06301107 0.01971945 0.91726947],neutral,0.04329162
+"Apple's iPhone 11 'massive' success - Wedbush,?",[0.55527115 0.04936286 0.395366  ],positive,0.5059083
+"Apple announces Dec. 2 press event,?",[0.03222451 0.06024538 0.9075301 ],neutral,-0.02802087
+"TikTok owner to launch music streaming - FT,?",[0.04482986 0.02207961 0.9330905 ],neutral,0.022750251
+"""Trump, Apple's Cook visiting Texas facilities next week"",?",[0.05781005 0.02031011 0.9218799 ],neutral,0.037499934
+"""Berkshire trims Well Fargo, buys Occidental Petroleum"",?",[0.04731345 0.01682671 0.93585986],neutral,0.030486746
+"Piper raises Apple on iPhone upgrade rates,?",[0.3148965  0.1936077  0.49149576],neutral,0.12128879
+"Apple News+ struggling for subscribers - CNBC,?",[0.0468248  0.41433862 0.5388366 ],neutral,-0.3675138
+"Apple launches Research with three health studies,?",[0.22812082 0.0234434  0.74843585],neutral,0.20467742
+"Apple planning subscription bundle - Bloomberg,?",[0.03016238 0.04830825 0.92152935],neutral,-0.018145878
+"Apple gains rare bear on iPhone estimates,?",[0.39424294 0.49648955 0.1092675 ],negative,-0.10224661
+"Goldman introducing shared Apple Card,?",[0.06002567 0.02364999 0.9163243 ],neutral,0.03637568
+"Apple unveils 16-in MacBook Pro,?",[0.09446053 0.04664863 0.85889083],neutral,0.0478119
+"Apple gains bull on 5G iPhone potential,?",[0.85667956 0.09544013 0.04788025],positive,0.7612394
+"HBO's Plepler coming to Apple - WSJ,?",[0.03628404 0.08901687 0.87469906],neutral,-0.052732825
+"KeyBanc checks show iPhone 11 improvement,?",[0.7890792  0.15759414 0.05332661],positive,0.63148504
+"Streaming wars: Disney+ finally arrives,?",[0.2459373  0.05524243 0.6988203 ],neutral,0.19069487
+"Apple's AR headset coming in 2022 - report,?",[0.05990365 0.04658665 0.89350975],neutral,0.013317
+"Goldman faces 'sexist' probe over Apple Card,?",[0.0152605  0.9468263  0.03791323],negative,-0.93156576
+"EU still focusing on Apple antitrust probes,?",[0.03807921 0.52231133 0.4396095 ],negative,-0.48423213
+"Disney Plus set up to define Iger legacy,?",[0.04838012 0.00695355 0.9446664 ],neutral,0.041426565
+"Apple publishes new details on privacy approach,?",[0.0368138  0.01347564 0.94971055],neutral,0.023338152
+"Firm sees Sonos as Apple target; SONO +6%,?",[0.06182061 0.04103657 0.89714277],neutral,0.020784035
+"BofA sees continuing outperformance for Apple,?",[0.3358791  0.6266043  0.03751662],negative,-0.29072523
+"Apple commits $2.5B to California housing issues,?",[0.0699803  0.08005282 0.8499669 ],neutral,-0.010072522
+"""Apple seeks tariff exclusions on Watch, AirPods"",?",[0.07187685 0.4496971  0.47842607],neutral,-0.37782025
+"Apple Pay overtakes PayPal - Appleinsider,?",[0.07271312 0.11057447 0.8167124 ],neutral,-0.037861347
+"Ad-supported Peacock streaming may come free - CNBC,?",[0.03111639 0.01867088 0.9502127 ],neutral,0.012445515
+"Google acquires Fitbit for $7.35/share,?",[0.13552392 0.02745587 0.8370202 ],neutral,0.10806804
+"Apple could receive French antitrust fine,?",[0.0216148  0.93146634 0.04691886],negative,-0.90985155
+"""Apple targets lifted on iPhone, Services strength"",?",[0.7458755  0.06882151 0.18530305],positive,0.677054
+"""Apple call: Best-selling iPhone 11, China improvement"",?",[0.48406598 0.04316409 0.47276998],positive,0.44090188
+"""Apple +1.7% as iPhone, Wearables drive beats"",?",[0.56205624 0.24996568 0.18797806],positive,0.31209058
+"Apple declares $0.77 dividend,?",[0.05602182 0.6645345  0.2794437 ],negative,-0.6085127
+"""Apple EPS beats by $0.19, beats on revenue"",?",[0.19920847 0.09465791 0.70613366],neutral,0.10455056
+"What to watch in Apple's Q4 report,?",[0.03632428 0.02279756 0.94087815],neutral,0.013526715
+"Apple plans iPhone growth in 2020 - reports,?",[0.28109404 0.02722964 0.6916763 ],neutral,0.2538644
+"Apple resumes human reviews of Siri audio,?",[0.03035144 0.06346826 0.9061803 ],neutral,-0.033116817
+"""HBO Max prices at $14.99/month, same as HBO"",?",[0.09104761 0.03401883 0.87493354],neutral,0.057028774
+"Apple Q4 2019 Earnings Preview,?",[0.0538181  0.29388717 0.6522947 ],neutral,-0.24006906
+"EU antitrust officials focusing on Apple Pay,?",[0.02823431 0.70100516 0.27076048],negative,-0.67277086
+"Apple releases AirPods Pro,?",[0.03009958 0.07655445 0.89334595],neutral,-0.04645487
+"Fitbit jumps on report of Google acquisition talks (updated),?",[0.18491465 0.6000403  0.2150451 ],negative,-0.41512567
+"Apple target boosted on iPhone optimism,?",[0.8254552  0.10009422 0.07445062],positive,0.725361
+"Apple overhauling smart home efforts - Bloomberg,?",[0.11282294 0.14511761 0.74205947],neutral,-0.03229467
+"Apple working on UAL terminal upgrade,?",[0.13577701 0.03208947 0.8321335 ],neutral,0.10368754
+"HBO Max targets 80M subs by 2025; ad-supported option coming,?",[0.04351765 0.03078889 0.92569345],neutral,0.012728754
+"XR led Q3 U.S. iPhone sales - report,?",[0.48318592 0.26331317 0.2535009 ],positive,0.21987274
+"CNN readying digital news service that would pay publishers,?",[0.11937767 0.01822723 0.8623951 ],neutral,0.10115044
+"Morgan Stanley sets Street-high target for Apple,?",[0.14576085 0.08340784 0.7708313 ],neutral,0.062353007
+"Tech breakups still on table - antitrust chief,?",[0.03767539 0.40333253 0.5589921 ],neutral,-0.36565715
+"KeyBanc outlines Apple risks ahead of earnings,?",[0.05298889 0.33688417 0.6101269 ],neutral,-0.28389528
+"Apple making iPhone XR in India - WSJ,?",[0.04858712 0.13034001 0.82107294],neutral,-0.08175288
+"Apple gets new Street-high target,?",[0.6431266  0.06421816 0.29265526],positive,0.57890844
+"Apple AirPods Pro coming soon,?",[0.07785103 0.07321824 0.8489307 ],neutral,0.004632793
+"Barclays lifts Apple PT on iPhone 11,?",[0.33949956 0.36835897 0.29214144],negative,-0.028859407
+"""Majority of iPhones from past four years run iOS 13, Apple says"",?",[0.03163002 0.04124615 0.92712384],neutral,-0.009616133
+"Netflix says competition's OK in a growing streaming pie,?",[0.67805654 0.0249025  0.297041  ],positive,0.653154
+"EU looking into Apple Pay antitrust concerns - report,?",[0.0528619  0.24073456 0.70640355],neutral,-0.18787266
+"""Roku +3.2% as Apple TV app, Apple TV Plus joining platform"",?",[0.16142966 0.02471415 0.8138562 ],neutral,0.13671552
+"Apple denies sending URLS to Tencent,?",[0.02186415 0.7928758  0.18526001],negative,-0.77101165
+"Credit Suisse more confident on iPhone demand,?",[0.8514288  0.04469325 0.10387792],positive,0.8067356
+"Noted Apple analyst names next growth driver,?",[0.38352165 0.04956328 0.56691504],neutral,0.33395836
+"""Apple hits new all-time high, up 60% from January low, as outlook brightens"",?",[0.9479024  0.0251284  0.02696916],positive,0.92277396
+"Wedbush boosts Apple on 100M sub target for TV Plus,?",[0.8417988  0.08224071 0.07596055],positive,0.7595581
+"Apple pulls Hong Kong police tracking app,?",[0.05141006 0.13510883 0.8134811 ],neutral,-0.08369877
+"Google in test production of 5G phone - Nikkei,?",[0.18632537 0.21614976 0.5975249 ],neutral,-0.029824391
+"""Apple gains after price target boost, new product expectations"",?",[0.88722587 0.03142338 0.08135074],positive,0.8558025
+"Music execs wary of Apple pricing approach - FT,?",[0.03120931 0.81974596 0.14904468],negative,-0.78853667
+"Wedbush sizes up regulatory pressure on Apple,?",[0.1326862  0.51804584 0.34926796],negative,-0.38535964
+"Apple gets PT boost at Nomura,?",[0.76792926 0.13982457 0.0922462 ],positive,0.6281047
+"Apple acquired 3D animation company,?",[0.08008052 0.01161018 0.90830934],neutral,0.06847034
+"""Apple should beat soft expectations, says bull"",?",[0.8397004  0.02857358 0.13172606],positive,0.8111268
+"Apple orders 10% boost to iPhone 11 production - Nikkei,?",[0.86355424 0.10280179 0.03364397],positive,0.76075244
+"""Loop sees good iPhone demand, low ASPs"",?",[0.7674398  0.04874947 0.1838107 ],positive,0.71869034
+"Apple easing third-party app restrictions,?",[0.43256947 0.08985476 0.47757578],neutral,0.34271473
+"Analysts see soft iPhone 11 demand,?",[0.24652371 0.37700135 0.37647492],negative,-0.13047764
+"""Apple's mini LED switch benefits LG, says analyst"",?",[0.39954466 0.02264266 0.5778127 ],neutral,0.37690198
+"Apple's 2020 iPhone could drive growth - JPMorgan,?",[0.8026404  0.01785347 0.17950621],positive,0.78478694
+"Apple hires AstraZeneca exec,?",[0.05448917 0.2136286  0.7318822 ],neutral,-0.15913942
+"Google to preinstall YouTube Music on newer Android devices,?",[0.03493102 0.03793967 0.9271293 ],neutral,-0.003008645
+"Apple bringing original films to theaters - WSJ,?",[0.13461076 0.01163012 0.85375905],neutral,0.12298063
+"Apple iPhone 11 seeing 'decent' demand - UBS,?",[0.8721845  0.0484723  0.07934318],positive,0.8237122
+"Top analyst questions Apple's valuation,?",[0.06347718 0.11147996 0.8250429 ],neutral,-0.04800278
+"""Amazon launches new Echos, Studio, and Buds"",?",[0.14943022 0.00681276 0.84375703],neutral,0.14261745
+"Apple iPad shipments start tomorrow,?",[0.03711918 0.04794104 0.91493976],neutral,-0.010821857
+"Big court rulings out of Europe (updated),?",[0.06545512 0.29730877 0.6372361 ],neutral,-0.23185365
+"Mac Pro production staying in US,?",[0.06889981 0.2330577  0.6980425 ],neutral,-0.16415788
+"Google launches Play Pass to rival Apple Arcade,?",[0.6016931  0.06139985 0.33690697],positive,0.5402932
+"Apple gets tariff exclusion on some Mac Pro parts - Bloomberg,?",[0.32182452 0.04308413 0.63509136],neutral,0.2787404
+"Apple's iPhone 11 goes on sale,?",[0.10457873 0.01810517 0.8773161 ],neutral,0.08647356
+"What to expect as iOS 13 gets released,?",[0.04711317 0.01292682 0.93996   ],neutral,0.034186356
+"Apple losing VP of communications,?",[0.03765268 0.23502015 0.7273272 ],neutral,-0.19736746
+"Apple continues EU tax appeal,?",[0.30491266 0.0504167  0.64467067],neutral,0.25449595
+"Apple iPhone 11 pre-orders show strength,?",[0.87320554 0.07220977 0.0545847 ],positive,0.80099577
+"Apple fund invests $250M in Corning,?",[0.04690942 0.00703875 0.9460519 ],neutral,0.039870672
+"EU tax order 'defies common sense' - Apple,?",[0.04563542 0.7362961  0.21806839],negative,-0.6906607
+"Apple in court over Irish tax bill,?",[0.02141786 0.92503923 0.05354293],negative,-0.9036214
+"Disney's Iger leaves Apple board,?",[0.03753827 0.71214354 0.25031826],negative,-0.67460525
+"Apple denies Goldman's TV+ claims,?",[0.05030866 0.72915864 0.22053269],negative,-0.67885
+"Apple bear sees weak iPhone 11 demand,?",[0.02275809 0.92702395 0.05021802],negative,-0.9042659
+"Abrams spurned Apple for less money with Warner - report,?",[0.02605368 0.8988317  0.07511447],negative,-0.87277806
+"Goldman cuts Apple on TV+ trial,?",[0.0198755  0.930969   0.04915549],negative,-0.9110935
+"Analysts praise Apple TV+ pricing,?",[0.89645576 0.03360843 0.06993579],positive,0.8628473
+"New iPhones sees tepid response in Asia,?",[0.02814228 0.9217412  0.05011659],negative,-0.8935989
+"""Apple launches iPhone 11, Pro, and Pro Max"",?",[0.09044939 0.00852747 0.9010231 ],neutral,0.08192192
+"New iPhones won't have two-way charging - analyst,?",[0.03908279 0.07409265 0.88682455],neutral,-0.03500986
+"Apple bear cuts target on cycle weakness,?",[0.09499185 0.78522766 0.1197806 ],negative,-0.6902358
+"What to expect at Apple's fall event,?",[0.05169877 0.04960965 0.89869153],neutral,0.002089117
+"Apple changes App Store amid antitrust scrutiny,?",[0.02465673 0.8424883  0.13285492],negative,-0.8178316
+"Apple broke Chinese labor laws,?",[0.02474718 0.90924066 0.06601218],negative,-0.88449347
+"Q4 App Store growth outperforming - Morgan Stanley,?",[0.02475346 0.95322686 0.02201963],negative,-0.9284734
+"Piper survey shows strong 5G iPhone interest,?",[0.81742865 0.02839541 0.15417597],positive,0.78903323
+"Apple testing in-display fingerprint ID - Bloomberg,?",[0.03502077 0.15903854 0.8059407 ],neutral,-0.124017775
+"Apple returns to bond market (update),?",[0.34728897 0.07383476 0.5788763 ],neutral,0.2734542
+"Apple planning new iPhone SE - Nikkei,?",[0.05358029 0.17599544 0.77042425],neutral,-0.12241515
+"Apple EPS could take $0.20+ tariff hit - Longbow,?",[0.07260334 0.622247   0.30514967],negative,-0.54964364
+"Google researchers found mass iPhone hack attempt,?",[0.0187767  0.92253345 0.05868981],negative,-0.90375674
+"""Apple sets Sept. 10 event, likely for new iPhones"",?",[0.05137248 0.01968065 0.9289469 ],neutral,0.031691838
+"Apple expands independent repair program,?",[0.4618513  0.04359752 0.49455112],neutral,0.41825378
+"Nomura cuts Apple estimate on iPhone uncertainty,?",[0.02950437 0.89120257 0.07929309],negative,-0.8616982
+"Apple suppliers still rely on China - Reuters,?",[0.05225528 0.16319604 0.7845487 ],neutral,-0.11094076
+"Apple starting online sales in India - Bloomberg,?",[0.1639987  0.02055639 0.8154449 ],neutral,0.1434423
+"Apple suspends Siri-listening contractors,?",[0.01878511 0.9228438  0.05837104],negative,-0.9040587
+"Apple shelves 'Walkie-Talkie' phone project - report,?",[0.03211221 0.07792065 0.88996714],neutral,-0.04580844
+"""Apple's ability to navigate tariffs underappreciated, J.P. Morgan analyst says"",?",[0.02343565 0.94743323 0.02913108],negative,-0.9239976
+"""Apple, chip stocks take a beating after China tariffs, Trump tough talk"",?",[0.07556924 0.7108492  0.21358149],negative,-0.63528
+"LG Display starts OLED production for iPhone,?",[0.2376132  0.04843642 0.7139504 ],neutral,0.18917678
+"Apple launching Pro iPhones this fall - Bloomberg,?",[0.09413514 0.01689896 0.88896596],neutral,0.077236176
+"Apple Card not a threat to competitors - analysts,?",[0.0526674 0.3677375 0.5795951],neutral,-0.3150701
+"Apple needs millions of TV+ subs - Cowen,?",[0.03333665 0.03869484 0.9279685 ],neutral,-0.005358189
+"Justice Department assisting state AG tech probe,?",[0.02729446 0.746864   0.22584148],negative,-0.71956956
+"""Apple's health team faces tension, exits - CNBC"",?",[0.04594252 0.69101906 0.26303846],negative,-0.6450765
+"Apple Card launches for U.S. customers,?",[0.03170159 0.0502732  0.91802526],neutral,-0.018571608
+"""Apple TV Plus targets $9.99 price, November launch - Bloomberg"",?",[0.03364203 0.05496427 0.9113937 ],neutral,-0.021322235
+"Apple's streaming spending races past $6B - FT,?",[0.5987468  0.25393516 0.14731807],positive,0.34481162
+"State AGs ready their own tech antitrust probe - WSJ,?",[0.03928599 0.2347066  0.72600746],neutral,-0.19542061
+"Microsoft hires former Siri boss - The Information,?",[0.0358644  0.38319713 0.58093846],neutral,-0.34733272
+"Apple Arcade will cost $5 per month,?",[0.04517125 0.03148195 0.9233469 ],neutral,0.013689294
+"Apple CEO makes 'good case' against tariffs - Trump,?",[0.21182902 0.18732467 0.60084635],neutral,0.024504349
+"""Apple's privacy rules stifle competition, say developers"",?",[0.04511091 0.19472407 0.76016504],neutral,-0.14961316
+"Apple's EU tax bill appeal starts soon,?",[0.10684323 0.02829879 0.864858  ],neutral,0.07854444
+"Apple bull touts wearables growth driver,?",[0.25083604 0.0447884  0.7043755 ],neutral,0.20604765
+"JPMorgan sees tariffs hurting S&amp;P 500 earnings in 2020,?",[0.01173057 0.9654148  0.02285469],negative,-0.9536843
+"Apple updates U.S. job footprint,?",[0.05167717 0.7330474  0.21527539],negative,-0.68137026
+"""Tariff delay mutes Apple impact, says BofAML"",?",[0.08028506 0.53588223 0.38383275],negative,-0.45559716
+"""AirPods, Apple Watch won't get tariff extension"",?",[0.31525266 0.21506356 0.4696838 ],neutral,0.100189105
+"""Spotify, Apple nearing Siri truce"",?",[0.29586244 0.28881475 0.41532287],neutral,0.007047683
+"""Semis, Apple gain on tariff news"",?",[0.31208852 0.52259415 0.16531733],negative,-0.21050563
+"Apple loses ground to Samsung in Europe,?",[0.03013562 0.9415436  0.02832078],negative,-0.91140795
+"Facebook testing resale of subscription VOD,?",[0.1036993  0.01716912 0.8791316 ],neutral,0.08653017
+"Apple probed for unfair competition in Russia,?",[0.02341196 0.8952399  0.08134815],negative,-0.8718279
+"Bull outlines Apple's reacceleration in July,?",[0.04403807 0.1841661  0.7717958 ],neutral,-0.14012803
+"Apple's Cards soft launch; subsidiary rebrands,?",[0.04751315 0.03997654 0.91251034],neutral,0.007536605
+"Apple probed over pressure on parts makers - Mainichi,?",[0.01915063 0.938149   0.04270044],negative,-0.91899836
+"Apple can absorb tariff costs - top analyst,?",[0.5553516  0.02067372 0.42397472],positive,0.53467786
+"""Apple, semis slide as trade war weakens yuan"",?",[0.01425507 0.96049905 0.0252459 ],negative,-0.946244
+"Apple Card won't allow crypto purchases,?",[0.03026216 0.12517072 0.8445671 ],neutral,-0.094908565
+"FTC investigating Apple-Amazon deal's seller impact - report,?",[0.05166672 0.34538314 0.60295016],neutral,-0.29371643
+"""Greater transparency practices for Siri, Assistant"",?",[0.469551   0.02913012 0.5013189 ],neutral,0.44042087
+"Analysts lift Apple targets after earnings,?",[0.30469933 0.32757634 0.36772433],neutral,-0.022877008
+"Big Tech partners with healthcare giants,?",[0.05021277 0.07090702 0.87888014],neutral,-0.020694245
+"Apple net cash totals $102B; keeping Mac Pro in U.S.,?",[0.16619173 0.07635976 0.75744855],neutral,0.08983197
+"""Apple +2.8% on Q3 beats, upside revenue view"",?",[0.34217983 0.44398504 0.21383509],negative,-0.10180521
+"Apple declares $0.77 dividend,?",[0.05602182 0.6645345  0.27944368],negative,-0.6085127
+"""Apple EPS beats by $0.08, beats on revenue"",?",[0.24095918 0.10899653 0.65004426],neutral,0.13196266
+"What the Street expects from Apple's Q3,?",[0.06483405 0.02785719 0.9073087 ],neutral,0.036976866
+"Apple hires former Valve VR engineer,?",[0.16188434 0.19773734 0.6403783 ],neutral,-0.035853
+"""Pixel 4 gesture controls, Apple laser sensors"",?",[0.02896412 0.05507096 0.9159649 ],neutral,-0.026106838
+"Apple Q3 Earnings Preview,?",[0.04744219 0.27916896 0.67338884],neutral,-0.23172677
+"Apple offering three 5G iPhones in 2020 - analyst,?",[0.06909423 0.0142469  0.91665894],neutral,0.05484733
+"Trump wants Apple to build U.S. plants,?",[0.06623632 0.02404117 0.90972257],neutral,0.04219515
+"Siri sends sensitive recordings to subcontractors - report,?",[0.02774369 0.11879281 0.8534635 ],neutral,-0.09104912
+"""No tariff waivers for Apple, tweets Trump"",?",[0.0698754 0.3505505 0.5795741],neutral,-0.2806751
+"""Intel +6% on Apple's $1B purchase, raised FY view"",?",[0.90871596 0.0425847  0.04869938],positive,0.86613125
+"Suppliers expecting 75M iPhones in H2 - Bloomberg,?",[0.06031768 0.09679626 0.8428861 ],neutral,-0.036478583
+"Evercore inches Apple higher before earnings,?",[0.48518854 0.41547704 0.0993344 ],positive,0.06971151
+Justice Dept.,[0.06298802 0.09366813 0.84334385],neutral,-0.030680105
+"App Store appears to favor Apple - WSJ,?",[0.24106112 0.10650437 0.6524345 ],neutral,0.13455676
+"Apple wants Mac Pro tariff exclusion,?",[0.03549302 0.04724209 0.91726494],neutral,-0.01174907
+"""Apple, Intel in advanced talks over modem business - WSJ"",?",[0.10234206 0.03649468 0.8611633 ],neutral,0.06584738
+"Apple hires Tesla car interior engineer,?",[0.09799063 0.07251743 0.8294919 ],neutral,0.0254732
+"""Look for ROE growth when market treads water, Goldman says."",?",[0.5224591 0.0169004 0.4606405],positive,0.50555867
+"Bull boosts Apple on Services acceleration,?",[0.8313084  0.10296718 0.06572438],positive,0.7283412
+"Apple grew Q3 app sales - BofAML,?",[0.49038127 0.15656653 0.35305217],positive,0.33381474
+"Raymond James leaves Apple sidelines on 5G confidence,?",[0.10607435 0.5638373  0.33008835],negative,-0.45776296
+"Apple production testing AirPods in Vietnam - NAR,?",[0.04245195 0.5020132  0.45553488],negative,-0.45956126
+"Spotify slides on Apple's podcast plans - report,?",[0.02998555 0.0558077  0.9142068 ],neutral,-0.025822148
+"Big Tech under fire on Capitol Hill,?",[0.05465054 0.39407426 0.5512752 ],neutral,-0.33942372
+"Apple disbands AR/VR headset team - report,?",[0.02438625 0.7675424  0.20807128],negative,-0.7431562
+"Apple Watch glitch creates eavesdropping vulnerability,?",[0.01490084 0.9467938  0.0383053 ],negative,-0.93189293
+"""Apple's XR, XS hitting India next month"",?",[0.06635679 0.0801469  0.8534963 ],neutral,-0.013790108
+"Apple could miss H2 iPhone estimates - Loop,?",[0.01678027 0.93471855 0.04850123],negative,-0.9179383
+"U.S. launches probe of French digital tax,?",[0.04963445 0.6438738  0.30649176],negative,-0.59423935
+"Sun Valley confab arrives as media/tech consolidation rolls on,?",[0.15754718 0.04558628 0.7968666 ],neutral,0.11196089
+"Apple raised as 're-valuation' stock - Evercore,?",[0.19861266 0.02623079 0.77515656],neutral,0.17238186
+"Apple starts China app development program,?",[0.07540175 0.01262975 0.91196847],neutral,0.06277199
+"""Apple, Amazon, Facebook, Google set to testify in House panel hearing"",?",[0.0437023  0.01938368 0.936914  ],neutral,0.02431862
+"""Apple discontinues 12-inch MacBook, $999 MacBook Air"",?",[0.05724991 0.20695809 0.73579204],neutral,-0.14970818
+"iPhone optimism prompts Apple stock price target boost at J.P. Morgan,?",[0.61315113 0.21700136 0.16984755],positive,0.39614975
+"""Rosenblatt cuts Apple to Sell, seeing 'fundamental deterioration'"",?",[0.02805055 0.9063595  0.06558996],negative,-0.87830895
+"U.K. PM candidate Johnson seeks tax on tech giants - Reuters,?",[0.07711942 0.43375686 0.48912367],neutral,-0.35663745
+"China demand could cut Apple estimates - Citi,?",[0.01489704 0.9638884  0.02121459],negative,-0.94899136
+"Apple gains on US-China trade truce,?",[0.6419909  0.29934686 0.05866221],positive,0.34264404
+"Sony's next PlayStation focusing on hard-core gamers - WSJ,?",[0.03608903 0.04547026 0.91844076],neutral,-0.009381231
+"Apple moving Mac Pro production to China - WSJ,?",[0.11015309 0.15525089 0.7345961 ],neutral,-0.045097798
+"Jony Ive leaving Apple,?",[0.03748238 0.61816454 0.34435308],negative,-0.58068216
+"Apple Music has 60M subscribers,?",[0.02262133 0.02438414 0.9529946 ],neutral,-0.001762817
+"Apple Stores stocking glucose monitor,?",[0.03672623 0.18040217 0.78287154],neutral,-0.14367594
+"Apple to move LCD orders from China to Japan Display - report,?",[0.277692   0.07648417 0.6458238 ],neutral,0.20120782
+"""Shopify adds Apple Business Chat, Pay"",?",[0.0447293  0.18966803 0.76560265],neutral,-0.14493874
+"""Apple +2% after Mnuchin comments, Wedbush note"",?",[0.10716737 0.43077025 0.4620623 ],neutral,-0.32360289
+"Apple closes deal for Drive.ai,?",[0.18089926 0.10974573 0.709355  ],neutral,0.07115353
+"Apple: Spotify only paying for 680K members,?",[0.02605218 0.08298847 0.8909594 ],neutral,-0.056936294
+"BofA sees $1 EPS hit from Apple tariffs,?",[0.09872685 0.7946453  0.10662784],negative,-0.69591844
+"Apple:Tariffs hurt our competitiveness,?",[0.01600921 0.95368963 0.03030123],negative,-0.9376804
+"Deutsche warns of iPhone lull before 5G,?",[0.02887161 0.9062     0.06492834],negative,-0.8773284
+"Apple Card testing ramps up - Bloomberg,?",[0.28064778 0.04645508 0.67289716],neutral,0.2341927
+"Apple expands Best Buy repair service,?",[0.5870469  0.03145991 0.3814932 ],positive,0.555587
+"Apple playing 'poker' with China move - Wedbush,?",[0.08595675 0.1660406  0.7480027 ],neutral,-0.08008385
+"Apple mulls shifting output from China - Nikkei,?",[0.05382803 0.7970725  0.14909947],negative,-0.7432445
+"KeyBanc cuts FY20 Apple view,?",[0.0212715  0.8967253  0.08200318],negative,-0.8754538
+"""JPMorgan snips Apple iPhone estimates, target"",?",[0.04304834 0.08098184 0.8759699 ],neutral,-0.03793349
+"Apple eyes small-budget film production - NYPost,?",[0.0368801  0.10863671 0.8544831 ],neutral,-0.07175661
+"""Apple deal forces Comcast, Charter to sell thousands of devices - CNBC"",?",[0.11833394 0.03327694 0.84838915],neutral,0.085057
+"Qualcomm -2.8% as Apple mulls Intel modem purchase,?",[0.04793268 0.85923404 0.0928333 ],negative,-0.81130135
+"Apple in talks to buy key Intel modem unit - report,?",[0.14784126 0.02413796 0.82802075],neutral,0.1237033
+"Apple cancels Denmark data center,?",[0.01713995 0.9124994  0.07036062],negative,-0.89535946
+"Big Tech on trial at House hearing,?",[0.08074617 0.10703254 0.81222135],neutral,-0.026286371
+"Apple eyeing self-driving shuttle startup - report,?",[0.15931958 0.07827464 0.76240575],neutral,0.081044935
+"""Apple has lots of upside from services growth, Evercore says"",?",[0.6296425  0.02225552 0.34810197],positive,0.60738695
+"DoJ probe could trim $13/share from Apple - analyst,?",[0.08680957 0.8536071  0.05958328],negative,-0.76679754
+"Cook doesn't see China targeting Apple,?",[0.03871551 0.39996183 0.5613227 ],neutral,-0.36124632
+"Apple app login button must be placed above rivals,?",[0.02442981 0.07823712 0.8973331 ],neutral,-0.05380731
+"Developers sue Apple for App Store practices,?",[0.01436402 0.935177   0.05045905],negative,-0.920813
+"Apple gets target trim on DoJ overhang,?",[0.3191428  0.27991027 0.40094697],neutral,0.039232522
+"""Canaccord lowers Apple target on China, iPhone"",?",[0.170259   0.49842864 0.3313124 ],negative,-0.32816964
+"Big Tech faces Congressional probe,?",[0.03267401 0.7267349  0.24059105],negative,-0.69406086
+"DoJ heading Apple antitrust probe - Reuters,?",[0.03603177 0.26463965 0.69932854],neutral,-0.22860788
+"""Apple WWDC: Watch gets App Store, iOS goes Dark Mode"",?",[0.0375611 0.1483597 0.8140792],neutral,-0.110798605
+"Apple's comments needed on Spotify charge - EU,?",[0.03976022 0.38410798 0.5761318 ],neutral,-0.34434777
+"Interest builds for 5G iPhone - Piper,?",[0.12892693 0.01437187 0.8567012 ],neutral,0.11455507
+"What's happening at Apple WWDC 2019,?",[0.03269425 0.09486031 0.8724454 ],neutral,-0.06216606
+"Is Apple building a foldable iPhone,?",[0.08595993 0.03209843 0.8819416 ],neutral,0.053861495
+"Apple cracking down on kids' app tracking - WSJ,?",[0.02851836 0.8677651  0.10371661],negative,-0.83924675
+"Apple wearables get Q1 ASP boost - IDC,?",[0.70059735 0.03897523 0.2604274 ],positive,0.6616221
+"Morgan Stanley trims Apple target on China impact,?",[0.06500384 0.8055584  0.12943779],negative,-0.7405546
+"Consumers sue Apple for alleged privacy violations,?",[0.01304384 0.9446491  0.04230701],negative,-0.9316053
+"Citi cuts Apple target on trade tensions,?",[0.0270131  0.92410964 0.04887716],negative,-0.8970965
+"Customers charge Apple with sale of personal iTunes data,?",[0.0300352  0.10110774 0.868857  ],neutral,-0.071072534
+"Apple bought asthma monitoring startup - CNBC,?",[0.06677799 0.0183772  0.9148448 ],neutral,0.04840079
+"UBS next to cut Apple price target,?",[0.06332292 0.77379674 0.16288033],negative,-0.71047384
+"Apple WWDC19 coming June 3,?",[0.03055146 0.10021594 0.86923265],neutral,-0.069664486
+"Goldman calculates Apple's impact from China ban,?",[0.05043006 0.6804792  0.26909074],negative,-0.63004917
+"Qualcomm practices violated antitrust law,?",[0.01807296 0.86505306 0.11687399],negative,-0.8469801
+"Apple adds two new MacBook Pro models,?",[0.17334309 0.02124494 0.80541193],neutral,0.15209815
+"Apple cut on Q3 downside in China - Lynx,?",[0.02273055 0.93347305 0.04379644],negative,-0.9107425
+"Former Apple consumer chip engineers exit Google - report,?",[0.02625613 0.81329787 0.160446  ],negative,-0.7870417
+"""HSBC cuts Apple target on Huawei, China"",?",[0.05738279 0.8203921  0.12222512],negative,-0.7630093
+"""Toshiba Memory will buy out Apple, Dell - WSJ"",?",[0.18952303 0.02573177 0.7847452 ],neutral,0.16379125
+"""Nomura trims Apple on China, upgrade rates"",?",[0.5217677  0.10083875 0.37739363],positive,0.42092893
+"Apple's U.S. installed base growth slows,?",[0.01131191 0.96705866 0.02162941],negative,-0.95574677
+"Apple shares wobble after Huawei ban,?",[0.01784687 0.9379236  0.04422949],negative,-0.9200767
+JPMorgan moves to No.,[0.39783347 0.2057205  0.39644602],positive,0.19211297
+"Tariffs could shave 4% off Apple margins,?",[0.3892274 0.3759056 0.234867 ],positive,0.013321787
+"Apple pushes into subscription TV with Channels launch,?",[0.6151404  0.01598978 0.36886984],positive,0.5991506
+"Supreme Court rules against Apple in App Store case; shares -5.6%,?",[0.04283645 0.69798875 0.25917476],negative,-0.6551523
+"Tariffs could slash Apple EPS - Morgan Stanley,?",[0.09938315 0.77926683 0.12134998],negative,-0.6798837
+"North American smartphone sales dive in Q1,?",[0.00983439 0.975653   0.01451254],negative,-0.9658186
+"Apple opening first Indian store - Bloomberg,?",[0.11971749 0.07024585 0.8100367 ],neutral,0.04947164
+"SAP extends Apple native app alliance,?",[0.8301818  0.01263308 0.15718511],positive,0.8175487
+"Apple buys a company every few weeks,?",[0.05491493 0.01899314 0.9260919 ],neutral,0.035921793
+"EU poised to probe Apple over Spotify complaint,?",[0.01903883 0.92469364 0.05626753],negative,-0.9056548
+"Apple Watch sales +49% in Q1,?",[0.34035206 0.2475928  0.4120551 ],neutral,0.09275925
+"Apple gets target boosts on upside outlook,?",[0.72419125 0.08297361 0.19283512],positive,0.64121765
+"""Discounts, incentives help iPhone recovery - Apple call"",?",[0.33617854 0.02235373 0.6414677 ],neutral,0.3138248
+"""Apple +5% on strong Services, upside outlook"",?",[0.8839691 0.0718778 0.0441531],positive,0.81209135
+"Apple raises dividend by 5.5% to $0.77,?",[0.8319317  0.05789037 0.11017796],positive,0.77404135
+"""Apple beats by $0.10, beats on revenue"",?",[0.4236395  0.12190356 0.45445696],neutral,0.30173594
+"Apple Q2 2019 Earnings Preview,?",[0.05112834 0.25768083 0.6911908 ],neutral,-0.20655249
+"Lynx lowers iPhone forecast on sell-through,?",[0.02895943 0.92956156 0.04147901],negative,-0.9006021
+"Apple explains parental control app removal,?",[0.0359004 0.4466063 0.5174933],neutral,-0.4107059
+"Apple discussed buying Intel modem chip business - WSJ,?",[0.09237439 0.01118158 0.8964441 ],neutral,0.08119281
+"""Apple, IBM, Costco among those expected to raise payouts next week"",?",[0.61574084 0.02148065 0.36277848],positive,0.5942602
+"Another firm cuts iPhone outlook before earnings,?",[0.02315434 0.9107076  0.06613798],negative,-0.8875533
+"Street underestimates Apple Services potential - UBS,?",[0.04593302 0.8370626  0.11700436],negative,-0.7911296
+"Apple launching two new AirPods - Kuo,?",[0.10511074 0.02346275 0.8714265 ],neutral,0.08164799
+"Apple gets target boosts ahead of earnings,?",[0.55615157 0.04435749 0.39949095],positive,0.5117941
+"Wells lowers iPhone outlook before earnings,?",[0.0431454  0.8185337  0.13832082],negative,-0.7753883
+"""5G iPhone includes Qualcomm, Samsung - Kuo"",?",[0.02650161 0.04015096 0.9333474 ],neutral,-0.013649356
+"Apple spending $30M/month on AWS,?",[0.06688741 0.46552837 0.46758428],neutral,-0.39864096
+"Apple paying Qualcomm $9/iPhone - UBS,?",[0.03985905 0.45970896 0.500432  ],neutral,-0.4198499
+"New iPhones getting front camera upgrade - Kuo,?",[0.8759056  0.03844769 0.08564677],positive,0.8374579
+"Behind Apple's surprise settlement with Qualcomm,?",[0.0682857  0.4215329  0.51018137],neutral,-0.3532472
+"CNBC: Facebook building entry to voice assistants,?",[0.39821312 0.0197178  0.58206916],neutral,0.3784953
+"Apple's Q1 iPhone ships miss estimates - OTR,?",[0.01492559 0.9511946  0.03387983],negative,-0.936269
+"Apple talking to lidar suppliers - Reuters,?",[0.03815245 0.12038585 0.84146166],neutral,-0.0822334
+"""Qualcomm, Apple drop all litigation; QCOM +14.7%"",?",[0.02017011 0.9169     0.06292994],negative,-0.8967299
+"""Jury trial starts for Apple, Qualcomm battle"",?",[0.05419592 0.06172853 0.8840755 ],neutral,-0.007532608
+"Apple spending $500M+ on games - Bloomberg,?",[0.07342315 0.06348608 0.86309075],neutral,0.009937078
+"New Street cuts Apple on iPhone concerns,?",[0.01760778 0.9414449  0.04094725],negative,-0.92383707
+"Dutch launch Apple antitrust probe,?",[0.03302795 0.7010115  0.26596057],negative,-0.66798353
+"IPhone sales will drop 12% in 2019 - Credit Suisse,?",[0.0103354  0.9697715  0.01989304],negative,-0.9594361
+"""Next macOS getting Music, TV apps - report"",?",[0.04171386 0.03017861 0.9281075 ],neutral,0.011535246
+"""Apple gets target boosts, downgrade"",?",[0.37273988 0.2201806  0.4070795 ],neutral,0.15255928
+"LG +3% on Apple shift to mini LEDs - Kuo,?",[0.37176913 0.16999695 0.45823392],neutral,0.20177218
+"Apple target lifted on China demand - Wedbush,?",[0.12648979 0.69794804 0.17556214],negative,-0.5714582
+"Apple leads healthcare 'digital disruption' - Morgan Stanley,?",[0.05294521 0.5361987  0.41085616],negative,-0.48325348
+"New iPhones getting USB-C,?",[0.24241486 0.04683933 0.7107458 ],neutral,0.19557554
+"No iPhone risk from 5G delay - Cowen,?",[0.03717963 0.8282609  0.13455951],negative,-0.79108125
+"WSJ: Apple Music passes Spotify in U.S. paying subscribers,?",[0.11657035 0.23169285 0.6517368 ],neutral,-0.115122505
+"Apple hires Google's top AI expert,?",[0.09863175 0.06060469 0.8407635 ],neutral,0.038027063
+"Amazon planning AirPods rival - Bloomberg,?",[0.03642931 0.08845185 0.8751188 ],neutral,-0.05202254
+"""Apple lowers HomePod, iPhone XR prices"",?",[0.02063871 0.9265417  0.05281962],negative,-0.905903
+"Apple's M&amp;A head now reports to Cook,?",[0.03581863 0.2914129  0.67276853],neutral,-0.25559425
+"No 5G iPhone in 2020,?",[0.0450129  0.12130836 0.8336787 ],neutral,-0.07629546
+"Apple launching three OLED iPhones in 2020,?",[0.07610954 0.02029593 0.9035945 ],neutral,0.05581361
+"Apple's fall iPhones have larger batteries - Kuo,?",[0.0699104  0.02105273 0.9090369 ],neutral,0.048857674
+"Apple cuts device prices in China,?",[0.02345611 0.9387345  0.03780936],negative,-0.9152784
+"TechCrunch: Apple cancels AirPower wireless charging pad,?",[0.01231508 0.9590012  0.02868369],negative,-0.9466861
+"Buffett unsure on Apple's new services,?",[0.0684431  0.10860095 0.82295597],neutral,-0.040157847
+"ITC's second decision sides with Apple,?",[0.03965394 0.35114154 0.6092045 ],neutral,-0.31148762
+"U.S. trade court recommends iPhone ban,?",[0.03133765 0.8736323  0.09503002],negative,-0.84229463
+"Analysts mixed on Apple's Services event,?",[0.02695614 0.8953491  0.07769467],negative,-0.86839294
+"""Apple launches News+, Channels, TV+ and more"",?",[0.09715057 0.00679718 0.89605224],neutral,0.09035339
+"BofAML says iPhone orders stabilizing,?",[0.7941511  0.09315463 0.11269427],positive,0.7009965
+"YouTube exits Hollywood as Apple goes into show business,?",[0.04447632 0.45398018 0.5015435 ],neutral,-0.40950385
+"Chinese rivals push into Apple's upmarket,?",[0.53730255 0.06169397 0.40100345],positive,0.4756086
+"Tesla joins Apple in trade secret case tied to China's Xpeng: Bloomberg,?",[0.03304054 0.5185349  0.44842458],negative,-0.48549438
+"Apple offering discount streaming bundles,?",[0.02866758 0.03436344 0.9369689 ],neutral,-0.005695859
+"Needham goes Strong Buy on Apple ecosystem,?",[0.7436837  0.11166608 0.14465022],positive,0.6320176
+"""Citi boosts Apple on buyback, dividend potential"",?",[0.7896637  0.06156619 0.14877026],positive,0.7280975
+"NYT: Wall Street Journal joining Apple subscription news product,?",[0.17568848 0.03473279 0.7895788 ],neutral,0.14095569
+"Apple AirPower finally releasing this week,?",[0.07898258 0.03264381 0.8883736 ],neutral,0.046338778
+"Apple's new AirPods have hands-free Siri,?",[0.02654905 0.02671124 0.94673973],neutral,-0.000162194
+"Apple updates its iMac line,?",[0.24780342 0.04229913 0.7098974 ],neutral,0.2055043
+"Netflix will not join Apple TV service,?",[0.02907082 0.12627612 0.84465307],neutral,-0.097205296
+"""Apple Watch """"far from"""" replacing Zio - BTIG"",?",[0.04754464 0.3368511  0.6156043 ],neutral,-0.28930646
+"""Apple launches new iPad Air, mini"",?",[0.10359434 0.01780926 0.87859637],neutral,0.08578508
+"Apple keeps a pulse in healthcare,?",[0.10385866 0.06993417 0.82620716],neutral,0.033924498
+"Jury awards Qualcomm $31.6M in Apple case,?",[0.29944643 0.5263965  0.17415704],negative,-0.22695008
+"Apple wants awards for streaming content - Bloomberg,?",[0.18595773 0.04511935 0.7689229 ],neutral,0.14083838
+"Rhetoric heats up between Apple and Spotify,?",[0.05998504 0.5238455  0.41616946],negative,-0.46386045
+"Qualcomm owes Apple nearly $1B rebate payment,?",[0.05330095 0.45587766 0.4908214 ],neutral,-0.4025767
+"Apple gains on bull's iPhone comments,?",[0.5615158  0.36993188 0.06855223],positive,0.19158393
+"EU's Vestager: We'll take Spotify's Apple complaint seriously,?",[0.44169426 0.01589726 0.54240847],neutral,0.425797
+"Cowen initiates Apple on Services potential,?",[0.07496569 0.06966785 0.85536647],neutral,0.005297832
+"Apple acquires machine learning startup,?",[0.21657752 0.02210131 0.7613211 ],neutral,0.1944762
+"Chinese smartphone weakness trouble for Apple,?",[0.01596863 0.9487466  0.03528472],negative,-0.932778
+"""Spotify's Apple complaint has real merit, KeyBanc says"",?",[0.19214681 0.03099769 0.77685547],neutral,0.16114911
+"Apple making concessions for streaming partners - Bloomberg,?",[0.16091715 0.02861703 0.8104658 ],neutral,0.13230011
+"Details on Apple News' magazine service,?",[0.0221866  0.04517882 0.9326346 ],neutral,-0.022992227
+"Apple officially announces March 25 event,?",[0.07979605 0.04057251 0.87963146],neutral,0.039223548
+"Roku +3.6% on nearing AirPlay 2 support - report,?",[0.2009489  0.5743369  0.22471416],negative,-0.373388
+"Apple +1.7% as BofA sees 'opportunity',?",[0.8724011  0.06874456 0.05885429],positive,0.8036566
+"Qualcomm wants $31M in damages from Apple,?",[0.02515288 0.8299016  0.14494555],negative,-0.8047487
+"Apple AR headset coming in 2020,?",[0.05214477 0.0189891  0.92886615],neutral,0.033155672
+"""Warren proposes tech giant breakups, oversight"",?",[0.0385914  0.23058644 0.7308222 ],neutral,-0.19199504
+"Variety: Music streamers (without Apple) appeal songwriter royalty hike,?",[0.08092832 0.44281593 0.4762558 ],neutral,-0.3618876
+"DOJ holding tech forum to combat scams,?",[0.10037463 0.03362377 0.86600167],neutral,0.06675087
+"""Apple adding 1,200 jobs in San Diego"",?",[0.2974721  0.22494592 0.47758192],neutral,0.07252617
+"Apple led Q4 wearables sales,?",[0.77611846 0.05075883 0.17312276],positive,0.7253596
+"""Camera patents, Corning flexible glass could enhance iPhones"",?",[0.41401577 0.00948703 0.5764972 ],neutral,0.40452874
+"Apple transferring debt securities to Nasdaq,?",[0.03101879 0.06415971 0.90482146],neutral,-0.03314092
+"Apple's software hiring shows Services push,?",[0.2522275  0.42446923 0.3233033 ],negative,-0.17224175
+"Qualcomm launches new Apple patent challenge,?",[0.21995425 0.0817993  0.6982464 ],neutral,0.13815495
+"Apple shareholders defeat board ideology proposal,?",[0.05595923 0.80819243 0.13584836],negative,-0.7522332
+"Apple investors tune in to annual meeting,?",[0.05888663 0.05385242 0.887261  ],neutral,0.005034208
+"Apple Watch took 51% of Q4 smartwatch market,?",[0.07449754 0.02981457 0.8956879 ],neutral,0.044682965
+"Apple confirms Project Titan job cuts,?",[0.03771916 0.9087478  0.05353301],negative,-0.87102866
+"Apple Music coming soon to Google Home,?",[0.0369192  0.06909097 0.89398986],neutral,-0.032171767
+"Apple considers sleep-tracking feature for Watch,?",[0.03516332 0.05492323 0.9099135 ],neutral,-0.019759912
+"Spotify -1.3% as U.S. mulls music licensing change,?",[0.06895232 0.8422067  0.08884096],negative,-0.7732544
+"Buffett isn't buying more Apple until &quot;cheaper&quot;,?",[0.2282577  0.26345146 0.5082908 ],neutral,-0.035193756
+"Intel's 5G modem chips coming in 2020,?",[0.04072527 0.02210157 0.9371732 ],neutral,0.018623706
+"Apple offers interest-free iPhone loans in China,?",[0.06841589 0.01381557 0.91776854],neutral,0.054600317
+"Samsung's Fold could create &quot;problem&quot; for Apple - Goldman,?",[0.05390568 0.20852113 0.7375732 ],neutral,-0.15461545
+"Apple and Goldman plan credit card that pairs with iPhone features: WSJ,?",[0.03848133 0.03994856 0.9215702 ],neutral,-0.001467224
+"""Samsung launches new smartwatch, fitness tracker"",?",[0.5686489  0.01233225 0.41901886],positive,0.5563166
+"Samsung takes on Apple with Galaxy Buds,?",[0.09702735 0.05516612 0.8478065 ],neutral,0.041861225
+"""Apple combining iPhone, Mac apps by 2021"",?",[0.1904042  0.01021678 0.799379  ],neutral,0.18018743
+"HSBC sees Apple's China woes continuing,?",[0.13623166 0.41535413 0.44841418],neutral,-0.27912247
+"Apple's Q4 HomePod shipments grew 45%,?",[0.944066   0.02130799 0.03462591],positive,0.922758
+"Qualcomm argues against Apple's patent workaround,?",[0.05481725 0.8621209  0.08306178],negative,-0.80730367
+"Apple preps for life after iPhone,?",[0.03727636 0.07711247 0.8856112 ],neutral,-0.039836116
+"Berkshire's Apple trim wasn't Buffett,?",[0.03882731 0.10824586 0.85292685],neutral,-0.06941855
+"""Buffett's Berkshire takes stake in Red Hat, reduces Apple"",?",[0.03518554 0.08228614 0.8825283 ],neutral,-0.0471006
+"Apple acquires marketing startup DataTiger,?",[0.10567487 0.08643398 0.8078912 ],neutral,0.019240886
+"Older iPhones return to Germany,?",[0.04796963 0.06368819 0.88834214],neutral,-0.01571856
+"""Apple streaming service arriving without HBO, Netflix"",?",[0.03823559 0.49698308 0.46478134],negative,-0.4587475
+"Apple increased autonomous testing in 2018 (update),?",[0.45740122 0.01392543 0.52867335],neutral,0.44347578
+"SEC sues former Apple exec for insider trading (update),?",[0.01426253 0.9335378  0.05219969],negative,-0.9192753
+"Tech execs join Trump's workforce board,?",[0.06509261 0.07416112 0.8607463 ],neutral,-0.009068511
+"Apple launching news subscription March 25,?",[0.03423085 0.0761512  0.889618  ],neutral,-0.041920353
+"Publishers balk at Apple news service terms - WSJ,?",[0.01744169 0.93110037 0.05145797],negative,-0.9136587
+"US iPhone users spent big on apps,?",[0.09801149 0.04771025 0.8542783 ],neutral,0.05030124
+"Apple needs video to offset TAC - Goldman,?",[0.1730556  0.04976602 0.77717835],neutral,0.123289585
+"Calls for regulating online news content,?",[0.0750461  0.03142056 0.89353335],neutral,0.043625537
+"Apple works around Qualcomm patent,?",[0.02835776 0.05668765 0.91495466],neutral,-0.028329885
+"Apple offers iPhone health records to veterans,?",[0.04916127 0.01717857 0.93366015],neutral,0.031982698
+"Apple's Q4 iPhone shipments -20% in China,?",[0.15345876 0.68220556 0.16433574],negative,-0.5287468
+"Second Qualcomm-Apple ITC decision rescheduled,?",[0.03781446 0.79145366 0.17073186],negative,-0.7536392
+"Apple reorganization suggests modem chips - Reuters,?",[0.08730228 0.04059301 0.87210476],neutral,0.04670927
+"""Cook says Apple will """"elevate"""" retail experience"",?",[0.48203358 0.01562229 0.5023442 ],neutral,0.4664113
+"Retail chief Ahrendts leaving Apple,?",[0.02735492 0.76101285 0.21163227],negative,-0.73365796
+"""ITC decides on Apple, Qualcomm March 26"",?",[0.05943257 0.04993358 0.8906339 ],neutral,0.009498987
+"Apple wins damages ruling against Qualcomm,?",[0.12564382 0.7899681  0.08438801],negative,-0.6643243
+"Schumer-Sanders buyback block could hit big tech,?",[0.082332  0.5144913 0.4031767],negative,-0.4321593
+"Apple holds 6% of U.S. smart speakers - report,?",[0.05820875 0.02198914 0.91980207],neutral,0.036219608
+"Apple settles back-taxes with France,?",[0.09555349 0.43659148 0.4678551 ],neutral,-0.341038
+"JPMorgan runs Apple-Netflix merger idea up the flagpole again,?",[0.05361566 0.35820287 0.58818144],neutral,-0.30458722
+"Apple's Siri head leaves role - The Information,?",[0.04217456 0.19110307 0.7667223 ],neutral,-0.14892852
+"Report: Facebook discontinuing iOS mobile research program,?",[0.04427945 0.23082213 0.72489834],neutral,-0.18654269
+"Apple FaceTime fix coming (late),?",[0.03716502 0.5189295  0.4439055 ],negative,-0.48176447
+"Google now seeing internal disruption from Apple certificate issue,?",[0.01472786 0.96083564 0.02443657],negative,-0.9461078
+"Qualcomm asks German court to fine Apple,?",[0.03296405 0.9074961  0.05953993],negative,-0.87453204
+"German court tosses Qualcomm patents,?",[0.03621844 0.82294154 0.14083998],negative,-0.7867231
+"TechCrunch: Google app may violate Apple policy like Facebook's does (updated),?",[0.01955189 0.92737186 0.05307622],negative,-0.90782
+"Smartphone shipments -5% in Q4,?",[0.20961383 0.7027003  0.0876858 ],negative,-0.4930865
+"Apple banning Facebook's info-sucking research app (updated),?",[0.01536639 0.934536   0.05009762],negative,-0.9191696
+"""Apple meeting Services goal, reconsiders iPhone pricing"",?",[0.1800264  0.02522406 0.79474956],neutral,0.15480234
+"Analysts on Apple Q1: better than feared,?",[0.9086081  0.05837456 0.03301731],positive,0.8502335
+"""Apple +4% on Q1 with strong Services, downside guide"",?",[0.8471747  0.10567752 0.04714775],positive,0.74149716
+"Apple declares $0.73 dividend,?",[0.05396365 0.6835643  0.26247203],negative,-0.62960064
+"""Apple beats by $0.01, beats on revenue"",?",[0.3710239  0.12524822 0.5037279 ],neutral,0.24577567
+"""Apple, Aetna team up on health app"",?",[0.78203464 0.01896086 0.19900452],positive,0.7630738
+"Apple Q1 report: What to watch,?",[0.0276218  0.05930939 0.91306883],neutral,-0.031687587
+"Apple to patch FaceTime privacy bug,?",[0.03567667 0.8980476  0.06627569],negative,-0.86237097
+"Apple Q1 2019 Earnings Preview,?",[0.05039137 0.23614691 0.71346176],neutral,-0.18575554
+"China smartphone units -14% in 2018,?",[0.11722837 0.26226607 0.6205056 ],neutral,-0.14503771
+"Apple spent $60B in U.S.; TSMC reports damage,?",[0.01498942 0.94552743 0.0394832 ],negative,-0.930538
+"GameStop -3% as Apple mulls gaming service,?",[0.18014404 0.7358312  0.08402485],negative,-0.5556872
+"Apple planning major iPad refresh,?",[0.09500702 0.03610995 0.8688831 ],neutral,0.05889707
+"""Buy Apple ahead of priced-in earnings, says Morgan Stanley"",?",[0.1464966  0.01768335 0.8358201 ],neutral,0.12881324
+"NYT: Zuckerberg pushing to integrate Facebook's messaging services,?",[0.69248205 0.01019038 0.29732752],positive,0.6822917
+"Apple hires Samsung exec to lead battery work: Bloomberg,?",[0.03769455 0.07123677 0.8910687 ],neutral,-0.033542212
+"CNBC: Apple lays off 200 from self-driving car project,?",[0.01284501 0.9617087  0.02544627],negative,-0.9488637
+"Einhorn exits drug makers in rebalanced portfolio,?",[0.03200895 0.8597175  0.10827361],negative,-0.82770854
+"AirPods 2 coming soon,?",[0.06959992 0.29232275 0.6380773 ],neutral,-0.22272283
+"Apple's Qualcomm court admission; LCD out in 2020,?",[0.03771728 0.2976689  0.6646138 ],neutral,-0.25995162
+"""Apple Pay comes to Target, Taco Bell"",?",[0.04721778 0.14535743 0.8074248 ],neutral,-0.09813965
+"Digital giants in crosshairs of EU tax,?",[0.0568167  0.11805997 0.8251233 ],neutral,-0.061243273
+"""Apple, Qualcomm fight included software - Bloomberg"",?",[0.0338533  0.07005291 0.8960938 ],neutral,-0.036199607
+"Canaccord cuts iPhone sales estimates,?",[0.02403095 0.89887184 0.0770972 ],negative,-0.8748409
+"FT: Spotify plans in-car voice-controlled music player,?",[0.03771461 0.03598944 0.92629594],neutral,0.001725175
+"Munich court tells Apple to retract statement (update),?",[0.0186357  0.90367895 0.07768529],negative,-0.88504326
+"Apple's Services another &quot;shoe to drop&quot; - Bernstein,?",[0.02587561 0.8477099  0.12641457],negative,-0.82183427
+"""Apple in talks for """"ambitious"""" sci-fi show"",?",[0.07712074 0.05336642 0.86951286],neutral,0.023754321
+"WhatsApp readies fight against India over message tracking,?",[0.0985933  0.19137092 0.7100358 ],neutral,-0.09277762
+"Apple launching new low-cost iPads - report,?",[0.07301413 0.02779294 0.89919287],neutral,0.045221187
+"Apple to trim hiring amid disappointing iPhone sales - Bloomberg,?",[0.01456382 0.9683127  0.01712356],negative,-0.9537489
+"Universal TV vet joining Apple,?",[0.05220343 0.1611043  0.78669226],neutral,-0.108900875
+"Apple talks Watch with Medicare plans - CNBC,?",[0.03498179 0.06608123 0.8989369 ],neutral,-0.031099431
+"Verizon throws in Apple Music to its top unlimited plans,?",[0.11804938 0.0306618  0.85128886],neutral,0.08738758
+"Apple cutting autonomous vehicle program,?",[0.04389397 0.03947728 0.9166288 ],neutral,0.004416682
+"VirnetX +30% as court upholds Apple award,?",[0.33913994 0.50924957 0.1516105 ],negative,-0.17010963
+"Apple replaced 11M iPhone batteries,?",[0.04160983 0.83648926 0.12190092],negative,-0.79487944
+"Qualcomm loses patent challenge against Apple,?",[0.0420766  0.89953834 0.05838503],negative,-0.85746175
+"Wedbush talks Apple M&amp;A targets and XR price cuts,?",[0.14109956 0.3457719  0.5131285 ],neutral,-0.20467235
+"""Reuters: Apple eyed Samsung, MediaTek for 2019 iPhone modems"",?",[0.09092115 0.0321849  0.876894  ],neutral,0.05873625
+"Three new iPhone models coming in 2019 - WSJ,?",[0.0374662  0.03056343 0.9319703 ],neutral,0.006902769
+"HSBC cuts its Apple target (again),?",[0.05257716 0.8903386  0.05708431],negative,-0.83776146
+"Some iPhone prices cut on JD.com,?",[0.02960859 0.8764924  0.09389903],negative,-0.8468838
+"""Apple's Services decline temporary, says bull"",?",[0.01661408 0.9499637  0.03342222],negative,-0.9333496
+"Reports of iPhone production cut for Q1,?",[0.03032559 0.9223455  0.04732888],negative,-0.8920199
+"Tim Cook discusses Apple's focus and future,?",[0.03861376 0.01254434 0.9488419 ],neutral,0.026069421
+"""Cook: Apple """"underappreciated"""" by Street"",?",[0.03790314 0.74257076 0.21952608],negative,-0.7046676
+"Samsung adds iTunes to smart TVs,?",[0.33663484 0.02204754 0.6413176 ],neutral,0.3145873
+"Barron's calls out value and income plays,?",[0.06204315 0.15231785 0.7856389 ],neutral,-0.09027471
+"Trump: Not worried about Apple stock; company should build in U.S.,?",[0.89621687 0.02927751 0.07450563],positive,0.86693937
+"Apple drops to fourth place by market value,?",[0.01980039 0.9464336  0.03376602],negative,-0.92663324
+"App Store made $1.22B over holidays,?",[0.15238896 0.40369767 0.44391337],neutral,-0.2513087
+"A double-whammy for Berkshire Hathaway,?",[0.05895656 0.34254673 0.5984967 ],neutral,-0.28359017
+"Wedbush bullish despite &quot;Apple's darkest day&quot;,?",[0.05750222 0.5251336  0.41736415],negative,-0.4676314
+"Goldman expects more Apple pain,?",[0.01776665 0.94018406 0.04204931],negative,-0.9224174
+"Apple warning reverberates among suppliers,?",[0.07898908 0.7370341  0.1839768 ],negative,-0.658045
+"""Cook discusses iPhone sales, Services forecast"",?",[0.04259215 0.03312403 0.92428386],neutral,0.009468112
+"Apple cuts Q1 revenue guidance,?",[0.02026443 0.9294836  0.05025201],negative,-0.90921915
+"RBC: Apple core holding despite headwinds,?",[0.77068913 0.1304169  0.09889401],positive,0.64027226
+"How will the FAANGs perform in 2019,?",[0.06138011 0.00674362 0.9318763 ],neutral,0.05463649
+"""Merck, Pfizer top Dow 2018 standings; Goldman Sachs slides to the bottom"",?",[0.0378437  0.8314235  0.13073282],negative,-0.7935798
+"Analyst: Market needs FAANG to recover,?",[0.57274187 0.16204849 0.26520962],positive,0.41069338
+"Epic Games takes on Apple and Google,?",[0.03155386 0.14833714 0.820109  ],neutral,-0.116783276
+"Citi nearly halves iPhone XS Max outlook,?",[0.04571025 0.9006271  0.05366261],negative,-0.8549168
+"Apple doubles down on iPhones made in India,?",[0.01630446 0.95746726 0.02622828],negative,-0.9411628
+"CIRP: iPhone XR took 32% share in November,?",[0.22278021 0.02453684 0.752683  ],neutral,0.19824336
+"""Wedbush bullish on Apple despite """"draconian sell-off"""""",?",[0.3163693  0.42600322 0.25762758],negative,-0.10963392
+"Chinese companies boycott Apple,?",[0.01461172 0.9463644  0.03902389],negative,-0.9317527
+"Rosenblatt: Apple could cut 4M iPhone units,?",[0.01985995 0.94331765 0.03682237],negative,-0.9234577
+"Apple names Giannandrea to exec team,?",[0.031366   0.03352693 0.93510705],neutral,-0.002160933
+"Apple faces iPhone ban in Germany (update),?",[0.0194498  0.92104113 0.05950904],negative,-0.9015913
+"Qualcomm: Apple still violating Chinese court order,?",[0.01374763 0.9593025  0.02694991],negative,-0.94555485
+"Tech companies favor central role of Fed in real-time payments: American Banker,?",[0.0418695  0.04489886 0.9132317 ],neutral,-0.003029369
+"France moves ahead with tech tax,?",[0.42802918 0.04968134 0.52228945],neutral,0.37834784
+"Apple hires Tesla senior designer,?",[0.0755906  0.0829801  0.84142923],neutral,-0.007389493
+"Davidson cuts Apple target, says pullback overdone"",?",[0.03133472 0.91516787 0.05349746],negative,-0.88383317
+"Noted analyst cuts iPhone estimates,?",[0.02457563 0.9107149  0.06470942],negative,-0.8861393
+"Apple pushes update to resolve Qualcomm case,?",[0.18866532 0.3649631  0.4463715 ],neutral,-0.1762978
+"Piper trims Apple target on supplier cuts,?",[0.0910191  0.80342466 0.10555626],negative,-0.71240556
+"""Qualcomm requests China ban on iPhone XR, XS"",?",[0.04510554 0.7718073  0.18308716],negative,-0.7267018
+"ITC will review iPhone ban ruling,?",[0.06185187 0.6147677  0.32338053],negative,-0.5529158
+"Apple doubles down on U.S. job creation,?",[0.02067114 0.9472661  0.03206282],negative,-0.926595
+"CNBC: Apple employs dozens of docs for health tech,?",[0.04367912 0.32494092 0.63137996],neutral,-0.2812618
+"""Apple roundup: Modem plans, Texture launch, target cut"",?",[0.03850022 0.08547314 0.8760267 ],neutral,-0.04697291
+"Qualcomm accuses Apple of ignoring China ban,?",[0.01942522 0.92940396 0.05117085],negative,-0.90997875
+"Apple could move production if tariffs skyrocket,?",[0.07957313 0.69228977 0.22813709],negative,-0.6127166
+"Invesco S&amp;P 500 Quality ETF (SPHQ) November Summary,?",[0.04509375 0.5658879  0.38901833],negative,-0.52079415
+"Invesco QQQ ETF (QQQ) November Summary,?",[0.03507941 0.65835613 0.30656448],negative,-0.6232767
+"Apple appeals China's iPhone sales ban,?",[0.03002364 0.9243158  0.04566056],negative,-0.8942922
+"Qualcomm wins preliminary iPhone ban in China (update),?",[0.23015693 0.5808007  0.1890423 ],negative,-0.35064378
+"Citi has $125 bear case for Apple,?",[0.04274015 0.12455091 0.8327089 ],neutral,-0.08181076
+"Apple hires former Mango Health CEO,?",[0.06680646 0.36813396 0.56505954],neutral,-0.3013275
+"Market slump continues amid trade tensions,?",[0.02218224 0.9261874  0.05163034],negative,-0.90400517
+"Online holiday sales tracking at +19% pace,?",[0.15087762 0.08916677 0.75995564],neutral,0.061710857
+"Morgan Stanley trims its Apple target,?",[0.0496933  0.8398415  0.11046516],negative,-0.7901482
+"Apple acquires A&amp;R startup,?",[0.05818971 0.05170087 0.89010936],neutral,0.006488841
+"CNBC: Apple bids for violent Israeli TV show,?",[0.03886396 0.6616669  0.29946908],negative,-0.622803
+"UBS: IPhone purchase intent at five-year low,?",[0.01850498 0.8958988  0.08559625],negative,-0.87739384
+"Apple supplier shares sink on latest news,?",[0.01567413 0.9593187  0.02500717],negative,-0.9436446
+"France will tax digital giants from 2019,?",[0.03685927 0.0257583  0.9373824 ],neutral,0.011100965
+"HomePod coming soon to China,?",[0.11068196 0.24388905 0.645429  ],neutral,-0.13320708
+"""Analyst: Google, Amazon releasing AirPods rivals"",?",[0.03287988 0.07265396 0.89446616],neutral,-0.03977408
+"Report: Apple reassigns staff to boost iPhones,?",[0.37257627 0.547425   0.07999877],negative,-0.1748487
+"Saxo Bank speculates on Apple-Tesla linkup,?",[0.05418134 0.08642437 0.8593943 ],neutral,-0.032243025
+"Apple downgraded on market saturation,?",[0.02036634 0.9199645  0.05966907],negative,-0.8995981
+"Wearables shipments +22% in Q3,?",[0.15644099 0.7958705  0.04768856],negative,-0.6394295
+"Report: 5G iPhones coming in 2020,?",[0.05814284 0.02264624 0.91921085],neutral,0.035496607
+"Major upgrades coming to Apple's Airpods,?",[0.6810432  0.02370784 0.29524896],positive,0.65733534
+"Microsoft overtakes Apple as most valuable U.S. company,?",[0.66784763 0.19043136 0.14172098],positive,0.47741628
+"WSJ: Apple probed supply chain for misconduct,?",[0.01396456 0.94685566 0.03917981],negative,-0.93289113
+"Apple complies with Indian regulation ahead of deadline,?",[0.19976601 0.10857692 0.69165707],neutral,0.09118909
+"Apple Music coming to Amazon Echos,?",[0.03112268 0.05218368 0.91669357],neutral,-0.021060992
+"""Canaccord cuts Apple target on """"lackluster"""" XR"",?",[0.02071068 0.9180122  0.06127713],negative,-0.8973015
+"""Apple says XR is """"best-selling iPhone"""""",?",[0.6709492  0.02858214 0.3004686 ],positive,0.64236706
+"UBS:Apple would face $1.5B hit from Trump tariff,?",[0.03849926 0.9126337  0.04886695],negative,-0.8741345
+"Microsoft takes market cap crown from Apple,?",[0.20175211 0.21558198 0.5826659 ],neutral,-0.013829872
+"Apple -1.6% as Trump hints at boosted phone/laptop tariffs on China,?",[0.37991855 0.58410496 0.03597656],negative,-0.20418641
+"Supreme Court seems open to letting Apple antitrust suit proceed,?",[0.09955309 0.0149345  0.8855124 ],neutral,0.0846186
+"Apple in Supreme Court over App Store,?",[0.02471387 0.88269705 0.0925891 ],negative,-0.8579832
+"Black Friday online sales trending strong,?",[0.92522687 0.03407327 0.04069981],positive,0.8911536
+"WSJ: IPhone XR discounts for Japan,?",[0.08147205 0.6100583  0.30846962],negative,-0.52858627
+"Apple considered streaming dongle; ROKU -1.7%,?",[0.35651734 0.10243618 0.54104644],neutral,0.25408116
+"Report: Apple acquired AI startup Silk Labs,?",[0.08496524 0.01169454 0.9033402 ],neutral,0.07327069
+"Rosenblatt sees iPhone XR recovery in China,?",[0.9073592  0.02912442 0.06351642],positive,0.87823474
+"WSJ: Apple in talks to give military vets access to electronic medical records,?",[0.6129907  0.01921246 0.3677969 ],positive,0.5937782
+"Goldman slashes Apple target on XR weakness,?",[0.02417182 0.9437809  0.03204726],negative,-0.91960907
+"Cook calls Google best search engine,?",[0.18270849 0.03985055 0.77744097],neutral,0.14285794
+"Another Apple production cut - WSJ,?",[0.01719605 0.95188236 0.03092158],negative,-0.9346863
+"""Apple partners with """"Moonlight"""" studio"",?",[0.04121095 0.09331708 0.86547196],neutral,-0.05210614
+"CNBC: Appaloosa sells Apple stake,?",[0.04517958 0.03880248 0.9160179 ],neutral,0.006377101
+"Another Apple supplier cuts guidance,?",[0.0169818  0.9555908  0.02742733],negative,-0.938609
+"Buy Apple on supplier pullback - Morgan Stanley,?",[0.1362718  0.45011607 0.41361204],negative,-0.31384426
+"Malone: Disney facing rough 'food fight' in streaming showdown,?",[0.18002722 0.6942661  0.12570669],negative,-0.51423883
+"UBS cuts Apple target on competitive pressure,?",[0.02607674 0.9180647  0.05585853],negative,-0.891988
+"""Downgrade: Apple ASPs """"no longer enough"""""",?",[0.04008514 0.37767395 0.58224094],neutral,-0.33758882
+"FaceTime coming to the Apple Watch,?",[0.04538159 0.05461263 0.90000576],neutral,-0.009231046
+"Apple supplier Qorvo cuts Q3 guidance,?",[0.01646331 0.95300615 0.03053058],negative,-0.93654287
+"Goldman joins the iPhone unit cuts,?",[0.05097433 0.4196197  0.52940595],neutral,-0.36864537
+"""More bad news for Apple, chip stocks"",?",[0.03776174 0.74928755 0.21295072],negative,-0.7115258
+"Analysts negative on iPhone shipments,?",[0.01191231 0.96413434 0.02395332],negative,-0.95222205
+"Apple slips after supplier cuts guidance,?",[0.01383793 0.9672939  0.01886814],negative,-0.953456
+"Apple products (officially) come to Amazon,?",[0.02304826 0.03543948 0.9415123 ],neutral,-0.012391225
+"IPhone suppliers drop on more softness warnings,?",[0.01198293 0.9683335  0.0196836 ],negative,-0.95635056
+"Invesco S&amp;P 500 Quality ETF (SPHQ) October Summary,?",[0.04478485 0.58399683 0.37121835],negative,-0.539212
+"Analyst ups Apple target on Services runway,?",[0.06511255 0.25714228 0.67774516],neutral,-0.19202971
+"Invesco QQQ ETF (QQQ) October Summary,?",[0.03508775 0.6645182  0.30039406],negative,-0.6294304
+"Qualcomm falls as Apple source says no settlement talks,?",[0.02387204 0.90609944 0.07002852],negative,-0.8822274
+"EU states divided over digital tax,?",[0.03051704 0.8184366  0.15104629],negative,-0.7879196
+"Rosenblatt downgrades Apple on weak iPhone sales,?",[0.01491781 0.9595581  0.02552398],negative,-0.94464034
+"Report: Apple cancels iPhone XR output boost,?",[0.01674022 0.9615894  0.02167039],negative,-0.9448492
+"IDC: Q3 worldwide tablet ships down Y/Y (again),?",[0.01044805 0.9727303  0.01682164],negative,-0.96228224
+"Analysts unimpressed with Apple ending unit reports,?",[0.01706306 0.94885063 0.03408637],negative,-0.93178755
+"BofAML steps to Apple sideline after earnings,?",[0.09277999 0.1658874  0.74133265],neutral,-0.073107414
+"Apple down 7% on soft guidance,?",[0.01074401 0.97105664 0.01819934],negative,-0.9603126
+"Apple declares $0.73 dividend,?",[0.05396365 0.6835643  0.26247206],negative,-0.62960064
+"""Apple beats by $0.13, beats on revenue"",?",[0.38926935 0.11515672 0.49557394],neutral,0.27411264
+"Apple's Q4 numbers to beat,?",[0.5862013  0.21442205 0.1993766 ],positive,0.37177926
+"BofAML: Marked App Store declines could ding Apple Services,?",[0.01504387 0.9628051  0.02215105],negative,-0.94776124
+"Apple explores iHeartMedia stake,?",[0.04142979 0.06293239 0.8956378 ],neutral,-0.0215026
+"What's in store for Apple earnings,?",[0.0790676  0.05776787 0.8631646 ],neutral,0.021299731
+"UBS: Apple Watch will grow 40% next year,?",[0.9181041  0.01281007 0.06908579],positive,0.90529406
+"Apple launches new MacBook Air at event (live updates),?",[0.07326682 0.03483363 0.8918996 ],neutral,0.03843319
+"""Updated iPad, Mac take center stage"",?",[0.06345019 0.02298644 0.9135633 ],neutral,0.04046376
+"""Report: Apple's slow China expansion due to fraud, shifting demand"",?",[0.01747387 0.9436601  0.03886604],negative,-0.9261862
+"Britain will target tech giants with digital tax in 2020,?",[0.07641222 0.01053812 0.91304964],neutral,0.0658741
+"FT: Apple investigating student labor at Watch supplier,?",[0.01381923 0.92753744 0.05864329],negative,-0.9137182
+"Jefferies: Apple Services worth $177/share by 2020,?",[0.06142646 0.04237368 0.8961998 ],neutral,0.019052781
+"Tech giants may face billions in new taxes,?",[0.03770969 0.6928942  0.26939607],negative,-0.6551845
+"Qualcomm: Apple $7B behind in royalties,?",[0.04093463 0.84676117 0.1123042 ],negative,-0.80582654
+"""Bernstein boosts Apple's target, expects $800 ASP"",?",[0.69965386 0.02224194 0.27810416],positive,0.6774119
+"""Italy fines Apple, Samsung for phone throttling"",?",[0.03795874 0.63273615 0.3293051 ],negative,-0.5947774
+"Apple set to back strong privacy laws,?",[0.4295878 0.1287314 0.4416808],neutral,0.3008564
+"Report: Apple subscription service coming to over 100 countries,?",[0.26018238 0.01166536 0.7281522 ],neutral,0.24851702
+"""Kuo: Apple will launch new iPad mini, AirPower mat in next six months"",?",[0.21019286 0.0115837  0.7782234 ],neutral,0.19860916
+"Germany urges tax minimum for tech giants,?",[0.14249177 0.2175604  0.63994783],neutral,-0.07506862
+"Tim Cook calls on Bloomberg to retract spy chip story,?",[0.03815161 0.5974609  0.36438748],negative,-0.5593093
+"Apple gets Street-high $310 price target from Wedbush,?",[0.6650833  0.09815765 0.23675902],positive,0.56692564
+"""Apple sets Oct. 30 event likely to feature iPads, Macs"",?",[0.03204867 0.01562678 0.95232457],neutral,0.016421894
+"Kuo: TSMC will be stay Apple's big chip winner,?",[0.5734711  0.02590204 0.40062684],positive,0.5475691
+"""Apple launches privacy portal, initiatives"",?",[0.10362024 0.01012208 0.8862577 ],neutral,0.093498155
+"Apple apologizes for ID thefts in China,?",[0.01654432 0.942131   0.04132476],negative,-0.92558664
+"""Apple acquires Asaii founders, not company"",?",[0.14618273 0.00815894 0.8456583 ],neutral,0.1380238
+"""Analyst expects iPhone XR to have strong Q4, offset Q1 weakness"",?",[0.8938872  0.06616285 0.0399499 ],positive,0.8277244
+"""Goldman sees """"rapidly slowing"""" iPhone demand in China"",?",[0.06663004 0.4145264  0.51884353],neutral,-0.34789637
+"Apple buys music analytics startup Asaii,?",[0.09419207 0.04615184 0.85965604],neutral,0.048040226
+"Smartphone suppliers warn of weakness heading into holidays,?",[0.01934379 0.9457575  0.03489873],negative,-0.9264137
+"Tech lunch break: Recovering from the fall,?",[0.07047284 0.7469206  0.18260664],negative,-0.67644775
+"Top PC makers gain in Q3 shipments,?",[0.5979968  0.325426   0.07657728],positive,0.27257076
+"""Alibaba, Tencent warn of stolen funds using Apple IDs"",?",[0.02981609 0.685154   0.28502986],negative,-0.6553379
+"Apple supplier reports 30% growth in September revenue,?",[0.90334094 0.01742281 0.0792362 ],positive,0.88591814
+"NSA security adviser says &quot;nobody's found anything&quot; on Chinese chips,?",[0.0376646  0.29378763 0.66854775],neutral,-0.25612304
+"""Early premarket losers include SQ, AMZN, NFLX"",?",[0.03787865 0.32265618 0.6394652 ],neutral,-0.28477752
+"""Apple, Dialog sign $600M licensing deal"",?",[0.42193034 0.03647971 0.5415899 ],neutral,0.38545063
+"CNBC: Apple will give away content as part of new TV strategy,?",[0.03632591 0.02669063 0.93698347],neutral,0.009635275
+"FBI Director deflects questions on Chinese chip investigation,?",[0.03981005 0.56215465 0.39803535],negative,-0.5223446
+"Apple acquired background-removing machine learning startup last year,?",[0.10203444 0.03699968 0.8609659 ],neutral,0.06503476
+"Tech lunch break: Large-caps slump with Nasdaq 100,?",[0.01213045 0.95979923 0.02807027],negative,-0.9476688
+"The Information: Apple's iPhone fraud struggles in China cost billions,?",[0.03880802 0.6457913  0.31540072],negative,-0.60698324
+"Invesco S&amp;P 500 Quality ETF (SPHQ) September Summary,?",[0.04557366 0.57420176 0.3802246 ],negative,-0.5286281
+"BofAML survey shows significant rise in iPhone upgrade interest,?",[0.8866489  0.01930838 0.09404277],positive,0.8673405
+"""Citi raises its Apple target, FY19 EPS estimate on XS sales"",?",[0.6486627  0.07279873 0.2785386 ],positive,0.57586396
+"Invesco QQQ ETF (QQQ) September Summary,?",[0.03470256 0.6892758  0.27602163],negative,-0.65457326
+"Facebook launches Portal smart speakers with eye on video calls,?",[0.24585454 0.01959004 0.7345554 ],neutral,0.2262645
+"Report: Apple and BT nearing pay-TV deal,?",[0.610112   0.04150631 0.34838173],positive,0.5686057
+"""Amazon roundup: Third-party sellers, Go Britain, and chip denials"",?",[0.03878107 0.04548267 0.9157363 ],neutral,-0.006701607
+"Apple to Congress: No sign of microchip tampering,?",[0.03002274 0.73978454 0.23019262],negative,-0.7097618
+"Einhorn blows out of numerous positions,?",[0.03054457 0.8569151  0.11254031],negative,-0.82637054
+"Chinese spy chip report weighs on Apple suppliers,?",[0.01329296 0.9550651  0.03164189],negative,-0.9417721
+"""Apple again denies Businessweek story, says there's no gag order"",?",[0.03346239 0.68128705 0.28525054],negative,-0.64782465
+"""Amazon, Apple refute Bloomberg report on Chinese supply chain attack"",?",[0.05814659 0.4478069  0.49404642],neutral,-0.3896603
+"""Tim Cook talks customer data """"bunk"""", China data storage"",?",[0.02665759 0.07167847 0.90166396],neutral,-0.04502088
+"""Piper survey shows higher iPhone XS demand, raises FY19 ASP target"",?",[0.8834331  0.05262565 0.06394125],positive,0.83080745
+"Analyst: Google will pay Apple $9B this year to remain default search,?",[0.41540295 0.03422742 0.5503696 ],neutral,0.38117552
+"Bloomberg: ITC judge finds Apple violates one Qualcomm patent,?",[0.01594919 0.9441496  0.03990121],negative,-0.9282004
+"Apple gets $234M in damages reversed in appeals court,?",[0.10623651 0.6589437  0.23481978],negative,-0.5527072
+"JPMorgan starts Apple at Overweight on services potential,?",[0.0505848  0.82575256 0.12366261],negative,-0.77516776
+"Report: New iPhone sales momentum likely to slow in late 2018,?",[0.00992572 0.97028357 0.01979071],negative,-0.96035784
+"Apple iPhone XS Max cost breakdown,?",[0.0243699  0.86864406 0.10698606],negative,-0.84427416
+"Gene Munster: Apple Music converting users 2.5x faster than Spotify,?",[0.14089009 0.08306321 0.77604663],neutral,0.057826884
+"""Qualcomm charges Apple with stealing secrets, giving to Intel"",?",[0.02520151 0.77823853 0.19655997],negative,-0.75303704
+"Report: Apple shifting iPhone XR orders due to production delays,?",[0.01160308 0.9704415  0.01795547],negative,-0.95883846
+"""Apple completes Shazam buy, bringing ad-free version to all users"",?",[0.73274136 0.0112344  0.25602424],positive,0.72150695
+"Analysts see Sirius XM success likely in Pandora bid,?",[0.802679   0.01855051 0.1787705 ],positive,0.7841285
+"Ming-Chi Kuo: iPhone XS Max has 4x sales of XS,?",[0.19260308 0.01293739 0.7944596 ],neutral,0.17966568
+"Tech giants face Commerce Department hearing; Apple remarks leak,?",[0.01604073 0.9140136  0.06994565],negative,-0.8979729
+"""Risky business: Apple seeks streaming success without violence, sex"",?",[0.22729309 0.02113555 0.75157136],neutral,0.20615754
+"""Modems, routers slammed by new U.S. tariffs but 'smart' tech goods escape"",?",[0.03754724 0.79774684 0.16470599],negative,-0.7601996
+"""New iPhones, Apple Watch go on sale"",?",[0.08353642 0.01151189 0.9049517 ],neutral,0.072024524
+"BMO raises its Apple target but wants to see iPhone unit growth,?",[0.83259773 0.0201318  0.14727052],positive,0.8124659
+"""Reports: Apple held 62% of Q2 handset profit, dominated premium smartphones"",?",[0.17901634 0.05170029 0.76928335],neutral,0.12731606
+"WSJ: Apple prioritized release of iPhone XS models over XR,?",[0.28907397 0.01700506 0.69392097],neutral,0.27206892
+"Ireland fully recovers 3.1B tax bill from Apple,?",[0.79067725 0.14049652 0.06882628],positive,0.6501807
+"Appeals court backs Copyright Royalty Board's decisions,?",[0.09077234 0.16390324 0.7453244 ],neutral,-0.0731309
+"Tim Cook discusses Apple's narrow tariff miss,?",[0.1232292  0.04544836 0.83132243],neutral,0.077780835
+"Bloomberg: Apple Watch excluded from latest tariffs,?",[0.03935257 0.37994483 0.5807026 ],neutral,-0.34059227
+"Apple: ITC staff urging finding of no violation of Qualcomm patents,?",[0.12161689 0.60362655 0.27475652],negative,-0.48200965
+"Report: Spotify nearing launch in Middle East/North Africa,?",[0.28072304 0.01545882 0.7038181 ],neutral,0.2652642
+"Apple falls silent on wireless charger,?",[0.0235096  0.84822    0.12827042],negative,-0.82471037
+"Report: LG Display becomes iPhone's second OLED supplier,?",[0.883985   0.01494615 0.10106891],positive,0.8690388
+"Goldman drops its Apple EPS forecast on lower XR price,?",[0.02479346 0.9240733  0.05113322],negative,-0.89927983
+"Needham praises Apple's &quot;movie industry&quot; release schedule,?",[0.03021953 0.04835988 0.92142063],neutral,-0.018140353
+"Apple's fall iPhone event (live updates),?",[0.0349445 0.1451601 0.8198954],neutral,-0.11021559
+"What to expect during Apple's iPhone launch event,?",[0.0515597  0.02752651 0.92091376],neutral,0.024033187
+"UBS raises its Apple target on potential 20% services growth,?",[0.9006704  0.02473977 0.0745898 ],positive,0.87593067
+"Invesco S&amp;P 500 Quality ETF (SPHQ) August Summary,?",[0.04632064 0.5877675  0.3659119 ],negative,-0.54144686
+"""Analyst predicts iPhone delay, iPad USB-C ahead of fall event"",?",[0.03686261 0.7633823  0.1997551 ],negative,-0.7265197
+"BofAML: Apple's iPhone prices could increase 20% under Trump's plan,?",[0.9265988  0.01046659 0.06293467],positive,0.9161322
+"Trump says Apple should shift production to U.S. to avoid China tariffs,?",[0.45121586 0.08973593 0.45904818],neutral,0.36147994
+"Report: Apple discussing subscriptions for biggest papers,?",[0.03903335 0.03410526 0.92686135],neutral,0.00492809
+"""Apple, suppliers drop on talks of tariff impact"",?",[0.01189968 0.9682219  0.01987839],negative,-0.9563222
+"Goldman ups its Apple target; Apple down on tariff headlines,?",[0.03508892 0.8978349  0.06707613],negative,-0.862746
+"""""""Project Runway"""" stars Klum, Gunn head to Amazon"",?",[0.05379717 0.21979536 0.7264074 ],neutral,-0.16599819
+"Invesco QQQ ETF (QQQ) August Summary,?",[0.03432295 0.6914956  0.27418151],negative,-0.6571727
+"Piper Jaffray raises Apple to 12% upside ahead of launch event,?",[0.843124   0.05642438 0.10045159],positive,0.7866996
+"Reuters: Apple building tool for police data requests,?",[0.06594937 0.0193154  0.91473526],neutral,0.04663397
+"BofAML: Apple iPhone prices will be higher than Street expects,?",[0.82237834 0.03114366 0.14647794],positive,0.7912347
+"European Commission approves Apple??Shazam acquisition,?",[0.68612635 0.03244025 0.2814334 ],positive,0.6536861
+"Morgan Stanley: Apple video could hit $4.4B in 2025,?",[0.6359016  0.06279896 0.30129945],positive,0.5731026
+"Germany denies backing down on tech giant taxes,?",[0.04634955 0.69215447 0.26149604],negative,-0.64580494
+"Apple tops Q2 wearable shipments; Fitbit drops 22% Y/Y,?",[0.01328681 0.97231954 0.01439361],negative,-0.9590327
+"Analyst Kuo expects 500% FOD growth next year,?",[0.8619821  0.01570606 0.12231178],positive,0.84627604
+"Canaccord Genuity raises Apple target on install base potential,?",[0.8525178  0.03348005 0.11400213],positive,0.81903774
+"Apple notes defect in small number of iPhone 8 devices,?",[0.12279904 0.63849825 0.23870274],negative,-0.5156992
+"Apple discloses first self-driving test crash,?",[0.05006048 0.6300426  0.3198969 ],negative,-0.57998216
+"Buffett not a fan of Apple/Tesla tie-up,?",[0.03285855 0.10556531 0.86157614],neutral,-0.07270676
+"Leaks show iPhone XS and Watch Series 4 designs,?",[0.03233426 0.19229078 0.77537495],neutral,-0.15995651
+"Apple will announce new iPhones on Sept. 12,?",[0.05759523 0.00865095 0.9337538 ],neutral,0.04894428
+"""Berkshire Hathaway bought a """"little"""" more Apple since Q2"",?",[0.23532216 0.02608899 0.73858887],neutral,0.20923316
+"""Report: Apple fall event coming September 12, streaming on Twitter"",?",[0.02718354 0.05263719 0.92017925],neutral,-0.025453655
+"Apple scoops up AR lenses startup,?",[0.09227946 0.13084963 0.7768709 ],neutral,-0.038570166
+"FAANG short positions +42% in past year,?",[0.03034341 0.9005991  0.06905742],negative,-0.8702557
+"DigiTimes: 70-75M iPhones could ship by year's end,?",[0.08257069 0.00953433 0.90789497],neutral,0.073036365
+"Would Apple or Google buy a 'distressed' Tesla in the future,?",[0.04215798 0.08611297 0.8717291 ],neutral,-0.043954987
+"84% of companies dabbling in blockchain,?",[0.02898452 0.05727685 0.91373867],neutral,-0.028292324
+"Apple to take iPhone X design to new phones,?",[0.17350473 0.01295326 0.813542  ],neutral,0.16055147
+"""Apple hiring lots of ex-Tesla employees, not just for autonomous car project"",?",[0.21193972 0.1113336  0.6767267 ],neutral,0.10060612
+"GBH Insights forecasts 200M iPhone sales in next FY,?",[0.08018204 0.22675464 0.6930633 ],neutral,-0.14657259
+"Tim Cook to reap $120M from Apple rally,?",[0.1405181  0.09881166 0.7606703 ],neutral,0.041706443
+"WSJ: Facebook pulls data security app from Apple store,?",[0.01907463 0.9091841  0.07174117],negative,-0.8901095
+"Reuters: EU will approve Apple's Shazam buy,?",[0.6723231  0.01887133 0.30880553],positive,0.6534518
+"Netflix tests subscriber payment approach to cut Apple out,?",[0.53112215 0.06327583 0.40560204],positive,0.46784633
+"BofAML raises Apple to 16% premium on non-gaming app potential,?",[0.93097234 0.02396459 0.0450631 ],positive,0.90700775
+"Apple removes 25K apps from China,?",[0.01837062 0.93031543 0.05131387],negative,-0.9119448
+"DigiTimes: Apple will debut entry-level MacBook in September,?",[0.12805668 0.00996042 0.8619829 ],neutral,0.118096255
+"NAR: Apple faces Japan antitrust regulators over Yahoo game platform,?",[0.01419365 0.9505005  0.03530576],negative,-0.93630683
+"Amazon's smart speaker share fell in Q2 while Google grew,?",[0.00937059 0.9779574  0.01267201],negative,-0.96858686
+"Twitter joins social peers in suspending Alex Jones,?",[0.02979392 0.8706978  0.09950833],negative,-0.8409039
+"""Bloomberg: Verizon nears 5G launch deals with Apple, Google"",?",[0.29565307 0.02383734 0.6805096 ],neutral,0.27181575
+"""Berkshire boosts stakes in Apple, US Bank, Teva, BNY Mellon, Delta in Q2"",?",[0.8085703  0.01883603 0.1725936 ],positive,0.7897343
+"CNBC: Apple working on health data processing chip,?",[0.08153351 0.02307269 0.8953938 ],neutral,0.058460828
+"Einhorn's Greenlight Capital cuts Apple stake by 77%,?",[0.04769162 0.9080669  0.04424141],negative,-0.8603753
+"Apple delays group FaceTime chat for iOS 12,?",[0.03658235 0.26581457 0.69760305],neutral,-0.22923222
+"""WSJ: India looks to """"level playing field"""" with U.S. tech giants"",?",[0.73807085 0.02172595 0.24020314],positive,0.7163449
+"Foxconn reports Q2 net profit drop that misses estimates,?",[0.01097778 0.97581494 0.01320717],negative,-0.96483713
+"Report: Google could lose $50M this year from Fortnite snub,?",[0.01130805 0.9718174  0.01687453],negative,-0.9605093
+"Tesla engineering chief returns to Apple,?",[0.07993353 0.18549737 0.73456913],neutral,-0.10556384
+"""Samsung launches Galaxy Note 9, Watch, and wireless pad to take on Apple"",?",[0.42631513 0.01369912 0.55998576],neutral,0.412616
+"Invesco S&amp;P 500 Quality ETF (SPHQ) July Summary,?",[0.04568502 0.5679347  0.3863803 ],negative,-0.5222497
+"Verizon offers six free months of Apple Music,?",[0.1065588  0.00776134 0.8856799 ],neutral,0.098797455
+"Apple to US lawmakers: iPhone doesn't record conversations,?",[0.03068505 0.3638358  0.6054791 ],neutral,-0.33315077
+"Invesco QQQ ETF (QQQ) July Summary,?",[0.03542691 0.6675748  0.29699832],negative,-0.6321479
+"""Apple roundup: Munster outlines """"paradigm shift"""", China warns of bargaining chip"",?",[0.08574567 0.0960499  0.8182044 ],neutral,-0.010304228
+"Free speech debate among Big Tech,?",[0.05050958 0.36892676 0.58056366],neutral,-0.3184172
+"Apple drops Infowars from podcast directory,?",[0.01700149 0.88881993 0.0941785 ],negative,-0.8718184
+"Apple pays two-thirds of Irish tax bill,?",[0.04056435 0.12485227 0.8345834 ],neutral,-0.08428792
+"Comcast bringing Amazon Prime Video to Xfinity,?",[0.22915842 0.01142212 0.75941944],neutral,0.2177363
+"Surge pushes Apple over $1T,?",[0.26100484 0.5612197  0.1777755 ],negative,-0.30021486
+"IDC: Worldwide tablet market -13.5% in Q2,?",[0.06510269 0.19051199 0.74438536],neutral,-0.1254093
+"Apple nears winning the race to $1T,?",[0.84085405 0.05331763 0.1058284 ],positive,0.78753644
+"Apple hits new all-time high as analysts boost targets,?",[0.85338736 0.06016427 0.08644843],positive,0.7932231
+Huawei tops Apple as No.,[0.61495894 0.16377926 0.22126184],positive,0.45117968
+"Key takeaways from Apple's Q3 call include tariff talk,?",[0.10837917 0.12841181 0.763209  ],neutral,-0.020032644
+"Apple +2.4% on Q3 beats with Services at all-time high,?",[0.814695   0.09353554 0.09176953],positive,0.72115946
+"Apple declares $0.73 dividend,?",[0.05396365 0.6835643  0.26247206],negative,-0.62960064
+"""Apple beats by $0.16, beats on revenue"",?",[0.40364864 0.11923562 0.4771158 ],neutral,0.28441304
+"What to watch in Apple's Q3 report today,?",[0.03985649 0.01743686 0.94270664],neutral,0.02241963
+"Apple faces media scrutiny in China,?",[0.01702479 0.9147518  0.06822336],negative,-0.897727
+"Opera prices IPO at $12/share,?",[0.04678717 0.15564147 0.7975713 ],neutral,-0.108854294
+"Apple Watch shipments grew 30% in Q2,?",[0.9101768 0.0186099 0.0712134],positive,0.89156693
+"Morgan Stanley: Fall iPhone facing production delay,?",[0.0166561  0.93887144 0.04447243],negative,-0.92221534
+"Apple confirms bug causing MacBook Pro performance issues,?",[0.01840543 0.9484156  0.03317887],negative,-0.93001014
+"Apple faces two hits from Trump's tariff threat,?",[0.03185514 0.9137412  0.05440373],negative,-0.881886
+"Apple gets deadline to comply with Indian telecom regulation,?",[0.84083223 0.06394299 0.09522472],positive,0.77688926
+"""Apple Watch, Fitbit, and Sonos in the Chinese tariff talks"",?",[0.10825934 0.01131125 0.8804294 ],neutral,0.096948095
+"Apple loses last Siri cofounder and search chief,?",[0.01567375 0.94540244 0.03892385],negative,-0.9297287
+"Apple's App Store revenue nearly double Google's in 1H18,?",[0.8729978  0.07474504 0.05225708],positive,0.79825276
+"Bloomberg: Apple loses key execs in India struggles,?",[0.01486966 0.957106   0.02802439],negative,-0.94223636
+"""Apple underinvesting in innovation, Bernstein's Sacconaghi says"",?",[0.20714349 0.0934414  0.6994151 ],neutral,0.11370208
+"Adobe to bring Photoshop to iPad,?",[0.06910655 0.01346819 0.9174252 ],neutral,0.055638358
+"Apple launches clean energy fund in China,?",[0.16818379 0.03314281 0.79867345],neutral,0.13504098
+"Gartner: PC market had first Y/Y sales growth in six years,?",[0.92571455 0.01926939 0.05501596],positive,0.90644515
+"""Wix, Shutterfly gain as Apple ends Photo Print Products"",?",[0.05345942 0.770808   0.17573264],negative,-0.7173486
+"""Apple updates MacBook Pro lineup, releases external GPU"",?",[0.16916168 0.01744962 0.8133887 ],neutral,0.15171206
+"Respected tech analyst outlines Apple's fall products,?",[0.11520765 0.07957244 0.80521995],neutral,0.03563521
+"Apple alters Japan iPhone contracts after antitrust warning,?",[0.01723055 0.9455746  0.03719481],negative,-0.928344
+"Former Apple employee arrested for trade secret theft,?",[0.02874442 0.8272135  0.14404204],negative,-0.7984691
+"Apple combines Core ML and Siri teams,?",[0.17916377 0.01135923 0.80947703],neutral,0.16780454
+"BofAML raises Apple target on $8B AR potential,?",[0.63587546 0.14024478 0.22387975],positive,0.49563068
+"Invesco S&amp;P 500 Quality ETF (SPHQ) June Summary,?",[0.04624702 0.5639825  0.38977042],negative,-0.5177355
+"Invesco QQQ ETF (QQQ) June Summary,?",[0.03586828 0.6563134  0.30781832],negative,-0.62044513
+"Loop Capital boosts Apple target on second-half prospects,?",[0.82586294 0.09950931 0.07462774],positive,0.72635365
+"Smart speaker juggernaut Sonos files for IPO,?",[0.06047012 0.03312489 0.90640503],neutral,0.027345221
+"Browser maker Opera files for $115M US IPO,?",[0.05479658 0.03168228 0.9135212 ],neutral,0.023114298
+"Citi: 5 reasons to buy Apple,?",[0.06069041 0.09316888 0.84614074],neutral,-0.032478478
+"Apple preps Maps rebrand,?",[0.12592764 0.04961806 0.8244543 ],neutral,0.076309584
+"The Information: Apple could bundle services into one subscription,?",[0.03009004 0.01338194 0.956528  ],neutral,0.0167081
+"""Apple, Samsung settle patent dispute"",?",[0.06210724 0.40752736 0.5303654 ],neutral,-0.34542012
+"""Apple roundup: Production starts on iPhone 6s in India, Barclays forecasts June Q"",?",[0.15962899 0.04407253 0.7962985 ],neutral,0.115556456
+"Morgan Stanley analyst thinks new iPhones will start at $699,?",[0.08944901 0.00998283 0.9005682 ],neutral,0.07946618
+"""Bloomberg: Apple launching new AirPods, HomePod in 2019"",?",[0.10139464 0.00901283 0.8895926 ],neutral,0.09238181
+"Susquehanna says Cirrus Logic won next AirPods,?",[0.42288443 0.06808611 0.50902945],neutral,0.35479832
+"Bloomberg: Apple's delayed charging mat could launch in September,?",[0.04966382 0.01663633 0.93369985],neutral,0.03302748
+"WSJ: Apple teams with Sesame Workshop for video subscription service,?",[0.63173515 0.01940846 0.3488564 ],positive,0.6123267
+"""White House denies iPhone tariff exemption; Cook calls border separations """"inhumane"""""",?",[0.02798993 0.89175785 0.08025224],negative,-0.8637679
+"""Apple roundup: Betting on iPhone X Plus, Australian court fine"",?",[0.07798792 0.4513549  0.4706572 ],neutral,-0.37336695
+"""iPhones, Intel chips exempt from tariffs"",?",[0.03512468 0.06400443 0.9008709 ],neutral,-0.02887975
+"Supreme Court will hear Apple's appeal of app antitrust case,?",[0.07779314 0.08607791 0.836129  ],neutral,-0.00828477
+"Apple confirms hiring Waymo senior engineer,?",[0.29347572 0.07828773 0.6282366 ],neutral,0.215188
+"""Apple, Oprah: Winfrey in multiyear original-content deal"",?",[0.2665468  0.01609891 0.7173543 ],neutral,0.25044787
+"WSJ: Apple expects to sell more LCD iPhones than OLED,?",[0.5825119  0.01600824 0.40147984],positive,0.56650364
+"Bloomberg: Apple nears deal for animated film,?",[0.4608534  0.03211433 0.5070323 ],neutral,0.42873907
+"Reuters: Apple to undercut law enforcement tool for cracking iPhones,?",[0.03915631 0.9326776  0.02816607],negative,-0.8935213
+"""Power Integrations could gain from Apple design win, analyst says"",?",[0.91040665 0.01151885 0.07807454],positive,0.8988878
+"Apple cracks down on apps collecting contact data,?",[0.01441108 0.9385657  0.04702326],negative,-0.9241546
+"Digitimes: Apple's 2019 iPhones and iPads will support USB-C,?",[0.06626941 0.00568641 0.9280442 ],neutral,0.060583003
+"Apple changes iOS guidelines to ban crypto mining,?",[0.06225422 0.45848742 0.47925833],neutral,-0.3962332
+"""Bloomberg: Apple, Qualcomm legal fight could settle in 2H"",?",[0.04758126 0.3659147  0.58650404],neutral,-0.31833345
+"""Tech sector under pressure from Apple suppliers, semi equipment stocks"",?",[0.02808115 0.8650132  0.10690567],negative,-0.836932
+"NAR: Apple drops iPhone parts orders by 20%; supplier stocks dip,?",[0.01061269 0.9760489  0.01333854],negative,-0.9654362
+"Economic Times: Apple will cut Indian distributor,?",[0.01870457 0.9389349  0.04236052],negative,-0.9202303
+"Invesco QQQ ETF (QQQ) May Summary,?",[0.03575392 0.66222495 0.30202115],negative,-0.62647104
+"Apple's upcoming privacy changes target Facebook,?",[0.03271255 0.30309492 0.6641925 ],neutral,-0.27038237
+"Apple kicks off WWDC (live updates),?",[0.05565759 0.28577778 0.6585646 ],neutral,-0.23012018
+"Snap +6.1%; The Information suggests stake sale could happen,?",[0.1316186 0.0184841 0.8498973],neutral,0.1131345
+"Invesco QQQ Trust ETF (QQQ) May Summary,?",[0.0425143  0.48863408 0.46885163],negative,-0.4461198
+"Data sharing deals plague Facebook,?",[0.02114386 0.8509288  0.12792735],negative,-0.8297849
+"Reuters: Apple's upcoming multiplayer AR will prioritize privacy,?",[0.1009862 0.0110005 0.8880133],neutral,0.08998569
+"Apple looks to ad growth with new app network,?",[0.8841475  0.0087312  0.10712129],positive,0.87541634
+"""UBS raises """"aspirational"""" brand Apple to 12% upside"",?",[0.8281702  0.03116973 0.14066009],positive,0.79700047
+"Dialog Semiconductor expects Apple to order 30% fewer chips,?",[0.02575485 0.9038804  0.07036466],negative,-0.87812555
+"Bloomberg sources offer Apple WWDC preview,?",[0.03202878 0.08517481 0.8827964 ],neutral,-0.053146023
+"Pandora matches rivals with family subscription,?",[0.22821239 0.02205513 0.74973243],neutral,0.20615725
+"""Meeker saw no smartphone growth in 2017, IDC sees same for 2018"",?",[0.15783705 0.12898172 0.71318126],neutral,0.028855324
+"Maxim Group downgrades Apple on subscription concerns,?",[0.01330847 0.9568299  0.02986154],negative,-0.94352144
+"GBH Insights: Apple will sell 350M iPhone units in the next year,?",[0.1017503  0.01746086 0.8807888 ],neutral,0.08428944
+"iPhone display makers sink on OLED report,?",[0.01781355 0.9368498  0.0453366 ],negative,-0.9190362
+"Stock buybacks surge: But who gets the biggest bang for the buck,?",[0.19894096 0.10327038 0.69778866],neutral,0.09567058
+"Patent retrial awards Apple $538.6M in damages from Samsung,?",[0.06166362 0.88267225 0.05566421],negative,-0.8210086
+"Judge says Apple knew iPhone 6 was more prone to bending,?",[0.04584833 0.71953845 0.23461328],negative,-0.67369014
+"Morgan Stanley raises Apple to 14% upside on Services potential,?",[0.8021948  0.13601688 0.0617883 ],positive,0.66617787
+"NYT: Apple signs with Volkswagen to make self-driving cars,?",[0.8384368  0.01219731 0.14936587],positive,0.82623947
+"Apple Watch shipments up as wearables grow 35% in Q1,?",[0.9321904  0.03521494 0.0325946 ],positive,0.89697546
+"Apple launches privacy portal for user data ahead of GDPR,?",[0.05004871 0.10246094 0.8474904 ],neutral,-0.052412234
+"Bloomberg: TSMC mass producing 7nm chips for Apple's iPhones,?",[0.1121253  0.01227785 0.8755968 ],neutral,0.09984745
+"""U.S. companies, fed by tax savings, unveil buybacks at $6.1B a day"",?",[0.15121348 0.03115445 0.81763214],neutral,0.120059036
+"Counterpoint: Apple's Q1 iPhone shipments +16% in U.S.,?",[0.47422192 0.3993043  0.12647386],positive,0.074917614
+"""Nomura Instinet reiterates Apple at 6% downside on iPhone X, Services revenue"",?",[0.01683118 0.95788217 0.02528668],negative,-0.941051
+"Apple makes first tax payment to Ireland,?",[0.24509758 0.04341713 0.71148527],neutral,0.20168045
+"Apple's HomePod ranks fourth in smart speaker market,?",[0.7107644  0.03085051 0.25838512],positive,0.6799139
+"WaPo: Apple considers NoVa for new campus,?",[0.07708156 0.01511496 0.9078035 ],neutral,0.061966598
+"Apple's new campus headed for North Carolina,?",[0.03691377 0.2296734  0.7334128 ],neutral,-0.19275963
+"""Berkshire doubles stake in Teva; adds to Apple, Monsanto in Q1"",?",[0.03528694 0.02762005 0.93709296],neutral,0.007666886
+"""Glenview added Express Scripts, exited Apple in Q1"",?",[0.06022487 0.03505834 0.9047168 ],neutral,0.025166534
+"Highlights from Appaloosa's Q1,?",[0.0405669  0.10851358 0.85091954],neutral,-0.06794667
+"""Greenlight added IAC/InterActiveCorp, exited Chemours in Q1"",?",[0.0397838  0.03723304 0.92298317],neutral,0.002550758
+"""Bloomberg: T. Rowe Price, JPMorgan cut Apple stakes before stock rallies"",?",[0.03016078 0.8592636  0.11057569],negative,-0.8291028
+"""Tim Cook says Apple Music has 50M subscribers, confirms video content plans"",?",[0.05992319 0.01258845 0.9274883 ],neutral,0.047334746
+"Tim Cook comments on Trump meeting,?",[0.03365364 0.1573466  0.8089997 ],neutral,-0.123692974
+"Apple now has 55 self-driving cars testing in California,?",[0.06220533 0.02579915 0.91199553],neutral,0.036406174
+"Apple teams with French cable provider; Hon Hai reports 15% net profit drop,?",[0.01110035 0.9776119  0.01128774],negative,-0.96651155
+"""Alcoa, Rio Tinto to launch first carbon-free aluminum smelting process"",?",[0.69386417 0.01187751 0.2942584 ],positive,0.6819867
+"""WSJ: Apple, Goldman Sachs planning Pay-branded credit card"",?",[0.03661614 0.04475525 0.91862863],neutral,-0.008139111
+"Apple drops Irish data center plans,?",[0.01749987 0.92623925 0.05626082],negative,-0.9087394
+"DoT announces drone project winners,?",[0.23824583 0.09550934 0.6662448 ],neutral,0.1427365
+"Bloomberg: Apple bringing subscriptions to TV app,?",[0.5417569  0.01905388 0.43918914],positive,0.52270305
+"U.S. to reveal drone program winners,?",[0.04127168 0.18211676 0.7766115 ],neutral,-0.14084509
+"Apple and Buffett hoovering up large chunk of Apple,?",[0.06842769 0.1117392  0.8198331 ],neutral,-0.043311507
+"Reuters: New slate of drone tests draw varied competitors,?",[0.2898251  0.02659068 0.6835842 ],neutral,0.26323444
+"Gene Munster says we're one week into a new &quot;Apple story&quot;,?",[0.04249894 0.0524586  0.90504247],neutral,-0.009959664
+"Apple hits new high after more positive Buffett comments,?",[0.5980072  0.23115881 0.170834  ],positive,0.3668484
+"2018 Berkshire Hathaway annual meeting updates,?",[0.02581791 0.05896256 0.9152196 ],neutral,-0.033144653
+"""Alphabet roundup: Apple payments slowing, election ad changes, YouTube metrics"",?",[0.10833705 0.14543842 0.74622446],neutral,-0.037101366
+"Apple iPhone X topped Q1 shipments; News paid for BuzzFeed exclusive,?",[0.843777   0.08611894 0.07010405],positive,0.75765806
+"Berkshire bumped up Apple stake in Q1,?",[0.2093628  0.26646802 0.5241692 ],neutral,-0.057105213
+"Microsoft and Apple in talks to lift bans in UAE,?",[0.25691268 0.5583285  0.18475881],negative,-0.30141583
+"""IDC: Smartphone shipments -2.9% in Q1, Samsung takes top spot"",?",[0.79748976 0.09285647 0.10965375],positive,0.7046333
+"Analysts admit missing on iPhone shipment estimates,?",[0.02930509 0.8598791  0.11081585],negative,-0.830574
+"PowerShares QQQ Trust ETF (QQQ) April Summary,?",[0.0463824  0.302746   0.65087163],neutral,-0.2563636
+"""Apple earnings call: X most popular iPhone, Services has best quarter ever"",?",[0.6405249  0.19488925 0.16458581],positive,0.44563568
+"""Apple +4.4% after Q2 beats on rev, EPS, device shipments, and Services rev"",?",[0.6806949  0.12371913 0.19558601],positive,0.5569757
+"Apple declares $0.73 dividend,?",[0.05396365 0.6835643  0.26247206],negative,-0.62960064
+"""Apple beats by $0.05, beats on revenue"",?",[0.4070252  0.12996939 0.46300542],neutral,0.2770558
+"Apple earnings preview: what to watch aftermarket,?",[0.05865398 0.04529173 0.8960543 ],neutral,0.013362259
+"Analyst initiates Apple at Buy and 33% upside,?",[0.26586175 0.26155144 0.4725868 ],neutral,0.00431031
+"Analysts and investors make predictions ahead of Apple earnings,?",[0.0389887  0.13131145 0.8296998 ],neutral,-0.09232275
+"Apple gains on expectations of record capital allocation program,?",[0.84159267 0.11471482 0.04369258],positive,0.72687787
+"Barclays thinks new iPhones won't include headphone adapter,?",[0.0586632  0.02088567 0.92045116],neutral,0.03777753
+"CNET: Apple will have AR/VR headset in 2020,?",[0.04917853 0.00862356 0.94219786],neutral,0.040554974
+"Bernstein expects Apple earnings to disappoint on iPhone weakness,?",[0.01358896 0.9623291  0.02408191],negative,-0.9487401
+"WSJ: Speaker maker Sonos files confidentially for IPO,?",[0.02812276 0.25552574 0.7163515 ],neutral,-0.22740299
+"Trump and Apple's Tim Cook meeting today,?",[0.04010377 0.23454128 0.7253549 ],neutral,-0.1944375
+"Tim Cook heads to the Oval Office,?",[0.04488332 0.31135568 0.64376104],neutral,-0.26647237
+"""Apple roundup: Street in """"full panic"""" ahead of earnings, Samsung price negotiations"",?",[0.04782612 0.26068595 0.6914879 ],neutral,-0.21285982
+"""Ireland, Apple tax appeal gets timeframe"",?",[0.08266207 0.07406763 0.84327024],neutral,0.008594438
+"Analyst downgrades Skyworks on weak iPhone sales estimates,?",[0.01290696 0.96803343 0.01905955],negative,-0.95512646
+"Apple's Q1 iPhone sales show X weakness; co. offers batteries for MacBook issue,?",[0.02816238 0.90939796 0.06243959],negative,-0.8812356
+"European antitrust regulators set deadline for Apple-Shazam probe,?",[0.0413454 0.5878832 0.3707714],negative,-0.54653776
+"Apple supplier could post record profits; HomePod orders slashed with suppliers,?",[0.01578055 0.9727251  0.01149427],negative,-0.9569445
+"""Report: Apple, device makers behind DOJ probe of telecom collusion"",?",[0.04249433 0.52900493 0.42850068],negative,-0.4865106
+"Morgan Stanley cautiously bullish into Apple report; OTR Global downgrades,?",[0.03770806 0.89274347 0.0695485 ],negative,-0.8550354
+"BofA: Some 4-7% more downside in chips into Apple earnings,?",[0.01730831 0.9559192  0.02677243],negative,-0.9386109
+"Apple's reach for new screen supplier hits hurdles,?",[0.48608214 0.16159332 0.35232452],positive,0.32448882
+"ASM International falls short and chipmakers stay in downdraft,?",[0.01156646 0.9647078  0.0237257 ],negative,-0.95314133
+"""Taiwan Semi phone-based softness dragging Apple, other chipmakers"",?",[0.04507319 0.6613556  0.29357126],negative,-0.6162824
+"Meet the electric/autonomous vehicle ETF,?",[0.23053278 0.02674675 0.7427205 ],neutral,0.20378603
+"Bloomberg: Apple planning Texture-based news subscription,?",[0.02480467 0.03363573 0.9415596 ],neutral,-0.00883106
+"UBS: Apple won't return to peak sales in China,?",[0.0681299  0.73670995 0.19516017],negative,-0.66858006
+"Analyst says Apple could double its dividend; leaked memo shows employee arrests,?",[0.22095741 0.7063595  0.07268308],negative,-0.4854021
+"Apple's 'plumbers' unit caught 29 last year,?",[0.21099827 0.25869533 0.5303064 ],neutral,-0.047697067
+"""KGI says HomePod will sell 2.5M units this year; new iPhone X priced at $1,100"",?",[0.1622872  0.01380602 0.8239067 ],neutral,0.14848119
+"Economic Times: Apple begins iPhone 6s production in India,?",[0.09929066 0.02576338 0.87494594],neutral,0.073527284
+"""Bloomberg: Apple cuts HomePod sales estimates, orders"",?",[0.0150149  0.9470482  0.03793697],negative,-0.9320333
+"PC shipments fall for 14th straight quarter,?",[0.01104653 0.97610533 0.01284819],negative,-0.9650588
+"""Variety: Apple Music has 40M subscribers, gets new worldwide head"",?",[0.31819823 0.02971952 0.6520822 ],neutral,0.2884787
+"VirnetX +28.1% on Apple patent victory,?",[0.25067452 0.3941718  0.3551537 ],negative,-0.14349729
+"Apple picks up TV series based on Asimov's &quot;Foundation&quot; novels,?",[0.07054891 0.01351175 0.9159394 ],neutral,0.057037167
+"Israel consumer bureau investigating Apple; Teen survey shows growing iPhone use,?",[0.08717576 0.5489033  0.36392087],negative,-0.46172753
+"Apple reaches 100% renewable energy goal,?",[0.7725919  0.01724694 0.21016112],positive,0.7553449
+"Recode: Amazon led R&amp;D spending last year,?",[0.15492001 0.14272423 0.7023558 ],neutral,0.012195781
+"Apple's red iPhone 8 models release tomorrow,?",[0.05229253 0.04120935 0.90649813],neutral,0.011083175
+"Apple says repeal of Clean Power Plan would threaten investments,?",[0.0166623  0.9409461  0.04239158],negative,-0.9242838
+"Bloomberg: Apple's Cook will be deposed in Qualcomm suit,?",[0.02805389 0.7825447  0.18940148],negative,-0.7544908
+"TechCrunch: Mac Pro coming in 2019,?",[0.03956192 0.0870633  0.8733748 ],neutral,-0.047501374
+"Citi reiterates Apple Buy on capital returns,?",[0.13261603 0.3915113  0.47587273],neutral,-0.25889528
+"""Apple hires former Google AI head; touchless controls, curved screens for iPhones"",?",[0.09465541 0.0247584  0.88058615],neutral,0.06989701
+"""Tech stocks down as U.S., China reveal new tariffs"",?",[0.02082606 0.9332128  0.04596122],negative,-0.9123868
+"BofAML estimates Apple can save $500M a year using its own PC chips,?",[0.28923333 0.03719769 0.67356896],neutral,0.25203565
+"""TSMC will reportedly produce two MicroLED panels for Apple Watch, AR device"",?",[0.12185417 0.00608333 0.8720625 ],neutral,0.11577084
+"Bloomberg: Apple will stop using Intel chips in Macs; INTC shares -8.7%,?",[0.01845914 0.88858354 0.0929573 ],negative,-0.8701244
+"Zuckerberg on Tim Cook's &quot;extremely glib&quot; criticism,?",[0.04891751 0.5285417  0.42254084],negative,-0.47962418
+"Apple releases iOS 11.3,?",[0.03130317 0.05795093 0.91074586],neutral,-0.026647758
+"""Goldman Sachs cuts forecast for Apple iPhone, revenue"",?",[0.03234167 0.8882855  0.07937272],negative,-0.85594386
+"More from Apple's education event; analyst predicts next Watch features,?",[0.05089611 0.05221414 0.89688975],neutral,-0.00131803
+"""Apple launches low-cost iPad, costs $299 for schools"",?",[0.06081907 0.02138114 0.9177998 ],neutral,0.039437927
+"Apple hosts education-related event,?",[0.02368034 0.03873508 0.93758464],neutral,-0.01505474
+"Google debuts first Chrome OS tablet,?",[0.24176842 0.03254664 0.72568494],neutral,0.20922178
+"Apple Music... virtual record label,?",[0.02707109 0.04737099 0.9255579 ],neutral,-0.020299906
+"Tim Cook comments on data privacy,?",[0.03207188 0.1150609  0.85286725],neutral,-0.08298902
+"China talks tough on trade war,?",[0.05869462 0.6764626  0.26484284],negative,-0.617768
+"KGI Securities analyst sees Apple Pencil sales doubling in 2018,?",[0.799519   0.05634519 0.14413576],positive,0.74317384
+"Ireland chooses managers for Apple taxes; Tim Cook heading to China,?",[0.03415416 0.14600243 0.8198434 ],neutral,-0.111848265
+"Analyst expects foldable iPhone in 2020; new iPad coming next week,?",[0.09455089 0.01970224 0.88574684],neutral,0.074848644
+"Apple will fix bug that let Siri read hidden notifications,?",[0.15696165 0.08191466 0.7611237 ],neutral,0.07504699
+"Apple's new iPhones could enter trial production in Q2,?",[0.10322732 0.00792348 0.88884914],neutral,0.09530385
+"New study shows Apple Watch accuracy at detecting irregular heartbeats,?",[0.2820703  0.03068404 0.68724567],neutral,0.25138628
+"New iPhone X could cost Apple 10% less; Iovine stepping back from Music,?",[0.04555121 0.7252606  0.22918816],negative,-0.67970943
+"EU proposes tax on U.S. tech giants,?",[0.0655132  0.28027028 0.65421647],neutral,-0.21475708
+"Amazon's market cap passes Alphabet,?",[0.08326645 0.1332757  0.7834579 ],neutral,-0.05000925
+"Apple self-driving fleet doubles; Chicago Apple Store up for sale,?",[0.35664514 0.17705828 0.46629655],neutral,0.17958686
+"BofAML survey: Tech longs 38% overweight last month,?",[0.03257724 0.9375644  0.02985843],negative,-0.90498716
+"Apple grabs big lead in 3D sensing,?",[0.73198247 0.0381163  0.22990121],positive,0.6938662
+"Nomura Instinet lowers FY18 iPhone forecast,?",[0.02271089 0.93972856 0.03756051],negative,-0.9170177
+"Apple is developing MicroLED screens,?",[0.0565415  0.01255382 0.9309046 ],neutral,0.043987677
+"Transatlantic trade rift is widening,?",[0.05513006 0.8161441  0.1287258 ],negative,-0.76101404
+"Barclays lowers its Apple price target; Apple education event coming March 27,?",[0.03831733 0.8223776  0.13930503],negative,-0.7840603
+"KGI: Mac laptop shipments will grow 16% this year,?",[0.9444356  0.01274272 0.04282163],positive,0.9316929
+"EU sets date for Apple-Shazam approval; Apple supplier denies production shutdown,?",[0.04979697 0.7744565  0.1757465 ],negative,-0.7246595
+"Former Apple employees discuss Siri problems with The Information,?",[0.03760769 0.36272523 0.5996671 ],neutral,-0.32511753
+"""France will sue Apple, Google over developer treatment"",?",[0.01750927 0.92049813 0.06199259],negative,-0.90298885
+"Apple pegs June 4 to kick off WWDC,?",[0.06130519 0.05290455 0.8857902 ],neutral,0.008400634
+"GBH: Amazon and Facebook could disrupt live sports broadcasting,?",[0.01233012 0.94760096 0.04006888],negative,-0.93527085
+"Apple hit new high today in race towards $1T market cap,?",[0.856569   0.05336999 0.09006107],positive,0.803199
+"Apple Music hits 38M paid subscribers; Apple orders first animated series,?",[0.29453284 0.06641483 0.6390524 ],neutral,0.228118
+"Apple acquires magazine subscription app Texture,?",[0.17698519 0.03092248 0.7920923 ],neutral,0.14606272
+"Apple's high-performance suppliers +35%; Could Apple buy Snap,?",[0.18335924 0.01329347 0.8033473 ],neutral,0.17006576
+"GBH Insights sees minimal tariff impact on FANG stocks,?",[0.09285196 0.22278365 0.68436444],neutral,-0.12993169
+"""Baird sees Apple in strong position with iPhone, Watch, HomePod"",?",[0.8439756  0.01409694 0.14192748],positive,0.8298787
+"Piper Jaffray survey shows why iPhone owners didn't want X,?",[0.08183026 0.34600464 0.57216513],neutral,-0.26417437
+"""Apple planning cheaper MacBook Air, branded headphones this year"",?",[0.42004305 0.03017902 0.5497779 ],neutral,0.38986403
+"JPMorgan lowers iPhone X production estimate to 15M in Q1,?",[0.01888346 0.9424227  0.03869388],negative,-0.9235392
+"Apple wins holiday wearables market with 21% share,?",[0.8672004  0.04275862 0.090041  ],positive,0.82444173
+"""Apple moves Chinese iCloud data, encryption keys to China"",?",[0.05013068 0.05950277 0.89036655],neutral,-0.009372097
+"""Apple roundup: Ireland must collect back taxes, new series, and potential new hire"",?",[0.10898221 0.02725103 0.86376673],neutral,0.08173117
+"Apple is launching medical clinics,?",[0.07334629 0.02287433 0.9037794 ],neutral,0.050471958
+"Bloomberg: Apple releasing three iPhones this fall,?",[0.05009981 0.07090174 0.8789985 ],neutral,-0.020801924
+"Apple confirms using Google Cloud; Cook will co-chair China business forum,?",[0.04424593 0.0073557  0.94839835],neutral,0.03689023
+"Buffett talks shop after annual letter,?",[0.067545   0.20606406 0.72639096],neutral,-0.13851905
+"Apple to store iCloud keys in China,?",[0.04525044 0.18554144 0.7692081 ],neutral,-0.140291
+"Ireland expects to collect $16B from Apple; Apple Pay has 127M users,?",[0.41795117 0.03809746 0.5439514 ],neutral,0.37985373
+"Apple planning AirPods upgrades; global smartphone shares slip in Q4,?",[0.00949998 0.9719783  0.01852175],negative,-0.96247834
+"New iPads teased in regulatory filing; Cook says Apple not in Music for the money,?",[0.04813801 0.29110122 0.6607608 ],neutral,-0.2429632
+"Apple looks to buy cobalt from miners,?",[0.13315031 0.01352618 0.8533235 ],neutral,0.11962413
+"GBH sets Apple target at 18.5% upside,?",[0.20415038 0.3512902  0.4445594 ],neutral,-0.14713982
+"NAR: Samsung looking for OLED buyers after iPhone X cuts,?",[0.21205892 0.05449077 0.73345035],neutral,0.15756816
+"""Apple Q4 performance: 12% China growth, 51% of global smartphone revenue"",?",[0.43702102 0.0487753  0.5142036 ],neutral,0.3882457
+"Big investor moves in latest 13-F filings,?",[0.23135942 0.07493954 0.6937011 ],neutral,0.15641987
+"Apple in talks for first order from Chinese chipmaker - Nikkei,?",[0.498568   0.08095272 0.42047933],positive,0.4176153
+"Apple meeting: CEO Cook downplays repatriation dividend,?",[0.01726595 0.93056357 0.05217042],negative,-0.9132976
+"Hedge fund: Time Warner attractive regardless of deal outcome,?",[0.03245747 0.02271894 0.9448236 ],neutral,0.009738537
+"Shareholder proposals fail at Apple meeting,?",[0.02082622 0.8943649  0.08480886],negative,-0.8735387
+"Apple updating software upgrade schedule; eMagin +24% on Apple investment,?",[0.11526123 0.16465732 0.72008145],neutral,-0.04939609
+"""S&amp;P: Tech sector could """"never look the same again"""" after tax reform harm"",?",[0.04681868 0.32495674 0.6282246 ],neutral,-0.27813807
+"""BofAML calls Apple """"name to own"""", Barclays thinks batteries could hurt sales"",?",[0.01666464 0.95301884 0.03031653],negative,-0.9363542
+"""Goldman Sachs: Apple iPhone X """"not so super cycle"""" earns Neutral rating"",?",[0.14689606 0.1664165  0.6866874 ],neutral,-0.019520432
+"Goldman in talks to finance iPhones - WSJ,?",[0.04729506 0.01150727 0.9411977 ],neutral,0.035787787
+"Apple brings Alipay into Chinese stores,?",[0.04473352 0.07901207 0.87625444],neutral,-0.034278546
+"""Apple could offer battery rebates, software update coming to newer iPhones"",?",[0.44697952 0.01967612 0.5333443 ],neutral,0.4273034
+"""Apple roundup: Watch sales up in FY17, second Chinese center, EU investigating Shazam acquisition"",?",[0.7269107  0.02143613 0.25165316],positive,0.70547456
+"""Apple sold the most tablets in Q4, Amazon gained most market share"",?",[0.5713579  0.01817992 0.41046217],positive,0.553178
+"Apple supplier optimistic on iPhone 8 demand; Intel replacing Qualcomm modems,?",[0.03250268 0.9035405  0.06395686],negative,-0.87103784
+"""Apple, Cisco team to offer cybersecurity insurance discounts"",?",[0.6400772  0.01968782 0.340235  ],positive,0.62038934
+"WSJ: Apple Music closing in on Spotify,?",[0.0645047  0.33608407 0.59941125],neutral,-0.27157938
+"Report: Apple's first China data center eyes 2020 opening,?",[0.07135306 0.02371171 0.9049352 ],neutral,0.047641344
+"Apple launches free repairs for iPhone 7 glitch,?",[0.2827652  0.14251399 0.5747208 ],neutral,0.14025122
+"Moody's not too concerned with Apple's &quot;cash neutral&quot; policy,?",[0.03816247 0.07334329 0.8884942 ],neutral,-0.03518082
+"Apple down more than 2% as results/guidance digested,?",[0.00982856 0.97437346 0.01579802],negative,-0.9645449
+"""Apple: No soft Q2 for iPhones, plans to reduce $163B net cash to """"approximately zero"""""",?",[0.0283007  0.9162193  0.05548003],negative,-0.8879186
+"""Apple -1% on Q1 unit sales drop, downside guidance"",?",[0.02006534 0.94352883 0.0364059 ],negative,-0.92346346
+"Apple declares $0.63 dividend,?",[0.0474015  0.7247912  0.22780725],negative,-0.67738974
+"""Apple beats by $0.04, beats on revenue"",?",[0.3898936  0.12495971 0.48514667],neutral,0.26493388
+"""Apple roundup: Record Q4 for iPhone, refurbished iPhone 7, India import tax hike"",?",[0.20388968 0.345749   0.4503614 ],neutral,-0.14185931
+"Apple admits to government questioning; new iPhone coming to India,?",[0.05450672 0.29460952 0.65088373],neutral,-0.2401028
+"""BMO downgrades Apple, expects revenue guidance cut"",?",[0.03925637 0.9241436  0.03659996],negative,-0.8848872
+"Bloomberg: DOJ and SEC investigating Apple iPhone throttling,?",[0.02178426 0.85044676 0.1277689 ],negative,-0.8286625
+"""Deutsche Bank: Apple consensus estimates still too high for Q1, Q2"",?",[0.02327545 0.90083134 0.07589324],negative,-0.8775559
+"Apple delaying some iOS updates; WSJ reports on iPhone X production cuts,?",[0.01565392 0.9574117  0.02693429],negative,-0.9417578
+"""Bloomberg: Apple releasing new iPad, three Macs this year"",?",[0.08211868 0.01245315 0.9054282 ],neutral,0.06966553
+"Apple halving iPhone X production in Q1,?",[0.01816113 0.9491634  0.03267551],negative,-0.93100226
+"Streaming services pay more for music,?",[0.10876331 0.03446576 0.85677093],neutral,0.07429755
+"CRB decision has music streamers paying more for rights,?",[0.23055092 0.07450225 0.6949468 ],neutral,0.15604866
+"""Rosenblatt, BTIG disagree on Apple's Q1 potential"",?",[0.1174585  0.06823701 0.8143045 ],neutral,0.049221486
+"""Apple roundup: New self-driving vehicles join fleet, original content push gets new show"",?",[0.3610924  0.01387159 0.62503606],neutral,0.3472208
+"Apple iBooks redesign coming; Sonos discounts Alexa speakers to match HomePod,?",[0.25035247 0.34586984 0.40377763],neutral,-0.09551737
+"Apple -1.1% awaiting CNBC analyst interview with cautionary comments (update),?",[0.05427003 0.72979057 0.21593942],negative,-0.67552054
+"""Apple previews iOS 11.3 with battery management features, health records"",?",[0.0439547  0.02334166 0.9327037 ],neutral,0.020613033
+"EU slaps Qualcomm with $1.2B antitrust fine,?",[0.01917954 0.95181024 0.02901026],negative,-0.9326307
+"""Apple, suppliers move after JPMorgan says iPhone X build will weaken"",?",[0.02000123 0.950796   0.02920277],negative,-0.9307948
+"FT: Qualcomm facing potential $2B EU fine over Apple,?",[0.01625051 0.9573108  0.02643873],negative,-0.9410603
+"""Apple roundup: iPhone X sells 29M units, new MacBook rumor, Foxconn shift"",?",[0.17498593 0.05685164 0.7681624 ],neutral,0.11813429
+"Apple's HomePod smart speaker launches Feb. 9,?",[0.07782292 0.0139458  0.90823126],neutral,0.06387712
+"Deutsche Boerse launches AI innovator index,?",[0.16971803 0.02682147 0.8034605 ],neutral,0.14289656
+"Apple receives second downgrade in a week on weaker Q2 expectations,?",[0.04374586 0.9458186  0.01043546],negative,-0.9020727
+"TechCrunch: Apple hires tech team from business consulting startup,?",[0.18516704 0.14321665 0.67161626],neutral,0.04195039
+"""Apple, suppliers drop as key analyst lowers iPhone X lifetime sales forecast"",?",[0.01107997 0.9728582  0.01606181],negative,-0.9617782
+"""TSMC expects iPhone shipments to drop, softened by crypto mining boost"",?",[0.01058277 0.97562146 0.01379582],negative,-0.9650387
+"""Apple still owes EU tax bill, payments start in March"",?",[0.13380663 0.02661991 0.83957344],neutral,0.10718672
+"Apple lets users decide on iPhone slowdown,?",[0.0291119  0.07189663 0.89899147],neutral,-0.04278473
+"""Bloomberg: Apple employees will get $2,500 bonus"",?",[0.49695775 0.07793867 0.42510355],positive,0.41901907
+"""Apple plans to add $350B to US economy, $38B in repatriated tax payments"",?",[0.7052838  0.0199344  0.27478173],positive,0.6853494
+"BofAML raises Apple's price target to $1.1T valuation,?",[0.60845035 0.04664807 0.34490147],positive,0.56180227
+"Longbow downgrades Apple on lower iPhone forecast,?",[0.01579647 0.962885   0.02131859],negative,-0.94708854
+"Apple iPhone activations up 10 points in Q4,?",[0.932274   0.03756593 0.03016013],positive,0.89470804
+"""Apple roundup: Cowen's iPhone build note, Mac sales +7%, AR glasses discussions"",?",[0.11731239 0.03124559 0.85144204],neutral,0.086066805
+"""Apple faces questions from U.S.",[0.04249195 0.5510093  0.40649873],negative,-0.5085173
+"Apple will transfer China cloud business to partner next month; Iovine not leaving Music,?",[0.03289747 0.03677846 0.93032414],neutral,-0.003880989
+"Apple pledges better parental control features,?",[0.7798572  0.01299739 0.20714538],positive,0.7668598
+"UBS: Apple could repurchase $122B through 2019,?",[0.04794054 0.02321891 0.9288406 ],neutral,0.024721628
+"Apple Watch control coming to Whirlpool appliances; KeyBanc sees poor iPhone X sales,?",[0.01087789 0.96560305 0.02351903],negative,-0.95472515
+"WSJ: Apple product delays doubled under CEO Cook,?",[0.08283228 0.8735687  0.04359897],negative,-0.79073644
+"Apple confirms all its devices affected by processor exploits,?",[0.03087456 0.6702296  0.2988958 ],negative,-0.63935506
+"""Reports: With shares vesting, Iovine to leave Apple"",?",[0.03864424 0.7328303  0.22852552],negative,-0.69418603
+"Apple App Store's record-breaking holiday season included $300M in a day,?",[0.16599862 0.07921431 0.754787  ],neutral,0.08678431
+"GBH: Apple could repatriate $200B,?",[0.04798805 0.43517172 0.5168402 ],neutral,-0.38718367
+"Oppenheimer Large Cap Revenue ETF (RWL) December Summary,?",[0.04635286 0.3983404  0.55530673],neutral,-0.35198754
+"Oppenheimer Global ESG Revenue ETF (ESGF) December Summary,?",[0.05285988 0.36888713 0.578253  ],neutral,-0.31602725
+"TechCrunch: Apple acquires mobile app iteration company,?",[0.17741549 0.03438975 0.7881947 ],neutral,0.14302574
+"""Apple analyst says low iPhone X estimates still """"too high"""""",?",[0.02516316 0.91391575 0.06092115],negative,-0.8887526
+"Apple instructs Stores to offer $29 battery regardless of diagnostic test,?",[0.04354905 0.01546562 0.9409854 ],neutral,0.028083432
+"2017 leaders and laggards,?",[0.04283317 0.60272616 0.35444066],negative,-0.559893
+"""Boeing, Caterpillar top Dow 2017 standings; GE lags far behind"",?",[0.20404077 0.47463995 0.32131934],negative,-0.2705992
+"""Apple roundup: iPhone tops 2017 tech sales, more battery woes"",?",[0.37707615 0.34577152 0.27715236],positive,0.031304628
+"Apple's apology letter to consumers includes $29 batteries,?",[0.0419639  0.48164365 0.47639248],negative,-0.43967974
+"""Apple faces another legal challenge, competitor brags about not throttling"",?",[0.01839026 0.93389183 0.04771783],negative,-0.9155016
+"LG Display denies supplying OLED panels for iPhone X,?",[0.05843782 0.00987955 0.93168265],neutral,0.048558272
+"""Apple, Amazon heading to Saudi Arabia"",?",[0.04585323 0.10586999 0.84827673],neutral,-0.060016766
+"Apple boosts pay for Tim Cook,?",[0.6741098  0.11181094 0.21407922],positive,0.5622989
+"Apple devices led Christmas activations,?",[0.21604563 0.0542014  0.72975296],neutral,0.16184424
+"More lawsuits filed for iPhone slowdown,?",[0.02215065 0.90654624 0.07130307],negative,-0.8843956
+"Rosenblatt defends Apple on iPhone X sale cut,?",[0.1409472  0.65740556 0.20164724],negative,-0.5164584
+"""Apple, suppliers drop on iPhone X sales report"",?",[0.01204662 0.9702665  0.01768685],negative,-0.9582199
+"Apple sanctioned for withholding documents in FTC case against Qualcomm,?",[0.02308107 0.9033671  0.07355192],negative,-0.88028604
+"Apple hires more Amazon Studios execs,?",[0.1429765 0.1864761 0.6705474],neutral,-0.043499604
+"Apple sued over iPhone slowdown,?",[0.01400782 0.9544142  0.03157793],negative,-0.9404064
+"Bloomberg: Apple testing advanced heart rate monitor in Watch,?",[0.03770171 0.04512934 0.917169  ],neutral,-0.007427633
+"""Morgan Stanley calls Apple a """"top pick"""" on China growth"",?",[0.61589056 0.0230866  0.3610229 ],positive,0.59280396
+"""Apple unifying OS apps, responds to phone slowing accusations"",?",[0.1279029  0.02049886 0.85159826],neutral,0.10740404
+"Korea Herald: Samsung will quadruple iPhone OLED output in 2018,?",[0.7558544  0.03388873 0.21025681],positive,0.7219657
+"IDC: Watches will dominate wearables market in 2021,?",[0.16934249 0.00719299 0.8234646 ],neutral,0.1621495
+"""Nomura downgrades Apple, lowers price target"",?",[0.07283062 0.80286276 0.12430669],negative,-0.73003215
+"Reuters: Apple increases iPhone prices in India after tax hike,?",[0.8367762  0.05536857 0.10785525],positive,0.78140765
+"EU rejects U.S. bid to intervene in Apple back tax case,?",[0.02294736 0.92403096 0.05302178],negative,-0.9010836
+"India's import tax increase could hurt Apple's market share,?",[0.01415866 0.9619104  0.02393085],negative,-0.94775176
+"""Finisar clarifies Apple investment, Apple COO discusses $1B fund's limits"",?",[0.05387929 0.01496379 0.9311569 ],neutral,0.0389155
+"Apple invests $390M in Finisar,?",[0.04062924 0.01295719 0.94641364],neutral,0.027672049
+"Apple will launch iMac Pro on Thursday,?",[0.02957196 0.01953179 0.95089626],neutral,0.010040171
+"""TechCrunch: Apple will announce Shazam acquisition today, paid about $400M (update)"",?",[0.14663318 0.02470205 0.8286647 ],neutral,0.12193113
+"""Apple, India squabble over import taxes"",?",[0.01998895 0.9159487  0.06406245],negative,-0.89595973
+"The cost of Apple's new campus,?",[0.04788525 0.54597855 0.4061362 ],negative,-0.4980933
+"Jony Ive back in charge of Apple design team,?",[0.08578432 0.03288733 0.8813284 ],neutral,0.052896988
+"TechCrunch: Apple will acquire Shazam app,?",[0.06929111 0.00774249 0.92296636],neutral,0.061548624
+"""Digitimes: Apple suppliers shipments down on month, expect weak Dec."",?",[0.01127735 0.96940863 0.01931396],negative,-0.95813125
+"LG Display could supply OLED panels for iPhone X,?",[0.05945465 0.00519487 0.93535054],neutral,0.054259785
+"Apple suppliers recover after Broadcom sales comments,?",[0.05690913 0.9091186  0.03397236],negative,-0.85220945
+"Apple suppliers drop after Largan warns of lower Dec. revenue,?",[0.01163229 0.973513   0.01485459],negative,-0.96188074
+"No date for Apple's Ireland repayment; Cook expects pulled China apps to return,?",[0.09118547 0.05484978 0.8539647 ],neutral,0.03633569
+"""Apple acquires podcast search company, unveils new ad program"",?",[0.19909267 0.00768568 0.79322165],neutral,0.191407
+"Apple's U.S. market share dropped ahead of iPhone X,?",[0.00995474 0.9760207  0.01402454],negative,-0.96606594
+"EU court sides with Apple in Xiaomi trademark case,?",[0.02919195 0.87910336 0.09170479],negative,-0.8499114
+"Oppenheimer Large Cap Revenue ETF (RWL) November Summary,?",[0.04658447 0.40456167 0.5488538 ],neutral,-0.3579772
+"Oppenheimer Global ESG Revenue ETF (ESGF) November Summary,?",[0.05262569 0.29107442 0.6562999 ],neutral,-0.23844874
+"""Apple roundup: iPhone X and AirPod sales forecasts, tax repayments start soon"",?",[0.05647928 0.02046385 0.9230569 ],neutral,0.03601543
+"Dialog comments on Apple chip rumors,?",[0.03026569 0.11944851 0.8502858 ],neutral,-0.08918282
+"Qualcomm sues Apple back; Piper Jaffray analyst predicts iPhone future,?",[0.05662394 0.66830146 0.27507463],negative,-0.6116775
+"Nikkei: Apple will design main power management chips for iPhones (update),?",[0.12317581 0.00945911 0.867365  ],neutral,0.1137167
+"Apple auditing software development process after macOS flaw,?",[0.0333392  0.12195704 0.8447038 ],neutral,-0.08861784
+"Apple countersues Qualcomm for patent infringement,?",[0.01466364 0.9301696  0.05516678],negative,-0.91550595
+"Apple rushes to fix OS security issue,?",[0.31615373 0.32962897 0.35421726],neutral,-0.013475239
+"Apple expected to test autonomous vehicles in Arizona,?",[0.0596886  0.02019138 0.92012   ],neutral,0.03949722
+"Rosenblatt: Apple sold 6M iPhone X units during Black Friday,?",[0.0759104  0.05862418 0.8654654 ],neutral,0.017286222
+"Apple SVP Srouji sells over $1.8M of shares,?",[0.02759003 0.02261518 0.9497947 ],neutral,0.004974851
+"Legality of patent reviews,?",[0.02239379 0.0301345  0.94747174],neutral,-0.007740714
+"""UBS lowers iPhone sales, FY18 EPS estimates"",?",[0.01295764 0.9564861  0.03055615],negative,-0.9435285
+"Apple could release lower cost iPhone SE 2 in 1H18,?",[0.18562113 0.03372822 0.7806507 ],neutral,0.15189292
+"China's Great Firewall claims new victims,?",[0.02628932 0.86753166 0.10617904],negative,-0.8412423
+"Research posted on Apple's self-driving cars,?",[0.03586749 0.13391095 0.83022153],neutral,-0.098043464
+"Report: Apple buys start-up to help build AR headset,?",[0.5190562 0.015739  0.4652048],positive,0.5033172
+"Ireland closer to collecting Apple taxes,?",[0.15983276 0.11100945 0.72915787],neutral,0.048823312
+"Bloomberg: Apple plans to ship 4M HomePod units next year,?",[0.12325538 0.0117642  0.86498046],neutral,0.11149117
+"Apple pulls Skype from China App Store; Foxconn works students for iPhone X,?",[0.03924519 0.6346593  0.32609558],negative,-0.5954141
+"Moody's: Tech sector could hold half of cash and liquid investments this year,?",[0.06211618 0.05704492 0.88083893],neutral,0.005071256
+"Digitimes: Apple cuts microLED research team,?",[0.01487755 0.9571752  0.0279472 ],negative,-0.94229764
+"Apple HomePod launch delayed until next year,?",[0.02830305 0.76360285 0.20809413],negative,-0.7352998
+"Fast Company: Apple and Intel working together on 5G modem,?",[0.4934732  0.02503531 0.48149154],positive,0.46843788
+"TechCrunch: Apple's VP of diversity leaving at year's end,?",[0.019688   0.8510823  0.12922962],negative,-0.8313943
+"GBH Insights sees Apple becoming $1T company by next year,?",[0.4541315  0.04394077 0.50192773],neutral,0.41019076
+"Wells Fargo initiates Apple at Market Perform,?",[0.06355478 0.12864758 0.8077977 ],neutral,-0.0650928
+"Apple takes fourth spot in Q3 global notebook market,?",[0.49690947 0.09825478 0.40483576],positive,0.3986547
+"""Berkshire adds to position in Apple, cuts back on IBM"",?",[0.10950316 0.6916727  0.19882414],negative,-0.58216953
+"China smartphone sales dropped 8.1% in October despite new iPhones,?",[0.00965911 0.9759699  0.01437102],negative,-0.9663108
+"Bloomberg: Apple wants rear-facing 3D sensor by 2019,?",[0.076046   0.00863248 0.9153215 ],neutral,0.067413524
+"Apple Watch sells 3.9M units in Q3; Foxconn losses tied to iPhone X delays,?",[0.01985409 0.9614768  0.01866916],negative,-0.94162273
+"""KGI analyst expects three iPhones next year, two with OLED"",?",[0.05724049 0.00907732 0.9336822 ],neutral,0.048163164
+"HomePod manufacturer says facial recognition will come to speakers,?",[0.17038415 0.01466009 0.8149558 ],neutral,0.15572406
+"""Apple acknowledges iPhone X issue in some devices, plans fix"",?",[0.23897532 0.17321582 0.58780885],neutral,0.065759495
+"Apple acquires image sensor start-up,?",[0.23403281 0.01123365 0.7547335 ],neutral,0.22279915
+"""Canalys data, assembler report hint at weaker iPhone 8 sales"",?",[0.05610377 0.9157772  0.02811903],negative,-0.85967344
+"Apple's first scripted TV show,?",[0.10294961 0.04723961 0.8498108 ],neutral,0.055710003
+"""Judge allows Apple, Qualcomm revisions in patent case; Apple buys TV show"",?",[0.28252673 0.15922499 0.5582483 ],neutral,0.123301744
+"Bloomberg: Apple could launch iPad with Face ID next year,?",[0.03699534 0.02045746 0.9425472 ],neutral,0.016537882
+"Bloomberg: Apple planning AR headset for 2020,?",[0.06716923 0.01488673 0.9179441 ],neutral,0.0522825
+"Strategy Analytics says Apple topped Q3 market; start-up sues Apple for patent,?",[0.08911915 0.82805926 0.08282154],negative,-0.7389401
+"CreditSights: Apple bond offering could total $7B,?",[0.06876876 0.0052874  0.92594385],neutral,0.06348136
+"IDC: Top smartphone makers gained China market share in Q3,?",[0.9157123  0.02272429 0.06156344],positive,0.892988
+"KGI analyst expects two OLED iPhones; Apple offering fixed-rate bonds,?",[0.03204406 0.02445876 0.9434972 ],neutral,0.007585302
+"Supreme Court declines to hear Samsung appeal on Apple damages,?",[0.02733679 0.87189025 0.10077293],negative,-0.8445535
+"Apple's Irish data center in doubt,?",[0.02060646 0.8998059  0.07958759],negative,-0.87919945
+"iPhone X hits stores across globe,?",[0.3276585  0.08656272 0.5857788 ],neutral,0.24109578
+"""Apple up 2.9% after Q3 beats revenue, EPS, and device estimates"",?",[0.9201218  0.04546162 0.03441653],positive,0.87466013
+"Apple declares $0.63 dividend,?",[0.04740152 0.7247912  0.22780725],negative,-0.6773897
+"""Apple beats by $0.20, beats on revenue"",?",[0.3833674  0.11644004 0.5001926 ],neutral,0.26692736
+"Bloomberg: Qualcomm's latest Apple suit involves Intel,?",[0.03352411 0.32950637 0.63696957],neutral,-0.29598227
+"Oppenheimer Large Cap Revenue ETF (RWL) October Summary,?",[0.04570762 0.4521099  0.5021824 ],neutral,-0.4064023
+"Oppenheimer Global ESG Revenue ETF (ESGF) October Summary,?",[0.05300837 0.3388653  0.6081263 ],neutral,-0.28585693
+"Apple's legal path clears for Ireland data center,?",[0.04121868 0.12507214 0.8337091 ],neutral,-0.08385345
+"""Apple sends out memo confirming Watch Series 3 """"edge stripes"""""",?",[0.08876948 0.04211884 0.8691117 ],neutral,0.046650644
+"HSBC analyst calls Apple a luxury brand; Chinese vendors cut iPhone 8 prices,?",[0.01903523 0.9518286  0.02913619],negative,-0.9327934
+"Apple could drop Qualcomm components,?",[0.02699994 0.7299023  0.24309775],negative,-0.7029024
+"Apple shares up on analyst reports of strong iPhone X sales,?",[0.8597636  0.09886869 0.04136761],positive,0.76089495
+"""Preorders start for iPhone X, delivery window hits six weeks"",?",[0.08338507 0.04187763 0.87473726],neutral,0.04150743
+"iPhone X available for pre-order,?",[0.032223   0.03560098 0.932176  ],neutral,-0.00337797
+"Apple suppliers lowered Face ID accuracy; HSBC initiates on iPhone X sales optimism,?",[0.02808931 0.9240911  0.04781961],negative,-0.8960018
+"LG Display's earnings suggest stronger iPhone 8 sales,?",[0.9051037  0.05060147 0.04429482],positive,0.8545022
+"Apple buys wireless charging specialist,?",[0.13942838 0.01920917 0.8413624 ],neutral,0.12021921
+"Nikkei Asian Review: Apple will ship 20M iPhone X units this year,?",[0.175602   0.0245044  0.79989356],neutral,0.1510976
+"Bernstein survey shows 48% excited about iPhone X,?",[0.29107952 0.05713035 0.65179014],neutral,0.23394917
+"U.S. judge orders new trial to decide how much Samsung owes Apple,?",[0.04023395 0.50554407 0.45422202],negative,-0.4653101
+"Apple sees iPhone as AI platform; weak supplier sales hint iPhone disinterest,?",[0.01384021 0.96222544 0.02393433],negative,-0.94838524
+"Apple Watch discounts for life insurance holders; iPhone 8 underperforming 6S,?",[0.02034263 0.96273685 0.01692053],negative,-0.9423942
+"Variety: Apple hires Amazon Studio's international development head,?",[0.04633631 0.13760898 0.8160547 ],neutral,-0.09127267
+"Apple stores won't upsell iPhone X; company sued over animoji use,?",[0.01218926 0.9563784  0.03143238],negative,-0.94418913
+"Apple COO will meet with Foxconn head; senators want VPN answers,?",[0.02987248 0.09511124 0.8750163 ],neutral,-0.06523876
+"KGI: Apple will ship 2M to 3M iPhones for X launch,?",[0.07209366 0.01425226 0.9136541 ],neutral,0.0578414
+"Facebook's Instant Articles only launching on Android for now,?",[0.0270232  0.07924624 0.8937306 ],neutral,-0.05222304
+"Apple drops on iPhone 8 sales speculation,?",[0.01619032 0.9493387  0.03447097],negative,-0.9331483
+"WSJ: Apple Watch loses cellular service in China,?",[0.09243274 0.0470256  0.86054164],neutral,0.04540714
+"""In slowing PC market, Microsoft adds another Surface model"",?",[0.45122874 0.03155157 0.51721966],neutral,0.41967717
+"""Credit Suisse trims iPhone estimates on shipping, ASP issues"",?",[0.04311702 0.88368183 0.0732011 ],negative,-0.8405648
+"Apple pushing further into healthcare,?",[0.63259286 0.03700669 0.33040038],positive,0.5955862
+"""Analyst: iPhone X could provide """"strongest iPhone product cycle"""""",?",[0.85548717 0.01070569 0.13380718],positive,0.84478146
+"""Apple roundup: iPhone 7 outselling 8, Huawei launching X rival, Pay coming to India"",?",[0.27825817 0.12320342 0.5985384 ],neutral,0.15505475
+"""VirnetX announces results of Apple patent case, includes $1.20 per device (update)"",?",[0.12249973 0.02313314 0.85436714],neutral,0.09936659
+"KeyBanc upgrades Apple on iPhone X pricing,?",[0.35272264 0.21450314 0.43277422],neutral,0.1382195
+"Foxconn starts iPhone X shipments but only 46.5K units,?",[0.0740157  0.41509083 0.51089346],neutral,-0.34107512
+"Qualcomm files suit to block iPhone sales in China (update),?",[0.0119727  0.95939463 0.02863269],negative,-0.9474219
+"KGI says Apple ditching Touch ID; iOS use grew in August,?",[0.18061683 0.60028523 0.21909793],negative,-0.4196684
+"Nikkei: Apple's iPhone X still facing production delays,?",[0.01444515 0.95570445 0.02985042],negative,-0.9412593
+"Irish High Court gives Apple permission for data center,?",[0.33862987 0.12256251 0.53880763],neutral,0.21606737
+"""Apple plans flexible OLEDs with LG, not Samsung"",?",[0.05540646 0.01022121 0.93437237],neutral,0.04518525
+"Apple considers creative office in Culver City; Tim Cook says no AR glasses for now,?",[0.0394962  0.18991382 0.77059   ],neutral,-0.15041763
+"IDC: Worldwide PC sales totaled 67.2M in Q3,?",[0.0378254  0.01482277 0.9473518 ],neutral,0.023002628
+"""wSJ: Apple signs deal with Spielberg, NBC to bring back """"Amazing Stories"""""",?",[0.8204144  0.01435683 0.16522871],positive,0.8060576
+"64% of Americans own an Apple product; Supreme Court seeks advice on Apple case,?",[0.07628609 0.10257838 0.8211355 ],neutral,-0.026292287
+"""RBC Capital says tax plan could push Apple to """"trillion dollar market-cap"""""",?",[0.59412974 0.04453635 0.3613339 ],positive,0.5495934
+"KGI: Apple will bring Face ID system to iPad Pro,?",[0.431985   0.00959754 0.55841744],neutral,0.42238745
+"BofAML: Apple could benefit from Trump tax plan,?",[0.63308465 0.01192365 0.35499167],positive,0.621161
+"CNBC: Apple loses its head of iCloud services,?",[0.01129423 0.96149075 0.0272151 ],negative,-0.9501965
+"Apple announces new general counsel,?",[0.05620497 0.09626747 0.8475275 ],neutral,-0.0400625
+"KGI: Apple's iPhone &quot;super cycle&quot; coming in 2018,?",[0.03623615 0.03744869 0.9263151 ],neutral,-0.001212537
+"New report of iPhone 8 Plus battery issue,?",[0.08682104 0.18216765 0.73101133],neutral,-0.09534661
+"DOJ backs Apple in Samsung case; Watch Nike+ Series 3 now in stores,?",[0.04921748 0.22464943 0.72613305],neutral,-0.17543195
+"""Apple inches closer to India retail store, iPhone unit"",?",[0.7420485  0.03379077 0.22416078],positive,0.70825773
+"""Apple updates watchOS to fix connection issue, acqui-hires AI team for Siri"",?",[0.3711208 0.0385676 0.5903115],neutral,0.3325532
+"Brightwire: iPhone X shipment may delay until December,?",[0.02183519 0.88790935 0.09025551],negative,-0.86607414
+"Ireland responds to EU action on Apple money,?",[0.81199175 0.04358546 0.14442284],positive,0.7684063
+"EU steps up war on tax avoidance,?",[0.2604859  0.19911112 0.540403  ],neutral,0.06137477
+"Oppenheimer Large Cap Revenue ETF (RWL) September Summary,?",[0.04719514 0.38987032 0.5629345 ],neutral,-0.34267518
+"Oppenheimer Global ESG Revenue ETF (ESGF) September Summary,?",[0.05475416 0.3445221  0.60072374],neutral,-0.28976792
+"RBC: Fewer consumers want new iPhones compared to last year's models,?",[0.5883425  0.26581752 0.14583993],positive,0.32252496
+"KGI ups time it would take Android makers to catch up with iPhone X camera,?",[0.43392047 0.02753658 0.5385429 ],neutral,0.4063839
+"WSJ: Samsung earns $110 on each iPhone X,?",[0.48317173 0.05827883 0.4585495 ],positive,0.4248929
+"Apple acquires small computer vision company with photo API,?",[0.4652751  0.02861031 0.5061146 ],neutral,0.4366648
+"Nikkei: Apple plans to switch chips from Intel to ARM,?",[0.13804783 0.01792272 0.8440295 ],neutral,0.12012511
+"""Deutsche Bank calls Street iPhone expectations """"more than Apple can chew"""""",?",[0.04848911 0.08073523 0.8707757 ],neutral,-0.032246117
+"FCC chair wants Apple to activate iPhone FM chips after disaster (update),?",[0.10684536 0.02206525 0.87108934],neutral,0.08478011
+"Apple Music tops 30M paid subscribers,?",[0.13008934 0.02406443 0.84584624],neutral,0.10602492
+"Toshiba signs $18B deal to sell chip unit,?",[0.4500337  0.04172999 0.50823635],neutral,0.4083037
+"WSJ details 3D sensor delays for iPhone X,?",[0.04137653 0.6515755  0.30704793],negative,-0.610199
+"SK Hynix details Toshiba deal plans,?",[0.02828755 0.0210371  0.9506753 ],neutral,0.007250452
+"""Apple roundup: component costs won't hurt margins, Apple TV now on Amazon"",?",[0.1789813  0.18980971 0.63120896],neutral,-0.010828406
+"FDA selects tech companies for regulatory pilot program,?",[0.04958656 0.0092245  0.94118893],neutral,0.04036206
+"Sensor production issues for iPhone X; analyst expects X to boost profit margins,?",[0.95124197 0.02348595 0.02527205],positive,0.927756
+"ICE announces launch of FANG-based tech index,?",[0.24934329 0.03674898 0.71390766],neutral,0.2125943
+"Rival bidder wants to lure Apple out of Toshiba chip unit winner,?",[0.23297182 0.15085104 0.61617714],neutral,0.082120776
+"Asymco: Apple Watch sold $4.9B in past year,?",[0.15841392 0.03535882 0.8062273 ],neutral,0.12305509
+"""Apple ditches Bing for Google, releases macOS Sierra"",?",[0.04400788 0.2771305  0.6788616 ],neutral,-0.23312265
+"Next year's iPhones could include 6-in LCD; iPhone X pre-orders could top 50M,?",[0.06759737 0.00720281 0.9251998 ],neutral,0.06039456
+"Apple slows iPhone X supplier orders; soft initial sales for iPhone 8 models,?",[0.01215811 0.96889526 0.01894665],negative,-0.95673716
+"""Jenkins: ESPN's not doomed, just having to change with times"",?",[0.08443952 0.03571925 0.87984127],neutral,0.048720274
+"""Tim Cook """"thrilled"""" with iPhone, Watch launch day sales"",?",[0.03103741 0.04243417 0.92652833],neutral,-0.011396764
+"Piper Jaffray increases Apple price target and ASP forecast; iPhone 8 launches today,?",[0.46789935 0.11198417 0.42011645],positive,0.3559152
+"""Apple TV lacks Dolby Atmos, YouTube 4K; Apple Pay comes to ALDI"",?",[0.05515818 0.50416285 0.440679  ],negative,-0.44900465
+"Raymond James: Apple hasn't begun final production of iPhone X,?",[0.04300896 0.13830385 0.8186872 ],neutral,-0.095294885
+"""Apple's iOS 11 leaves Bluetooth, Wi-Fi running in background"",?",[0.02881844 0.02625535 0.9449262 ],neutral,0.002563095
+"Rosenblatt: iPhone 8 pre-orders lower than previous models,?",[0.01232895 0.9708554  0.01681574],negative,-0.9585265
+"Apple issues statement on Watch cellular connection issues,?",[0.03412484 0.15549678 0.81037843],neutral,-0.12137193
+"""Apple iOS 11 launches today with AR, App Store changes"",?",[0.06591053 0.11206162 0.8220278 ],neutral,-0.046151094
+"""Morgan Stanley raises Apple price target, says iPhone X price will increase demand"",?",[0.8799261  0.01602835 0.10404555],positive,0.86389774
+"""KGI: iPhone X eating 8 pre-orders, Watch beats expectations"",?",[0.11499394 0.06470485 0.82030123],neutral,0.050289087
+"Apple's iPhone X comes with slimmer margins,?",[0.09172083 0.6485928  0.2596863 ],negative,-0.556872
+"Apple updates developer app guide; Watch only works in home country,?",[0.03247898 0.0523941  0.9151269 ],neutral,-0.019915115
+"KGI reduces iPhone X shipment estimates,?",[0.02061962 0.9391863  0.04019411],negative,-0.91856664
+"Preorders start for iPhone 8 and Apple Watch,?",[0.02319048 0.02046724 0.9563423 ],neutral,0.002723234
+"Ad trade groups blast Apple's new Safari privacy feature,?",[0.02458775 0.890932   0.08448023],negative,-0.8663443
+"Apple Face ID may recognize only one face; new charging case coming in Dec.,?",[0.02966283 0.11383604 0.8565011 ],neutral,-0.08417322
+"""Apple roundup: product, accessory products pricing adds up"",?",[0.12045988 0.03999279 0.8395474 ],neutral,0.08046709
+"Analyst: Apple could sell half its usual volume of iPhones in first week,?",[0.15868813 0.04353682 0.7977751 ],neutral,0.115151316
+"Apple suppliers' shares fall across Asia,?",[0.01064817 0.9755544  0.01379733],negative,-0.9649062
+"Bain-Apple closer to buying Toshiba unit,?",[0.32612026 0.0450817  0.62879807],neutral,0.28103855
+"Apple iPhone Event 2017: Live updates,?",[0.02675623 0.04495163 0.9282921 ],neutral,-0.01819539
+"TrendForce: Global iPhone production volume will grow 5.6% this year,?",[0.93313515 0.01055781 0.05630703],positive,0.9225773
+"Apple's biggest event in years,?",[0.08823411 0.32637152 0.5853943 ],neutral,-0.23813741
+"Munster expects Apple shares to drop; Cook refutes claims products for rich,?",[0.01227297 0.9639012  0.02382581],negative,-0.95162827
+"""KGI Securities expects iPhone X to launch in """"severe short supply"""""",?",[0.08559938 0.0273919  0.88700867],neutral,0.058207475
+"Reuters: Apple faces hard sell with premium iPhone in China,?",[0.04419225 0.9367121  0.01909568],negative,-0.89251983
+"Apple hit by iPhone X leak,?",[0.01675053 0.93856716 0.04468233],negative,-0.92181665
+"Equalization tax across the EU,?",[0.1420729  0.03458415 0.8233429 ],neutral,0.10748875
+"Reuters: Apple warns Western Digital away from Toshiba control,?",[0.03941517 0.85167336 0.10891144],negative,-0.8122582
+"Bloomberg: Court sides with Apple in Qualcomm royalty dispute (update),?",[0.03061575 0.866664   0.10272021],negative,-0.83604825
+"WDC seeks Apple funding for Toshiba bid,?",[0.0493616  0.02732248 0.92331594],neutral,0.022039123
+"Bernstein: iPhone 8 delay could turn away customers,?",[0.01676457 0.94098234 0.04225311],negative,-0.92421776
+"""WSJ sources confirm rumors of iPhone 8 production issues, delays"",?",[0.01966944 0.9203107  0.06001997],negative,-0.90064126
+"Apple hires more Sony execs in original programming bid,?",[0.6627638  0.06274622 0.2744899 ],positive,0.60001755
+"Apple won't have second OLED supplier until 2019,?",[0.05874791 0.01469189 0.92656016],neutral,0.044056013
+"""Apple denies Indian government-backed app, regulators could change rules"",?",[0.04994565 0.24930808 0.70074624],neutral,-0.19936243
+"Bloomberg: Apple will help select fund manager for Irish back taxes,?",[0.05877862 0.00914977 0.93207157],neutral,0.049628854
+"KGI: iPhone 8 price could trace back to Samsung's OLED supply monopoly,?",[0.04767627 0.0678889  0.8844348 ],neutral,-0.020212632
+"Apple and Amazon among bidders for Bond franchise,?",[0.29417777 0.02336176 0.6824605 ],neutral,0.27081603
+"Huawei outsold Apple this summer; Apple starts iOS 11 ads,?",[0.19216742 0.7567711  0.05106147],negative,-0.5646037
+"Trump's move to end &quot;Dreamers&quot; program sparks corporate condemnation,?",[0.04065406 0.7348947  0.22445132],negative,-0.6942406
+"Apple planning $5B bond sale,?",[0.04290527 0.04800722 0.90908754],neutral,-0.005101956
+"Barclays: Apple smart home products build loyalty not revenue,?",[0.48800358 0.14661874 0.36537763],positive,0.34138483
+"Bernstein outlines how Apple rally could continue after launch event,?",[0.30765507 0.01667141 0.6756735 ],neutral,0.29098365
+"Oppenheimer Large Cap Revenue ETF (RWL) August Summary,?",[0.0477268  0.43400973 0.5182635 ],neutral,-0.38628292
+"Piper Jaffray says fewer customers show iPhone upgrade interest this year,?",[0.2594641  0.19113676 0.54939914],neutral,0.06832732
+"Oppenheimer Global ESG Revenue ETF (ESGF) August Summary,?",[0.05446694 0.33791026 0.6076228 ],neutral,-0.28344333
+"""Apple changes Siri head, goes Hollywood"",?",[0.05781796 0.35162386 0.5905582 ],neutral,-0.2938059
+"NPD: AirPods were 85% of wireless headphone market this year,?",[0.24465097 0.01844452 0.7369045 ],neutral,0.22620645

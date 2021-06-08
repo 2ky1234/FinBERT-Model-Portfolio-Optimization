@@ -1,0 +1,272 @@
+sentence,logit,prediction,sentiment_score
+"title,
+Berkshire Hathaway added to Snowflake stake at IPO,?",[0.08443309 0.02004671 0.8955202 ],neutral,0.064386375
+"Scripps in $2 65B deal for ION Media as Berkshire Hathaway puts more money to work,?",[0.4589291 0.0268677 0.5142032],neutral,0.4320614
+"""Occidental to pay dividend to Buffett in cash, not stock"",?",[0.09306996 0.01309857 0.89383143],neutral,0.07997138
+"MetLife said to start process to sell P&amp;C business - Inside P&amp;C,?",[0.02898591 0.01841161 0.9526025 ],neutral,0.010574298
+"""Unity, Sumo Logic could catch tailwinds from Snowflake's IPO blockbuster"",?",[0.12422305 0.64606124 0.2297157 ],negative,-0.5218382
+"Berkshire Hathaway taps Farmer to run BNSF Railway,?",[0.06728611 0.01843403 0.9142798 ],neutral,0.04885208
+"Axalta shares dip as Berkshire Hathaway trims stake,?",[0.01398427 0.96642435 0.01959134],negative,-0.9524401
+"Dueling lawsuits between Energizer and Duracell over battery claims,?",[0.01744948 0.92406034 0.05849014],negative,-0.90661085
+"""Snowflake IPO price range of $75-$85, with Salesforce, Berkshire Hathaway set to buy"",?",[0.0755197  0.01145943 0.9130209 ],neutral,0.06406027
+"Berkshire Hathaway stake in Wells Fargo stands at 3 3% (updated),?",[0.03908757 0.04602968 0.9148827 ],neutral,-0.006942101
+"Berkshire puts more money to work with stakes in 5 Japanese trading companies,?",[0.58852273 0.03962536 0.37185186],positive,0.5488974
+"""Berkshire investment """"significant step"""" for gold mining industry - Barrick CEO"",?",[0.03880234 0.04134475 0.9198529 ],neutral,-0.00254241
+"Greenlight Capital picks up VanEck Vectors Gold Miners ETF shares,?",[0.11152051 0.14215332 0.7463262 ],neutral,-0.030632809
+"""Berkshire Hathaway trims some bank stakes, exits Goldman, buys Barrick Gold"",?",[0.16470635 0.18957677 0.64571685],neutral,-0.024870425
+"""Berkshire Hathaway may buy PPL's U K  electric utility unit, Seaport says in upgrade"",?",[0.16437612 0.00593873 0.82968515],neutral,0.1584374
+"Berkshire-backed StoneCo surges on potential Linx deal,?",[0.07279015 0.69036835 0.23684148],negative,-0.6175782
+"""Berkshire Hathaway A EPS beats by $13564 00, beats on revenue"",?",[0.19156627 0.05942596 0.74900776],neutral,0.13214031
+"Berkshire Hathaway ratchets up stock buybacks in Q2,?",[0.3316047  0.16849966 0.49989572],neutral,0.16310503
+"Berkshire Hathaway on deck for Q2 earnings,?",[0.05803902 0.1525822  0.78937876],neutral,-0.09454318
+"Berkshire Hathaway BofA-buying spree continues,?",[0.29177797 0.03123436 0.67698765],neutral,0.2605436
+"Berkshire Hathaway continues to build up BofA stake,?",[0.8097083  0.01330538 0.17698634],positive,0.79640293
+"Berkshire continues to slowly add to Bank of America stake,?",[0.395603   0.01250265 0.5918944 ],neutral,0.38310036
+"""Joe Biden's tax proposals would raise corporate tax for Amazon, Intel, Berkshire Hathaway and others"",?",[0.27895868 0.01561132 0.70543   ],neutral,0.26334736
+"""Berkshire Hathaway adds $816M to Bank of America holdings, boosts stake to 11 4%"",?",[0.9250523  0.01472409 0.0602236 ],positive,0.9103282
+"Value investor with '2 left feet' lays out his value plays,?",[0.04791464 0.10173979 0.85034555],neutral,-0.05382515
+"Fed's corporate bond purchases slow in June,?",[0.01540002 0.93913823 0.04546169],negative,-0.92373824
+"""Robinhood trading trends favor Tesla, Berkshire, Robintrack founder says"",?",[0.10416082 0.02402759 0.8718116 ],neutral,0.08013323
+"Buffett continues donating Berkshire shares,?",[0.08562342 0.0059674  0.9084092 ],neutral,0.07965602
+"Apple makes up 43% of Berkshire Hathaway's portfolio,?",[0.02252068 0.01304729 0.96443206],neutral,0.009473387
+"Berkshire Hathaway in $10B deal for Dominion Energy assets,?",[0.14297318 0.01025137 0.8467754 ],neutral,0.13272181
+"Has Buffett missed the rally ,?",[0.07049603 0.7287444  0.20075956],negative,-0.65824836
+"Geico starts hiring spree across country,?",[0.3731121  0.45651647 0.17037138],negative,-0.08340436
+"Costco teed up as Berkshire Hathaway target,?",[0.05473685 0.05353839 0.89172477],neutral,0.0011984557
+"""Ackman dumped Berkshire, bought Lowe's recently with fund up 20%+"",?",[0.84909046 0.0140035  0.13690603],positive,0.83508694
+"Buffett gets burned by Schulz purchase - Guardian,?",[0.04393858 0.5669285  0.38913292],negative,-0.5229899
+"Berkshire board member adds to holdings,?",[0.04798864 0.11770686 0.8343045 ],neutral,-0.06971822
+"Buffett reduces exposure to investment banks in Q1,?",[0.2817346  0.20701864 0.51124674],neutral,0.07471594
+"""Buffett's Berkshire prunes stakes in Goldman, JPMorgan"",?",[0.03279679 0.01893627 0.9482669 ],neutral,0.013860518
+"Buffett's Berkshire trims U S  Bancorp stake,?",[0.06532498 0.6572744  0.27740058],negative,-0.59194946
+"Berkshire-backed Nevada solar project gets U S  approval,?",[0.7043171  0.03806308 0.2576198 ],positive,0.666254
+"""CEO hunt for Amazon, Berkshire, JPMorgan health venture"",?",[0.03114327 0.02150854 0.9473482 ],neutral,0.009634739
+"""Berkshire's cash pile isn't huge in worst-case scenario, Buffett says"",?",[0.05849859 0.16705844 0.774443  ],neutral,-0.10855985
+"Buffett pulls out of airlines,?",[0.03039712 0.77050227 0.19910061],negative,-0.74010515
+"Range of economic possibilities is 'extraordinarily wide': Buffett at annual meeting,?",[0.03764697 0.03734264 0.9250103 ],neutral,0.00030433387
+"How COVID-19 is affecting Berkshire's operations,?",[0.03217115 0.59549284 0.372336  ],negative,-0.5633217
+"Berkshire Hathaway A reports Q1 results,?",[0.04338797 0.17684719 0.77976483],neutral,-0.13345923
+"Berkshire Hathaway Q1 operating earnings helped by insurance investment,?",[0.7575271  0.06696535 0.17550758],positive,0.6905618
+"It's almost time for a quarterly peek into Berkshire Hathaway,?",[0.06233891 0.03251551 0.9051456 ],neutral,0.029823404
+"What will the Oracle say ,?",[0.02915449 0.04957729 0.9212682 ],neutral,-0.020422805
+"Pandemic peril for renewables means buying opportunity for big names - WSJ,?",[0.10482293 0.0684581  0.8267189 ],neutral,0.03636483
+"Buffett pares down Berkshire annual meeting amid pandemic,?",[0.01801509 0.928903   0.0530819 ],negative,-0.9108879
+"Berkshire 셲 stake in U S  Bancorp crosses 10%,?",[0.13631713 0.09096517 0.7727177 ],neutral,0.045351967
+"Geico extends policy cancellation pause through end of May,?",[0.05003368 0.60728383 0.3426825 ],negative,-0.55725014
+"Munger: Still time for caution,?",[0.10253423 0.21215135 0.6853145 ],neutral,-0.109617114
+"""Where's Warren Buffett, asks Vanity Fair"",?",[0.03809937 0.12671027 0.8351903 ],neutral,-0.0886109
+"Occidental paying Berkshire's preferred dividend in stock,?",[0.03388391 0.06268637 0.90342975],neutral,-0.028802454
+"""Barron's is bullish on Berkshire, as current market tailor-made for Buffett"",?",[0.19646394 0.05174547 0.7517905 ],neutral,0.14471847
+"Berkshire sells tiny piece of BNY Mellon stake,?",[0.05361342 0.29184794 0.65453863],neutral,-0.23823452
+"Geico giving back $2 5B amid driving shutdown,?",[0.48026583 0.38880652 0.13092767],positive,0.091459304
+"Buffett could get a chunk of Occidental from preferred stake - WSJ,?",[0.05213263 0.00510005 0.9427673 ],neutral,0.047032572
+"Berkshire unloads some airline shares,?",[0.04292286 0.51683044 0.44024673],negative,-0.4739076
+"Ackman goes all-in on recovery,?",[0.15593944 0.07887919 0.7651814 ],neutral,0.07706026
+"Berkshire's Geico pauses policy cancellations,?",[0.02620683 0.8198519  0.15394126],negative,-0.793645
+"Berkshire falls through financial crisis low by one measure,?",[0.01784681 0.93079704 0.05135627],negative,-0.9129502
+"Lee Enterprises wraps up purchase of Berkshire's newspaper operations,?",[0.05391042 0.0121386  0.933951  ],neutral,0.041771825
+"""Chenault moving from Facebook board to Berkshire, to replace Gates"",?",[0.04694372 0.0166864  0.93636984],neutral,0.030257324
+"Barron's Bary: Time for Buffett to get greedy,?",[0.10967889 0.23764709 0.652674  ],neutral,-0.12796819
+"Capitalist Woodstock not happening this year,?",[0.05868278 0.5663511  0.37496614],negative,-0.5076683
+"Buffett mulls changes for Berkshire Hathaway shareholder weekend,?",[0.05859686 0.11016875 0.8312344 ],neutral,-0.051571887
+"Buffett bets that business air travel will overcome virus fears - WSJ,?",[0.68592614 0.04557393 0.2684999 ],positive,0.6403522
+"Berkshire Hathaway pulls out of $7B LNG project in Canada,?",[0.07576175 0.8245681  0.09967017],negative,-0.74880636
+"Berkshire beefs up Delta stake,?",[0.24625881 0.02961635 0.7241248 ],neutral,0.21664245
+"Buffett outlines plans for his Berkshire stake after he's gone,?",[0.02962838 0.01304423 0.95732737],neutral,0.016584143
+"Berkshire Hathaway Q4 hurt by insurance underwriting loss,?",[0.00970835 0.97188056 0.0184111 ],negative,-0.9621722
+"Investors eye Buffett's annual letter,?",[0.10617243 0.05745324 0.83637434],neutral,0.048719194
+"Buffett jumps on the ETF train,?",[0.10286602 0.18212898 0.71500504],neutral,-0.079262964
+"Berkshire unloads a bit more of Apple stake,?",[0.10555656 0.03631942 0.85812396],neutral,0.069237135
+"Bill Ackman added just two stocks to his portfolio in 2019  Here are his theses   ,?",[0.02503695 0.01967905 0.95528406],neutral,0.005357897
+"Buffett sells his newspaper group,?",[0.06009052 0.17506537 0.76484406],neutral,-0.11497485
+"NV Energy seeking proposals for Nevada renewable energy projects,?",[0.05388911 0.00769902 0.93841183],neutral,0.04619009
+"Buffett rumor boosts Boeing,?",[0.63414824 0.06512309 0.30072865],positive,0.56902516
+"Total latest big shipper to allege railroad price-fixing,?",[0.02788339 0.8374363  0.13468032],negative,-0.8095529
+"Citron makes its top pick and pan for 2020,?",[0.06294169 0.01454996 0.9225083 ],neutral,0.04839173
+"NV Energy's planned largest U S  solar farm poised for approval,?",[0.18605624 0.02036756 0.7935762 ],neutral,0.16568868
+"Buffett's worst year in decade marked by cash hoard,?",[0.01715268 0.9427982  0.04004921],negative,-0.92564553
+"Barron's names 10 top stocks for 2020,?",[0.03099889 0.04910601 0.9198951 ],neutral,-0.01810712
+"Buffett protege Todd Combs to head Geico,?",[0.0359471 0.0212044 0.9428485],neutral,0.0147426985
+"Tech Data confirms Berkshire was a bidder,?",[0.09398224 0.0214523  0.8845654 ],neutral,0.07252994
+"Berkshire Hathaway was other Tech Data bidder,?",[0.07583406 0.01652077 0.90764517],neutral,0.05931329
+"Another coal-fired power plant closes its doors,?",[0.02535884 0.7726457  0.20199549],negative,-0.74728686
+"""Berkshire trims Well Fargo, buys Occidental Petroleum"",?",[0.04731345 0.01682671 0.93585986],neutral,0.030486746
+"Court rejects Icahn lawsuit seeking Occidental takeover records,?",[0.03493266 0.7527684  0.21229896],negative,-0.7178357
+"Berkshire Hathaway takes stake in RH,?",[0.04660064 0.0340852  0.9193141 ],neutral,0.012515441
+"""Berkshire's Geico underwriting earnings fall, railroad earnings rise"",?",[0.02536368 0.9352454  0.03939091],negative,-0.9098817
+"Berkshire Hathaway's Geico seeking new hires in Kansas City office,?",[0.12293489 0.064219   0.8128461 ],neutral,0.058715895
+"Insurance investment income boosts Berkshire's Q3,?",[0.9384073  0.03490533 0.02668732],positive,0.903502
+"Some investors lose patience with Buffett's non-use of cash,?",[0.01684303 0.947367   0.03579001],negative,-0.930524
+"Buffett asks for Fed OK to boost Bank of America stake above 10%,?",[0.87982416 0.02827439 0.09190143],positive,0.85154974
+"Berkshire to build $200M Alberta wind power farm,?",[0.07887958 0.00867649 0.91244394],neutral,0.07020309
+"India's Paytm closes in on $2B funding from backers - Bloomberg,?",[0.75716937 0.01647136 0.22635926],positive,0.740698
+"Berkshire's PacifiCorp closing most of its coal-fired plants by 2038,?",[0.03288108 0.6018155  0.36530334],negative,-0.56893444
+"Anheuser-Busch makes bigger push into EV trucks,?",[0.6793761  0.03060743 0.2900164 ],positive,0.6487687
+"Top four U S  railroads sued for alleged price-fixing,?",[0.01506557 0.9339626  0.05097191],negative,-0.91889703
+"Berkshire's Pampered Chef joins the pea protein trend,?",[0.4679292  0.03399398 0.49807677],neutral,0.43393523
+"Buffett protege strikes out on her own - WSJ,?",[0.06669126 0.19033714 0.7429716 ],neutral,-0.12364588
+"Coal decline could cause $5B in lost revenue for railroads - Moody's,?",[0.01279704 0.9597485  0.02745445],negative,-0.94695145
+"Berkshire Hathaway's Kraft Heinz bet comes up short,?",[0.02364629 0.9080949  0.06825881],negative,-0.8844486
+"Digging into Berkshire's Q2 insurance decline,?",[0.060807   0.36165932 0.5775337 ],neutral,-0.30085233
+"Berkshire Q2 earnings hit by insurance underwriting decline,?",[0.01233214 0.9666391  0.02102873],negative,-0.95430696
+"Berkshire Hathaway boosts BofA holding,?",[0.8765598  0.03682886 0.08661138],positive,0.8397309
+"Berkshire insurer settles NY probe for $3M - Bloomberg,?",[0.04323175 0.643071   0.31369722],negative,-0.59983927
+"""In setback for Sherwin-Williams, Ace Hardware to switch main paint supplier"",?",[0.3205239  0.5301991  0.14927702],negative,-0.20967522
+"Buffett donates ~$3 6B more Berkshire shares,?",[0.31352884 0.02731808 0.65915304],neutral,0.28621075
+"Berkshire Hathaway shedding stake in workers' comp firm - NY Post,?",[0.03427279 0.83805716 0.12766995],negative,-0.8037844
+"NV Energy to build three major solar projects with battery storage,?",[0.18898474 0.0104192  0.80059606],neutral,0.17856553
+"""Fannie, Freddie venture into manufactured home financing"",?",[0.17229953 0.00842929 0.8192712 ],neutral,0.16387025
+"""First Solar, Berkshire to power Facebook's Utah data center"",?",[0.07192276 0.00902207 0.91905516],neutral,0.06290069
+"Buffett's Amazon stake valued at ~$900M,?",[0.03265915 0.01912147 0.9482194 ],neutral,0.013537686
+"`Ponzi-like' solar power company bilked Berkshire out of $340M,?",[0.30268547 0.39959612 0.29771847],negative,-0.096910655
+"Buffett points to accounting issue at Kraft,?",[0.061531   0.12617967 0.81228936],neutral,-0.06464867
+"A peek at Berkshire's Q1 equity holdings performance,?",[0.07609703 0.01761455 0.9062884 ],neutral,0.058482476
+"Berkshire buys back more stock in Q1 than all of 2018,?",[0.2300804  0.08545483 0.68446475],neutral,0.14462557
+"Berkshire Hathaway Q1 operating earnings rise 5%,?",[0.91065896 0.05252013 0.03682091],positive,0.8581388
+"2019 Berkshire Hathaway annual meeting updates,?",[0.02656251 0.06929602 0.9041414 ],neutral,-0.04273352
+"Warren Buffett will have plenty to talk about at annual gathering,?",[0.05927079 0.01163744 0.92909175],neutral,0.04763335
+"Buffett gets $50M signing fee for Oxy investment,?",[0.3739513  0.02923281 0.5968159 ],neutral,0.3447185
+"Berkshire takes stake in Amazon,?",[0.03580496 0.03828897 0.92590606],neutral,-0.0024840161
+"""Wells Fargo needs a good `bank lender' for CEO, Charlie Munger says"",?",[0.20917034 0.01988757 0.7709421 ],neutral,0.18928277
+"Berkshire commits $10B to help finance Occidental deal for Anadarko,?",[0.26876375 0.01198342 0.7192529 ],neutral,0.25678033
+"Occidental Petro jet reported in Omaha last weekend,?",[0.03064675 0.5686487  0.40070447],negative,-0.53800195
+"Two opposing views on Berkshire Hathaway,?",[0.10074356 0.23917131 0.66008514],neutral,-0.13842775
+"Buffett's real estate arm expands to Dubai,?",[0.5329985  0.01707664 0.44992486],positive,0.5159219
+"Looks like Berkshire's best use of cash may be buybacks - FT,?",[0.0755695  0.01055819 0.91387236],neutral,0.06501131
+"Buffett shoots down PG&amp;E story,?",[0.03803788 0.5039945  0.45796755],negative,-0.46595663
+"PG&amp;E up 18% on Berkshire acquisition report,?",[0.9369682  0.03767437 0.02535744],positive,0.89929384
+"Berkshire Hathaway units turn to collaborating,?",[0.05056532 0.33109936 0.6183353 ],neutral,-0.28053403
+"Buffett says banks won't disappoint,?",[0.08780437 0.06158698 0.85060865],neutral,0.026217386
+"AmEx deal boosts chances for Berkshire buying Delta Air: Stifel,?",[0.8893418  0.02257132 0.08808687],positive,0.86677045
+"Buffett says Delta stake rose above 10% by mistake,?",[0.88708794 0.04904858 0.06386346],positive,0.83803934
+"Berkshire Hathaway unit ranks No 1 in U S  residential real estate,?",[0.57438195 0.03060521 0.39501292],positive,0.54377675
+"EPA set to unveil biofuel trading plan - Bloomberg,?",[0.03175999 0.02725268 0.9409873 ],neutral,0.004507305
+"Delta would be a better Buffett buy than Southwest - Barron's,?",[0.21858042 0.03460424 0.7468154 ],neutral,0.18397619
+"Amazon-Berkshire-JPMorgan names health JV Haven,?",[0.04164399 0.1308582  0.82749784],neutral,-0.089214206
+"Southwest Air perky on Buffett takeover chatter,?",[0.05472016 0.29823354 0.6470463 ],neutral,-0.24351338
+"Buffett explains retail vs  brand battle--like elephants fighting,?",[0.10918605 0.263253   0.627561  ],neutral,-0.15406695
+"Buffett: Berkshire 'overpaid' for Kraft,?",[0.07598598 0.7647713  0.15924266],negative,-0.6887853
+"Berkshire bought back $417 6M of stock in Q4,?",[0.07010842 0.01417876 0.91571283],neutral,0.05592966
+"Buffett: It's time to abandon focus on BV per share change,?",[0.16570209 0.07733542 0.7569625 ],neutral,0.088366665
+"Berkshire Hathaway Q4 operating income rises 71% Y/Y,?",[0.8731979  0.08731833 0.03948373],positive,0.7858796
+"Berkshire Hathaway in talks to sell workers comp unit: Reuters,?",[0.03935112 0.06748127 0.8931676 ],neutral,-0.028130155
+"Judge won't block hire by Amazon-Berkshire-JPMorgan health JV,?",[0.03808687 0.77950805 0.18240513],negative,-0.74142116
+"Berkshire Hathaway's Kraft Heinz investment slides,?",[0.03462437 0.09417152 0.8712041 ],neutral,-0.059547152
+"Analyst shock at KHC news; Will The Oracle buy the dip ,?",[0.06556302 0.2161694  0.71826756],neutral,-0.15060638
+"Eyes turn to Buffett's Berkshire Hathaway this weekend,?",[0.08781242 0.148741   0.76344657],neutral,-0.060928583
+"Details on Amazon-Berkshire-JPMorgan health JV,?",[0.0218281  0.04432265 0.9338492 ],neutral,-0.022494555
+"Buffett's Suncor bet could revive investor interest in Canada oil patch,?",[0.87523794 0.01776875 0.10699332],positive,0.8574692
+"Suncor Energy +3% as Berkshire takes stake,?",[0.04214498 0.03044649 0.9274086 ],neutral,0.01169849
+"""Buffett's Berkshire takes stake in Red Hat, reduces Apple"",?",[0.03518554 0.08228614 0.8825283 ],neutral,-0.0471006
+"""Berkshire Hathaway 3-page product may hurt HIG, TRV, BRO"",?",[0.01511635 0.95964575 0.02523794],negative,-0.9445294
+"Berkshire refutes report of lithium deal from California geothermal project,?",[0.08721199 0.53671426 0.37607378],negative,-0.44950226
+"A double-whammy for Berkshire Hathaway,?",[0.05895655 0.34254673 0.59849674],neutral,-0.28359017
+"Berkshire Hathaway goes 30-year fixed on $1B in debt,?",[0.05080704 0.17470904 0.7744839 ],neutral,-0.12390199
+"Apple 셲 after-hours drop costs Berkshire ~$2 8B,?",[0.02053048 0.93124497 0.04822452],negative,-0.9107145
+"Berkshire's Jain buys the dip,?",[0.09294312 0.07315063 0.83390623],neutral,0.019792482
+"Warren Buffett to `substantially exit' Home Capital investment,?",[0.04948728 0.61026084 0.34025192],negative,-0.56077355
+"BYD eyes battery unit IPO,?",[0.0368072 0.1351432 0.8280496],neutral,-0.098336
+"Buffett's Clayton Properties expands into Southeast U S ,?",[0.16742545 0.01073596 0.8218386 ],neutral,0.1566895
+"Buffett-backed Pilot Flying J takes stake in shale-field logistics company,?",[0.1216507  0.01392754 0.8644217 ],neutral,0.107723154
+"""Fitch downgrades Berkshire, NextEra solar farms as PG&amp;E credit tumbles"",?",[0.01704407 0.9344346  0.04852134],negative,-0.9173905
+"XLF becoming Buffett's world,?",[0.06190328 0.0641809  0.87391585],neutral,-0.0022776127
+"""Berkshire buys JPMorgan, Oracle, exits Sanofi"",?",[0.03464383 0.0170633  0.94829285],neutral,0.017580528
+"Warren Buffett looks abroad to expand real estate network: Bloomberg,?",[0.7754285  0.00921007 0.21536139],positive,0.7662184
+"Home Capital start modified Dutch auction for up to 22 7% of its shares,?",[0.15112148 0.01665907 0.8322194 ],neutral,0.13446242
+"StoneCo pops 4 7% after Buffett discloses 11% stake,?",[0.07939079 0.54619235 0.3744168 ],negative,-0.46680155
+"Nevada voters reject breakup of Berkshire's NV Energy utility,?",[0.12352865 0.4336169  0.44285437],neutral,-0.31008825
+"Kraft Heinz stockholder reiterates call to take company private,?",[0.09696098 0.01564371 0.88739526],neutral,0.081317276
+"Berkshire Hathaway B shares +3 4% post-Q3 results show $925M buyback,?",[0.11042231 0.2614005  0.6281772 ],neutral,-0.15097818
+"""Berkshire Hathaway Q3 beats consensus on investment gain, solid operations"",?",[0.86535335 0.08378346 0.05086317],positive,0.7815699
+"Berkshire Hathaway expands into fintech: WSJ,?",[0.289963   0.01108628 0.6989507 ],neutral,0.27887672
+"""Berkshire Hathaway shares look cheap, J P  Morgan analyst says: CNBC"",?",[0.13934599 0.0752127  0.7854413 ],neutral,0.06413329
+"Berkshire Hathaway's BNSF to get payments from arbitration award,?",[0.18698554 0.13012646 0.68288803],neutral,0.056859076
+"Key Buffett deputy to leave Berkshire's BNSF Railway in April,?",[0.04403884 0.5927623  0.3631989 ],negative,-0.54872346
+"Berkshire Hathaway's Clayton adds ecobee smart thermostats,?",[0.07257986 0.02154066 0.9058795 ],neutral,0.051039197
+"""Hurricane Florence could cause $170B of property damage, CoreLogic says"",?",[0.0222433  0.9015096  0.07624713],negative,-0.87926626
+"Berkshire slashes stake in Phillips 66 to 4 8% from 7 5%,?",[0.2676301  0.68264824 0.04972165],negative,-0.41501814
+"Amazon-Berkshire-JPM health venture names Jack Stoddard as COO: CNBC,?",[0.02462486 0.02965504 0.9457201 ],neutral,-0.0050301757
+"""Whitney Tilson talks Berkshire, Tesla"",?",[0.04063254 0.09223818 0.8671293 ],neutral,-0.051605638
+"Buffett not a fan of Apple/Tesla tie-up,?",[0.03285855 0.10556532 0.8615761 ],neutral,-0.072706774
+"Warren Buffett says Berkshire Hathaway has bought back `a little' of its stock,?",[0.3131713  0.02536546 0.66146326],neutral,0.28780583
+"Berkshire Hathaway's Combs joins Paytm board after investment,?",[0.03564124 0.06091161 0.90344715],neutral,-0.025270369
+"84% of companies dabbling in blockchain,?",[0.02898452 0.05727685 0.91373867],neutral,-0.028292324
+"BYD signs battery investment deal with Chongqing,?",[0.74392533 0.02084471 0.23522994],positive,0.72308064
+"Report: Berkshire Hathaway nearing deal for stake in India's Paytm,?",[0.5709717  0.0244258  0.40460247],positive,0.5465459
+"WeWork offering brokers commissions for grabbing rivals' customers: Bloomberg,?",[0.05102507 0.00850908 0.9404658 ],neutral,0.042515986
+"""Berkshire boosts stakes in Apple, US Bank, Teva, BNY Mellon, Delta in Q2"",?",[0.8085703  0.01883603 0.1725936 ],positive,0.7897343
+"Southwest seen as logical Buffett airline play,?",[0.09016441 0.06393673 0.84589887],neutral,0.026227675
+"""Berkshire Hathaway rises post-Q2 results, reducing likelihood of buyback"",?",[0.7129659  0.24008028 0.04695387],positive,0.4728856
+"""Berkshire Hathaway Q2 operating earnings surge 67%, revenue beats consensus"",?",[0.8768746  0.07891817 0.04420718],positive,0.79795647
+"Berkshire Hathaway earnings on tap,?",[0.04689612 0.28556174 0.6675421 ],neutral,-0.23866563
+"Seritage Growth gets $2B term loan with Berkshire Hathaway unit,?",[0.37558737 0.01856349 0.60584915],neutral,0.3570239
+"Todd Combs's role in USG deal highlights his standing at Berkshire Hathaway: Bloomberg,?",[0.03119889 0.012763   0.95603806],neutral,0.01843589
+"""Berkshire amends stock buyback plan to give Buffett, Munger more flexibility"",?",[0.76578325 0.01397329 0.22024347],positive,0.75180995
+"Buffett gives about $3 4B of Berkshire shares away to five foundations,?",[0.02854489 0.01949366 0.95196146],neutral,0.009051237
+"""Norway 셲 oil fund sells out of Buffett-owned utility, citing coal business"",?",[0.05745609 0.23607956 0.7064643 ],neutral,-0.17862347
+"Buffett's profitable equity-index options start to run off,?",[0.01369055 0.95286304 0.03344639],negative,-0.9391725
+"Berkshire Hathaway's Clayton buys Indianapolis's largest homebuilder,?",[0.15160602 0.01722646 0.8311675 ],neutral,0.13437957
+"Lee Enterprises skies 42% on deal with Berkshire,?",[0.04935462 0.11454125 0.83610415],neutral,-0.065186635
+"""Rail service could resume Tuesday after Iowa derailment, BNSF says"",?",[0.16654436 0.08011723 0.75333834],neutral,0.08642713
+"""Amazon, Berkshire, JPMorgan find a CEO for U S  employee healthcare venture"",?",[0.05588407 0.01955243 0.92456347],neutral,0.03633164
+"USG Corp  to be bought by Knauf for $44/share,?",[0.02751011 0.03797825 0.9345116 ],neutral,-0.010468144
+"New CEO to be named for Berkshire/Amazon/JPMorgan healthcare venture,?",[0.03125025 0.01837874 0.95037097],neutral,0.012871508
+"Uber on track to go public in 2019,?",[0.14046296 0.01267438 0.8468626 ],neutral,0.12778859
+"Berkshire's planned Iowa wind farm first in U S  to reach 100% renewables,?",[0.6521819  0.01065445 0.33716354],positive,0.6415275
+"Buffett offered to invest $3B in Uber - Bloomberg,?",[0.18979856 0.00948639 0.800715  ],neutral,0.18031217
+"Bezos-Buffett-Dimon JV struggling to find CEO - CNBC,?",[0.03206802 0.71414036 0.2537917 ],negative,-0.68207234
+"""Berkshire doubles stake in Teva; adds to Apple, Monsanto in Q1"",?",[0.03528694 0.02762005 0.93709296],neutral,0.007666886
+"Berkshire Hathaway Inc  reports Q1 results,?",[0.0371571  0.15845928 0.80438364],neutral,-0.12130217
+"2018 Berkshire Hathaway annual meeting updates,?",[0.02581791 0.05896256 0.9152196 ],neutral,-0.033144645
+"Berkshire bumped up Apple stake in Q1,?",[0.2093628  0.26646802 0.5241692 ],neutral,-0.057105213
+"USG spikes as board authorizes deal talks with Knauf,?",[0.2319184  0.54521716 0.22286445],negative,-0.31329876
+"Berkshire Hathaway could report Q1 loss - Morgan Stanley,?",[0.01670058 0.92339176 0.05990764],negative,-0.9066912
+"Berkshire will vote against USG board nominees,?",[0.03815902 0.14012083 0.8217201 ],neutral,-0.10196181
+"Bill Gates trims Berkshire Hathaway stake,?",[0.07038508 0.44669786 0.4829171 ],neutral,-0.3763128
+"General Electric rallies another 3% on Berkshire hopes,?",[0.8151563  0.14404479 0.04079891],positive,0.67111146
+"""Better not count on Buffett for a GE quick fix, says Bloomberg's Sutherland"",?",[0.10512132 0.24638104 0.6484976 ],neutral,-0.14125973
+"GE +5% on rumors of Buffett investment,?",[0.31087223 0.56843    0.1206978 ],negative,-0.25755778
+"USG rejects Knauf's $42/share buyout bid,?",[0.05518668 0.8828876  0.06192576],negative,-0.8277009
+"USG +19% as Berkshire offers stake to Knauf,?",[0.09321005 0.09070441 0.8160856 ],neutral,0.0025056377
+"Legislation to ease financing rules for mobile homes is set to benefit Berkshire,?",[0.7178608  0.03098729 0.2511519 ],positive,0.68687356
+"Berkshire-Amazon-JPMorgan healthcare venture more than just pricing power - Buffett,?",[0.04968542 0.01414843 0.93616617],neutral,0.035536997
+"Buffett talks shop after annual letter,?",[0.067545   0.20606406 0.72639096],neutral,-0.13851905
+"Berkshire Hathaway reports Q4 results,?",[0.03594889 0.1605312  0.8035199 ],neutral,-0.124582306
+"Berkshire letter: Reviewing the bet,?",[0.11074159 0.01286744 0.87639093],neutral,0.09787415
+"Tax cuts boost Berkshire Hathaway book value in 2017,?",[0.8659178  0.053626   0.08045623],positive,0.8122918
+"Berkshire is the gorilla in short-term U S  debt,?",[0.03222639 0.05715522 0.9106184 ],neutral,-0.02492883
+"Buffett's annual letter on tap,?",[0.03737354 0.13113177 0.8314947 ],neutral,-0.09375823
+"JPMorgan's Dimon on healthcare venture: &quot;We believe we can do better&quot;,?",[0.89240426 0.02024997 0.08734578],positive,0.8721543
+"Munger plays down Hershey ideas,?",[0.04272795 0.17632282 0.7809492 ],neutral,-0.13359487
+"Phillips 66 to repurchase 35M shares from Berkshire Hathaway,?",[0.05254323 0.01334646 0.93411034],neutral,0.039196774
+"Berkshire Hathaway insurer enters Dubai,?",[0.05619568 0.43785813 0.50594616],neutral,-0.38166246
+"Business Wire hit with cyberattack,?",[0.01503036 0.94316834 0.04180134],negative,-0.92813796
+"""Amazon, JPMorgan, and Berkshire Hathaway launching a healthcare company"",?",[0.11134881 0.00640222 0.88224894],neutral,0.10494658
+"Berkshire Hathaway Energy names Fehrman as new CEO,?",[0.03504831 0.08557415 0.8793776 ],neutral,-0.05052584
+"""Buffett: Stocks not expensive, cryptos headed for """"bad ending"""""",?",[0.04550092 0.7015715  0.2529276 ],negative,-0.6560706
+"""Berkshire boosts board size, adding Abel and Jain"",?",[0.88968426 0.01081773 0.099498  ],positive,0.87886655
+"Berkshire Hathaway tops $300K per share,?",[0.26080546 0.19046016 0.54873437],neutral,0.0703453
+"Property-casualty insurers score win with tax bill,?",[0.70825154 0.13321178 0.15853661],positive,0.57503974
+"Abel looking more likely as next Berkshire head,?",[0.08070956 0.03004373 0.8892467 ],neutral,0.05066583
+"Berkshire's Fruit of the Loom gets into subscription action,?",[0.0659176  0.12563469 0.8084477 ],neutral,-0.05971708
+"BYD expects huge sales growth amid EV boom,?",[0.90655565 0.01182981 0.0816146 ],positive,0.89472586
+"""Berkshire adds to position in Apple, cuts back on IBM"",?",[0.10950316 0.6916727  0.19882414],negative,-0.58216953
+"""Hurricanes, earthquake weigh on Berkshire Hathaway earnings"",?",[0.03384543 0.7862288  0.17992587],negative,-0.75238335
+"Berkshire Hathaway reports Q3 results,?",[0.03314688 0.12350511 0.843348  ],neutral,-0.09035823
+"Berkshire's underwriting profit streak may be over,?",[0.04888197 0.6251732  0.3259448 ],negative,-0.57629126
+"Feds probing Wells Fargo over forex trading - WSJ,?",[0.02665201 0.83509445 0.13825352],negative,-0.8084424
+"Buffett not worried about driverless trucks,?",[0.05582278 0.11312182 0.83105534],neutral,-0.057299033
+"Berkshire to invest in Pilot Flying J,?",[0.05624857 0.00882828 0.9349231 ],neutral,0.047420286
+"Tax plan could mean windfall for Berkshire - Barclays,?",[0.05675513 0.26881605 0.6744288 ],neutral,-0.21206093
+"Hurricane Maria insured loss up to $85B,?",[0.01704237 0.95097417 0.03198345],negative,-0.93393177
+"Geico hit worse by Harvey than Irma - Buffett,?",[0.01481044 0.96107537 0.0241142 ],negative,-0.9462649
+"Hurricane Maria barrels toward Puerto Rico,?",[0.02746839 0.8680022  0.10452944],negative,-0.8405338
+"Three storms raging in the Atlantic,?",[0.04236832 0.6233414  0.33429027],negative,-0.5809731
+"U K  operator takes aim at 6% real estate commissions to the U S ,?",[0.30231002 0.01665033 0.6810397 ],neutral,0.2856597
+"Berkshire Hathaway adds a sell-side fan,?",[0.10045885 0.07184847 0.82769275],neutral,0.028610379
+"""First reinsurer warning on Harvey, Irma"",?",[0.07762981 0.5302473  0.39212292],negative,-0.45261747
+"Home Capital Group rejects Berkshire plan; shares jump 2%,?",[0.59183776 0.3115107  0.09665149],positive,0.28032705
+"Hurricane Irma pushes through Florida,?",[0.03509378 0.730819   0.23408726],negative,-0.6957252
+"Hurricane Irma slams into Florida,?",[0.02635955 0.8273624  0.14627801],negative,-0.80100286
+"Bounce in insurers was short-lived; Berkshire down 2%,?",[0.01087749 0.9753963  0.01372614],negative,-0.9645188
+"Auto insurer losses from Harvey of nearly $5B - KBW,?",[0.0137116  0.9660813  0.02020696],negative,-0.95236975

@@ -1,0 +1,943 @@
+sentence,logit,prediction,sentiment_score
+"title,
+Microsoft releases $550 Surface Laptop Go for remote workers and learners,?",[0.07044518 0.01021346 0.9193413 ],neutral,0.060231723
+"""Another outage hits Microsoft, Outlook down worldwide"",?",[0.01501151 0.94787174 0.03711676],negative,-0.93286026
+"Datadog pops 7 5% after Microsoft Azure strategic partnership,?",[0.6311528  0.23393033 0.1349168 ],positive,0.39722246
+"Microsoft blocked 13B malicious emails in 2019; blames update for 365 outage,?",[0.01301847 0.94462645 0.04235511],negative,-0.93160796
+"Worlds Inc  files patent infringement against Microsoft,?",[0.01583346 0.9041205  0.08004607],negative,-0.88828707
+"Microsoft's Bing wins slots in Google's EU mobile search auction,?",[0.5969001  0.11752299 0.28557685],positive,0.47937712
+"BofA names the defensive stocks to consider to ride out fall volatility,?",[0.04058125 0.01823097 0.9411878 ],neutral,0.02235028
+"Microsoft launches Azure platform to help telecoms with 5G ramp,?",[0.5514039  0.0153318  0.43326432],positive,0.5360721
+"""Amazon launches Luna, its Stadia-like cloud videogaming service"",?",[0.11164606 0.0133924  0.87496156],neutral,0.09825366
+"""Microsoft Azure launches services that compete with Twilio, Amazon"",?",[0.43371904 0.01289185 0.5533891 ],neutral,0.42082718
+"""AT&amp;T, Microsoft collaborate on streamlining IoT connectivity"",?",[0.5012526  0.01851078 0.48023668],positive,0.4827418
+"""Megacaps holding up against major levels, despite weakness: At the Open"",?",[0.761761   0.14869674 0.08954231],positive,0.6130643
+"Microsoft 'committed' to bringing game streaming to Apple devices,?",[0.47491422 0.01143994 0.5136458 ],neutral,0.46347427
+"T-Mobile adds Microsoft 365 to new small-business plans,?",[0.11613391 0.02303716 0.860829  ],neutral,0.093096755
+"Microsoft buying game developer and publisher Bethesda Softworks for $7 5B in cash,?",[0.13573146 0.12045039 0.74381816],neutral,0.015281066
+"FAANG reversal and industrial lift may be another signal of renaissance for real economy,?",[0.40390944 0.078513   0.5175775 ],neutral,0.32539645
+"Seeking Alpha Catalyst Watch,?",[0.05278904 0.02536338 0.9218475 ],neutral,0.027425667
+"""Barclays sees valuations at dot-com bubble levels, cuts megacaps"",?",[0.02340072 0.92828745 0.04831187],negative,-0.9048867
+"An antidote for waning tech lurks in materials ETF's biggest winners,?",[0.19482185 0.07915622 0.72602195],neutral,0.11566563
+"Sony PlayStation 5 coming Nov  12 at $500; Digital Edition for $400,?",[0.02732838 0.06642813 0.90624344],neutral,-0.039099757
+"Microsoft increases dividend by ~10%,?",[0.88374823 0.03759494 0.07865689],positive,0.8461533
+"TikTok plans stand-alone global company with Oracle as minority holder - FT,?",[0.02512082 0.01318475 0.96169436],neutral,0.011936072
+"Microsoft's game streaming service launches for Android users,?",[0.06353565 0.01836847 0.9180959 ],neutral,0.045167185
+"Microsoft teams up with BP to achieve net zero carbon goals and sustainable future,?",[0.90129554 0.01093441 0.08777002],positive,0.89036113
+"""Videogame sales accelerate again in August, up 37%"",?",[0.95248795 0.02079221 0.02671981],positive,0.93169576
+"White House reviewing Oracle's TikTok bid - Mnuchin,?",[0.0434727  0.17985569 0.7766716 ],neutral,-0.136383
+"ByteDance will not sell TikTok's U S  operations to Oracle - CGTN Digital,?",[0.02889002 0.1053622  0.8657478 ],neutral,-0.07647218
+"Oracle chosen to acquire TikTok U S  as tech partner (updated),?",[0.06385088 0.0238947  0.9122544 ],neutral,0.039956175
+"TikTok rejects Microsoft bid for U S  operations,?",[0.02753629 0.8980959  0.07436781],negative,-0.87055963
+"""TikTok presses toward U S  deal as hurdles mount, deadline nears - Bloomberg"",?",[0.4349235  0.12722565 0.43785083],neutral,0.30769783
+"China prefers TikTok shutdown to forced sale - Reuters,?",[0.08984601 0.22362548 0.6865285 ],neutral,-0.13377947
+"Apple loosens App Store rules on game streaming rivals (slightly),?",[0.04921665 0.8996112  0.05117216],negative,-0.85039455
+"""Russia, China and Iran are targeting U S  elections, says Microsoft"",?",[0.03732788 0.30637902 0.6562931 ],neutral,-0.26905113
+"There will be no extension of TikTok deadline - Trump,?",[0.05028867 0.06638385 0.8833275 ],neutral,-0.016095176
+"""Microsoft Teams, NFL deepen gameday partnership"",?",[0.3442622  0.02104796 0.63468987],neutral,0.32321426
+"CFRA examines pandemic's boon for unified communication/collaboration names,?",[0.11383016 0.01062639 0.8755434 ],neutral,0.103203766
+"""TikTok, U S  in talks over ways to avoid sale"",?",[0.08144176 0.0989717  0.8195865 ],neutral,-0.017529942
+"""Microsoft releasing $499 Xbox Series X, $299 Series S on November 10"",?",[0.03639679 0.02612833 0.9374749 ],neutral,0.0102684535
+"Microsoft working on mid-range Surface laptop - report,?",[0.03199956 0.07189409 0.8961063 ],neutral,-0.03989453
+"""Nutanix, Microsoft partner on hybrid cloud software stack"",?",[0.07467789 0.00853269 0.9167895 ],neutral,0.0661452
+"Microsoft confirms $299 Xbox Series S; no PlayStation 5 news this week,?",[0.05948952 0.4379568  0.5025537 ],neutral,-0.3784673
+"Tech enters correction territory: At the Open,?",[0.05820103 0.30924258 0.6325564 ],neutral,-0.25104156
+"Weekly Wrap: Microsoft hit harder than Apple by the tech shakeout,?",[0.03232784 0.93007195 0.03760026],negative,-0.8977441
+"Microsoft in the spotlight with JEDI called a paradigm changer,?",[0.20873225 0.07300311 0.7182646 ],neutral,0.13572913
+"Microsoft CFO sells $17 5M in stock,?",[0.04104559 0.09825476 0.86069965],neutral,-0.057209164
+"Microsoft reaffirmed as Pentagon's JEDI cloud contract winner (update),?",[0.84987    0.03430577 0.11582413],positive,0.8155643
+"Apple market cap falls below $2T; Fab 5 shed $900B in two days,?",[0.01456304 0.9639932  0.02144377],negative,-0.94943017
+"Apple on pace for biggest one-day drop in market cap in history at $150B,?",[0.0176061  0.95670485 0.02568909],negative,-0.9390988
+"SoftBank said to be considering bid for TikTok in India - report,?",[0.08007816 0.01905773 0.9008641 ],neutral,0.061020434
+"TikTok buyers explore four options to revive buyout talks - Reuters,?",[0.43551683 0.01957331 0.54490983],neutral,0.41594353
+"TikTok deal tangles on whether algorithms can be sold - WSJ,?",[0.04134978 0.14729501 0.81135523],neutral,-0.10594523
+"AT&amp;T looking to keep Warner Bros  videogaming unit - Bloomberg,?",[0.07660799 0.0169849  0.90640706],neutral,0.059623092
+"""Baupost clients' skepticism of famed value fund grows, new findings show"",?",[0.29614192 0.11426228 0.58959585],neutral,0.18187964
+"""ByteDance will follow new China export laws, denies Triller talks"",?",[0.15196902 0.04251373 0.8055172 ],neutral,0.10945529
+"""China tightens tech export rules, complicating TikTok talks"",?",[0.11975264 0.78615564 0.09409177],negative,-0.666403
+"""Centricus, Triller propose new TikTok purchase"",?",[0.0593429  0.01312986 0.9275272 ],neutral,0.046213035
+"""Walmart first sought to be majority TikTok owner, with Alphabet/SoftBank - CNBC"",?",[0.06321342 0.0049561  0.93183047],neutral,0.05825732
+"Walmart teams with Microsoft on TikTok bid - CNBC (updated),?",[0.54835993 0.11135843 0.34028167],positive,0.4370015
+"Oracle submitting $20B cash/stock deal for TikTok - report,?",[0.1585419  0.03652783 0.80493027],neutral,0.122014076
+"""TikTok sale likely in coming days, in $20B-$30B range - CNBC"",?",[0.09232866 0.01763307 0.89003825],neutral,0.07469559
+"Mayer's TikTok exit comes after exclusion from deal talks; sale may be imminent - CNBC (updated),?",[0.04508595 0.277377   0.6775371 ],neutral,-0.23229106
+"TikTok CEO Kevin Mayer is out after just a few months - CNBC,?",[0.03760657 0.17909758 0.7832958 ],neutral,-0.14149101
+"FAANG (S)  A surging Salesforce makes its case for tech titan inclusion,?",[0.61935997 0.05643936 0.3242007 ],positive,0.56292063
+"Google not trying to buy TikTok - Pichai,?",[0.03130521 0.2007261  0.7679687 ],neutral,-0.1694209
+"SoftBank eyeing way into TikTok deal - report,?",[0.10382576 0.05855053 0.8376237 ],neutral,0.045275237
+"New Nintendo Switch coming in 2021 sources say,?",[0.13546838 0.03481485 0.8297168 ],neutral,0.10065353
+"""One-third of Americans use TikTok, according to the company"",?",[0.03311225 0.05375768 0.91313004],neutral,-0.020645436
+"""Apple can block 'Fortnite' from App Store (for now), but not Unreal Engine - judge"",?",[0.0436734  0.5697379  0.38658863],negative,-0.5260645
+"""General Atlantic, Sequoia driving Oracle's TikTok bid - WSJ"",?",[0.03236865 0.08653034 0.88110095],neutral,-0.05416169
+"Microsoft tells court Apple-Epic fight could hurt its games,?",[0.01400261 0.95816135 0.02783611],negative,-0.94415873
+"ByteDance investors seek to bid for TikTok assets - Reuters,?",[0.06599122 0.01965649 0.9143523 ],neutral,0.04633473
+"TikTok to challenge Trump executive order on transactions - Reuters,?",[0.07133345 0.83363754 0.09502903],negative,-0.76230407
+"Microsoft building on JEDI win with push for foreign cloud deals - CNBC,?",[0.88362545 0.0445109  0.07186368],positive,0.83911455
+"Alphabet weighed taking minority stake in TikTok - Bloomberg,?",[0.0802118  0.07457931 0.8452089 ],neutral,0.00563249
+"""TikTok pledges continued U S  operations, ban or no ban"",?",[0.4105543  0.01261447 0.5768312 ],neutral,0.39793983
+"Apple tops $2 trillion in market cap,?",[0.39326787 0.10663832 0.50009376],neutral,0.28662956
+"""Oracle in talks to acquire TikTok business, challenging Microsoft - FT"",?",[0.34760243 0.045141   0.60725653],neutral,0.30246142
+"""Whale Rock adds Square, NXP Semiconductors; sheds Intel, Walt Disney"",?",[0.17435075 0.01863641 0.80701286],neutral,0.15571435
+"Google in talks to invest in India's ShareChat social firm - report,?",[0.14579989 0.01341901 0.84078115],neutral,0.13238087
+"""Coatue buys Boeing, adds Disney, cuts Tesla, exits Snap"",?",[0.06891377 0.41389364 0.51719254],neutral,-0.34497988
+"""Duquesne adds JPMorgan, exits Abbott, cuts Alphabet"",?",[0.02599968 0.86192405 0.11207619],negative,-0.8359244
+"Trump orders ByteDance to sell U S  part of TikTok in 90 days,?",[0.24626988 0.05622638 0.69750375],neutral,0.1900435
+"""July videogame sales pick up again, growing 32% from last year"",?",[0.952476   0.01711656 0.03040742],positive,0.9353595
+"""Facebook, Snap held talks to buy TikTok rival Dubsmash - report"",?",[0.08757661 0.01790883 0.89451456],neutral,0.06966778
+"Microsoft's Surface Duo phone launching on Sept  10,?",[0.05610688 0.00880422 0.93508893],neutral,0.047302667
+"What's in the TikTok ban  Take a look,?",[0.03818088 0.06004181 0.90177727],neutral,-0.021860924
+"Xbox Series X coming in November; 'Halo Infinite' delayed,?",[0.03261086 0.67961484 0.28777426],negative,-0.647004
+"Companies from JPMorgan to Amazon pledge to boost hiring of New York minorities,?",[0.7878707  0.02429276 0.18783651],positive,0.76357794
+"""Second-half Internet stocks: More of the new trends, Baird says"",?",[0.084646   0.02042189 0.89493203],neutral,0.06422411
+"""Shell Asset adds Microsoft, cuts Apple, exits Anglogold Ashanti"",?",[0.03212337 0.8125272  0.15534943],negative,-0.7804038
+"Videogame spending hits Q2 record as growth rolls on,?",[0.5647975  0.20360143 0.23160106],positive,0.3611961
+"TikTok unlikely to reach deal with Microsoft - SCMP,?",[0.24501875 0.12300321 0.6319781 ],neutral,0.12201554
+"Twitter's held early talks about combination with TikTok - WSJ,?",[0.09598925 0.00576976 0.898241  ],neutral,0.0902195
+"TikTok to sue Trump administration over executive order ban - NPR,?",[0.01676059 0.9332376  0.05000182],negative,-0.916477
+"Microsoft looks to leverage cloud dominance in console war with Sony,?",[0.76540303 0.02765676 0.20694022],positive,0.7377463
+"""Trump signs orders targeting TikTok, WeChat; Tencent drops in Hong Kong"",?",[0.23594752 0.39747432 0.3665782 ],negative,-0.1615268
+"Snap pares losses as top TikTok personality looks more to Snapchat,?",[0.08680385 0.8001269  0.11306921],negative,-0.71332306
+"Microsoft aiming to buy all of TikTok - FT,?",[0.04957465 0.00763577 0.9427896 ],neutral,0.04193888
+"""Microsoft, TikTok valuation talks could hit $30B - CNBC"",?",[0.1817022 0.0423906 0.7759073],neutral,0.1393116
+"Are all-time low rates the key to keeping megacap momentum going ,?",[0.1987025  0.05081055 0.75048697],neutral,0.14789195
+"Microsoft's Project xCloud game streaming service launches next month,?",[0.06719081 0.01734616 0.915463  ],neutral,0.049844652
+"Apple expressing interest in TikTok - Axios,?",[0.08710545 0.01901115 0.89388347],neutral,0.06809429
+"Covid trends: Cloud surge and retail bankruptcies,?",[0.03375728 0.63316315 0.33307952],negative,-0.5994059
+"Chinese state media slam U S  over TikTok moves,?",[0.02533428 0.908477   0.06618867],negative,-0.8831427
+"M&amp;A ignites dormant tech giant and ETFs from the QQQs to the ESG ETF 'SUSL',?",[0.08210885 0.07774445 0.8401467 ],neutral,0.0043643937
+"Microsoft and Apple take Nasdaq to another all-time high,?",[0.7118216  0.10072357 0.18745477],positive,0.61109805
+"TikTok 'out of business' in 45 days if no deal; Treasury needs to get paid - Trump,?",[0.0198166  0.92051095 0.05967241],negative,-0.9006944
+"""Politicians, bulls weigh in on Microsoft's TikTok bid"",?",[0.06015322 0.35820678 0.58164   ],neutral,-0.29805356
+"Tech keeps climbing as more benefit from megacap mania: At the Open,?",[0.38705602 0.08723751 0.52570647],neutral,0.29981852
+"""Microsoft confirms effort to buy TikTok as Nadella, Trump discuss deal"",?",[0.33699298 0.0145143  0.6484927 ],neutral,0.32247868
+"Microsoft/TikTok deal on hold after presidential opposition - WSJ,?",[0.02734143 0.8494767  0.12318192],negative,-0.82213527
+"""Apple, Amazon, Microsoft, Google and Facebook confound index skeptics, as their earnings beats drive the S&amp;P 500 to even greater concentration"",?",[0.17087835 0.5019193  0.3272023 ],negative,-0.33104098
+"TikTok rescue by Microsoft could make sense - Wedbush,?",[0.14126842 0.14559147 0.71314013],neutral,-0.0043230504
+"""Trump says he'll ban TikTok from U S , doesn't favor U S  company buy-in"",?",[0.04700482 0.66298634 0.29000884],negative,-0.6159815
+"""Microsoft roundup: Potential $1B cloud deal, remote work deadline extended"",?",[0.05603592 0.5747956  0.3691685 ],negative,-0.51875967
+"Social stocks mostly calm amid Microsoft-TikTok talk,?",[0.05233287 0.70368844 0.2439786 ],negative,-0.65135556
+"Trump to order TikTok divestment; Microsoft in mix to buy - reports,?",[0.04687557 0.7124739  0.2406505 ],negative,-0.6655984
+"Amazon follows Microsoft in cloud deceleration,?",[0.06572666 0.18843077 0.7458426 ],neutral,-0.12270411
+"""Amazon, Microsoft receiving $10B Pentagon contract decision in August"",?",[0.2393724  0.09273528 0.6678923 ],neutral,0.14663711
+"""Mastercard, Microsoft collab on digital commerce innovation"",?",[0.03470265 0.03892143 0.9263759 ],neutral,-0.0042187795
+"""Amazon, Microsoft cloud revenue threatened by tightened budgets"",?",[0.01738432 0.9433115  0.03930416],negative,-0.9259272
+"Microsoft bringing virtual fans to NBA games,?",[0.03627013 0.02202462 0.9417053 ],neutral,0.0142455045
+"""Verizon Business, Microsoft Azure team up on IoT solutions"",?",[0.19665557 0.0148203  0.7885241 ],neutral,0.18183526
+"Microsoft reveals exclusive Xbox Series X titles,?",[0.03529764 0.0493691  0.9153332 ],neutral,-0.014071468
+"MSCI chooses Microsoft's Azure,?",[0.04463054 0.03653863 0.9188309 ],neutral,0.008091904
+"Microsoft guides FQ1 downside for Productivity and Business,?",[0.03346277 0.8461561  0.12038109],negative,-0.81269336
+"Microsoft drops despite FQ4 beats driven by pandemic tailwinds,?",[0.01282004 0.9660885  0.02109154],negative,-0.9532684
+"""Microsoft EPS beats by $0 09, beats on revenue"",?",[0.26768094 0.05847186 0.6738472 ],neutral,0.20920908
+"Reinvention separates megacaps from dot-com 셲 winners   JMP 셲 Lehmann,?",[0.0996723  0.46488777 0.43543997],negative,-0.36521548
+"Slack discussing Microsoft with U S  antitrust officials,?",[0.04934371 0.49870104 0.4519553 ],negative,-0.44935733
+"Slack files EU antitrust complaint against Microsoft,?",[0.02842482 0.81680423 0.15477096],negative,-0.78837943
+"Microsoft Q4 2020 Earnings Preview,?",[0.05167863 0.24340606 0.70491534],neutral,-0.19172743
+"Microsoft's LinkedIn cuts about 6% of workforce,?",[0.01318069 0.96706676 0.01975257],negative,-0.9538861
+"Market momentum has left some high growth names behind,?",[0.28000075 0.11723629 0.602763  ],neutral,0.16276446
+"Microsoft targets raised ahead of earnings,?",[0.4612665  0.10940566 0.42932788],positive,0.35186082
+"""June videogame sales slow, but still grow 26% over 2019"",?",[0.12447512 0.7967435  0.07878142],negative,-0.6722684
+"Microsoft trims jobs across business,?",[0.01506722 0.96237695 0.02255583],negative,-0.94730973
+"""Take-Two enters new deal with Microsoft covering Xbox One, Series X"",?",[0.80478954 0.01413747 0.18107295],positive,0.7906521
+"""Microsoft discontinues Xbox One X, digital One S"",?",[0.04755962 0.14495899 0.8074814 ],neutral,-0.09739937
+"""Microsoft targets raised on 'strong' checks, long-term growth"",?",[0.7128441  0.02370122 0.26345474],positive,0.6891428
+"Microsoft takes minority stake in Google's edtech rival,?",[0.07145343 0.07807455 0.85047203],neutral,-0.0066211224
+"""Microsoft, Citrix partner on flexible workspace solutions"",?",[0.33687943 0.01156383 0.65155673],neutral,0.3253156
+"Unified comms trending up in latest Baird channel survey,?",[0.74612635 0.04754578 0.20632796],positive,0.69858056
+"Microsoft spinning out Xiaoice chatbot,?",[0.03828722 0.41136274 0.55035   ],neutral,-0.37307552
+"""Microsoft, Samsung partner to digitally transform building maintenance"",?",[0.36407784 0.01173265 0.62418956],neutral,0.35234517
+"Megacaps rejoin the party with stocks set for broad-based rally,?",[0.36602402 0.11301125 0.52096474],neutral,0.25301278
+"""These 2020 double-digit tech gainers may have ~20% to go, Wedbush says"",?",[0.19055107 0.02567017 0.7837787 ],neutral,0.1648809
+"Microsoft price target raised on Azure growth,?",[0.27970934 0.28673923 0.43355143],neutral,-0.007029891
+"""Strong gaming demand to drive 10% upside for some semis, Bank of America says"",?",[0.9046275  0.02435342 0.07101908],positive,0.88027406
+"""Microsoft Teams getting 'together mode,' capacity increase"",?",[0.8962647  0.0104335  0.09330174],positive,0.8858312
+"Microsoft seizes domains related to customer cyberattacks,?",[0.01460888 0.9223591  0.06303195],negative,-0.90775025
+"Microsoft top exec leaves to head Magic Leap,?",[0.08216515 0.29675648 0.62107843],neutral,-0.21459132
+"Microsoft eyes Warner Bros  game unit purchase - The Information,?",[0.02853207 0.01956353 0.9519044 ],neutral,0.008968538
+"""Twitter, JPMorgan, Microsoft and Google try to drop """"racial"""" terms from tech code"",?",[0.02640887 0.83250695 0.14108422],negative,-0.8060981
+"Microsoft's EU data probe sparks warning,?",[0.02553639 0.8934578  0.08100585],negative,-0.86792135
+"Twitch cementing dominance with new record quarter - report,?",[0.84823215 0.06679267 0.08497518],positive,0.7814395
+"Microsoft pauses global Facebook ads - Axios,?",[0.03483967 0.58127093 0.38388944],negative,-0.54643124
+"Several more advertisers pull social media ad spending,?",[0.01509336 0.9406372  0.04426947],negative,-0.9255438
+"Microsoft permanently closing physical stores,?",[0.0144872  0.9069739  0.07853889],negative,-0.8924867
+"Microsoft's billion-dollar Army program faces spending cut,?",[0.03925748 0.92614007 0.03460246],negative,-0.8868826
+"""Microsoft, Hitachi team on digital transformations"",?",[0.06923261 0.01410067 0.91666675],neutral,0.05513193
+"UBS reviews names to watch in 'consumerization of healthcare',?",[0.03985329 0.03861342 0.9215333 ],neutral,0.0012398697
+"Big 5 tech stocks rallying further to new highs,?",[0.883144   0.04772787 0.06912811],positive,0.83541614
+"""Microsoft adds $150M to diversity, inclusion investment"",?",[0.8482521  0.01136397 0.14038385],positive,0.83688813
+"""Microsoft closing Mixer, moving content to Facebook Gaming"",?",[0.06972461 0.01028649 0.91998893],neutral,0.059438117
+"Microsoft buys CyberX for Azure IoT security,?",[0.17781474 0.01951029 0.802675  ],neutral,0.15830445
+"Microsoft calls for App Store antitrust investigations,?",[0.02563755 0.7733925  0.2009699 ],negative,-0.74775493
+"Microsoft buys industry data model provider,?",[0.08335329 0.0226648  0.89398193],neutral,0.06068849
+"Microsoft declares $0 51 dividend,?",[0.04448022 0.77470416 0.1808156 ],negative,-0.73022395
+"Microsoft tried to sell facial recognition to DEA - ACLU,?",[0.02991181 0.08425377 0.88583446],neutral,-0.05434195
+"Microsoft stores to remain close till further notice,?",[0.02951562 0.39710334 0.573381  ],neutral,-0.36758772
+"""Google putting Meet in Gmail, bringing legacy apps to Chromebooks"",?",[0.36612502 0.01222381 0.6216512 ],neutral,0.3539012
+"Microsoft irons out pandemic-related capacity issues,?",[0.05976506 0.7381806  0.20205438],negative,-0.67841554
+"Cadence collaborates with TSMC and Microsoft,?",[0.02647082 0.01678449 0.9567447 ],neutral,0.009686334
+"""Microsoft, SAS announce extensive tech partnership"",?",[0.78689605 0.01481112 0.19829284],positive,0.77208495
+"May videogame sales jump 52% as lockdown rally rolls on,?",[0.91928583 0.03242294 0.04829127],positive,0.8868629
+"Trump retweets call for Microsoft contract ban,?",[0.0204124  0.91186506 0.06772243],negative,-0.89145267
+"Microsoft won't sell facial recognition to police,?",[0.03069733 0.62625504 0.34304762],negative,-0.5955577
+"Big Tech is getting even bigger,?",[0.30122396 0.04633706 0.652439  ],neutral,0.2548869
+"""Gundlach sees stocks falling, gold rising despite 'Superman' Powell's heavy lifting"",?",[0.10641881 0.76941925 0.12416193],negative,-0.66300046
+"Wedbush's names to benefit from tech's rebound rampage,?",[0.8226159  0.01484753 0.16253655],positive,0.8077684
+"Druckenmiller 'humbled' by market rally,?",[0.7870814  0.08860211 0.12431653],positive,0.6984793
+"Cloud stalwarts are winners in long-term work-from-home - Wedbush,?",[0.41376823 0.09862571 0.48760608],neutral,0.3151425
+"Wells Fargo sees big upside in Microsoft,?",[0.46575022 0.06270884 0.47154096],neutral,0.40304136
+"Microsoft replacing human editors with AI,?",[0.04463943 0.3687225  0.58663803],neutral,-0.32408306
+"Baird boosts targets for hot cloud firms,?",[0.8980447  0.02011416 0.08184104],positive,0.8779305
+"'Almost thrown in the towel' -- Novogratz on fighting the tape,?",[0.08330799 0.411561   0.50513095],neutral,-0.32825303
+"Microsoft in talks to buy ~$2B stake in Jio Platforms - Mint,?",[0.08808845 0.01790389 0.8940077 ],neutral,0.07018456
+"Videogame sales surge to April record amid lockdowns,?",[0.880112   0.07379202 0.04609597],positive,0.80631995
+"Microsoft's Azure Quantum attracts new customers,?",[0.47572935 0.01819604 0.5060746 ],neutral,0.4575333
+"Microsoft confirms Softomotive acquisition,?",[0.105646   0.07311393 0.8212401 ],neutral,0.032532066
+"Microsoft unveils healthcare-specific cloud tools,?",[0.03775394 0.02429146 0.9379546 ],neutral,0.013462476
+"""FedEx, Microsoft to collaborate on commerce"",?",[0.20878293 0.01592242 0.7752946 ],neutral,0.19286051
+"""Appaloosa Management buys Twitter, exits Caesars, cuts Facebook"",?",[0.01443384 0.9424357  0.04313053],negative,-0.9280018
+"Videogame spending logs record quarter,?",[0.05199791 0.6018344  0.34616765],negative,-0.5498365
+"""Microsoft, UnitedHealth launch coronavirus screening app"",?",[0.04029802 0.02848524 0.9312167 ],neutral,0.011812778
+"Microsoft acquires Metaswitch Networks,?",[0.07876743 0.01503673 0.9061959 ],neutral,0.063730694
+"""Despite spending slowdown, Nomura sees cloud computing boost in pandemic"",?",[0.8646534  0.04800994 0.0873366 ],positive,0.8166435
+"Microsoft investing $1 5B in Italy,?",[0.09405383 0.04127824 0.86466795],neutral,0.052775595
+"Newest 'Madden' game headed to Xbox Series X,?",[0.12881078 0.01149672 0.8596925 ],neutral,0.117314056
+"Microsoft opening first New Zealand data center,?",[0.06720226 0.04197366 0.8908241 ],neutral,0.025228597
+"Microsoft announces release date for AirPods competitor,?",[0.0372785  0.07491609 0.8878054 ],neutral,-0.037637584
+"Microsoft nears $165M cybersecurity acquisition - Globes,?",[0.21623303 0.02289126 0.7608757 ],neutral,0.19334178
+"Xbox chief says recession could impact demand - Bloomberg,?",[0.0168487  0.9300166  0.05313466],negative,-0.9131679
+"Microsoft is investing $1B in Poland,?",[0.13181916 0.02375873 0.8444221 ],neutral,0.108060434
+"Microsoft confirms dual-screen Windows 10X delay,?",[0.03131673 0.8966433  0.07204003],negative,-0.8653265
+"Microsoft eyes Softomotive acquisition - Bloomberg,?",[0.04245365 0.05904669 0.8984996 ],neutral,-0.016593035
+"Microsoft offers note exchange,?",[0.03223066 0.04586631 0.9219031 ],neutral,-0.01363565
+"Microsoft sets May 7 demo of games on new Xbox,?",[0.03680732 0.06545505 0.8977377 ],neutral,-0.028647725
+"Analysts expect Microsoft to 'grind higher' after earnings,?",[0.8593683  0.08928449 0.05134711],positive,0.77008384
+"""Microsoft details coronavirus impact, guides in-line Q4"",?",[0.03399247 0.1057551  0.86025244],neutral,-0.07176264
+"""""""Minimal"""" COVID-19 impact - Microsoft gains after FQ3 beats"",?",[0.9003102  0.06058348 0.03910638],positive,0.83972675
+"""Microsoft EPS beats by $0 13, beats on revenue"",?",[0.23385037 0.08022143 0.68592817],neutral,0.15362895
+"What to watch in Microsoft's Q3 report,?",[0.03184031 0.01881916 0.94934046],neutral,0.013021149
+"""Google ramps up Video conference wars, making Meet free"",?",[0.51739657 0.01947085 0.4631326 ],positive,0.49792573
+"Microsoft Q3 2020 Earnings Preview,?",[0.04798231 0.20695668 0.745061  ],neutral,-0.15897438
+"""Of FAANG (+MSFT) earnings, Amazon and Microsoft to lead, Wedbush says"",?",[0.27468488 0.01371819 0.71159697],neutral,0.2609667
+"""Microsoft, Coca-Cola sign multiyear deal"",?",[0.69309616 0.02617072 0.28073308],positive,0.66692543
+"Videogame sales log best March in 12 years,?",[0.21208565 0.6251684  0.16274594],negative,-0.41308272
+"Microsoft hires GE Healthcare vet,?",[0.04890839 0.10540236 0.84568924],neutral,-0.05649397
+"""Robinhood names top 10 stocks in March, as platform saw surging volumes"",?",[0.38547328 0.07399921 0.5405275 ],neutral,0.31147408
+"Facebook launching Gaming app early - NYT,?",[0.0564826  0.09769161 0.84582585],neutral,-0.041209012
+"Meet Microsoft's newly launched 'plasmabot',?",[0.2779935  0.04112838 0.68087816],neutral,0.23686512
+"Stocks to love into earnings season,?",[0.23840494 0.37901327 0.38258174],neutral,-0.14060833
+"Cloud customers can't make a deal with Amazon - report,?",[0.03615455 0.720165   0.2436804 ],negative,-0.68401045
+"""Microsoft, NBA sign cloud and tablet deal"",?",[0.43268728 0.01983927 0.54747343],neutral,0.41284803
+"Amazon pauses French warehouses; DOD finds JEDI fair,?",[0.04163346 0.71378434 0.24458215],negative,-0.67215085
+"""Microsoft Teams has 20% adoption rate, says Slack CEO"",?",[0.536649   0.03202762 0.4313234 ],positive,0.5046214
+"Supercomputers fired up in COVID-19 fight,?",[0.17141064 0.06480831 0.7637811 ],neutral,0.106602326
+"""Microsoft Teams use surged 1,000% during March"",?",[0.8825431  0.03109123 0.08636577],positive,0.8514519
+"""Microsoft delays Windows 10X, Surface Neo"",?",[0.03110854 0.8287639  0.1401276 ],negative,-0.79765534
+"LinkedIn makes 'no layoffs' pledge,?",[0.0902013  0.38872224 0.5210765 ],neutral,-0.29852095
+"Microsoft pauses recruitment for certain roles,?",[0.0417415  0.52584285 0.43241566],negative,-0.48410136
+"BlackRock and Microsoft start partnership to host Aladdin,?",[0.5283956  0.02022438 0.45137995],positive,0.5081712
+"Microsoft hires former Apple VP for hardware efforts,?",[0.04942413 0.33644226 0.6141336 ],neutral,-0.28701812
+"NYC schools abandon Zoom for Teams,?",[0.04117124 0.6066577  0.35217106],negative,-0.56548643
+"""CIOs expect lower PC, higher security spending - Instinet"",?",[0.53460485 0.14006634 0.32532883],positive,0.39453852
+"""Slack adds Microsoft Teams, Zoom integrations"",?",[0.2461709 0.0270357 0.7267934],neutral,0.2191352
+"First state to adopt facial recognition rules,?",[0.2528544  0.01926295 0.72788256],neutral,0.23359145
+"Microsoft bucks DJIA plunge in first quarter,?",[0.12495411 0.78437775 0.09066818],negative,-0.65942365
+"Zoom's active users up 151% this month,?",[0.939023   0.02697255 0.03400445],positive,0.9120505
+"""Monitor, laptop sales grow with remote work shift"",?",[0.729114   0.02447033 0.24641566],positive,0.70464367
+"Microsoft launches new consumer 365 package; Skype grows 70%,?",[0.880055   0.01363312 0.10631186],positive,0.8664219
+"Microsoft sees 775% surge in cloud demand (update),?",[0.90133524 0.01816585 0.08049893],positive,0.8831694
+"Microsoft takes step away from facial recognition,?",[0.12520039 0.04088932 0.8339103 ],neutral,0.08431107
+"Tech experts share their top picks for today's chaos,?",[0.07547309 0.06764769 0.85687923],neutral,0.007825404
+"Microsoft deal values Affirmed at $1 35B - Bloomberg,?",[0.07427501 0.01569847 0.9100265 ],neutral,0.05857654
+"Microsoft acquiring Affirmed Networks,?",[0.04500733 0.06985556 0.8851371 ],neutral,-0.02484823
+"#BuildforCOVID19 global online hackathon,?",[0.03323069 0.13287021 0.8338991 ],neutral,-0.09963952
+"Amazon tells court Pentagon should expand JEDI review,?",[0.39859605 0.08696537 0.51443857],neutral,0.31163067
+"Microsoft CEO says supply side 'back on rails',?",[0.07695387 0.756829   0.16621707],negative,-0.67987514
+"Microsoft reveals unpatched Windows bug,?",[0.01972056 0.91810715 0.06217225],negative,-0.8983866
+"RBC chooses top software names during sell-off,?",[0.08230186 0.01837419 0.89932394],neutral,0.063927665
+"""Trump approves New York, California national disaster declaration requests"",?",[0.25466084 0.01821558 0.72712356],neutral,0.23644526
+"Microsoft Teams adds 12M DAUs in a week,?",[0.7057387  0.05633179 0.23792955],positive,0.6494069
+"Xbox Series X arriving this holiday season (update),?",[0.03720427 0.09223239 0.8705633 ],neutral,-0.055028126
+"Microsoft target lowered on coronavirus risks,?",[0.05777513 0.20237608 0.7398488 ],neutral,-0.14460096
+"Big Tech unites on coronavirus response,?",[0.19995125 0.07094704 0.72910166],neutral,0.12900421
+"Coronavirus updates - store closures and shut borders,?",[0.01287185 0.95143056 0.03569764],negative,-0.9385587
+"""Chenault moving from Facebook board to Berkshire, to replace Gates"",?",[0.04694372 0.0166864  0.93636984],neutral,0.030257324
+"Microsoft -2 8% as Gates exits board,?",[0.04240862 0.81387484 0.14371645],negative,-0.7714662
+"Videogame sales fall for seventh month,?",[0.01158414 0.97150964 0.01690609],negative,-0.9599255
+"Barron's Bary: Time for Buffett to get greedy,?",[0.10967888 0.23764713 0.652674  ],neutral,-0.12796825
+"Wedbush sees Pentagon splitting JEDI contract,?",[0.0860475 0.6305909 0.2833616],negative,-0.5445434
+"Pentagon asks to reconsider JEDI decision,?",[0.08185426 0.2637193  0.6544264 ],neutral,-0.18186504
+"Microsoft cancels in-person Build conference,?",[0.01294004 0.94588214 0.04117786],negative,-0.9329421
+"E3 canceled in latest virus impact on events,?",[0.02447995 0.8823153  0.09320477],negative,-0.85783535
+"Software targets cut on coronavirus impact,?",[0.05399977 0.7990786  0.14692156],negative,-0.7450788
+"Xbox Series X event coming next week,?",[0.03297333 0.10577201 0.86125463],neutral,-0.07279868
+"Wedbush 'firmly bullish' on Microsoft,?",[0.59248585 0.12984005 0.2776741 ],positive,0.4626458
+"Jefferies calls out 11 opportunities amid sell-off,?",[0.25223073 0.06724314 0.6805262 ],neutral,0.1849876
+"Microsoft declares $0 51 dividend,?",[0.04448022 0.77470416 0.1808156 ],negative,-0.73022395
+"Some good news for Amazon's JEDI challenge,?",[0.4989446  0.02563099 0.47542444],positive,0.47331363
+"Big tech paying hourly wages despite reduced services,?",[0.03236634 0.8928328  0.07480083],negative,-0.8604665
+"Latest coronavirus updates - WFH for Facebook,?",[0.03784907 0.38253516 0.5796157 ],neutral,-0.3446861
+"Microsoft Teams comes to the NFL,?",[0.03897975 0.06620935 0.8948109 ],neutral,-0.027229596
+"""Azure, AWS could benefit from coronavirus - Blueshift"",?",[0.41664287 0.01685107 0.566506  ],neutral,0.3997918
+"Microsoft pulls out of GDC,?",[0.01641376 0.93734586 0.04624041],negative,-0.9209321
+"""The """"Fab 5"""" mega-stocks will be painful to investors during the coming decade"",?",[0.05259309 0.4147287  0.5326782 ],neutral,-0.36213562
+"Microsoft drops after coronavirus-related outlook warning,?",[0.01146552 0.96490175 0.02363279],negative,-0.95343626
+"Microsoft bull sees boost from security,?",[0.8660459  0.03537698 0.09857713],positive,0.8306689
+"Microsoft plans new Spanish data center,?",[0.02937074 0.02536578 0.94526345],neutral,0.0040049534
+"Microsoft reveals more Xbox Series X specs,?",[0.0487682  0.05031069 0.9009211 ],neutral,-0.00154249
+"Microsoft will invest $1 1B in Mexico,?",[0.07356249 0.01034893 0.91608864],neutral,0.06321356
+"""3G Capital trims position in Fox, Microsoft, exits Urban Outfitters"",?",[0.27428076 0.44655272 0.27916655],negative,-0.17227197
+"Videogame sales fall for sixth straight month,?",[0.01142578 0.9746504  0.01392394],negative,-0.9632246
+"""Loeb's Third Point picks up stakes in Amazon, Ferrari, Ameritrade"",?",[0.38118586 0.02754938 0.5912648 ],neutral,0.35363647
+"Judge pauses Microsoft's JEDI contract,?",[0.02891238 0.8754529  0.09563477],negative,-0.8465405
+"Microsoft gets new Street-high target at Evercore,?",[0.7396702  0.05200667 0.20832314],positive,0.68766356
+"FTC probing M&amp;A history of tech giants (update),?",[0.0319775  0.02743175 0.9405908 ],neutral,0.00454575
+"Slack +14 6% as IBM becomes largest-ever customer,?",[0.83923995 0.05074739 0.11001261],positive,0.78849256
+"Amazon wants to depose Trump in JEDI challenge,?",[0.03965027 0.2154768  0.7448729 ],neutral,-0.17582652
+"LinkedIn CEO stepping down,?",[0.03207147 0.6469373  0.32099134],negative,-0.61486584
+"Tesla goes parabolic; Citron says even Musk might short here,?",[0.04631833 0.41760585 0.53607583],neutral,-0.37128752
+"""Dell, Microsoft join 5G development push"",?",[0.05840087 0.03220122 0.9093979 ],neutral,0.02619965
+"""Zoom, Slack gain on Microsoft Teams outage"",?",[0.06735658 0.6797268  0.2529167 ],negative,-0.6123702
+"""Goldman recommends big tech, dismisses signs of bubble"",?",[0.05737203 0.11403897 0.828589  ],neutral,-0.05666694
+"No new Switch this year - Nintendo,?",[0.04004017 0.16747895 0.7924809 ],neutral,-0.12743878
+"""Microsoft targets raised on durable growth, profits"",?",[0.13863252 0.0354831  0.8258844 ],neutral,0.10314943
+"Microsoft guides Q3 cloud strength,?",[0.35755733 0.09269859 0.54974407],neutral,0.26485872
+"Microsoft +2% as cloud drives Q2 beats,?",[0.4173099  0.25586894 0.32682115],positive,0.16144097
+"""Microsoft EPS beats by $0 19, beats on revenue"",?",[0.2294293  0.06041192 0.7101587 ],neutral,0.16901737
+"Microsoft launches $40M AI for Health program,?",[0.4511927  0.04820555 0.5006017 ],neutral,0.40298715
+"What to watch in Microsoft's Q2 report,?",[0.03174264 0.01942531 0.94883204],neutral,0.012317337
+"Microsoft Q2 2020 Earnings Preview,?",[0.04769145 0.20340878 0.7488998 ],neutral,-0.15571733
+"Google building unified comms app - report,?",[0.0357662 0.1412276 0.8230063],neutral,-0.105461404
+"""Microsoft raised on cloud, M&amp;A potential"",?",[0.16014291 0.02448941 0.8153677 ],neutral,0.1356535
+"Amazon asks court to pause work on JEDI,?",[0.02939832 0.719873   0.25072867],negative,-0.6904747
+"Microsoft raised as bull sees Q4 strength,?",[0.56986433 0.19034888 0.23978682],positive,0.37951547
+"Microsoft exposed 250M customer support records,?",[0.04474178 0.4771255  0.47813275],neutral,-0.43238372
+"Battle over facial recognition technology,?",[0.09591117 0.28006995 0.6240189 ],neutral,-0.18415877
+"Slack drops on Microsoft Teams ad push,?",[0.01663222 0.9476425  0.0357253 ],negative,-0.9310103
+"Videogame sales wrap down year with 15% December drop,?",[0.0115591  0.9692491  0.01919175],negative,-0.95769006
+"Microsoft launching $1B climate fund,?",[0.13808915 0.03772804 0.82418275],neutral,0.10036111
+"Wells Fargo boosts software names on 2020 strength,?",[0.84691536 0.04956414 0.10352045],positive,0.79735124
+"Microsoft's Edge Chromium browser now available,?",[0.03519959 0.03248626 0.9323141 ],neutral,0.0027133264
+"Amazon bull sees AWS deceleration,?",[0.04764908 0.79805386 0.1542971 ],negative,-0.7504048
+"Microsoft patching major security flaw,?",[0.02405865 0.9222199  0.05372148],negative,-0.89816123
+"Amazon seeks to block JEDI work by Microsoft,?",[0.0204048  0.868898   0.11069725],negative,-0.84849316
+"Big Tech dominates the S&amp;P 500,?",[0.05164221 0.02024401 0.9281138 ],neutral,0.031398207
+"Microsoft lifted ahead of 'strong' 2020,?",[0.8003786  0.11299964 0.08662178],positive,0.687379
+"""Walkie Talkie from Microsoft Teams, Samsung"",?",[0.04151804 0.16802186 0.79046005],neutral,-0.12650381
+"Software holding up amid Jefferies target increases,?",[0.85868657 0.04942988 0.09188358],positive,0.8092567
+"Wedbush expects Microsoft to run higher,?",[0.8127043  0.04210133 0.1451944 ],positive,0.770603
+"Videogame stocks gain as Nomura looks to new consoles,?",[0.50422376 0.40133578 0.09444045],positive,0.10288799
+"Microsoft long-term margins set up for strong 2020 - Morgan Stanley,?",[0.77622736 0.04178439 0.18198827],positive,0.73444295
+"CIOs prefer Azure over AWS in Goldman survey,?",[0.19899872 0.24654317 0.55445814],neutral,-0.04754445
+"Microsoft sues to block SynKloud cloud suit,?",[0.02170871 0.9078995  0.07039185],negative,-0.8861908
+"Lenovo launching Microsoft Teams device,?",[0.04521874 0.03447333 0.92030793],neutral,0.01074541
+"Microsoft brings 'GTA V' to Xbox Game Pass,?",[0.18840867 0.01801847 0.79357284],neutral,0.1703902
+"2019 leaders and laggards,?",[0.04704444 0.48457915 0.46837646],negative,-0.4375347
+"""Apple, Microsoft top Dow 2019 standings; Walgreens wobbles to the bottom"",?",[0.03133078 0.8605795  0.10808966],negative,-0.8292487
+"Microsoft takes down domains of N Korean hackers,?",[0.02505215 0.8710793  0.10386862],negative,-0.8460272
+"BofA sees big 2020 for Microsoft,?",[0.26059723 0.09904746 0.64035535],neutral,0.16154978
+"Microsoft eyeing SuperAwesome stake,?",[0.06973153 0.10511782 0.82515067],neutral,-0.035386287
+"""Ericsson, Microsoft partner on connected cars"",?",[0.03082037 0.04504772 0.92413193],neutral,-0.014227353
+"CNBC survey shows Microsoft Teams strength,?",[0.4805769  0.20701474 0.31240833],positive,0.27356216
+"Google wants Cloud dominance by 2023 - report,?",[0.05261736 0.01634637 0.9310363 ],neutral,0.036270984
+"Microsoft gets Street-high target on cloud strength,?",[0.8203008  0.04885571 0.13084348],positive,0.7714451
+"Microsoft announces Xbox Series X,?",[0.05195731 0.23076007 0.7172826 ],neutral,-0.17880276
+"Datadog announces Azure DevOps integration,?",[0.15364929 0.06991372 0.776437  ],neutral,0.08373556
+"Microsoft target raised on healthy IT spending,?",[0.6534331  0.05349619 0.29307073],positive,0.5999369
+"""Cisco unveils Silicon One, says it's in major use"",?",[0.39630762 0.01457418 0.5891182 ],neutral,0.38173345
+"Microsoft's Teams joins Slack on Linux,?",[0.05612395 0.7054846  0.23839144],negative,-0.64936066
+"Amazon slams 'improper pressure' from Trump in JEDI bid protest,?",[0.01739881 0.94357115 0.03903007],negative,-0.9261723
+"Microsoft seen pushing right past JEDI challenge,?",[0.4693751  0.08588032 0.44474456],positive,0.3834948
+"China makes move against foreign tech - FT,?",[0.110528   0.74490047 0.14457151],negative,-0.6343725
+"Microsoft working on JEDI despite Amazon protest,?",[0.11258727 0.54996675 0.33744594],negative,-0.43737948
+"Microsoft's 365 consumer bundles coming next spring,?",[0.03236694 0.04626644 0.9213666 ],neutral,-0.013899498
+"Microsoft gets new Street-high target,?",[0.6849711  0.05765365 0.2573752 ],positive,0.6273174
+"Microsoft declares $0 51 dividend,?",[0.0444802 0.7747042 0.1808156],negative,-0.730224
+"""AT&amp;T, Microsoft add details to major cloud/5G deal"",?",[0.1037258  0.01348041 0.8827937 ],neutral,0.09024539
+"Amazon files suit over JEDI cloud contract,?",[0.02662272 0.8889051  0.08447224],negative,-0.8622824
+"Microsoft resumes exports to Huawei,?",[0.06224541 0.50264627 0.43510836],negative,-0.44040087
+"Microsoft delays launch for AirPods competitor,?",[0.01553442 0.941278   0.04318762],negative,-0.9257436
+"""Facebook, Microsoft team on remote development"",?",[0.03171451 0.08131205 0.88697344],neutral,-0.04959754
+"Vodafone moving key operations to Google Cloud,?",[0.05063545 0.06625821 0.88310635],neutral,-0.015622765
+"""Baker Hughes to partner with Microsoft, C3 ai to boost oilfield AI technology"",?",[0.8653884  0.00853601 0.1260756 ],positive,0.8568524
+"Slack -8 4% as Microsoft Teams hits 20M DAUs,?",[0.5968599  0.2727384  0.13040175],positive,0.32412148
+"ACI Worldwide to deliver Universal Payments tech via Azure,?",[0.04439446 0.01223597 0.94336957],neutral,0.03215849
+"""Lone Pine sheds Microsoft and Adobe stake, while increases in Alibaba, Salesforce and Amazon"",?",[0.22735973 0.13153146 0.6411089 ],neutral,0.095828265
+"Esper responds to Amazon's JEDI protest,?",[0.17042948 0.27987754 0.54969305],neutral,-0.10944806
+"Strong October for videogames despite drop from record,?",[0.8630147  0.10577805 0.03120717],positive,0.75723666
+"Amazon protesting JEDI contract loss - report,?",[0.01518822 0.9540992  0.03071254],negative,-0.93891096
+"Salesforce moving Marketing Cloud to Azure,?",[0.0938219  0.02166899 0.8845091 ],neutral,0.072152905
+"Microsoft 'strong supporter' of California privacy law,?",[0.69689494 0.02495032 0.2781548 ],positive,0.6719446
+"""Nokia, Microsoft collaborating on enterprise solutions"",?",[0.12339986 0.01578461 0.8608156 ],neutral,0.107615255
+"Microsoft Japan trialed 4-day workweek,?",[0.05678856 0.36712986 0.5760816 ],neutral,-0.3103413
+"""Barclays raises Microsoft on JEDI, software valuations"",?",[0.1313361  0.05231509 0.81634885],neutral,0.07902101
+"""France, Germany cloud push rivals AMZN, MSFT"",?",[0.12965299 0.19168624 0.67866075],neutral,-0.06203325
+"Don't count Amazon out on JEDI contract- Cowen,?",[0.09369772 0.15738003 0.7489223 ],neutral,-0.06368231
+"Microsoft's JEDI win called a gamechanger,?",[0.06204939 0.15253285 0.78541785],neutral,-0.09048346
+"Microsoft tops Amazon for Pentagon JEDI cloud contract,?",[0.3996874  0.3456071  0.25470546],positive,0.054080307
+"Analysts positive on Microsoft's earnings,?",[0.52209324 0.16353491 0.3143718 ],positive,0.35855833
+"Microsoft forecasts Q2 Intelligent Cloud strength,?",[0.15479453 0.0492687  0.7959367 ],neutral,0.10552582
+"Azure helps drive Microsoft beat,?",[0.1884823  0.02509619 0.7864215 ],neutral,0.1633861
+"""Microsoft EPS beats by $0 14, beats on revenue"",?",[0.24914227 0.08384095 0.66701674],neutral,0.16530132
+"What to watch in Microsoft's Q1,?",[0.03404186 0.02084299 0.9451152 ],neutral,0.013198867
+"Pentagon still reviewing JEDI cloud contract,?",[0.09224019 0.11288691 0.7948729 ],neutral,-0.020646714
+"Microsoft Q1 2020 Earnings Preview,?",[0.0477665  0.19677344 0.75546014],neutral,-0.14900695
+"Pentagon chief steps down from JEDI process,?",[0.04344771 0.50941324 0.44713905],negative,-0.46596554
+"NVDA forms big tech partnerships for 5G,?",[0.16399527 0.00831936 0.8276854 ],neutral,0.1556759
+"Microsoft acquires Mover,?",[0.05270632 0.05827076 0.88902295],neutral,-0.0055644475
+"EU data watchdog raises Microsoft concerns,?",[0.02407976 0.8806389  0.09528127],negative,-0.85655916
+"""SAP, Microsoft disclose three-year cloud deal"",?",[0.08178982 0.01731156 0.90089864],neutral,0.06447826
+"""MSFT, ORCL, VMW most defensible stocks - BMO"",?",[0.04331426 0.14825326 0.80843246],neutral,-0.104939
+"Microsoft target raised ahead of earnings,?",[0.35920277 0.26443547 0.3763618 ],neutral,0.0947673
+"Videogame sales mark broad drop for September,?",[0.01398379 0.9659325  0.02008365],negative,-0.9519487
+"Nintendo Switch passes 15M sold in North America,?",[0.16301495 0.17838593 0.65859914],neutral,-0.01537098
+"""Nuance, Microsoft automating clinical documentation"",?",[0.03745979 0.07837781 0.8841624 ],neutral,-0.040918022
+"Hulu expands device list with 4K video support,?",[0.7867935  0.0164931  0.19671342],positive,0.7703004
+"""Oracle to hire 2,000 in cloud computing push"",?",[0.52409476 0.04456326 0.431342  ],positive,0.4795315
+"Facebook puts Workplace on Portal; Zoom Video -4 6%,?",[0.06734931 0.17583817 0.7568125 ],neutral,-0.108488865
+"""Barclays sees beat-and-raise coming for Microsoft, techs"",?",[0.24500383 0.02812189 0.72687435],neutral,0.21688195
+"Iranian hackers targeted U S  presidential candidate,?",[0.02045937 0.90570664 0.07383394],negative,-0.8852473
+"Microsoft announces Surface Duo phone featuring Android,?",[0.16644773 0.03099383 0.8025584 ],neutral,0.1354539
+"""Microsoft unveils Surface Laptop 3, Surface Pro models (updated)"",?",[0.11216366 0.01280928 0.87502706],neutral,0.09935437
+"""Sony cuts game-streaming price, adds titles"",?",[0.06576528 0.7406921  0.19354263],negative,-0.6749268
+"""Novartis, Microsoft team for AI drug development"",?",[0.0312425  0.01961165 0.94914585],neutral,0.0116308555
+"""BlackBerry solutions available on Azure, AWS markets"",?",[0.02574589 0.01880397 0.9554502 ],neutral,0.006941911
+"Jacky Wright rejoins Microsoft,?",[0.04277092 0.45966893 0.49756017],neutral,-0.416898
+"Google Assistant controls come to Xbox One,?",[0.03334184 0.0977013  0.86895686],neutral,-0.064359464
+"Windows 10 on 900M+ devices,?",[0.02923881 0.0876129  0.8831483 ],neutral,-0.058374085
+"Microsoft bull sees double-digit growth,?",[0.7058475  0.05673015 0.23742232],positive,0.64911735
+"GSK CEO up for Microsoft board,?",[0.06727027 0.233995   0.6987347 ],neutral,-0.16672474
+"Eros +20% on Microsoft tie-up,?",[0.23246554 0.24789718 0.5196373 ],neutral,-0.0154316425
+"""Microsoft hikes dividend, launches $40B buyback"",?",[0.38323382 0.21528421 0.401482  ],neutral,0.1679496
+"Microsoft announces quarterly dividend increase,?",[0.78321546 0.07408768 0.14269684],positive,0.7091278
+"GitHub buys Semmle for Actions,?",[0.06318491 0.41952473 0.51729035],neutral,-0.3563398
+"Amazon's Twitch buys games database,?",[0.03512654 0.15316337 0.81171006],neutral,-0.11803684
+"""Oracle, Microsoft Teams announce integration"",?",[0.06456479 0.01437802 0.9210572 ],neutral,0.050186776
+"Tech needs 'new level of responsibility' - MSFT CLO,?",[0.35937434 0.01506384 0.6255618 ],neutral,0.3443105
+"""Microsoft, Disney make cloud deal"",?",[0.05072268 0.13447848 0.81479883],neutral,-0.083755806
+"Videogame sales resume swoon in August,?",[0.02105754 0.9228894  0.05605298],negative,-0.90183187
+"LinkedIn loses appeal over user profile access,?",[0.01480817 0.9658779  0.01931392],negative,-0.9510697
+"Microsoft not seeing software softness - Mizuho,?",[0.03934124 0.67505294 0.28560582],negative,-0.6357117
+"Microsoft teams up for South Korean gaming,?",[0.07085273 0.02440554 0.90474176],neutral,0.04644719
+"Microsoft acquires Movere,?",[0.04468058 0.07627867 0.8790408 ],neutral,-0.031598095
+"Microsoft bull praises vendor Pentagon contract,?",[0.05327768 0.5615607  0.38516164],negative,-0.508283
+"Wedbush sees Azure closing gap with AWS,?",[0.28430882 0.10190146 0.6137897 ],neutral,0.18240735
+"HoloLens 2 goes on sale next month,?",[0.05719966 0.01518576 0.92761457],neutral,0.042013902
+"Chinese agents using LinkedIn - NYT,?",[0.03136222 0.21295957 0.7556782 ],neutral,-0.18159735
+"Microsoft Surface event coming Oct  2,?",[0.02958698 0.07207602 0.898337  ],neutral,-0.042489044
+"Microsoft contractors listen to Xbox audio - Vice,?",[0.03562701 0.0904545  0.8739185 ],neutral,-0.054827493
+"Microsoft hires former Siri boss - The Information,?",[0.0358644  0.38319713 0.58093846],neutral,-0.34733272
+"Nvidia bringing realistic graphics to 'Minecraft',?",[0.59474903 0.0265644  0.37868655],positive,0.5681846
+"Videogames eke out July gain with help from 'Madden' crowd,?",[0.886601   0.04598472 0.06741428],positive,0.8406162
+"Microsoft clarifies voice data privacy policy,?",[0.02584625 0.02018372 0.9539701 ],neutral,0.0056625307
+"Microsoft hires Samsung vet as healthcare head,?",[0.04912296 0.09230772 0.8585693 ],neutral,-0.043184757
+"Pentagon watchdog investigating JEDI cloud contract,?",[0.03506124 0.50741273 0.45752606],negative,-0.4723515
+"India's Jio forms Azure partnership,?",[0.09870367 0.01282079 0.8884756 ],neutral,0.08588288
+"No new timeline for JEDI cloud award - DoD,?",[0.03642914 0.08078297 0.8827879 ],neutral,-0.044353835
+"""Microsoft contractors listen to Skype, Cortana"",?",[0.03211408 0.06597967 0.9019062 ],neutral,-0.03386559
+"Microsoft acquires PromoteIQ,?",[0.05013073 0.02275948 0.9271098 ],neutral,0.027371246
+"New Pentagon head orders cloud contract review,?",[0.05912624 0.2696888  0.67118496],neutral,-0.21056257
+"Microsoft gains as Wedbush touts cloud potential,?",[0.6417434  0.2536574  0.10459919],positive,0.38808602
+"Big Tech partners with healthcare giants,?",[0.05021277 0.07090702 0.87888014],neutral,-0.020694245
+"Microsoft promoting Teams to Office 365 default,?",[0.17625812 0.03666081 0.7870811 ],neutral,0.13959731
+"Microsoft buys data governance service,?",[0.32625046 0.02487302 0.6488765 ],neutral,0.30137745
+"LinkedIn going all-in on Azure,?",[0.06885644 0.24495117 0.6861924 ],neutral,-0.17609474
+"Microsoft settles anti-bribery charges,?",[0.07590051 0.5500687  0.37403083],negative,-0.47416818
+"Microsoft investing $1B in OpenAI,?",[0.14910215 0.06029098 0.7906069 ],neutral,0.088811174
+"MSFT targets boosted after Q4 strength,?",[0.9268342  0.03967642 0.03348939],positive,0.8871578
+"Videogame sales drop by double digits again in June,?",[0.01136136 0.9666218  0.02201688],negative,-0.95526046
+"Microsoft guides Q1 cloud strength,?",[0.37003693 0.06443496 0.5655281 ],neutral,0.30560195
+"""Microsoft Azure decelerates, still drives beats; MSFT +1 4%"",?",[0.21130684 0.39963055 0.38906267],negative,-0.1883237
+"""Microsoft EPS beats by $0 16, beats on revenue"",?",[0.25097287 0.06871263 0.6803145 ],neutral,0.18226025
+"Trump might look into Pentagon's cloud contract,?",[0.06001554 0.03535818 0.90462625],neutral,0.024657369
+"Microsoft Q4: Watch for Azure deceleration,?",[0.04879127 0.5089867  0.44222197],negative,-0.46019545
+"Microsoft Q4 Earnings Preview,?",[0.04573252 0.23970462 0.7145629 ],neutral,-0.19397211
+"""AT&amp;T, Microsoft enter major cloud/5G partnership"",?",[0.6200657  0.02145865 0.35847566],positive,0.59860706
+"Bull lifts MSFT target before earnings,?",[0.31573525 0.20876996 0.4754948 ],neutral,0.10696529
+"Twitch held 72% of Q2 live-streaming market,?",[0.02867573 0.02026806 0.95105624],neutral,0.008407671
+"""Citi expects MSFT beats, long-term bumps"",?",[0.6041587  0.1206255  0.27521583],positive,0.4835332
+"Microsoft drove Q2 PC unit growth - Gartner,?",[0.79752153 0.02030534 0.18217309],positive,0.7772162
+"Microsoft passes Slack in DAUs,?",[0.04424455 0.8108168  0.14493869],negative,-0.7665723
+"Cowen bullish on MSFT's Commercial Cloud,?",[0.08990105 0.26851743 0.6415815 ],neutral,-0.17861637
+"Google's Stadia not immediate threat to gaming duopoly - WSJ,?",[0.06022428 0.45699078 0.48278496],neutral,-0.39676648
+"Microsoft wins Parallel patent appeal,?",[0.68694276 0.09870984 0.21434742],positive,0.58823293
+"""Microsoft, Amazon have 50/50 JEDI shot - Wedbush"",?",[0.06313521 0.03313062 0.9037342 ],neutral,0.03000459
+"Microsoft bear questions Azure margins,?",[0.03365053 0.82704467 0.13930479],negative,-0.79339415
+"Pentagon's cloud award coming in August,?",[0.11553115 0.03828256 0.84618634],neutral,0.07724859
+"LinkedIn announcing algorithm changes - Axios,?",[0.04484926 0.07724795 0.8779028 ],neutral,-0.03239869
+"Deutsche boosts Microsoft after exec meetings,?",[0.7334724  0.09066638 0.17586124],positive,0.64280605
+"Videogame sales fall 11% as software joins hardware in doldrums,?",[0.01044065 0.9771985  0.0123609 ],negative,-0.96675783
+"Microsoft selling through Huawei inventory,?",[0.03480333 0.16920544 0.79599124],neutral,-0.13440211
+"Microsoft declares $0 46 dividend,?",[0.04655509 0.75341177 0.2000331 ],negative,-0.70685667
+"China warns tech giants about complying with Trump ban,?",[0.03262149 0.8922499  0.07512864],negative,-0.8596284
+"Microsoft's new Xbox console coming 2020,?",[0.06902587 0.0469513  0.8840228 ],neutral,0.022074573
+"Microsoft removes facial recognition database,?",[0.02594052 0.81159675 0.16246274],negative,-0.7856562
+"LinkedIn closing Chinese app in July,?",[0.04541924 0.40418547 0.5503953 ],neutral,-0.35876623
+"""Microsoft, Oracle take on AWS with cloud tie-up"",?",[0.08510529 0.01016147 0.90473324],neutral,0.074943826
+"""Nasdaq, Microsoft bring U S  equity market data to the masses"",?",[0.09558979 0.03254117 0.8718691 ],neutral,0.063048616
+"Microsoft Azure NetApp Files now available,?",[0.02261263 0.04194453 0.93544286],neutral,-0.0193319
+"""Willis Towers Watson, Microsoft see quantum change in computing insurance risk"",?",[0.11885703 0.02361622 0.8575268 ],neutral,0.09524082
+"Software strength drives narrow gain in April videogame sales,?",[0.19835216 0.74752617 0.05412165],negative,-0.549174
+"'Minecraft Earth' beta coming this summer,?",[0.03258185 0.03722997 0.9301882 ],neutral,-0.0046481267
+"Microsoft plans to train 15K workers in AI,?",[0.15809049 0.04954476 0.7923648 ],neutral,0.10854572
+"""Sony, Microsoft team on innovation for game/entertainment streaming, AI"",?",[0.23938885 0.01332259 0.7472886 ],neutral,0.22606626
+"Microsoft warns of major computer bug,?",[0.01798522 0.92964935 0.05236546],negative,-0.9116641
+"LinkedIn hits 20M listings,?",[0.36978793 0.16637959 0.46383244],neutral,0.20340835
+"Microsoft investing $100M in African hubs,?",[0.14690636 0.03306425 0.8200294 ],neutral,0.113842115
+"""Slack's prelim  Q1: $149 7M billings, $39 4M loss"",?",[0.03049206 0.89071655 0.07879139],negative,-0.8602245
+"Barron's names 7 dividend picks,?",[0.03209757 0.0437163  0.9241861 ],neutral,-0.01161873
+"""SAP teams with Amazon, Google on cloud project"",?",[0.32171476 0.01877009 0.65951514],neutral,0.30294466
+"Microsoft unveils software tools to secure elections,?",[0.09942169 0.0342585  0.86631984],neutral,0.06516319
+"""Microsoft integrates GitHub, Azure at Build"",?",[0.09141979 0.00712056 0.9014596 ],neutral,0.08429923
+"""JPMorgan, Microsoft work to speed enterprise blockchain adoption"",?",[0.7204596  0.01221807 0.26732227],positive,0.7082415
+"VMware officially comes to Azure,?",[0.07704645 0.02949814 0.8934554 ],neutral,0.047548316
+"Tech sees red amid data center woes,?",[0.08073133 0.8282933  0.0909753 ],negative,-0.747562
+"""Slack reveals $401M rev, $139M loss before listing"",?",[0.04398676 0.69503415 0.2609791 ],negative,-0.6510474
+"Wedbush boosts Microsoft on 'blowout quarter',?",[0.82183486 0.11313807 0.06502701],positive,0.7086968
+"Microsoft issues in-line guidance for fiscal Q4; shares +4 2%,?",[0.08772227 0.12343585 0.7888419 ],neutral,-0.035713583
+"Microsoft beats Q1 estimates with Azure strength,?",[0.75954497 0.1421321  0.09832297],positive,0.61741287
+"""Microsoft beats by $0 14, beats on revenue"",?",[0.46159488 0.11592393 0.42248124],positive,0.34567094
+"Microsoft's Q3 cloud metrics to watch,?",[0.03980935 0.03877703 0.92141354],neutral,0.0010323189
+"Futures dip ahead of full earnings slate,?",[0.03149866 0.93626046 0.03224092],negative,-0.9047618
+"March videogame sales fall by double digits; Quarter trails last year's,?",[0.01000858 0.9754463  0.01454517],negative,-0.9654377
+"Microsoft Q3 2019 Earnings Preview,?",[0.04421905 0.18413745 0.77164346],neutral,-0.13991839
+"""Laptop makers, AMD move on Nvidia launch"",?",[0.04599519 0.06897967 0.88502514],neutral,-0.022984475
+"""TD, Microsoft in digital pact"",?",[0.05573077 0.05856972 0.8856995 ],neutral,-0.0028389506
+"Government cloud wars continue,?",[0.02494471 0.8714359  0.10361943],negative,-0.84649116
+"Microsoft's target boosted on cloud strength,?",[0.6263411  0.05857062 0.3150883 ],positive,0.5677705
+"Discless Xbox preorders start tomorrow ,?",[0.02989499 0.08766101 0.882444  ],neutral,-0.05776602
+"Microsoft working on AirPods competitor - Thurrott,?",[0.03510111 0.18842305 0.77647585],neutral,-0.15332195
+"""Microsoft, Amazon named Pentagon cloud finalists"",?",[0.06710106 0.0530994  0.87979954],neutral,0.014001664
+"Pentagon's $10B cloud contract down to two companies,?",[0.03010603 0.89388096 0.07601311],negative,-0.86377496
+"Microsoft's Office 365 comes to rival Slack,?",[0.45682332 0.21412762 0.329049  ],positive,0.2426957
+"Microsoft's Chromium Edge opens for testing,?",[0.12395524 0.02139165 0.85465306],neutral,0.10256359
+"""Microsoft bundling Xbox Game Pass, Live"",?",[0.04093834 0.08312295 0.87593865],neutral,-0.04218461
+"Spotify joins Microsoft's Xbox Game Bar,?",[0.17177288 0.0291746  0.7990525 ],neutral,0.14259827
+"Microsoft investigating harassment claims,?",[0.01963504 0.8482126  0.13215229],negative,-0.8285776
+"Microsoft Store drops ebook sales,?",[0.01066174 0.9645537  0.02478455],negative,-0.953892
+"Shopify -2 8% as Microsoft plans competing product,?",[0.5139766  0.14053746 0.34548596],positive,0.37343913
+"JPMorgan posts more blockchain jobs than any other financial firm,?",[0.04974961 0.818856   0.13139436],negative,-0.7691064
+"Microsoft hosting Surface Hub event April 17,?",[0.02850025 0.0763802  0.8951196 ],neutral,-0.04787995
+"Marsh brings together cyber insurers to evaluate what works,?",[0.05835437 0.0114756  0.93017   ],neutral,0.046878763
+"""Adobe, Microsoft team to take on Salesforce"",?",[0.15077214 0.02817212 0.8210557 ],neutral,0.12260002
+"Videogame sales return to growth with 4% February gain,?",[0.9322125  0.03869789 0.02908958],positive,0.8935146
+"Google announces game-platform offering Stadia (updated),?",[0.05403874 0.05796803 0.8879933 ],neutral,-0.003929287
+"Microsoft helps launch Quantum Nexus,?",[0.04167595 0.04566277 0.91266125],neutral,-0.0039868206
+"""Microsoft, Facebook collab on co-packaged optics"",?",[0.03503197 0.02731803 0.93765   ],neutral,0.0077139493
+"Microsoft rolls out its Game Stack,?",[0.04740929 0.04715356 0.9054371 ],neutral,0.00025572628
+"Mizuho says Buy Microsoft on cloud assets,?",[0.07018537 0.02817262 0.901642  ],neutral,0.04201275
+"Microsoft brings PC games to Xbox,?",[0.06062099 0.01371165 0.9256674 ],neutral,0.04690934
+"Microsoft declares $0 46 dividend,?",[0.04655511 0.75341177 0.2000331 ],negative,-0.70685667
+"""Microsoft sues Foxconn unit, claiming unpaid royalties"",?",[0.0135657 0.9499634 0.036471 ],negative,-0.9363977
+"Microsoft's Windows 10 on 800M devices,?",[0.03405051 0.12254381 0.84340566],neutral,-0.0884933
+"DOJ holding tech forum to combat scams,?",[0.10037467 0.03362377 0.86600155],neutral,0.0667509
+"Microsoft signs solar agreement with Invenergy,?",[0.7536302  0.02364293 0.22272691],positive,0.72998726
+"Microsoft's South African data centers go online,?",[0.04016173 0.11851445 0.84132385],neutral,-0.07835272
+"Microsoft launching disc-less Xbox next month ,?",[0.07009456 0.05430822 0.8755973 ],neutral,0.015786339
+"Microsoft launches cloud security product,?",[0.29311094 0.01487574 0.6920133 ],neutral,0.2782352
+"""Volkswagen, Microsoft deepen cloud ties"",?",[0.24336793 0.08827105 0.668361  ],neutral,0.15509687
+"""Microsoft, VMware working on cloud partnership - report"",?",[0.06986533 0.01530837 0.91482633],neutral,0.05455696
+"Wedbush sees $1T valuation for Microsoft,?",[0.08671585 0.01612441 0.89715976],neutral,0.07059145
+"Devices unveiled at Mobile World Congress,?",[0.033048   0.04352384 0.9234282 ],neutral,-0.010475848
+"Exxon taps Microsoft for cloud services,?",[0.04153497 0.19917072 0.7592943 ],neutral,-0.15763575
+"Microsoft discovers hack targeting European democratic institutions,?",[0.02080989 0.8977225  0.08146764],negative,-0.8769126
+"""Videogame sales -19% in January, with Switch a bright spot"",?",[0.85715324 0.07760124 0.06524554],positive,0.779552
+"Hedge funds loaded up on tech shares,?",[0.05701644 0.47552985 0.46745378],negative,-0.41851342
+"Microsoft teases HoloLens 2 launch,?",[0.03363102 0.80930436 0.15706462],negative,-0.77567333
+"Microsoft backs facial recognition legislation,?",[0.49792036 0.04469785 0.45738173],positive,0.4532225
+"Microsoft Build starts May 6,?",[0.02661364 0.06797874 0.9054076 ],neutral,-0.041365102
+"Microsoft's anti-Office 2019 ad campaign,?",[0.03773166 0.55680406 0.40546432],negative,-0.5190724
+"Schumer-Sanders buyback block could hit big tech,?",[0.08233201 0.5144913  0.4031767 ],negative,-0.4321593
+"""Microsoft joins $250M round for """"boring AI"""""",?",[0.33026475 0.02732815 0.64240706],neutral,0.30293658
+"""Accenture, Microsoft launch business group"",?",[0.03330158 0.09073266 0.8759658 ],neutral,-0.05743108
+"Microsoft buys DataSense platform,?",[0.11750267 0.01409509 0.8684023 ],neutral,0.10340758
+"Microsoft launching cross-platform Xbox Live SDK,?",[0.08143987 0.04468597 0.8738741 ],neutral,0.0367539
+"Goldman trims its Microsoft target,?",[0.07390831 0.78759104 0.1385006 ],negative,-0.7136827
+"Microsoft guides in-line Q3 on call,?",[0.04114155 0.21792352 0.7409349 ],neutral,-0.17678197
+"""Microsoft -2% on mixed Q2, slowing Azure"",?",[0.5298028  0.4167749  0.05342232],positive,0.1130279
+"""Microsoft beats by $0 01, misses on revenue"",?",[0.08287254 0.7321451  0.1849824 ],negative,-0.64927256
+"Microsoft Q2 2019 Earnings Preview,?",[0.04475999 0.18913345 0.76610655],neutral,-0.14437346
+"""Gender, racial bias found in Amazon's Rekognition"",?",[0.04480088 0.1713879  0.7838112 ],neutral,-0.12658702
+"Pentagon probes Amazon over JEDI contract,?",[0.02038537 0.9212653  0.0583493 ],negative,-0.9008799
+"Microsoft acquires open-source software company,?",[0.128543   0.03369479 0.8377622 ],neutral,0.094848216
+"Microsoft's Bing partially returns to China,?",[0.08423529 0.12707789 0.7886868 ],neutral,-0.042842604
+"Microsoft wins Albertsons cloud in Amazon blow,?",[0.45955068 0.14230411 0.3981452 ],positive,0.31724656
+"Microsoft welcomes facial recognition regulations,?",[0.26070705 0.01501164 0.7242813 ],neutral,0.24569541
+"FT: Microsoft Bing blocked by China,?",[0.01493885 0.92390525 0.06115596],negative,-0.9089664
+"Accessories lead videogame sales to 2% December gain,?",[0.91539466 0.05070031 0.03390498],positive,0.86469436
+"Microsoft not focused on Cortana speakers,?",[0.03586072 0.29179725 0.67234206],neutral,-0.25593653
+"Microsoft ends Windows 10 Mobile support,?",[0.02699062 0.86074376 0.11226562],negative,-0.83375317
+"Microsoft's venture fund expands to India,?",[0.7907673  0.01546083 0.19377188],positive,0.77530646
+"""Walgreens, Microsoft sign major cloud deal"",?",[0.40443474 0.03929089 0.5562744 ],neutral,0.36514384
+"Morgan Stanley: Videogame makers winners if Amazon does cloud gaming,?",[0.44006333 0.04663629 0.51330036],neutral,0.39342704
+"Microsoft's Bing suggests illegal content - report,?",[0.02494459 0.8371219  0.13793352],negative,-0.8121773
+"Report: Amazon developing game-streaming service,?",[0.02825793 0.03959025 0.93215185],neutral,-0.011332318
+"Microsoft Teams gets shift worker features,?",[0.14232965 0.04440942 0.813261  ],neutral,0.097920224
+"""Microsoft, Kroger team on connected stores"",?",[0.03748944 0.04116758 0.921343  ],neutral,-0.0036781393
+"Scorecard for the markets in 2018,?",[0.0380905  0.0438242  0.91808534],neutral,-0.005733695
+"""Merck, Pfizer top Dow 2018 standings; Goldman Sachs slides to the bottom"",?",[0.0378437  0.8314235  0.13073282],negative,-0.7935798
+"Microsoft issues emergency IE patch,?",[0.03136717 0.847385   0.12124784],negative,-0.8160178
+"Mellanox +4% on report of Microsoft acquisition interest,?",[0.54124844 0.18801409 0.27073756],positive,0.35323435
+"BlackRock and Microsoft collab on retirement platform,?",[0.03474529 0.1005114  0.86474335],neutral,-0.06576611
+"Invesco QQQ ETF (QQQ) November Summary,?",[0.03507941 0.65835613 0.30656448],negative,-0.6232767
+"U S  stock markets mixed as Nasdaq edges up,?",[0.0224484  0.9583139  0.01923782],negative,-0.93586546
+"Report: Zuckerberg turns to Microsoft's Smith for advice,?",[0.03898451 0.12783724 0.8331783 ],neutral,-0.08885273
+"Market slump continues amid trade tensions,?",[0.02218224 0.9261874  0.05163034],negative,-0.90400517
+"""Microsoft confirms Edge revamp, coming to Mac"",?",[0.44299504 0.02224642 0.53475857],neutral,0.42074862
+"Microsoft said to ditch Edge browser for Chromium,?",[0.05482419 0.48815536 0.45702043],negative,-0.4333312
+"""Microsoft, Mastercard team for identity management"",?",[0.03126561 0.02731067 0.9414237 ],neutral,0.0039549377
+"Microsoft overtakes Apple as most valuable U S  company,?",[0.6532237  0.1794533  0.16732301],positive,0.47377038
+"Videogame sales rise 24% in Q3 summary look,?",[0.8379987  0.04040295 0.12159839],positive,0.79759574
+"WSJ: White House plans tech exec roundtable,?",[0.04340357 0.07013761 0.8864589 ],neutral,-0.02673404
+"Microsoft Surface monitor could arrive in 2020,?",[0.03200572 0.0233718  0.94462246],neutral,0.008633912
+"U S  Army could become major HoloLens customer,?",[0.16225532 0.01465895 0.8230857 ],neutral,0.14759636
+"Microsoft declares $0 46 dividend,?",[0.04655511 0.75341177 0.2000331 ],negative,-0.70685667
+"FTC head promises look at videogame 'loot boxes',?",[0.03318573 0.06519323 0.90162104],neutral,-0.0320075
+"Microsoft takes market cap crown from Apple,?",[0.20175213 0.215582   0.58266586],neutral,-0.013829872
+"""Microsoft, Google making Chrome work for Windows ARM"",?",[0.06573284 0.02140152 0.91286564],neutral,0.044331312
+"Key October releases pace videogame sales to record,?",[0.67088306 0.09587397 0.23324297],positive,0.5750091
+"Microsoft adds security key support,?",[0.24541587 0.03704502 0.71753913],neutral,0.20837085
+"Microsoft acquisition boosts 365 virtualization,?",[0.7693441  0.02352175 0.20713419],positive,0.74582237
+"""Microsoft, Nintendo loyal to E3 as PlayStation exits"",?",[0.11120349 0.17015071 0.7186458 ],neutral,-0.05894722
+"Microsoft alliance with Facebook signals shift in AI approach,?",[0.78083354 0.04037441 0.17879204],positive,0.74045914
+"Microsoft's new products tie to acquisitions,?",[0.02680131 0.02069065 0.95250803],neutral,0.006110659
+"Microsoft acquires AI bot startup,?",[0.08813184 0.17469253 0.7371756 ],neutral,-0.08656068
+"Microsoft acquires two RPG game studios,?",[0.31072813 0.02267024 0.6666016 ],neutral,0.2880579
+"Microsoft pays $1 3B in cash related to GitHub,?",[0.04178804 0.1155744  0.8426375 ],neutral,-0.07378636
+"Wedbush: Microsoft could win Pentagon cloud contract,?",[0.8961131  0.02350636 0.08038058],positive,0.87260675
+"Microsoft wins Gap cloud business,?",[0.7477447  0.07501186 0.17724343],positive,0.67273283
+"Invesco QQQ ETF (QQQ) October Summary,?",[0.03508775 0.6645182  0.30039406],negative,-0.6294304
+"Microsoft's Cortana head is leaving,?",[0.0283062  0.7625477  0.20914607],negative,-0.7342415
+"Moovit will bring public transport data to Microsoft Azure Maps,?",[0.066703   0.00638089 0.92691606],neutral,0.06032211
+"Microsoft and Walmart will open joint engineering office,?",[0.05791736 0.02337825 0.9187044 ],neutral,0.03453911
+"Xilinx gains on Microsoft chip order headlines (update),?",[0.6776802  0.24294738 0.07937245],positive,0.4347328
+"Microsoft partners with Nasdaq on blockchain system,?",[0.5601679  0.01740926 0.4224228 ],positive,0.54275864
+"Microsoft second most valuable U S  company,?",[0.35126072 0.2130775  0.43566182],neutral,0.13818322
+"Microsoft will keep working on military projects despite protests,?",[0.65241355 0.0365563  0.31103012],positive,0.61585724
+"Microsoft completes its GitHub acquisition,?",[0.1005     0.05114679 0.8483532 ],neutral,0.04935321
+"Microsoft guides Q2; Wedbush out positive,?",[0.6658821  0.18759257 0.14652535],positive,0.47828954
+"Tech giants seek assurances over Brexit,?",[0.6263978  0.19894513 0.17465706],positive,0.42745265
+"""Microsoft +2 9% on Q1 strength in cloud, Surface, and gaming"",?",[0.8851407  0.06736995 0.04748934],positive,0.8177708
+"""Microsoft beats by $0 20, beats on revenue"",?",[0.43926433 0.10757985 0.4531559 ],neutral,0.33168447
+"Microsoft Q1: What to watch,?",[0.0252367  0.05975591 0.91500735],neutral,-0.034519218
+"Accessories drive videogame sales to sixth straight gain in September,?",[0.87375945 0.0552217  0.07101888],positive,0.8185378
+"Reuters: CrowdStrike considers 1H19 IPO,?",[0.05755893 0.11518316 0.82725793],neutral,-0.057624232
+"Microsoft will tie CEO's pay to LinkedIn performance,?",[0.06080503 0.01247299 0.926722  ],neutral,0.04833203
+"Microsoft launches Spend app that could compete with SAP,?",[0.67603004 0.01896876 0.3050012 ],positive,0.6570613
+"EU approves Microsoft's GitHub buy,?",[0.7937026  0.04150471 0.16479276],positive,0.7521979
+"""Paul Allen, co-founder of Microsoft, dies"",?",[0.03999669 0.68886364 0.27113965],negative,-0.64886695
+"Microsoft +3% after Macquarie upgrade,?",[0.54756796 0.1483412  0.30409086],positive,0.39922678
+"""Early premarket losers include SQ, AMZN, NFLX"",?",[0.03787865 0.32265612 0.6394652 ],neutral,-0.28477746
+"Microsoft makes 60K patents open source for Linux,?",[0.05544287 0.02509174 0.91946536],neutral,0.030351127
+"IBM files protest against Pentagon cloud contract with one winner,?",[0.11596666 0.74253863 0.1414947 ],negative,-0.62657195
+"Report: Microsoft close to buying RPG game studio Obsidian,?",[0.18931559 0.0221571  0.7885273 ],neutral,0.16715848
+"Microsoft expands Azure towards that $10B Pentagon contract,?",[0.8114007  0.04781036 0.1407889 ],positive,0.76359034
+"Microsoft and Grab form strategic partnership,?",[0.37483406 0.02577913 0.5993868 ],neutral,0.34905493
+"Microsoft's GitHub deal set for EU approval,?",[0.09634109 0.01735214 0.88630676],neutral,0.07898895
+"Google drops out of race for $10B Pentagon cloud contract,?",[0.02847493 0.93061715 0.04090793],negative,-0.9021422
+"LinkedIn acquires employee engagement firm (update),?",[0.10689226 0.07483479 0.81827295],neutral,0.03205747
+"Microsoft unveils game streaming service with 2019 public trials,?",[0.0697525  0.01452777 0.91571975],neutral,0.055224728
+"Invesco QQQ ETF (QQQ) September Summary,?",[0.03470256 0.68927586 0.2760216 ],negative,-0.6545733
+"Reuters: EU will approve Microsoft's GitHub buy,?",[0.5601568 0.01779   0.4220532],positive,0.5423668
+"LinkedIn competitor raises $156M in private funding,?",[0.8345406  0.02608404 0.13937527],positive,0.80845654
+"Upwork opens its first day at $23,?",[0.15061674 0.03914725 0.81023604],neutral,0.111469485
+"Microsoft launches the Surface Pro 6 (updates),?",[0.04997116 0.02176086 0.92826796],neutral,0.028210295
+"Microsoft could reveal new Surface models today,?",[0.08983655 0.00965167 0.9005118 ],neutral,0.08018487
+"Freelance platform Upwork files for IPO,?",[0.03923907 0.12394577 0.8368152 ],neutral,-0.084706694
+"""Microsoft, Volkswagen collab on in-car cloud platform"",?",[0.03104953 0.04910605 0.91984445],neutral,-0.018056521
+"WSJ: Slack prepping IPO for early next year,?",[0.04079425 0.86967784 0.08952788],negative,-0.8288836
+"Consumer Reports returns recommendation to Microsoft Surface products,?",[0.19216764 0.05605859 0.7517738 ],neutral,0.13610905
+"Microsoft unveils AI-focused Azure Data Box,?",[0.09916461 0.03403877 0.8667966 ],neutral,0.06512584
+"""Microsoft announces new products, partners with SAP and Adobe"",?",[0.31502023 0.00950726 0.6754725 ],neutral,0.30551296
+"""Amazon updates Dot and Plus, launches Input and Sub (updates)"",?",[0.04149977 0.03158741 0.9269128 ],neutral,0.00991236
+"IBM launches bias-detection service for AI,?",[0.24872647 0.02586273 0.7254108 ],neutral,0.22286375
+"""EMarketer: Amazon will pass Oath, Microsoft in 2018 digital ad sales"",?",[0.3217071 0.0201677 0.6581253],neutral,0.3015394
+"""Hardware, accessories pace 26% jump in videogame sales"",?",[0.8595664  0.0374423  0.10299128],positive,0.82212406
+"Microsoft declares $0 46 dividend,?",[0.04655509 0.75341177 0.2000331 ],negative,-0.70685667
+"""Microsoft, Salesforce launch competing products"",?",[0.20602766 0.02517745 0.76879483],neutral,0.18085021
+"EU sets approval deadline for big tech deals,?",[0.1316279  0.07058772 0.7977843 ],neutral,0.061040178
+"Microsoft acquires AI startup Lobe,?",[0.12864485 0.05266951 0.8186856 ],neutral,0.07597534
+"Study: More than half of videogamers are multi-platform,?",[0.02516074 0.04037367 0.9344656 ],neutral,-0.015212925
+"Microsoft Surface event scheduled for October 2,?",[0.02051547 0.04054285 0.93894166],neutral,-0.020027382
+"Invesco QQQ ETF (QQQ) August Summary,?",[0.03432295 0.6914956  0.27418151],negative,-0.6571727
+"Nvidia -1 9% on report that Microsoft is considering Huawei chip,?",[0.45635933 0.38210756 0.1615331 ],positive,0.07425177
+"Pentagon extends deadline for JEDI cloud contract,?",[0.23317395 0.36523467 0.4015913 ],neutral,-0.13206072
+"Net veteran: Look to Netflix as route to solve social media ills,?",[0.62883884 0.02720075 0.3439604 ],positive,0.6016381
+"Reuters: U S  warns of Chinese espionage campaign on LinkedIn,?",[0.02164555 0.83793753 0.14041685],negative,-0.816292
+"Microsoft will allow unlimited device installs in Office 365,?",[0.07597058 0.00556353 0.9184659 ],neutral,0.07040705
+"Microsoft will require suppliers to offer 12 weeks paid leave,?",[0.02445473 0.87211764 0.10342765],negative,-0.8476629
+"Microsoft Azure now has Nvidia GPU Cloud support,?",[0.07156151 0.00678494 0.92165357],neutral,0.06477656
+"""Bucking privacy trends, Yahoo scanning mail for ad data"",?",[0.09122725 0.02834637 0.88042635],neutral,0.06288088
+"84% of companies dabbling in blockchain,?",[0.02898452 0.05727685 0.91373867],neutral,-0.028292332
+"Morgan Stanley expects bigger-than-usual Microsoft dividend,?",[0.5644307  0.13349365 0.30207562],positive,0.43093705
+"Microsoft unveils Xbox subscription service,?",[0.04588574 0.05587513 0.8982391 ],neutral,-0.009989392
+"""Facing new rules, techs press for federal privacy law"",?",[0.09246153 0.03434196 0.87319654],neutral,0.058119576
+"""Facebook, Microsoft meet with DHS and FBI for election briefing"",?",[0.02759885 0.07857355 0.8938276 ],neutral,-0.050974704
+"BuzzFeed: Major tech firms gathering to discuss election defense strategy,?",[0.04477169 0.09721033 0.85801804],neutral,-0.05243864
+"WSJ: Microsoft hit with U S  bribery probe over deals in Hungary,?",[0.01596669 0.954642   0.02939139],negative,-0.9386753
+"Report: Microsoft launching Xbox All Access hardware plan ,?",[0.05711062 0.01451829 0.9283711 ],neutral,0.04259233
+"""Videogame sales +14% in July as hardware, accessories jump"",?",[0.7578824  0.19794928 0.04416827],positive,0.5599331
+"Marketers laud ad growth prospects at Instagram,?",[0.35876328 0.2588054  0.38243133],neutral,0.09995788
+"Israel won't renew Microsoft software contract citing cost,?",[0.02642429 0.9263351  0.04724064],negative,-0.8999108
+"Slack raises $427M to $7 1B valuation,?",[0.7431091  0.0722934  0.18459745],positive,0.6708157
+"Microsoft initiative against election hackers,?",[0.04047772 0.49242115 0.46710107],negative,-0.45194343
+"""Amazon, Microsoft tie-up comes to public preview"",?",[0.02811136 0.02300452 0.9488841 ],neutral,0.0051068403
+"""WSJ: Microsoft retooling Cortana, Alexa collab could launch this week"",?",[0.09596507 0.02181487 0.8822201 ],neutral,0.074150205
+"""Jana gets back into Facebook; discloses stakes in Alphabet, Wells Fargo"",?",[0.0326164  0.08707663 0.88030696],neutral,-0.054460235
+"Microsoft releases government cloud product; Nadella sells shares,?",[0.03407343 0.0270003  0.9389263 ],neutral,0.007073134
+"The latest portfolio moves by Third Point,?",[0.09266829 0.05257888 0.8547529 ],neutral,0.040089417
+"Nintendo Switch Online to come in late September,?",[0.02975419 0.06341814 0.90682775],neutral,-0.03366396
+"Invesco QQQ ETF (QQQ) July Summary,?",[0.03542691 0.6675748  0.29699832],negative,-0.6321479
+"Bitcoin coming to Starbucks ,?",[0.04176537 0.18321146 0.77502316],neutral,-0.1414461
+"Intercontinental Exchange forms new company for digital asset ecosystem,?",[0.21396396 0.0075347  0.77850133],neutral,0.20642926
+"Videogame sales up for third straight month,?",[0.88211006 0.06801742 0.04987256],positive,0.81409264
+"The Information: Capital One switches from Microsoft to Google cloud products,?",[0.05080644 0.02568294 0.9235106 ],neutral,0.025123509
+"Opera prices IPO at $12/share,?",[0.04678717 0.15564147 0.7975713 ],neutral,-0.108854294
+"Microsoft CEO questioned about ICE contract,?",[0.02335785 0.9121334  0.06450878],negative,-0.8887755
+"Pentagon requests final proposals for $10B cloud contract,?",[0.51212263 0.02352178 0.46435562],positive,0.48860085
+"Piper Jaffray raises its Microsoft target to near $1T market cap,?",[0.85024333 0.05166822 0.0980885 ],positive,0.7985751
+"Microsoft hits all-time high after earnings strength,?",[0.8067465  0.10572633 0.08752716],positive,0.7010201
+"Analysts boost Microsoft targets after strong earnings,?",[0.84537977 0.08659049 0.06802969],positive,0.7587893
+"Microsoft +3 7% after upside Q1 guidance,?",[0.2917952  0.5924183  0.11578654],negative,-0.30062312
+"""Microsoft reports Q4 beats with Azure +89%, Surface +35%"",?",[0.2988951  0.04842163 0.65268326],neutral,0.25047347
+"""Microsoft beats by $0 05, beats on revenue"",?",[0.49653733 0.09351913 0.40994358],positive,0.4030182
+"Microsoft will launch new Xbox hardware next month,?",[0.06390888 0.00956726 0.92652386],neutral,0.05434163
+"""Walmart, Microsoft deepen tech partnership"",?",[0.74902093 0.02224123 0.22873785],positive,0.7267797
+"Microsoft urges regulation of facial recognition,?",[0.05713335 0.01460356 0.9282631 ],neutral,0.042529795
+"Microsoft Teams gets free version to battle Slack,?",[0.5395132  0.14701231 0.3134745 ],positive,0.39250088
+"""Microsoft hits new high, $800B market cap"",?",[0.6890242  0.06018362 0.25079212],positive,0.62884057
+"Cloud data warehouse comes to Azure after Walmart pressure,?",[0.15389477 0.23784207 0.6082632 ],neutral,-0.0839473
+"Pentagon says final proposals for cloud contract coming soon,?",[0.12180714 0.03081999 0.84737283],neutral,0.09098715
+"CNBC: Microsoft makes cuts to international sales force,?",[0.03298296 0.9445034  0.02251364],negative,-0.9115205
+"Surface Go available for pre-order,?",[0.03444807 0.05913493 0.90641695],neutral,-0.024686862
+"Invesco QQQ ETF (QQQ) June Summary,?",[0.03586828 0.6563134  0.30781835],negative,-0.62044513
+"Browser maker Opera files for $115M US IPO,?",[0.05479658 0.03168228 0.9135212 ],neutral,0.023114298
+"""Microsoft discusses """"pocketable"""" Surface device in leaked email"",?",[0.03115572 0.06098311 0.9078612 ],neutral,-0.029827392
+"LinkedIn leans on Azure for new translation feature,?",[0.0672942 0.0568245 0.8758813],neutral,0.010469697
+"Microsoft launches two new regions in China,?",[0.15730833 0.0232374  0.8194543 ],neutral,0.13407093
+"Atlantic Equities sees Microsoft Azure topping $100B in revenue in 10 years,?",[0.87959284 0.03611413 0.08429302],positive,0.8434787
+"EU votes for tougher copyright rules,?",[0.57519025 0.16208103 0.26272875],positive,0.4131092
+"Videogame sales up for 2nd month with hardware driving,?",[0.9120904  0.04043198 0.04747758],positive,0.87165844
+"Microsoft acquires machine learning startup for autonomous systems,?",[0.38494968 0.02127067 0.5937797 ],neutral,0.36367902
+"""Microsoft announces two datacenter regions in Norway, Equinor agreement"",?",[0.28800184 0.01551729 0.6964809 ],neutral,0.27248454
+"Microsoft releases statement on border separations after ICE protests,?",[0.05655986 0.79190814 0.15153201],negative,-0.7353483
+"Microsoft acquires video sharing platform for education,?",[0.32580438 0.02058742 0.6536082 ],neutral,0.30521697
+"Microsoft declares $0 42 dividend,?",[0.04457817 0.76985544 0.18556646],negative,-0.72527725
+"Microsoft takes aim at Amazon Go,?",[0.04138528 0.49241456 0.4662001 ],negative,-0.45102927
+"""Microsoft plans Xbox for 2020, HoloLens for 2019, and Surface products this year"",?",[0.03607734 0.01085754 0.95306504],neutral,0.02521979
+"Baird restates bullish videogame take on cusp of E3,?",[0.21841805 0.41603988 0.36554208],negative,-0.19762184
+"CNBC: Microsoft is working on AI chips for Azure,?",[0.06876117 0.00982298 0.92141587],neutral,0.058938194
+"Microsoft acquires four gaming studios to boost Xbox titles,?",[0.87801236 0.01904674 0.10294098],positive,0.85896564
+"Invesco QQQ ETF (QQQ) May Summary,?",[0.03575392 0.66222495 0.30202115],negative,-0.62647104
+"Microsoft launches initiative to hire women reentering the workforce,?",[0.72281414 0.04770432 0.22948147],positive,0.6751098
+"CNBC: Google was in talks for GitHub buy but Microsoft won out,?",[0.12119979 0.08561393 0.7931863 ],neutral,0.035585865
+"""SAP unveils new bundled product, announces acquisition"",?",[0.06517836 0.00796828 0.92685336],neutral,0.057210084
+"Invesco QQQ Trust ETF (QQQ) May Summary,?",[0.0425143  0.48863408 0.46885163],negative,-0.4461198
+"Microsoft acquires GitHub for $7 5B,?",[0.07910537 0.01769114 0.9032035 ],neutral,0.061414227
+"Bloomberg: Microsoft could announce GitHub acquisition today,?",[0.03632848 0.03717811 0.92649335],neutral,-0.00084962696
+"Data sharing deals plague Facebook,?",[0.02114386 0.8509288  0.12792735],negative,-0.8297849
+"Business Insider: Microsoft in talks to acquire GitHub,?",[0.04012674 0.03891132 0.920962  ],neutral,0.0012154169
+"""VMware plans to expand to Microsoft, Google cloud platforms"",?",[0.41739914 0.0088175  0.5737834 ],neutral,0.40858164
+"Microsoft research on brain implants,?",[0.02908665 0.0593997  0.9115136 ],neutral,-0.030313056
+"Pentagon indefinitely delays cloud contract amid tech co  concerns,?",[0.0130272  0.96297765 0.02399523],negative,-0.94995046
+"""Mapping startup partners with Microsoft, Intel, and SoftBank"",?",[0.3360529  0.01198837 0.6519587 ],neutral,0.32406452
+"Microsoft tops Alphabet's market cap,?",[0.7590692  0.03993272 0.20099802],positive,0.7191365
+"Videogame sales rise 18% in April with broad gains as Sony scores,?",[0.9360512  0.03124604 0.03270276],positive,0.9048051
+"Microsoft dips further into 'conversational AI',?",[0.01968742 0.93659204 0.04372049],negative,-0.9169046
+"Microsoft set to unveil Xbox Adaptive Controller,?",[0.03534453 0.01851841 0.946137  ],neutral,0.016826121
+"Morgan Stanley selects 30 stocks for a three-year sideways market,?",[0.05414661 0.02172215 0.9241312 ],neutral,0.032424465
+"France's Macron meeting with tech leaders May 23,?",[0.0365427  0.09958567 0.86387163],neutral,-0.06304297
+"Bloomberg: Microsoft plans lower-cost Surface tablets to battle Apple,?",[0.5303298  0.04887945 0.42079073],positive,0.48145038
+"""Corvex adds ServiceNow, exits Comcast in Q1"",?",[0.06474773 0.08190629 0.853346  ],neutral,-0.01715856
+"Top portfolio adds and drops at 3G Capital,?",[0.013104   0.9614338  0.02546214],negative,-0.9483298
+"Microsoft announces Surface Hub 2,?",[0.06038117 0.06992692 0.8696919 ],neutral,-0.009545743
+"Pentagon explains single winner for cloud contract,?",[0.5261094  0.09818412 0.3757065 ],positive,0.4279253
+"DoT announces drone project winners,?",[0.2382458  0.09550936 0.6662448 ],neutral,0.14273643
+"Analyst suggests Microsoft will buy Netflix for content access,?",[0.25355396 0.01123344 0.73521256],neutral,0.24232052
+"""Microsoft Build 2018: DJI partners, HoloLens Layout, AI models (update)"",?",[0.03356102 0.02723237 0.93920654],neutral,0.0063286424
+"Microsoft CEO reveals cloud advantage; Cortana gets easier for developers,?",[0.584748  0.0425071 0.3727449],positive,0.5422409
+"2018 Berkshire Hathaway annual meeting updates,?",[0.02581791 0.05896256 0.9152196 ],neutral,-0.033144645
+"Carbon Black +30% on public debut,?",[0.07149708 0.43446773 0.49403524],neutral,-0.36297065
+"Microsoft and Apple in talks to lift bans in UAE,?",[0.25691268 0.5583285  0.18475886],negative,-0.30141583
+"PowerShares QQQ Trust ETF (QQQ) April Summary,?",[0.0463824  0.302746   0.65087163],neutral,-0.2563636
+"Cyren signs contract expansion with Microsoft; shares +5 9%,?",[0.84322566 0.02364703 0.13312727],positive,0.81957865
+"""Analyst upgrades Microsoft, raises target to 17% upside"",?",[0.6856691  0.12011664 0.19421424],positive,0.5655525
+"""Smartsheet prices IPO at $15, above prior range"",?",[0.21954694 0.03726777 0.7431853 ],neutral,0.18227917
+"""Microsoft issues upside guidance, receives analyst upgrade; shares +3 9%"",?",[0.8054396  0.06530335 0.12925705],positive,0.74013627
+"""Microsoft beats Q3 estimates; reports Azure, Office 365 strength"",?",[0.76197463 0.12396226 0.11406307],positive,0.63801235
+"""Microsoft beats by $0 10, beats on revenue"",?",[0.49731854 0.10813379 0.3945476 ],positive,0.38918474
+"Notable earnings after Thursday 셲 close,?",[0.30711547 0.08402152 0.608863  ],neutral,0.22309394
+"Videogame sales fall back 11%; 'Far Cry 5' posts strong launch,?",[0.40181428 0.578288   0.01989766],negative,-0.17647374
+"Microsoft denies audit of Indian partner,?",[0.02495878 0.88280064 0.0922406 ],negative,-0.85784185
+"Morgan Stanley updates high conviction list,?",[0.06634291 0.16761479 0.76604235],neutral,-0.10127188
+"Meet the electric/autonomous vehicle ETF,?",[0.23053285 0.02674676 0.7427204 ],neutral,0.2037861
+"""Supreme Court dismisses Microsoft, DoJ privacy case"",?",[0.0354181  0.82023066 0.14435124],negative,-0.78481257
+"""Microsoft, Facebook among tech cos signing Cybersecurity Tech Accord"",?",[0.81722814 0.01971138 0.16306044],positive,0.79751676
+"Microsoft and MediaTek collaborate on IoT chipset,?",[0.08183235 0.01345344 0.9047142 ],neutral,0.0683789
+"Facebook updates with post on logged-out data collection,?",[0.03225283 0.06004102 0.90770614],neutral,-0.027788185
+"Bloomberg: Oracle leads anti-Amazon lobby in Pentagon contract bid,?",[0.11319425 0.18566094 0.7011448 ],neutral,-0.072466694
+"PC shipments fall for 14th straight quarter,?",[0.01104653 0.97610533 0.01284819],negative,-0.9650588
+"Microsoft and C3 IoT announce partnership,?",[0.43032923 0.02868369 0.5409871 ],neutral,0.40164554
+"Social media watch amid Zuckerberg testimony,?",[0.03749084 0.619066   0.34344313],negative,-0.58157516
+"Carbon Black files for IPO,?",[0.0447173  0.11949273 0.8357899 ],neutral,-0.07477543
+"Recode: Amazon led R&amp;D spending last year,?",[0.15492001 0.14272423 0.7023558 ],neutral,0.012195781
+"Microsoft will invest $5B in IoT over four years,?",[0.22084755 0.00811733 0.77103513],neutral,0.21273021
+"Microsoft backs DoJ in asking Supreme Court to drop case,?",[0.02599308 0.91861707 0.05538983],negative,-0.892624
+"DoJ asks Supreme Court to drop Microsoft case due to CLOUD Act,?",[0.02058862 0.9242244  0.05518697],negative,-0.90363574
+"Microsoft announces new Azure regions in Australia,?",[0.09555552 0.03274627 0.8716982 ],neutral,0.06280926
+"Microsoft announces major reorganization including AI focus,?",[0.14605102 0.05540024 0.7985487 ],neutral,0.090650775
+"Smartsheet files for $100M IPO with growing losses,?",[0.36151123 0.18650256 0.45198613],neutral,0.17500867
+"Morgan Stanley raises Microsoft target to $1T market cap,?",[0.77038884 0.0827276  0.1468835 ],positive,0.68766123
+"Microsoft signs licensing agreement with cloud recovery company,?",[0.8884265  0.01349352 0.09808008],positive,0.87493294
+"Microsoft purchases solar power from Virginia,?",[0.03749789 0.01846615 0.94403595],neutral,0.019031746
+"More analysts weigh in on Salesforce's MuleSoft purchase,?",[0.09862199 0.17158458 0.7297935 ],neutral,-0.07296258
+"Videogame sales build on 2018 with 23% February gains,?",[0.9293047  0.03899295 0.03170226],positive,0.8903118
+"BlackBerry +5% on enterprise partnership with Microsoft,?",[0.89606047 0.02666412 0.07727543],positive,0.8693963
+"Cowen raises its Microsoft target to 11% upside,?",[0.7886566  0.04741359 0.16392988],positive,0.741243
+"""Microsoft launches cloud gaming division, offers $250K CPU bug bounty"",?",[0.03481287 0.8698692  0.09531795],negative,-0.8350563
+"Microsoft AI reaches human parity in Chinese-English translation,?",[0.9219468  0.02029638 0.05775671],positive,0.9016504
+"21Vianet and Microsoft extend cloud partnership in China,?",[0.8548841  0.02296314 0.12215289],positive,0.8319209
+"Microsoft will open first Middle East data centers in 2019,?",[0.19218883 0.00889387 0.79891735],neutral,0.18329495
+"Microsoft reportedly opens two German data centers,?",[0.1306759  0.04814067 0.82118344],neutral,0.08253522
+"Microsoft in spotlight over harassment complaints,?",[0.0148222  0.95052755 0.03465021],negative,-0.93570536
+"Microsoft declares $0 42 dividend,?",[0.04457816 0.76985544 0.18556641],negative,-0.7252773
+"Microsoft: 200K organizations now use Teams,?",[0.02940249 0.03986772 0.9307298 ],neutral,-0.010465233
+"Videogame stocks higher as White House summit eyes violence,?",[0.4443092  0.47138405 0.08430678],negative,-0.027074844
+"Microsoft signs solar power agreement in India,?",[0.5850601  0.04323813 0.37170178],positive,0.541822
+"Microsoft launching on-premise Azure for governments,?",[0.08223569 0.01242596 0.90533835],neutral,0.069809735
+"Microsoft buying output from Singapore clean energy project,?",[0.09338986 0.05621925 0.8503909 ],neutral,0.037170608
+"Axios: Microsoft's Cortana gets new leader,?",[0.4413508  0.0337904  0.52485883],neutral,0.40756038
+"""Alphabet roundup: Google launches Slack competitor, snippets; Waymo does demo"",?",[0.05713257 0.07320518 0.8696622 ],neutral,-0.016072612
+"""Microsoft pushes into healthcare with new Azure tool, cloud blueprints"",?",[0.69912803 0.01030847 0.2905635 ],positive,0.6888196
+"Supreme Court seems split on Microsoft data case,?",[0.03363793 0.73117405 0.23518802],negative,-0.6975361
+"Microsoft privacy case heads to Supreme Court,?",[0.0897685  0.19721833 0.7130131 ],neutral,-0.10744983
+"Supreme Court will decide on Microsoft data case by June,?",[0.05999078 0.11615802 0.8238512 ],neutral,-0.056167237
+"Venture capital deals of the week,?",[0.03981891 0.09317428 0.8670068 ],neutral,-0.053355373
+"""Microsoft and Xiaomi will collaborate on cloud, AI, and hardware"",?",[0.66460204 0.01000222 0.32539573],positive,0.65459985
+"Intel collaborates with PC makers for 5G connection,?",[0.19903728 0.00968963 0.79127306],neutral,0.18934765
+"Videogame sales jump 59% to best January in seven years,?",[0.88033617 0.08395705 0.0357068 ],positive,0.7963791
+"Venture capital deals of the week,?",[0.03981891 0.09317428 0.8670068 ],neutral,-0.053355373
+"Walmart in talks for major Flipkart stake,?",[0.05458907 0.03402634 0.9113846 ],neutral,0.02056273
+"Microsoft builds up Teams with Chalkup tech,?",[0.24161725 0.01786058 0.7405222 ],neutral,0.22375667
+"IBM sues former exec moving to Microsoft,?",[0.01691291 0.901268   0.08181912],negative,-0.8843551
+"""Microsoft Build scheduled for May 7 to 9, overlaps with Google I/O"",?",[0.04898629 0.02180484 0.9292089 ],neutral,0.027181448
+"Market cap wars: Amazon aims for No  3 spot,?",[0.32255206 0.13478778 0.5426602 ],neutral,0.18776427
+"""Microsoft's free offer for Google, Box customers"",?",[0.06731295 0.00928601 0.923401  ],neutral,0.058026943
+"Argus raises Microsoft target to 22% upside,?",[0.7277721  0.05959927 0.21262865],positive,0.66817284
+"Analysts raise Microsoft price targets after earnings,?",[0.13403365 0.22966784 0.6362985 ],neutral,-0.09563419
+"Microsoft Q3 guidance beats revenue estimates,?",[0.43521455 0.2694378  0.29534766],positive,0.16577676
+"""Microsoft -1 3% despite Q2 beats, 98% Azure growth"",?",[0.75424224 0.13310763 0.11265015],positive,0.62113464
+"""Microsoft beats by $0 09, beats on revenue"",?",[0.50655353 0.09565052 0.39779595],positive,0.410903
+"Microsoft update disables Spectre patch,?",[0.01975303 0.9148983  0.06534872],negative,-0.89514524
+"Microsoft acquires backend game platform provider for Azure,?",[0.43213496 0.04336596 0.52449906],neutral,0.388769
+"Venture capital deals of the week,?",[0.03981889 0.09317424 0.8670069 ],neutral,-0.05335535
+"Nomura initiates Microsoft with 11% upside,?",[0.16597329 0.0695998  0.7644269 ],neutral,0.09637349
+"""PlayStation, Xbox vet Phil Harrison joins Google"",?",[0.04424424 0.08919946 0.8665563 ],neutral,-0.044955216
+"Stifel raises its Microsoft price target ahead of Q2 results,?",[0.52361214 0.09468147 0.38170642],positive,0.42893067
+"Sanctions bite: Microsoft curbs sales in Russia,?",[0.01382546 0.9571547  0.02901979],negative,-0.9433292
+"Videogames close 2017 with 11% year-over-year sales gain,?",[0.88808024 0.04787908 0.06404067],positive,0.84020114
+"Hardware push lifts December videogame sales 10% from 2016,?",[0.89604264 0.0783862  0.02557115],positive,0.81765646
+"AI beats humans in Stanford reading test,?",[0.42764974 0.26683736 0.3055129 ],positive,0.16081238
+"Venture capital deals of the week,?",[0.03981889 0.09317424 0.8670069 ],neutral,-0.05335535
+"Barclays increases Microsoft's price target ahead of Q2 earnings,?",[0.5569684  0.06995548 0.37307617],positive,0.48701292
+"Microsoft brings end-to-end encryption to Skype,?",[0.06135699 0.00815308 0.93048996],neutral,0.053203903
+"""Microsoft pushes Cortana reference designs, integration potential"",?",[0.64069784 0.02149994 0.33780226],positive,0.6191979
+"Microsoft suspends some chip patches due to PC freezing,?",[0.01242613 0.9626644  0.02490942],negative,-0.9502383
+"Venture capital deals of the week,?",[0.03981889 0.09317424 0.8670069 ],neutral,-0.05335535
+"Coming soon: Microsoft's $319 Cortana-powered thermostat,?",[0.11640165 0.01609299 0.8675053 ],neutral,0.100308664
+"Oppenheimer ESG Revenue ETF (ESGL) December Summary,?",[0.04662686 0.3632357  0.5901374 ],neutral,-0.31660885
+"Microsoft acquiring cloud provider Avere Systems,?",[0.05619033 0.05355771 0.89025193],neutral,0.0026326254
+"""Boeing, Caterpillar top Dow 2017 standings; GE lags far behind"",?",[0.20404077 0.4746399  0.3213193 ],negative,-0.27059913
+"""WhatsApp ending support for BlackBerry OS, Windows Phones"",?",[0.15406711 0.02568606 0.8202469 ],neutral,0.12838106
+"FireEye +1 4% after The Information predicts Microsoft acquisition,?",[0.11188927 0.24545106 0.64265966],neutral,-0.13356179
+"""Jefferies: Microsoft tops cloud market revenue, Alibaba tops in Y/Y growth"",?",[0.7853999  0.05908204 0.155518  ],positive,0.7263179
+"U S  says Facebook fought off cyber attacks; Germany questions data use,?",[0.04896739 0.53928167 0.411751  ],negative,-0.49031428
+"Venture capital deals of the week,?",[0.03981891 0.09317428 0.8670068 ],neutral,-0.053355373
+"Videogame sales jump 30% from last year as holidays fire up,?",[0.92985225 0.03975351 0.03039429],positive,0.89009875
+"White House enlists major cloud provider for IT overhaul,?",[0.46289805 0.03618334 0.5009186 ],neutral,0.42671472
+"""Microsoft launches quantum programming language, commits $50M to AI drive"",?",[0.23207195 0.01187052 0.7560575 ],neutral,0.22020143
+"CNBC: Microsoft and Google spoke to Qualcomm against Broadcom offer,?",[0.03118312 0.90640295 0.0624139 ],negative,-0.8752198
+"""Evercore raises Microsoft price target, sees $1T valuation by FY21"",?",[0.4294106  0.02265853 0.5479308 ],neutral,0.40675208
+"EU filing brief in Supreme Court case involving Microsoft data,?",[0.04574416 0.5523003  0.40195554],negative,-0.5065561
+"Microsoft unveils laptops featuring Qualcomm chips,?",[0.04650427 0.02715531 0.9263404 ],neutral,0.019348968
+"Microsoft extends its NFL deal for Surface tablets,?",[0.86363065 0.02047809 0.11589123],positive,0.8431526
+"Oppenheimer ESG Revenue ETF (ESGL) November Summary,?",[0.04729488 0.29156172 0.6611434 ],neutral,-0.24426684
+"Microsoft adds four new board members,?",[0.09067657 0.02742061 0.8819029 ],neutral,0.06325596
+"Microsoft declares $0 42 dividend,?",[0.04457816 0.76985544 0.18556641],negative,-0.7252773
+"Windows 10 reaches 600M active monthly devices,?",[0.34403926 0.04736644 0.6085943 ],neutral,0.29667282
+"Microsoft to rebuild its Redmond campus,?",[0.04827414 0.47630054 0.4754253 ],negative,-0.4280264
+"""Microsoft, SAP expand cloud partnership"",?",[0.46124876 0.02011486 0.5186364 ],neutral,0.4411339
+"Microsoft facing patent lawsuit over HoloLens,?",[0.01929937 0.92476827 0.05593238],negative,-0.9054689
+"China's Great Firewall claims new victims,?",[0.02628931 0.8675316  0.10617905],negative,-0.8412423
+"Moody's: Tech sector could hold half of cash and liquid investments this year,?",[0.06211616 0.05704492 0.88083893],neutral,0.005071245
+"""Videogame sales slip in October, before crucial holidays"",?",[0.01154156 0.96673965 0.02171869],negative,-0.9551981
+"Top 3G Capital portfolio adds and drops,?",[0.01596647 0.96229774 0.02173577],negative,-0.94633126
+"Microsoft launches Xbox One game gifting; company commits to emission reduction,?",[0.6831086  0.01421713 0.30267426],positive,0.6688915
+"Kroger bypasses Amazon for cloud investing,?",[0.04142427 0.41229138 0.5462843 ],neutral,-0.3708671
+"""Latest cloud pals: Salesforce, Google"",?",[0.03407663 0.06249961 0.9034238 ],neutral,-0.028422974
+"Microsoft signs 10-year wind power agreement with Sweden-backed supplier,?",[0.91090834 0.01507299 0.07401862],positive,0.89583534
+"Tech firms voice support for 'Dreamers',?",[0.3592427 0.1523506 0.4884066],neutral,0.2068921
+"Microsoft is working on AI chips,?",[0.03714795 0.0242213  0.93863076],neutral,0.012926651
+"""Argus upgrades Microsoft on cloud, Office 365 potential"",?",[0.21169102 0.04518067 0.74312836],neutral,0.16651036
+"Microsoft cancels premium Outlook service to bundle features into Office 365,?",[0.01373375 0.95898676 0.02727957],negative,-0.945253
+"Microsoft and Chevron announce Azure partnership,?",[0.37566933 0.02504744 0.5992832 ],neutral,0.35062188
+"Analysts raise Microsoft price targets after earnings,?",[0.13403365 0.22966784 0.6362985 ],neutral,-0.09563419
+"""Microsoft up after Q1 beats, achieves $20B Cloud goal"",?",[0.90876955 0.01524922 0.07598135],positive,0.89352036
+"""Microsoft beats by $0 12, beats on revenue"",?",[0.4813304  0.10092792 0.4177417 ],positive,0.38040248
+"What to look for in Microsoft's Q1 earnings today,?",[0.05090394 0.02415441 0.9249416 ],neutral,0.026749529
+"""GE, Microsoft to announce industrial cloud partnership"",?",[0.16399749 0.01105481 0.8249477 ],neutral,0.15294267
+"Microsoft ends Kinect manufacturing,?",[0.02078326 0.86520827 0.1140084 ],negative,-0.844425
+"""Microsoft releases Teams roadmap, beta version of Azure Container Service"",?",[0.06815548 0.0066599  0.9251846 ],neutral,0.061495587
+"Microsoft and Parexel announce life science tech cloud initiative,?",[0.11992665 0.01981063 0.86026275],neutral,0.10011602
+"Microsoft to drop data request lawsuit,?",[0.02335882 0.88896585 0.08767538],negative,-0.865607
+"Cray and Microsoft announce alliance bringing supercomputing to Azure,?",[0.8351271  0.01933722 0.1455356 ],positive,0.8157899
+"Microsoft's smart speaker launches this weekend,?",[0.0791083  0.02308223 0.89780945],neutral,0.05602607
+"Tech companies to lobby for 'Dreamers',?",[0.05140419 0.25676984 0.691826  ],neutral,-0.20536566
+"Microsoft and Green Bay Packers team up on Wisconsin tech initiative,?",[0.71943176 0.04111182 0.23945639],positive,0.67831993
+"""Native American tribe suing Microsoft, Amazon over patents it holds"",?",[0.02792867 0.7921483  0.17992309],negative,-0.76421964
+"Microsoft focused on AI investments,?",[0.02819348 0.04323997 0.9285666 ],neutral,-0.0150464885
+"EU-U S  Privacy Shield to pass review,?",[0.3345226  0.13587616 0.5296012 ],neutral,0.19864644
+"""In slowing PC market, Microsoft adds another Surface model"",?",[0.45122874 0.03155157 0.51721966],neutral,0.41967717
+"Microsoft's secret database hack in 2013,?",[0.03320418 0.75540566 0.21139015],negative,-0.72220147
+"Microsoft nominates two board members,?",[0.04362508 0.08608876 0.8702861 ],neutral,-0.04246368
+"""Supreme Court will decide on Microsoft, DOJ fight over international emails"",?",[0.04703382 0.30925772 0.64370847],neutral,-0.2622239
+"""Alibaba, Red Hat announce cloud partnership"",?",[0.04565699 0.05165393 0.90268904],neutral,-0.005996939
+"""Microsoft roundup: Windows 10 release, Russia ad investigation, and an AI award"",?",[0.21917458 0.04089556 0.7399298 ],neutral,0.17827901
+"""Microsoft ends new features, hardware for Windows 10 Mobile"",?",[0.15003754 0.01692568 0.8330368 ],neutral,0.13311186
+"""Microsoft, GE announce 15-year wind energy deal in Ireland"",?",[0.19175404 0.011671   0.79657495],neutral,0.18008304
+"Research firms weigh in on potential Windows Mixed Reality sales,?",[0.06044733 0.14697832 0.7925744 ],neutral,-0.08653099
+"Cortana smart speaker coming soon for $199,?",[0.06820582 0.02931787 0.90247625],neutral,0.038887948
+"Microsoft Edge preview comes to iOS and Android,?",[0.03404582 0.02776691 0.93818724],neutral,0.0062789153
+"Canaccord Genuity upgrades Microsoft on growth drivers,?",[0.7746661  0.04471068 0.18062317],positive,0.7299554
+"""Microsoft roundup: VR acquisition, Halo: Recruit launch date, new Samsung headset"",?",[0.02753987 0.02074792 0.9517122 ],neutral,0.0067919474
+"NetApp and Microsoft bring NFS to Azure,?",[0.06823022 0.01615137 0.91561836],neutral,0.05207885
+"Oppenheimer ESG Revenue ETF (ESGL) September Summary,?",[0.04753814 0.34353638 0.60892546],neutral,-0.29599825
+"Microsoft will shift music streaming customers to Spotify,?",[0.05485508 0.02128226 0.92386264],neutral,0.033572823
+"""EY, Microsoft to collaborate on automotive data analysis solution"",?",[0.7681542  0.01404259 0.21780314],positive,0.7541116
+"Microsoft Surface Pro LTE launching December 1 ,?",[0.02989101 0.02892028 0.9411887 ],neutral,0.0009707343
+"Wal-Mart to give wide rollout to Facebook's Slack rival,?",[0.39640382 0.1205639  0.48303232],neutral,0.27583992
+"Microsoft announces Office 2019 release date,?",[0.02783404 0.1086945  0.86347145],neutral,-0.08086046
+"""Apple ditches Bing for Google, releases macOS Sierra"",?",[0.04400787 0.27713045 0.6788617 ],neutral,-0.23312259
+"""Microsoft announces updates to enterprise software, machine learning, and cloud"",?",[0.42627746 0.01241958 0.56130296],neutral,0.41385788
+"Cloud battle heads to the Middle East,?",[0.06905465 0.200496   0.7304494 ],neutral,-0.13144135
+"Microsoft announces Ford AR expansion; new retail store coming to London ,?",[0.23245287 0.03277189 0.73477525],neutral,0.19968098
+"""Dell EMC, Microsoft announce $1B Air Force contract"",?",[0.2200941  0.05308416 0.7268217 ],neutral,0.16700995
+"Microsoft starts pre-orders for standard Xbox One X console,?",[0.18396172 0.06852186 0.7475164 ],neutral,0.115439855
+"""Twitter board: Johnston out, Pichette in"",?",[0.04543469 0.2563251  0.6982402 ],neutral,-0.21089041
+"Microsoft declares $0 42 dividend,?",[0.04457817 0.76985544 0.18556646],negative,-0.72527725
+"""Microsoft promotes Phil Spencer to VP of Gaming, Senior Leadership Team"",?",[0.44926497 0.02272889 0.52800614],neutral,0.42653608
+"Microsoft Windows Mixed Reality event coming October 3,?",[0.02768521 0.05356167 0.9187531 ],neutral,-0.025876455
+"Juniper Research: IBM seen as blockchain leader over Microsoft,?",[0.852478   0.04229815 0.10522384],positive,0.8101799
+"McDonald's among those to hike dividends next week; Barnes &amp; Noble to cut - Bloomberg,?",[0.03728933 0.8404118  0.12229887],negative,-0.80312246
+"AWS gets boost from Defense Department,?",[0.8998787  0.03167102 0.06845028],positive,0.86820763
+"Microsoft announces Azure confidential computing,?",[0.05093355 0.14062369 0.8084427 ],neutral,-0.089690134
+"Microsoft Edge browser now on 330M active devices,?",[0.03188633 0.03931865 0.928795  ],neutral,-0.0074323267
+"JD com hires Microsoft veteran to give lift to cloud unit,?",[0.5689167  0.03732276 0.39376053],positive,0.5315939
+"Disney drops Microsoft as Movies Anywhere partner,?",[0.02723516 0.83843136 0.13433345],negative,-0.8111962
+"""Microsoft, Adobe advance cloud-focused partnership"",?",[0.0493073  0.01327736 0.9374153 ],neutral,0.036029935
+"LinkedIn launches retooled ad program,?",[0.14124684 0.029461   0.8292922 ],neutral,0.11178584
+"Microsoft Surface keynote expected on October 31,?",[0.02324107 0.04348945 0.9332695 ],neutral,-0.020248374
+"""Microsoft extends Windows 10 S upgrade period, offers to pay Dreamer legal fees"",?",[0.46558845 0.02621625 0.5081953 ],neutral,0.4393722
+"Oppenheimer Global ESG Revenue ETF (ESGF) August Summary,?",[0.05446694 0.33791026 0.6076228 ],neutral,-0.28344333
+"""Huawei, Microsoft expand cloud app partnership"",?",[0.53527975 0.01994774 0.44477245],positive,0.515332
+"Oppenheimer ESG Revenue ETF (ESGL) August Summary,?",[0.04869178 0.3267287  0.62457955],neutral,-0.27803692
+"""Samsung and Microsoft announce QLED, Xbox One X partnership"",?",[0.38961226 0.01361123 0.5967765 ],neutral,0.37600103
+"Microsoft Windows update and first Mixed Reality headset releasing Oct  17,?",[0.11290783 0.0065611  0.8805311 ],neutral,0.10634673

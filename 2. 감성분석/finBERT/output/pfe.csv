@@ -1,0 +1,748 @@
+sentence,logit,prediction,sentiment_score
+"title,
+First rolling review of COVID-19 vaccine data underway in Europe,?",[0.10127038 0.00674081 0.8919888 ],neutral,0.09452957
+"Pfizer gene therapy Fast Track'd for Duchenne muscular dystrophy,?",[0.09067326 0.07637887 0.83294785],neutral,0.014294393
+"Pfizer inks deal with CStone for oncology assets in China; acquires 9 9% stake,?",[0.3370297  0.01286677 0.65010357],neutral,0.32416293
+"Lonza confident on production of Moderna COVID-19 vaccine,?",[0.37802064 0.02024812 0.6017312 ],neutral,0.35777253
+"FDA approves Pfizer's Xeljanz for polyarticular course juvenile idiopathic arthritis,?",[0.8259215  0.04091274 0.13316578],positive,0.7850087
+"Sosei Heptares earns new $5M milestone payment from Pfizer,?",[0.8695252  0.03662413 0.09385061],positive,0.83290106
+"FDA issues final rule for importation of drugs from abroad,?",[0.15427679 0.01095887 0.83476436],neutral,0.14331792
+"Vaccine news roundup - Cuomo sets up panel for separate NY review,?",[0.09903256 0.04309469 0.8578727 ],neutral,0.055937868
+"All six COVID-19 vaccines in industrial manufacturing - HHS Secretary Azar,?",[0.03194725 0.07600048 0.8920523 ],neutral,-0.044053234
+"Pfizer declares $0 38 dividend,?",[0.0577802  0.6646676  0.27755213],negative,-0.6068874
+"Ideaya and Pfizer to test doublet therapy in certain solid tumors,?",[0.10704497 0.00838041 0.88457465],neutral,0.09866455
+"White House may overrule tightening of FDA vaccine rules,?",[0.07975048 0.7080016  0.21224783],negative,-0.62825114
+"U K  to host first human challenge studies for COVID-19 vaccines,?",[0.40639737 0.01813265 0.57547   ],neutral,0.38826472
+"FDA accepts Pfizer application for expanded use of Xalkori,?",[0.44719508 0.04673783 0.5060671 ],neutral,0.40045726
+"Pfizer inks deal with Vivet Therapeutics in liver disorder,?",[0.37124094 0.02994633 0.5988127 ],neutral,0.34129462
+"Stricter FDA standards make COVID-19 vaccine approval unlikely before election day,?",[0.04808173 0.6615122  0.29040617],negative,-0.61343044
+"""Global vaccine plan gains momentum, U S  not on board"",?",[0.7332809  0.05147352 0.21524563],positive,0.6818074
+"Medicare coverage of COVID-19 vaccine not there - WSJ,?",[0.04275547 0.24215992 0.7150847 ],neutral,-0.19940445
+"Moderna and Pfizer set different efficacy bars in pivotal COVID-19 trials,?",[0.08906648 0.06104162 0.8498919 ],neutral,0.028024867
+"European advisory group backs new use of Pfizer combo antibiotic,?",[0.6188631  0.02481432 0.3563226 ],positive,0.5940488
+"European advisory group back Pfizer's Neulasta biosimilar,?",[0.17703576 0.5575265  0.26543772],negative,-0.38049078
+"Pfizer's Bavencio shows positive effect in bladder cancer study,?",[0.7960231  0.03747249 0.16650444],positive,0.7585506
+"Bristol Myers O+Y shows long-term survival benefit in kidney cancer,?",[0.7980775  0.02290963 0.17901278],positive,0.7751679
+"Stability data on Pfizer COVID-19 vaccine support five-day storage at point of use,?",[0.29368874 0.07803321 0.6282781 ],neutral,0.21565554
+"European regulators thumbs up on Mylan-Upjohn tie-up,?",[0.73373556 0.03789935 0.22836512],positive,0.6958362
+"BioNTech secures   75M in German funding for development of COVID-19 vaccine program,?",[0.92005813 0.0132923  0.06664962],positive,0.9067658
+"U S  could get Covid shot before year-end: Pfizer CEO Albert Bourla,?",[0.0808283  0.02677529 0.8923964 ],neutral,0.054053016
+"AstraZeneca COVID-19 vaccine trials resume in U K ,?",[0.05922737 0.23042902 0.7103436 ],neutral,-0.17120165
+"""Pfizer, BioNTech seek expansion of late-stage Covid vaccine trial"",?",[0.82873565 0.01203142 0.15923294],positive,0.8167042
+"COVID-19 vaccine trials ramp up as world awaits efficacy data,?",[0.78056973 0.02780786 0.19162239],positive,0.7527619
+"Merck COVID-19 vaccine begins human testing in Belgium study - WSJ,?",[0.03836596 0.05533863 0.9062954 ],neutral,-0.016972668
+"AstraZeneca COVID-19 vaccine on track for 2020 filing: Soriot,?",[0.05173551 0.10661171 0.8416528 ],neutral,-0.054876205
+"Pfizer/BioNTech COVID-19 vaccine candidate shows encouraging action in preclinical studies,?",[0.8502058  0.01539478 0.1343994 ],positive,0.83481103
+"Merck's 15-valent pneumonia vaccine successful in late-stage studies,?",[0.7759123  0.02073781 0.20335   ],positive,0.75517446
+"Pfizer/BioNTech to supply 200M COVID-19 vaccine doses to European Union,?",[0.2716061 0.0123837 0.7160102],neutral,0.2592224
+"COVID-19 vaccine developers rally on AstraZeneca study pause,?",[0.05098769 0.87685007 0.07216224],negative,-0.8258624
+"AstraZeneca COVID-19 vaccine study put on hold after adverse reaction,?",[0.0266195  0.7979557  0.17542484],negative,-0.7713362
+"Drug company chiefs sign pledge backing COVID-19 vaccine safety and efficacy,?",[0.81937253 0.0219725  0.15865503],positive,0.79740006
+"Pfizer/BioNTech add Germany to large-scale study of COVID-19 vaccine,?",[0.14604633 0.034648   0.8193057 ],neutral,0.111398324
+"Trump considers 'decoupling' U S  from China,?",[0.05287402 0.47906968 0.46805623],negative,-0.42619565
+"COVID-19 vaccine developers prepare joint pledge on safety - WSJ,?",[0.5249907  0.01249707 0.46251222],positive,0.5124936
+"Pfizer announces investor event September 14&amp;15,?",[0.02843766 0.03613583 0.9354266 ],neutral,-0.007698171
+"Pfizer to have late-stage data on COVID-19 vaccine next month - CEO,?",[0.03708766 0.06354275 0.8993696 ],neutral,-0.026455093
+"Novavax higher after positive early data on COVID-19 vaccine candidate,?",[0.90118784 0.07437885 0.02443337],positive,0.826809
+"""Sanofi/GSK initiate Phase 1/2 COVID-19 trial, first results expected early December"",?",[0.06569541 0.00797095 0.92633367],neutral,0.057724457
+"Prepare for coronavirus vaccine as soon as late October - CDC,?",[0.02955941 0.02581156 0.944629  ],neutral,0.0037478488
+"""Muddy Waters goes short on Inovio, citing Covid 'hype'"",?",[0.02214979 0.8997175  0.07813262],negative,-0.8775677
+"AbbVie under pressure on House Committee subpoena in drug pricing probe,?",[0.03586107 0.875457   0.0886819 ],negative,-0.8395959
+"AstraZeneca starts U S  final-stage trial of COVID-19 vaccine,?",[0.14977111 0.07003865 0.78019017],neutral,0.07973246
+"Original Dow component GE takes a sell-side hit: At the Open,?",[0.10492221 0.35291114 0.5421667 ],neutral,-0.24798894
+"Sanofi plans to start human testing of COVID-19 vaccine - Bloomberg,?",[0.04666161 0.0088614  0.94447696],neutral,0.037800208
+"Dyne Therapeutics on deck for IPO,?",[0.03709561 0.05663691 0.9062675 ],neutral,-0.019541308
+"Coronavirus vaccine makers seek EU liability protections,?",[0.14412247 0.01899662 0.8368809 ],neutral,0.12512586
+"Don 셳 cry for 3 Dow Jones leavers; stocks tend to hold up,?",[0.20465948 0.445213   0.35012752],negative,-0.24055351
+"""Pfizer booted from DJIA, Amgen replaces"",?",[0.03991183 0.7671187  0.1929695 ],negative,-0.7272069
+"Can you get coronavirus a second time  A new study says yes,?",[0.08269166 0.03563042 0.8816779 ],neutral,0.047061242
+"""Dow Jones index shakeup: Salesforce, Amgen, Honeywell in; Exxon Mobil, Pfizer, Raytheon out"",?",[0.0504244 0.4564224 0.4931532],neutral,-0.405998
+"AstraZeneca up 4% on rumored fast track approval of COVID-19 vaccine in U S ,?",[0.9065768  0.06904956 0.02437353],positive,0.8375273
+"Investors in COVID-19 stocks face turmoil in coming weeks on vaccine data readouts,?",[0.01631604 0.9358412  0.0478428 ],negative,-0.91952515
+"""Pfizer, BioNTech talk with FDA about COVID-19 vaccine testing in children - Reuters"",?",[0.08400453 0.01341339 0.9025821 ],neutral,0.07059114
+"Pfizer/BioNTech present additional data on new COVID-19 vaccine candidate; marketing application could happen in October,?",[0.04961809 0.00564921 0.9447327 ],neutral,0.04396888
+"J&amp;J planning 60K-subject study to test COVID-19 vaccine,?",[0.04933448 0.03975359 0.9109119 ],neutral,0.009580892
+"Pfizer/BioNTech pivot to new COVID-19 vaccine candidate with better safety profile,?",[0.9234796  0.01852762 0.05799276],positive,0.904952
+"Investors bag profits in COVID-19 vaccine players after run-up,?",[0.2715537  0.63756925 0.09087714],negative,-0.36601555
+"Pfizer/BioNTech COVID-19 vaccine continues to show strong effect in early-stage study,?",[0.6956419  0.01341379 0.2909444 ],positive,0.6822281
+"Moderna supply deal lifts COVID-19 vaccine players,?",[0.81055593 0.07783066 0.11161342],positive,0.73272526
+"Russia nod on COVID-19 vaccine a propaganda win for Putin - NYT,?",[0.43382865 0.2235851  0.34258622],positive,0.21024355
+"Putin claims Russia has developed the first coronavirus vaccine,?",[0.0917828  0.01366797 0.89454925],neutral,0.07811483
+"Pfizer board member Ronald Blaylock buys $500K of company stock,?",[0.10047155 0.01747499 0.88205343],neutral,0.08299656
+"Gilead contracts Pfizer to make COVID drug remdesivir,?",[0.38475934 0.03314775 0.5820929 ],neutral,0.35161158
+"Trump signs executive action to boost U S  production of 'essential' drugs,?",[0.9132695  0.01540009 0.07133038],positive,0.8978694
+"Current value of COVID-19 vaccine players overly bullish - Leerink,?",[0.03165427 0.87538695 0.09295876],negative,-0.8437327
+"Bristol Myers prevails in Eliquis patent challenge from generic drugmakers,?",[0.82809705 0.12353729 0.04836578],positive,0.70455974
+"Pfizer and BioNTech ink COVID-19 vaccine supply deal in Canada,?",[0.17051436 0.02307495 0.8064107 ],neutral,0.1474394
+"Novavax up 17% on early-stage COVID-19 vaccine data,?",[0.9225488  0.05309463 0.02435655],positive,0.86945415
+"ViiV Healthcare infringement suit against Gilead to continue - judge,?",[0.03548652 0.7654022  0.19911131],negative,-0.7299157
+"""Pfizer, BioNTech pledge 120M doses of COVID vaccine to Japan"",?",[0.34606662 0.04829868 0.6056346 ],neutral,0.29776794
+"Moderna floating COVID-19 vaccine price up to $60 per course,?",[0.03533867 0.03501106 0.92965025],neutral,0.00032760203
+"Pfizer to seek FDA emergency use nod for COVID-19 vaccine as early as October,?",[0.18674918 0.06179198 0.7514588 ],neutral,0.12495719
+"Pfizer +3% after Q2 beat and stronger than expected full-year guidance,?",[0.9191212  0.05508413 0.0257947 ],positive,0.8640371
+"""Pfizer EPS beats by $0 12, beats on revenue"",?",[0.26677576 0.0742811  0.6589432 ],neutral,0.19249466
+"""Pfizer, BioNTech rise as they start late-stage vaccine human trial"",?",[0.07957434 0.02049471 0.8999309 ],neutral,0.059079632
+"Pfizer Q2 2020 Earnings Preview,?",[0.07148645 0.17806995 0.7504435 ],neutral,-0.1065835
+"EU talks to procure COVID-19 supply stalled over financial issues,?",[0.01220901 0.9649254  0.02286559],negative,-0.9527164
+"BioMarin files EU marketing application for vosoritide for type of dwarfism,?",[0.06278264 0.08002142 0.857196  ],neutral,-0.01723878
+"Transgene up 9% on positive HPV therapeutic vaccine data,?",[0.91759634 0.058993   0.02341073],positive,0.85860336
+"""Pfizer, BioNTech ink deal with U S  government for 600M doses of COVID-19 vaccine"",?",[0.7503922  0.02685378 0.222754  ],positive,0.7235384
+"COVID-19 vaccine makers have different plans on pricing,?",[0.03839271 0.02571319 0.93589413],neutral,0.012679525
+"BioNTech selling shares; Pfizer to take down chunk of offering,?",[0.03786106 0.56021345 0.4019255 ],negative,-0.5223524
+"Pfizer/BioNTech COVID-19 vaccine candidate shows strong immunogenicity in early-stage study,?",[0.82869244 0.01151057 0.15979698],positive,0.8171819
+"Vaccine names on the move ahead of Oxford study,?",[0.05000289 0.05733293 0.8926642 ],neutral,-0.0073300414
+"Pfizer and BioNTech to supply 30M doses of BNT162 vaccine candidate in UK,?",[0.3440268  0.01773237 0.6382408 ],neutral,0.32629442
+"EU in talks with Moderna and others for COVID-19 vaccine supply,?",[0.17774051 0.01532544 0.80693406],neutral,0.16241507
+"More positive news on the COVID-19 vaccine front,?",[0.31937358 0.0205705  0.6600559 ],neutral,0.29880306
+"""Healthcare resilient, but still looking for a breakout moment"",?",[0.5909431  0.05366684 0.3553901 ],positive,0.53727627
+"Market pares gains as momentum stocks lose some steam,?",[0.01468709 0.955355   0.0299579 ],negative,-0.9406679
+"Syneos Health inks new service agreement with Pfizer,?",[0.7219629  0.01305262 0.2649844 ],positive,0.7089103
+"Pfizer COVID-19 vaccine candidates nab accelerated review status in U S ,?",[0.10960793 0.03158675 0.85880536],neutral,0.078021176
+"""Bill Gates calls for COVID-19 drugs to go where needed, not 'highest bidder'"",?",[0.1454449  0.00796311 0.84659207],neutral,0.1374818
+"Pfizer pledges $100M to fund for new antibiotics,?",[0.09227851 0.00579007 0.9019314 ],neutral,0.08648844
+"Moderna completes enrollment in mid-stage study of COVID-19 vaccine,?",[0.61735433 0.02872269 0.35392296],positive,0.58863163
+"FDA OKs ViiV Healthcare's fostemsavir for HIV-1,?",[0.05484915 0.1466526  0.7984982 ],neutral,-0.09180345
+"Moderna -4 8% after report COVID-19 vaccine trial is delayed,?",[0.02020696 0.9238195  0.05597357],negative,-0.9036125
+"Pfizer/BioNTech COVID-19 vaccine candidate shows encouraging action in early-stage study,?",[0.8360516  0.01692866 0.14701982],positive,0.8191229
+"BioNTech and Pfizer on the move on Covid-19 vaccine data,?",[0.07163318 0.11259665 0.8157702 ],neutral,-0.040963463
+"FDA OKs Pfizer's Bavencio for maintenance of bladder cancer that has not progressed,?",[0.23410064 0.17920662 0.5866927 ],neutral,0.054894015
+"FDA guides on COVID-19 vaccine approval criteria,?",[0.03657035 0.01064005 0.95278955],neutral,0.0259303
+"Vaxart +70% after Covid-19 'Warp Speed' designation for its vaccine,?",[0.7467954  0.07597692 0.1772277 ],positive,0.6708185
+"European advisory group backs new uses of five meds,?",[0.6490633  0.01743929 0.33349746],positive,0.631624
+"Aptevo rallies on royalty stream from rituximab biosimilar,?",[0.34394044 0.0156803  0.64037925],neutral,0.32826012
+"Pfizer declares $0 38 dividend,?",[0.0577802  0.6646676  0.27755213],negative,-0.6068874
+"""COVID-19 Update: NY and NJ impose inbound quarantine, CA and TX cases surge"",?",[0.07892203 0.589492   0.3315859 ],negative,-0.51057
+"Pfizer teams up with Wellcome in antibiotic resistance surveillance program in Africa,?",[0.49447757 0.01433385 0.49118862],positive,0.48014373
+"Dosing underway in Oncolytics Bio combo study in breast cancer,?",[0.08303038 0.01367026 0.9032994 ],neutral,0.06936012
+"Pfizer launches four late-stage studies on vaccine candidates,?",[0.06150273 0.01001175 0.9284856 ],neutral,0.051490977
+"Pfizer/Sangamo gene therapy shows positive effect in early-stage hemophilia A study,?",[0.734555   0.02956329 0.23588169],positive,0.7049917
+"Upjohn prices debt offering in connection with Mylan merger,?",[0.06220389 0.02369311 0.914103  ],neutral,0.038510773
+"Pfizer and Merck's diabetes med Steglatro shows mixed results in cardiovascular outcomes study,?",[0.01775952 0.94439465 0.03784592],negative,-0.92663515
+"FDA OKs expanded label for Pfizer's antibody-drug conjugate Mylotarg,?",[0.58550113 0.03643279 0.37806606],positive,0.54906833
+"FDA OKs expanded use of ViiV HIV med Tivicay,?",[0.73593193 0.0328589  0.23120914],positive,0.703073
+"FDA OKs Pfizer's Neulasta biosimilar,?",[0.05844748 0.42876184 0.5127907 ],neutral,-0.37031436
+"States go after generic drugmakers for alleged price-fixing,?",[0.01771278 0.91674685 0.06554037],negative,-0.8990341
+"Three key studies of COVID-19 vaccines to launch in summer,?",[0.05768608 0.00805446 0.9342594 ],neutral,0.049631618
+"Pfizer's abrocitinib shows positive action in kids with atopic dermatitis,?",[0.5518555  0.0486111  0.39953342],positive,0.5032444
+"China in thick of race for COVID-19 vaccine,?",[0.3256775  0.15042603 0.52389646],neutral,0.17525148
+"Pfizer announces publication of successful abrocitinib study in atopic dermatitis,?",[0.58767104 0.07043813 0.34189084],positive,0.5172329
+"White House picks five COVID vaccine candidates for Warp Speed initiative,?",[0.09721453 0.01676734 0.88601816],neutral,0.0804472
+"Shortage of antidepressant Zoloft,?",[0.02801289 0.878858   0.09312915],negative,-0.8508451
+"Pfizer selloff enhancing attractiveness - WSJ,?",[0.7306086  0.03813905 0.23125234],positive,0.69246954
+"Immutep reports encouraging preliminary data on lead drug eftilagimod alpha,?",[0.92299116 0.02438314 0.05262577],positive,0.898608
+"Pfizer comes up empty in Ibrance breast cancer study,?",[0.06076495 0.5428208  0.3964143 ],negative,-0.48205587
+"""'99%' chance Covid-19 vaccine will be effective, Sinovac claims"",?",[0.795942   0.01993433 0.18412372],positive,0.77600765
+"Astellas' Xtandi OK'd in Japan for new prostate cancer indication,?",[0.21728183 0.03228329 0.7504349 ],neutral,0.18499854
+"Roche's Alecensa increases survival in certain lung cancer patients,?",[0.6396894  0.03565421 0.3246564 ],positive,0.6040352
+"All eyes on ASCO,?",[0.03375925 0.19488901 0.77135175],neutral,-0.16112976
+"Moderna correction pressures COVID-19 vaccine developers,?",[0.06085465 0.3189255  0.6202198 ],neutral,-0.25807086
+"Vaxcyte files for IPO,?",[0.03710129 0.16984393 0.79305476],neutral,-0.13274264
+"Pfizer urges noteholders to reject offer by Huguenot Bond Liquidity,?",[0.07419022 0.8109588  0.11485101],negative,-0.7367686
+"Syndax Pharma's entinostat comes up empty again in breast cancer study,?",[0.14043598 0.4213779  0.43818617],neutral,-0.2809419
+"Pfizer prices $4B debt offering in four tranches,?",[0.03425319 0.01622771 0.9495191 ],neutral,0.018025484
+"ViiV Healthcare's cabotegravir successful in HIV prevention study,?",[0.31615317 0.02069615 0.66315067],neutral,0.295457
+"Small vaccine developers up in wake of Sorrento rally,?",[0.35846487 0.28066367 0.36087146],neutral,0.0778012
+"Pfizer to advance DMD gene therapy candidate to Phase 3,?",[0.685782   0.01031726 0.30390063],positive,0.67546475
+"Pfizer 20-valent pneumonia vaccine successful in second late-stage study,?",[0.80611426 0.02167475 0.172211  ],positive,0.7844395
+"Pfizer sees expanded coronavirus vaccine trials,?",[0.22231005 0.01171093 0.76597905],neutral,0.21059912
+"""Focusing on vaccine, Pfizer turns to outsourcing"",?",[0.16471659 0.01231702 0.82296634],neutral,0.15239957
+"""Time to buy these biopharma names is now, BofA says"",?",[0.09786728 0.00687378 0.89525896],neutral,0.09099351
+"Pfizer to review Duchenne gene therapy data May 15,?",[0.03356472 0.05653183 0.9099034 ],neutral,-0.022967104
+"ICE partnership to identify fake coronavirus gear,?",[0.15855429 0.0303146  0.8111311 ],neutral,0.12823969
+"White House may disband Coronavirus Task Force within weeks,?",[0.02860365 0.53201956 0.4393767 ],negative,-0.5034159
+"Dosing underway in study of Pfizer and BioNTech COVID-19 vaccine,?",[0.05524492 0.03771649 0.9070386 ],neutral,0.017528422
+"European advisory group backs expanded use of Pfizer's Braftovi &amp; Ecalta,?",[0.6973206  0.01283128 0.2898482 ],positive,0.6844893
+"European advisory group backs Pfizer's glasdegib for AML,?",[0.10475166 0.57442284 0.32082552],negative,-0.4696712
+"BioNTech and Pfizer complete dosing for first cohort of phase 1/2 trial for COVID-19 vaccine,?",[0.5020019  0.01707329 0.48092487],positive,0.4849286
+"COVID-19 vaccine could be ready for emergency use by fall,?",[0.08760487 0.01904687 0.8933483 ],neutral,0.068558
+"""Pfizer to make """"hundreds of millions"""" doses of COVID-19 vaccine next year - CEO"",?",[0.06074972 0.02232506 0.91692525],neutral,0.038424667
+"Pfizer Eliquis sales up 29%; guidance affirmed,?",[0.9445003  0.02503732 0.03046228],positive,0.919463
+"""Pfizer EPS beats by $0 09, beats on revenue"",?",[0.31501654 0.07110204 0.61388135],neutral,0.2439145
+"Pfizer Q1 2020 Earnings Preview,?",[0.06859338 0.17160992 0.7597967 ],neutral,-0.10301654
+"Vaccinex up 10% on updated pepinemab data in lung cancer,?",[0.9172173  0.05996881 0.02281384],positive,0.8572485
+"Pfizer declares $0 38 dividend,?",[0.0577802  0.6646676  0.27755213],negative,-0.6068874
+"European regulators on board with Mylan/Upjohn tie-up,?",[0.08276056 0.07406674 0.8431727 ],neutral,0.008693822
+"Pfizer and BioNTech on go with COVID-19 vaccine study in Germany,?",[0.07745267 0.11894707 0.80360025],neutral,-0.04149439
+"Money flow spikes in COVID-19 vaccine players amid rush for early data,?",[0.21546416 0.6953403  0.08919554],negative,-0.4798761
+"Qiagen launches companion diagnostic to Braftovi regimen,?",[0.27129802 0.02101103 0.70769095],neutral,0.250287
+"Airline industry package to be proposed this weekend: coronavirus briefing,?",[0.02486935 0.03614582 0.9389849 ],neutral,-0.011276472
+"""Pfizer and BioNTech advancing COVID-19 vaccine, trials imminent"",?",[0.12625524 0.01264852 0.86109626],neutral,0.11360673
+"Pfizer identifies lead COVID-19 candidate,?",[0.04564737 0.01539485 0.9389578 ],neutral,0.030252522
+"FDA grants BTD tag to Bavencio for urothelial carcinoma,?",[0.7829218  0.03689145 0.1801867 ],positive,0.74603033
+"FDA OKs Pfizer's Braftovi combo for certain type of colorectal cancer,?",[0.12646252 0.09944125 0.7740962 ],neutral,0.027021267
+"Healthcare firms pile on initiatives as COVID-19 pandemic advances,?",[0.45723367 0.08793623 0.45483008],positive,0.36929744
+"Incyte details late-stage data on ruxolitinib cream for atopic dermatitis,?",[0.05563159 0.04476258 0.89960575],neutral,0.010869008
+"SIGA Tech up 6% on Canada military order of smallpox drug,?",[0.9035853  0.07151895 0.02489569],positive,0.83206636
+"""Cowen bullish on Amarin, sees potential $20/share"",?",[0.4147698  0.12750842 0.45772174],neutral,0.28726137
+"Pfizer prevails in patent dispute over emergency allergy med,?",[0.3085495  0.5999144  0.09153617],negative,-0.29136488
+"""Pfizer completes first-ever """"green"""" bond"",?",[0.17829256 0.01777954 0.8039279 ],neutral,0.16051301
+"Close of Mylan/Upjohn tie-up extended to H2,?",[0.08815383 0.27321246 0.63863367],neutral,-0.18505862
+"Mylan down 4% on potential EpiPen safety issue,?",[0.01044918 0.9747337  0.01481717],negative,-0.96428454
+"FDA OKs expanded use of Pfizer's Eucrisa; shares up 5% premarket,?",[0.9304399  0.03175993 0.03780025],positive,0.89868
+"ViiV Healthcare long-acting HIV med OK'd in Canada,?",[0.05001215 0.13694139 0.8130464 ],neutral,-0.08692924
+"Profit-taking pressures Moderna after Hahn comments on vaccine timeline,?",[0.02123464 0.94394976 0.03481563],negative,-0.9227151
+"NantKwest launches mid-stage study of NK cells in rare skin cancer,?",[0.09409214 0.01629373 0.88961416],neutral,0.077798404
+"Pfizer postpones investor event due to Covid-19,?",[0.02777538 0.8276996  0.144525  ],negative,-0.7999242
+"Pfizer's abrocitinib successful in dermatitis study,?",[0.16230865 0.03432493 0.80336636],neutral,0.12798372
+"Pfizer reports positive data on 20-valent pneumonia vaccine,?",[0.8461497  0.04405255 0.10979767],positive,0.80209714
+"Ideaya teams up with Pfizer in cancer study,?",[0.17829797 0.01108653 0.81061554],neutral,0.16721143
+"Pfizer teams up with BioNTech to develop COVID-19 vaccine,?",[0.6368909  0.01361987 0.3494892 ],positive,0.623271
+"U S  stocks set to gap down at open,?",[0.01929652 0.9252266  0.05547683],negative,-0.9059301
+"BioNTech up 55% premarket on advancement of coronavirus vaccine,?",[0.87713474 0.07963464 0.04323061],positive,0.7975001
+"Pfizer and EMD Serono bail on study of avelumab in head and neck cancer,?",[0.1149162  0.10428971 0.7807941 ],neutral,0.010626487
+"Generic anti-malarial may treat COVID-19 - Raymond James,?",[0.04624668 0.10836171 0.84539163],neutral,-0.062115036
+"ViiV Healthcare re-ups with UNC-Chapel Hill,?",[0.05532769 0.04532898 0.8993434 ],neutral,0.009998713
+"ViiV Healthcare reports positive data on less-frequent dosing of HIV regimen,?",[0.91701055 0.04179652 0.04119295],positive,0.87521404
+"J&amp;J on short end of Remicade patent ruling,?",[0.04041779 0.7557262  0.20385602],negative,-0.7153084
+"U S  authorities ramp up coronavirus plans on expected jump in cases,?",[0.28869644 0.40920618 0.3020974 ],negative,-0.12050974
+"FDA accepts Pfizer application for novel pain med,?",[0.45205647 0.03903819 0.50890535],neutral,0.4130183
+"Pfizer gets OK for Advil Dual Action,?",[0.7063258  0.12994398 0.16373014],positive,0.57638186
+"Dems attack Trump over stalled efforts to lower drug prices,?",[0.01620423 0.9509424  0.03285347],negative,-0.93473816
+"Expanded use of Pfizer's Vyndaqel Ok'd in Europe,?",[0.75988424 0.00811283 0.23200302],positive,0.7517714
+"Pfizer axes license agreement with GlycoMimetics,?",[0.21733022 0.02029586 0.76237386],neutral,0.19703436
+"Xtandi extends survival in late-stage prostate cancer study,?",[0.92015606 0.02240003 0.05744394],positive,0.89775604
+"Goldman expects dividend all-stars to outperform,?",[0.1799711  0.80189717 0.01813167],negative,-0.62192607
+"European advisory group backs Pfizer's Rituxan biosimilar,?",[0.12879544 0.34020817 0.5309963 ],neutral,-0.21141273
+"European advisory group backs Pfizer's crisaborole for atopic dermatitis,?",[0.30516106 0.31159508 0.3832439 ],neutral,-0.0064340234
+"Pfizer shares still soft after Q4 miss,?",[0.03058158 0.91856104 0.05085739],negative,-0.88797945
+"Pfizer launches three biosimilars priced for market penetration,?",[0.10969015 0.00741484 0.882895  ],neutral,0.10227531
+"Pfizer slips 1% after Q4 miss,?",[0.01371903 0.9637411  0.02253994],negative,-0.9500221
+"""Pfizer EPS misses by $0 03, misses on revenue"",?",[0.01613492 0.9452269  0.03863817],negative,-0.929092
+"Pfizer Q4 2019 Earnings Preview,?",[0.04714792 0.1741391  0.778713  ],neutral,-0.12699118
+"Keytruda combo OK'd in Canada for first-line kidney cancer,?",[0.06293226 0.46487716 0.47219062],neutral,-0.4019449
+"Pfizer to offer generic Viagra through digital health clinic,?",[0.06154921 0.0056066  0.9328442 ],neutral,0.055942606
+"Opko Health up 12% on Frost comments,?",[0.9109458  0.05506914 0.03398513],positive,0.8558766
+"Mylan up 3% on bullish forecast for Viatris,?",[0.8726064  0.10082015 0.02657343],positive,0.7717863
+"ViiV Healthcare's Dovato OK'd in Japan,?",[0.05678978 0.11774131 0.8254689 ],neutral,-0.06095153
+"Drugmakers getting creative over ways to pay for pricey meds,?",[0.26921806 0.0777887  0.65299326],neutral,0.19142936
+"Biogen to acquire neurological disease candidate from Pfizer,?",[0.30251208 0.01579504 0.6816929 ],neutral,0.28671706
+"Axsome in-licenses U S  rights to Pfizer's reboxetine,?",[0.05911391 0.01323627 0.92764986],neutral,0.045877643
+"Zymeworks teams up with Pfizer in breast cancer study,?",[0.2345987  0.0190452  0.74635607],neutral,0.21555349
+"Viiv Healthcare files fostemsavir application in Europe,?",[0.03619987 0.06123621 0.9025639 ],neutral,-0.025036342
+"Nektar up 3% premarket on new Bristol-Myers collaboration,?",[0.8804646  0.08859422 0.03094116],positive,0.7918704
+"California mulling private-label generics to address high drug costs,?",[0.38789636 0.04048318 0.57162046],neutral,0.34741318
+"Pfizer teams up with eFFECTOR Therapeutics in cancer,?",[0.1842223  0.0090138  0.80676395],neutral,0.1752085
+"Pfizer and Merck KGaA's Bavencio extends survival in urothelial cancer study,?",[0.68294835 0.04298263 0.27406898],positive,0.6399657
+"End-of-year drug approvals in U S  associated with more adverse events - study,?",[0.129432   0.23464456 0.63592345],neutral,-0.10521257
+"More drugmakers hike U S  prices as 2020 begins,?",[0.18898055 0.34099957 0.47001997],neutral,-0.15201902
+"2019 leaders and laggards,?",[0.04704444 0.48457915 0.46837646],negative,-0.4375347
+"""Apple, Microsoft top Dow 2019 standings; Walgreens wobbles to the bottom"",?",[0.03133078 0.8605795  0.10808966],negative,-0.8292487
+"Drugmakers to hike U S  prices of over 200 meds,?",[0.4761878  0.29905367 0.22475848],positive,0.17713413
+"Barron's names 10 top stocks for 2020,?",[0.0309989  0.04910603 0.9198951 ],neutral,-0.018107133
+"Pfizer licenses Theravance's JAK inhibitors for skin conditions,?",[0.10283332 0.01663554 0.88053113],neutral,0.08619777
+"New indications for Merck's Keytruda OK'd in Japan,?",[0.30581737 0.01646386 0.6777188 ],neutral,0.28935352
+"FDA accepts Pfizer's application for Braftovi doublet for colorectal cancer,?",[0.70079696 0.05912946 0.24007367],positive,0.6416675
+"White House releases plan allowing drug imports from Canada,?",[0.3705066  0.03044211 0.59905124],neutral,0.3400645
+"Sangamo updates on pipeline at R&amp;D Day,?",[0.04526567 0.40181583 0.5529185 ],neutral,-0.35655016
+"FDA OKs expanded use of Astellas and Pfizer's Xtandi,?",[0.7239085  0.03598182 0.24010967],positive,0.68792665
+"Amgen prevails in Epogen patent dispute with Hospira,?",[0.05088522 0.80318314 0.14593156],negative,-0.75229794
+"Pfizer declares $0 38 dividend,?",[0.05778018 0.6646676  0.27755213],negative,-0.6068874
+"European advisory group backs expanded use of Pfizer's Vyndaqel,?",[0.78599685 0.02027491 0.19372828],positive,0.7657219
+"European advisory group thumbs up on Pfizer's Humira biosimilar,?",[0.855089   0.04116778 0.10374322],positive,0.8139212
+"FDA OK's extended-release Xeljanz for ulcerative colitis,?",[0.07205704 0.15856968 0.7693733 ],neutral,-0.08651264
+"ViiV Healthcare files applications for dispersible formulations of dolutegravir,?",[0.03778295 0.12730524 0.8349118 ],neutral,-0.08952229
+"""House passes drug pricing bill, Senate unlikely to support"",?",[0.33575028 0.14121519 0.5230345 ],neutral,0.19453509
+"Kinase inhibitors in focus after Merck bid for ArQule,?",[0.05677904 0.6561461  0.28707483],negative,-0.5993671
+"FDA OKs Amneal's generic Revatio and Amicar; shares up 2% after hours,?",[0.919606   0.04167169 0.03872238],positive,0.8779343
+"Spending spree on gene therapy production,?",[0.04558911 0.12828726 0.82612365],neutral,-0.08269815
+"Taro's tavaborole gets tentative FDA OK,?",[0.8543819  0.06045959 0.08515852],positive,0.7939223
+"Launch of new generic drugs in U S  still lags - WSJ,?",[0.08999058 0.54090893 0.36910048],negative,-0.45091835
+"FDA OKs Pfizer biosimilar to Humira,?",[0.06043109 0.65028435 0.2892846 ],negative,-0.5898533
+"EMA cautions on Pfizer's Xeljanz,?",[0.03406221 0.8565795  0.10935828],negative,-0.8225173
+"BioMarin's vosoritide shows positive effect in mid-stage achondroplasia study,?",[0.8724846  0.03098871 0.09652665],positive,0.84149593
+"Upjohn/Mylan to be named Viatris,?",[0.02687436 0.10192321 0.87120247],neutral,-0.07504885
+"Pfizer's Xeljanz successful in pediatric arthritis study,?",[0.07442025 0.03929465 0.8862851 ],neutral,0.035125602
+"Solid Bio down 59% premarket on another clinical hold on DMD gene therapy,?",[0.17750302 0.51306206 0.30943495],negative,-0.33555904
+"Allergan combo antibiotic nabs accelerated review status in U S ,?",[0.13741934 0.02798821 0.83459246],neutral,0.10943113
+"Pfizer and Merck KGaA's Bavencio flunks late-stage GEJ study,?",[0.03751576 0.7310185  0.23146579],negative,-0.6935027
+"Boston nonprofit playing big role in drug pricing,?",[0.06044889 0.00998659 0.92956454],neutral,0.050462306
+"""Drug shortages reflect """"broken market"""" - FDA"",?",[0.03655954 0.7459697  0.2174707 ],negative,-0.7094102
+"Pfizer up 3% premarket on Q3 beat,?",[0.88249284 0.08480471 0.03270252],positive,0.7976881
+"""Pfizer EPS beats by $0 13, beats on revenue"",?",[0.23660275 0.08023557 0.6831617 ],neutral,0.15636718
+"Pfizer Q3 2019 Earnings Preview,?",[0.04538389 0.15248185 0.8021343 ],neutral,-0.10709797
+"Pfizer's Bavencio + Inlyta OK'd in Europe for first-line kidney cancer,?",[0.07277804 0.05044638 0.87677556],neutral,0.022331655
+"Opko Health up 11% premarket on positive somatrogon data,?",[0.9038956  0.07335984 0.02274459],positive,0.83053577
+"Pelosi drug bill passes first House committee,?",[0.1061075  0.06412653 0.829766  ],neutral,0.041980974
+"ViiV Healthcare files U S  application for expanded use of HIV med Dovato,?",[0.0560046  0.05224937 0.891746  ],neutral,0.0037552305
+"Pelosi drug bill would save $345B - CBO,?",[0.5330991  0.10223491 0.36466596],positive,0.4308642
+"Akcea out-licenses antisense candidate to Pfizer for up to $1 5B,?",[0.0887806  0.01484438 0.896375  ],neutral,0.07393622
+"""Keytruda on path to become world's no  1 selling drug, research firm says"",?",[0.86173546 0.02003918 0.11822534],positive,0.84169626
+"Pfizer reports positive data from late-stage BEACON CRC trial,?",[0.81104475 0.03027107 0.15868415],positive,0.7807737
+"Pfizer's abrocitinib successful in second late-stage dermatitis study,?",[0.61833435 0.05321284 0.32845277],positive,0.56512153
+"Vaccinex's pepinemab shows encouraging action in treatment-resistant lung cancer,?",[0.8265211  0.01680203 0.1566769 ],positive,0.8097191
+"Pfizer declares $0 36 dividend,?",[0.06608648 0.61046326 0.32345024],negative,-0.5443768
+"Opko Health up 4% on long-term somatrogon data,?",[0.9281914  0.05143747 0.02037119],positive,0.8767539
+"Drug makers up after McConnell thumbs down on Pelosi price pricing plan,?",[0.1654755  0.7373854  0.09713921],negative,-0.5719099
+"European advisory group backs Merck KGaA's Bavencio for first-line kidney cancer,?",[0.2817252  0.39884815 0.3194266 ],negative,-0.11712295
+"FDA warns on rare side effect of breast cancer meds,?",[0.0439447  0.71253985 0.24351545],negative,-0.66859514
+"Pfizer 20-valent pneumococcal vaccine shows positive effect in mid-stage study in infants,?",[0.8002108  0.06796581 0.13182347],positive,0.73224497
+"EC OKs Keytruda/Inlyta combo for first-line kidney cancer,?",[0.05204011 0.08256549 0.8653944 ],neutral,-0.030525375
+"Opko Health completes late-stage somatrogon study,?",[0.37028927 0.05444753 0.5752632 ],neutral,0.31584173
+"ViiV and Janssen announce positive data on long-acting HIV doublet therapy,?",[0.89698315 0.03254483 0.07047202],positive,0.8644383
+"FDA grants accelerated review for expanded use of Xtandi,?",[0.63643444 0.01479159 0.3487739 ],positive,0.6216428
+"Pfizer to build gene therapy manufacturing facility in NC,?",[0.09900365 0.00894068 0.8920557 ],neutral,0.09006297
+"FDA OKs AbbVie's Rinvoq rheumatoid arthritis; shares up 2%,?",[0.9234203  0.03825508 0.03832453],positive,0.8851652
+"Pfizer recalls two lots of Relpax due to potential contamination,?",[0.01150869 0.9575057  0.03098568],negative,-0.945997
+"Vaccinex achieves enrollment target in pepinemab lung cancer study,?",[0.9155678  0.02145738 0.06297483],positive,0.89411044
+"Lilly prevails in Alimta patent challenge,?",[0.7789841  0.09835545 0.12266038],positive,0.68062866
+"AstraZeneca and Merck's Lynparza shows treatment benefit in late-stage prostate cancer study,?",[0.2932874  0.02157047 0.68514216],neutral,0.27171692
+"GlycoMimetics' lead drug flunks late-stage study; shares down 54% premarket,?",[0.00934741 0.9725983  0.0180543 ],negative,-0.96325094
+"Pfizer and Glaxo close OTC joint venture,?",[0.13706036 0.05673495 0.8062047 ],neutral,0.08032541
+"Regenxbio out-licenses gene therapy vector to Pfizer,?",[0.07912298 0.02995904 0.89091796],neutral,0.049163945
+"Trump readies plan to allow drug imports from Canada,?",[0.23189089 0.02099379 0.7471153 ],neutral,0.2108971
+"Dr  Reddy's launches generic Lyrica in U S ,?",[0.1448006  0.02086627 0.8343331 ],neutral,0.123934336
+"ViiV Healthcare files European application for HIV doublet therapy,?",[0.27937853 0.01771271 0.7029087 ],neutral,0.26166582
+"European advisory group backs Merck's Keytruda + Pfizer's Inlyta in first-line kidney cancer,?",[0.24843411 0.05962532 0.69194055],neutral,0.1888088
+"It's official  Mylan and Pfizer's Upjohn to combine,?",[0.04927038 0.02185325 0.92887634],neutral,0.02741713
+"Pfizer down 1% premarket after Q2 result; 2019 guidance lowered,?",[0.01088246 0.968663   0.02045448],negative,-0.95778054
+"Mylan up 23% premarket on potential Pfizer deal,?",[0.7995405  0.15759957 0.04285989],positive,0.64194095
+"""Pfizer EPS beats by $0 05, misses on revenue"",?",[0.17017214 0.37066454 0.45916337],neutral,-0.2004924
+"Pfizer close to off-patent drug combo with Mylan,?",[0.158075   0.09514825 0.7467768 ],neutral,0.062926754
+"Drug pricing bill passes Senate committee,?",[0.09736327 0.0569513  0.8456854 ],neutral,0.040411968
+"FDA OK's Pfizer's Rituxan biosimilar,?",[0.0426182  0.12788984 0.8294919 ],neutral,-0.08527164
+"ViiV's fostemsavir shows long-term benefit in treatment-experienced HIV patients,?",[0.8485074  0.01664937 0.13484326],positive,0.83185804
+"Pfizer Canada to manage EpiPen distribution ahead of possible shortage,?",[0.15485424 0.01487104 0.8302747 ],neutral,0.13998319
+"Big Biopharma in the red as investors wait for Trump's drug price plan,?",[0.12227999 0.30262405 0.57509595],neutral,-0.18034406
+"ViiV's two-drug HIV pill on par with three-drug regimen in late-stage study,?",[0.6430633  0.03920894 0.3177277 ],positive,0.60385436
+"Drug makers perk up on block of price disclosures in TV ads,?",[0.5814777  0.19793847 0.22058387],positive,0.38353923
+"Biophytis files for 8 75M-share U S  IPO at $7-$9/ADS,?",[0.08204912 0.03697511 0.8809758 ],neutral,0.04507401
+"Biotechs and biopharmas under pressure ahead of Trump order on drug prices,?",[0.02890452 0.8849845  0.08611099],negative,-0.85608
+"ViiV Healthcare launches U S  study on implementation of monthly HIV treatment,?",[0.46830362 0.02348037 0.508216  ],neutral,0.44482327
+"Array Bio's triplet therapy extends survival in late-stage CRC study,?",[0.82690746 0.02411019 0.14898239],positive,0.80279726
+"Sangamo up 14% premarket on positive hemophilia A gene therapy data,?",[0.780003   0.18421814 0.03577891],positive,0.5957849
+"Drug stocks slip after Trump talks up `favored nations' plan,?",[0.03068205 0.93824273 0.03107514],negative,-0.9075607
+"Pfizer may trim Prevnar 13 guidance after ACIP vote - Cantor,?",[0.10058975 0.05886875 0.8405415 ],neutral,0.041721005
+"Glaxo launches late-stage development of RA med otilimab,?",[0.05606184 0.01587671 0.9280614 ],neutral,0.040185127
+"ViiV's HIV-1 pill Dovato OK'd in Europe,?",[0.08222987 0.28068033 0.6370898 ],neutral,-0.19845046
+"U S  drugmakers institute new round of increases,?",[0.56877416 0.02739524 0.40383062],positive,0.5413789
+"Pfizer completes Therachon buy,?",[0.14965801 0.04223401 0.80810803],neutral,0.107424
+"Pfizer's crisaborole ointment safe in infants and toddlers,?",[0.05738382 0.07248826 0.8701279 ],neutral,-0.015104432
+"Pfizer's sildenafil flunks late-stage PPHN study in newborns,?",[0.03254853 0.7644318  0.20301977],negative,-0.7318832
+"Sarepta jumps 19% as fears ebb over superiority of Pfizer DMD data,?",[0.2960578  0.66118586 0.04275635],negative,-0.36512807
+"Eyes on Pfizer ahead of update on DMD gene therapy,?",[0.0371917  0.02512217 0.93768615],neutral,0.012069533
+"Ex-FDA chief Gottlieb joins Pfizer board,?",[0.04023287 0.04561755 0.91414964],neutral,-0.00538468
+"FDA OKs Pfizer's Avastin biosimilar; shares up 1% premarket,?",[0.89795333 0.05430761 0.04773913],positive,0.84364575
+"European advisory group backs expanded label of Pfizer's Zinforo,?",[0.47500542 0.16616452 0.35883006],positive,0.3088409
+"Pfizer declares $0 36 dividend,?",[0.06608648 0.6104634  0.3234502 ],negative,-0.5443769
+"Pfizer in red as CDC advisory committee reviews patient populations for Prevnar 13,?",[0.08968655 0.6016008  0.30871266],negative,-0.51191425
+"Healthcare stocks under pressure ahead of Dem debate,?",[0.02818133 0.884058   0.08776068],negative,-0.8558767
+"Pharma players in green on AbbVie/Allergan deal,?",[0.03242384 0.07224407 0.8953321 ],neutral,-0.039820235
+"Baupost on short end of Allergan deal with $100M loss,?",[0.03577172 0.8214293  0.14279895],negative,-0.7856576
+"Alnylam's patisiran shows durable effect in hATTR extension study,?",[0.58648586 0.02528448 0.3882297 ],positive,0.5612014
+"Glaxo offers concessions to address Pfizer deal concerns,?",[0.76349574 0.01958928 0.21691492],positive,0.74390644
+"Pfizer issuer default rating may be cut by Fitch,?",[0.03279326 0.90375787 0.06344898],negative,-0.8709646
+"Pfizer to acquire Array Biopharma,?",[0.02769125 0.02564278 0.946666  ],neutral,0.00204847
+"Mid-stage study underway for Progenics' I-131 1095 in prostate cancer,?",[0.04411307 0.05074235 0.9051445 ],neutral,-0.0066292733
+"Study supports use of Pfizer's Xeljanz alone in rheumatoid arthritis,?",[0.10587286 0.01386487 0.88026226],neutral,0.09200799
+"European advisory group backs Univar's Cufence for Wilson's disease,?",[0.6195123  0.10943401 0.27105367],positive,0.5100783
+"Pfizer's Lyrica flunks late-stage grand mal seizure study,?",[0.03170612 0.77032584 0.19796807],negative,-0.73861974
+"""Alphabet teams with Pfizer, Novartis on clinical trials"",?",[0.15588856 0.01215776 0.83195364],neutral,0.14373079
+"FDA OKs expanded use of Pfizer's anticoagulant Fragmin,?",[0.728681   0.04809467 0.2232243 ],positive,0.68058634
+"Sosei nabs $3M milestone from Pfizer under drug discovery partnership,?",[0.885151   0.01186092 0.10298806],positive,0.8732901
+"ViiV Healthcare to evaluate Matinas Bio's LNC platform,?",[0.11135848 0.01162548 0.87701607],neutral,0.099732995
+"Pfizer's abrocitinib successful in late-stage dermatitis study,?",[0.54587376 0.04134659 0.41277963],positive,0.50452715
+"FDA OKs Bavencio + Inlyta for kidney cancer,?",[0.07118838 0.11145173 0.8173599 ],neutral,-0.040263347
+"FDA finalizes guidance on interchangeable biosimilars,?",[0.10185465 0.00869719 0.88944817],neutral,0.09315746
+"TV ad disclosures to affect small group of drug makers,?",[0.03475801 0.19147292 0.773769  ],neutral,-0.1567149
+"Drug makers to face added pricing pressure in Canada under new proposal - Reuters,?",[0.7122327  0.16497713 0.12279012],positive,0.5472556
+"Drug makers to disclose prices in TV ads as early as this summer,?",[0.03426061 0.41447988 0.5512595 ],neutral,-0.38021928
+"Pfizer to buy Therachon Holding for up to $810M,?",[0.04453095 0.00626596 0.9492031 ],neutral,0.038264994
+"EC OKs Pfizer's Lorviqua for certain lung cancer patients,?",[0.03280219 0.04170107 0.92549676],neutral,-0.00889888
+"FDA OKs two oral formulations of Pfizer's tafamidis,?",[0.08972105 0.4988766  0.41140234],negative,-0.40915555
+"Pfizer up 1% on Q1 beat; raised EPS guidance,?",[0.9462983  0.02422561 0.02947607],positive,0.9220727
+"""Pfizer beats by $0 10, beats on revenue"",?",[0.4940821  0.12043339 0.3854845 ],positive,0.3736487
+"Pfizer Q1 2019 Earnings Preview,?",[0.04685621 0.1523706  0.80077314],neutral,-0.10551439
+"ViiV files U S  application for two-drug combo for HIV,?",[0.11609373 0.02837515 0.8555311 ],neutral,0.087718576
+"Lilly prevails in Alimta patent appeal,?",[0.74409616 0.0533714  0.20253246],positive,0.6907248
+"European advisory group backs Pfizer's breast cancer med Talzenna,?",[0.16155674 0.0414187  0.7970246 ],neutral,0.120138034
+"European advisory group backs ViiV's Dovato for HIV,?",[0.06261048 0.81347424 0.12391535],negative,-0.7508638
+"Pfizer declares $0 36 dividend,?",[0.06608648 0.6104634  0.3234502 ],negative,-0.5443769
+"Pfizer and BMY's Eliquis beating J&amp;J and Bayer's Xarelto,?",[0.06008721 0.71636724 0.22354555],negative,-0.65628004
+"Lilly and Pfizer's tanezumab shows mixed results in late-stage osteoarthritis study,?",[0.01684864 0.9440488  0.03910258],negative,-0.9272002
+"Pfizer-Lilly painkiller in lower dose misses main goals in Phase 3 study,?",[0.10488901 0.01875998 0.876351  ],neutral,0.08612903
+"Drugmaker selloff intensifies on D C  pricing headwinds,?",[0.03148921 0.9244717  0.04403913],negative,-0.8929825
+"Pfizer's 20-valent pneumonia vaccine candidate shows positive action in mid-stage study,?",[0.76273966 0.02576592 0.21149433],positive,0.73697376
+"FDA OKs ViiV Healthcare's two-drug HIV combo,?",[0.1264437  0.01167214 0.8618841 ],neutral,0.11477155
+"FDA OKs use of Pfizer's Ibrance in male patients,?",[0.06774931 0.63013124 0.30211946],negative,-0.5623819
+"ViiV Healthcare's Juluca shows sustained treatment effect in studies,?",[0.7243052  0.01627823 0.25941655],positive,0.708027
+"Sangamo up 7% premarket on positive hemophilia A gene therapy data,?",[0.7961902  0.16425687 0.03955294],positive,0.63193333
+"Constellation Pharma down 1% on CPI-1205 data,?",[0.0095604  0.97392863 0.01651097],negative,-0.9643682
+"Filgotinib worth as much as $6/share to Gilead - Leerink,?",[0.04585509 0.10494391 0.849201  ],neutral,-0.059088815
+"Trump reaches across the aisle on drug prices,?",[0.08864289 0.29083198 0.6205251 ],neutral,-0.20218909
+"Ascendis Pharma up 2% on positive TransCon data,?",[0.8885218  0.08414605 0.02733218],positive,0.80437577
+"Pfizer takes 15% stake in gene therapy developer Vivet Therapeutics,?",[0.04859538 0.03219629 0.91920835],neutral,0.016399093
+"""Pfizer, Merck KGaA discontinue ovarian cancer drug trial"",?",[0.09673284 0.05575747 0.84750974],neutral,0.040975366
+"Trump 2020 drug pricing initiatives - part 2,?",[0.05858786 0.01319763 0.92821455],neutral,0.04539023
+"Trump aiming to rein in drug cost with range of proposals,?",[0.25155714 0.01099635 0.7374465 ],neutral,0.2405608
+"FDA OKs Pfizer's Herceptin biosimilar,?",[0.08501815 0.41740996 0.4975719 ],neutral,-0.3323918
+"Monthly two-drug HIV regimen on par with daily three-drug treatment,?",[0.58978736 0.01759628 0.39261636],positive,0.57219106
+"Pfizer in-licenses diabetes candidate from AnTolRx,?",[0.05514124 0.0496017  0.89525706],neutral,0.0055395328
+"Pfizer prices $5B debt offering,?",[0.04248676 0.05871119 0.8988021 ],neutral,-0.016224425
+"Teva launches generic Flector Patch in U S ,?",[0.33568996 0.07813314 0.5861769 ],neutral,0.25755683
+"European advisory group backs Pfizer's lorlatinib for certain type of lung cancer,?",[0.2032523  0.07926788 0.7174798 ],neutral,0.12398442
+"Pfizer unit Meridian under civil investigation,?",[0.03030331 0.6874251  0.28227156],negative,-0.6571218
+"Day of reckoning for Big Pharma,?",[0.12897174 0.03318313 0.83784515],neutral,0.09578861
+"Study links Pfizer's Celebrex to heart valve problems,?",[0.04496766 0.5445614  0.4104709 ],negative,-0.49959373
+"U S  healthcare spending to rise 5 5% per annum over next decade,?",[0.93548167 0.0123371  0.05218122],positive,0.9231446
+"Intellipharmaceutics up 20% on FDA nod for generic Pristiq,?",[0.9152375  0.06099354 0.02376907],positive,0.85424393
+"Maryland strikes out in reviving drug price-gouging law,?",[0.50890714 0.07255215 0.4185407 ],positive,0.436355
+"EC OKs Pfizer Avastin biosimilar,?",[0.04006037 0.27714747 0.6827921 ],neutral,-0.2370871
+"Merck's Keytruda tops Pfizer's Sutent in first-line kidney cancer,?",[0.08636749 0.58177996 0.3318526 ],negative,-0.49541247
+"Lilly and Pfizer's tanezumab successful in late-stage back pain study,?",[0.88509786 0.01976941 0.09513264],positive,0.86532843
+"FDA creates new accelerated review pathway for generic drug applications,?",[0.64949435 0.01183326 0.33867237],positive,0.6376611
+"FDA grants accelerated review for Merck's application for Keytruda + Inlyta in first-line kidney cancer,?",[0.49362454 0.01967482 0.48670068],positive,0.47394973
+"Keytruda combo therapies show positive effects in prostate cancer study,?",[0.49741408 0.02560307 0.47698292],positive,0.471811
+"Merck's Keytruda trumps Opdivo + Yervoy in first-line kidney cancer; shares up 3%,?",[0.9153491  0.03342758 0.05122334],positive,0.8819215
+"Boehringer Ingelheim teams up with IBM to explore use of blockchain in clinical trials,?",[0.65819544 0.01477881 0.3270257 ],positive,0.64341664
+"Pfizer and Astellas' Xtandi successful in late-stage prostate cancer study,?",[0.19658142 0.01941209 0.7840065 ],neutral,0.17716934
+"Bristol-Myers Opdivo + Yervoy shows sustained benefit in late-stage RCC study,?",[0.91539127 0.01982462 0.06478417],positive,0.89556664
+"FDA accepts Pfizer's marketing application for Bavencio + Inlyta for RCC,?",[0.6001423  0.05730379 0.34255394],positive,0.5428385
+"Pfizer recalls contaminated high blood pressure drug in Japan,?",[0.01266275 0.95482755 0.03250972],negative,-0.9421648
+"Drug wholesalers/PBMs claw back from selloff from proposed elimination of rebates,?",[0.48686692 0.48629266 0.02684039],positive,0.00057426095
+"European advisory group backs Pfizer's Vizimpro in lung cancer,?",[0.18400927 0.2033733  0.6126174 ],neutral,-0.01936403
+"Tiny Israeli firm touts cancer cure,?",[0.11096476 0.17471549 0.7143197 ],neutral,-0.06375073
+"""Pfizer beats Q4 consensus, shares down 3% premarket on soft guidance"",?",[0.01647641 0.9661266  0.01739692],negative,-0.9496502
+"Pfizer and Lilly's tanezumab successful in second late-stage study,?",[0.91428006 0.02192799 0.06379201],positive,0.89235204
+"""Pfizer beats by $0 01, beats on revenue"",?",[0.45120198 0.10060818 0.44818982],positive,0.3505938
+"Pfizer Q4 2018 Earnings Preview,?",[0.04960933 0.1628637  0.78752697],neutral,-0.11325437
+"Early Q4 reports weigh on large cap drug makers,?",[0.01702694 0.9430623  0.03991076],negative,-0.92603534
+"Teva up 3% premarket on bullish call at UBS,?",[0.79727507 0.16994344 0.03278148],positive,0.6273316
+"Aileron up 35% on advancement of ALRN-6924 + Ibrance study,?",[0.9261139  0.04872714 0.02515895],positive,0.87738675
+"Hospitals squeezed by high drug costs,?",[0.01736939 0.9282488  0.05438172],negative,-0.91087943
+"Biopharma firms under pressure on Brexit uncertainty,?",[0.02554046 0.90402794 0.07043155],negative,-0.87848747
+"FDA to beef up cell and gene therapy staff,?",[0.08739396 0.80803335 0.10457266],negative,-0.7206394
+"FDA Commish touts advances/successes,?",[0.0690129 0.1513903 0.7795968],neutral,-0.082377404
+"Rep  Cummings opens investigation into drug prices,?",[0.05710393 0.20343022 0.7394659 ],neutral,-0.14632629
+"FDA accepts Pfizer's tafamidis marketing application for rare heart disorder,?",[0.5054237  0.09419126 0.40038496],positive,0.41123247
+"Dem lawmakers introduce bill to lower U S  drug prices,?",[0.3899921  0.21655986 0.39344808],neutral,0.17343223
+"Amarin up 14% rekindled takeover chatter,?",[0.8399974  0.11104969 0.04895298],positive,0.7289477
+"""FDA to """"take action"""" against branded drug makers using scare tactics to thwart biosimilar competition"",?",[0.16890626 0.22428153 0.60681224],neutral,-0.055375278
+"Drug applications take back seat to safety surveillance at FDA during shutdown,?",[0.28142592 0.06187795 0.6566961 ],neutral,0.21954797
+"Pfizer to shutter two plants in India,?",[0.01178997 0.95335937 0.03485069],negative,-0.9415694
+"NantKwest launches mid-stage study of triplet therapy for rare skin cancer,?",[0.13368295 0.01440499 0.8519121 ],neutral,0.119277954
+"Bristol-Myers Squibb may be takeover target after Celgene bid - Credit Suisse,?",[0.03949213 0.11868341 0.8418245 ],neutral,-0.07919128
+"GSK chief Walmsley not finished with business shakeup,?",[0.03033832 0.6625002  0.30716154],negative,-0.63216186
+"Pfizer launches pivotal study of alopecia areata candidate,?",[0.27034035 0.02023996 0.70941967],neutral,0.2501004
+"Drug makers OK with price inclusion in TV ads if done fairly,?",[0.16820459 0.01973195 0.81206346],neutral,0.14847264
+"Scorecard for the markets in 2018,?",[0.0380905  0.0438242  0.91808534],neutral,-0.005733695
+"""Merck, Pfizer top Dow 2018 standings; Goldman Sachs slides to the bottom"",?",[0.0378437  0.8314235  0.13073282],negative,-0.7935798
+"CNBC article highlights $35B market opportunity of NASH drugs,?",[0.34292352 0.01806774 0.63900876],neutral,0.32485577
+"""Pfizer, Merck cancel avelumab study"",?",[0.04243025 0.15439346 0.80317634],neutral,-0.11196321
+"Pfizer bails on mid-stage study of staph vaccine due to lack of efficacy,?",[0.01422696 0.9569293  0.02884368],negative,-0.94270235
+"Pfizer's Xtandi successful in late-stage study of Xtandi in metastatic prostate cancer,?",[0.28413844 0.01973869 0.6961229 ],neutral,0.26439974
+"Deciphera launches late-stage study of ripretinib in second-line GIST,?",[0.05588984 0.01034783 0.9337623 ],neutral,0.045542013
+"Pfizer in Senate Democrat's crosshairs over Lyrica price hikes,?",[0.04359511 0.75736696 0.19903794],negative,-0.7137718
+"""Glaxo, Pfizer to merge consumer health units"",?",[0.05862314 0.0212789  0.9200979 ],neutral,0.037344243
+"Pfizer declares $0 36 dividend,?",[0.06608648 0.6104634  0.3234502 ],negative,-0.5443769
+"Pfizer among those seen hiking payouts next week,?",[0.3701009  0.1804066  0.44949245],neutral,0.18969429
+"Pfizer withdraws European marketing application for Humira biosimilar,?",[0.04461749 0.86073446 0.09464811],negative,-0.816117
+"European advisory group backs Pfizer's Avastin biosimilar,?",[0.20215933 0.21508788 0.5827528 ],neutral,-0.0129285455
+"Pfizer launches late-stage development of 20-valent pneumonia vaccine,?",[0.10616968 0.01217878 0.8816516 ],neutral,0.0939909
+"""Senate Dems introduce bill to block """"excessive"""" increases in drug prices"",?",[0.06372407 0.4535793  0.48269662],neutral,-0.38985524
+"Constellation Pharma advances clinical development of lead drug CPI-1205,?",[0.06673646 0.01385743 0.9194061 ],neutral,0.052879035
+"Pfizer's Rituxan biosimilar successful in late-stage study; shares up 1% premarket,?",[0.9319547  0.02876302 0.03928233],positive,0.9031917
+"Stocks waver ahead of Trump-Xi meeting at G-20,?",[0.01802243 0.93261635 0.04936123],negative,-0.91459394
+"Pfizer secures Humira license from AbbVie,?",[0.7061141  0.02600295 0.26788297],positive,0.68011117
+"Lundbeck and Otsuka's combo treatment for PTSD successful in mid-stage study,?",[0.75484246 0.02228554 0.22287205],positive,0.73255694
+"Eyenovia's micro-dose latanoprost shows positive effect in mid-stage study,?",[0.88390094 0.03281883 0.08328026],positive,0.8510821
+"Boehringer Ingelheim bails on biosimilars ex-U S ,?",[0.08550396 0.32268375 0.5918123 ],neutral,-0.23717979
+"Takeda's Alunbrig OK'd in Europe for second-line lung cancer,?",[0.05741137 0.3300553  0.61253333],neutral,-0.27264392
+"Pfizer's Lyrica nabs extra six months of pediatric exclusivity in U S ,?",[0.24295317 0.07552495 0.6815219 ],neutral,0.16742823
+"Aileron up 14% on study collaboration with Pfizer,?",[0.9289033  0.04686957 0.02422716],positive,0.8820337
+"FDA OKs Intellipharmaceutics' generic Effexor; shares up 14%,?",[0.9379446  0.02683488 0.03522043],positive,0.9111097
+"ViiV Healthcare's HIV med Juluca OK'd in Japan,?",[0.05503506 0.41738534 0.52757955],neutral,-0.36235029
+"SunTrust: Venclexta could add $1B+ for AbbVie,?",[0.59182227 0.01390932 0.39426845],positive,0.5779129
+"Pfizer's Daurismo combo for elderly adults with AML gets FDA approval,?",[0.9250842  0.01780833 0.05710741],positive,0.90727586
+"Pfizer's price hikes stokes drug distributors,?",[0.05251578 0.83463186 0.11285226],negative,-0.78211606
+"Pfizer's Bavencio flunks late-stage ovarian cancer study,?",[0.04102806 0.6255027  0.33346924],negative,-0.5844746
+"European advisory group backs ViiV Healthcare's Tivicay + lamivudine in HIV-1,?",[0.26449847 0.12054329 0.6149582 ],neutral,0.14395519
+"Pfizer sells $523M stake in ICU Medical to C P  Pharmaceuticals,?",[0.03085576 0.06728429 0.90185994],neutral,-0.036428537
+"""WSJ: Pfizer to reverse course, raise prices on 41 drugs"",?",[0.86903435 0.01770511 0.11326046],positive,0.85132927
+"Pfizer loses Lyrica patent fight,?",[0.02279117 0.9075196  0.06968926],negative,-0.88472843
+"Express Scripts launches new formulary aimed at reducing drug costs,?",[0.79577124 0.02592365 0.17830513],positive,0.7698476
+"Nektar teams up with Pfizer on NKTR-214 combo therapies,?",[0.3008444  0.01182835 0.68732727],neutral,0.28901604
+"Novartis backs away from U S  marketing application for Rituxan biosimilar,?",[0.03412062 0.91268635 0.05319294],negative,-0.8785657
+"FDA OKs Pfizer's lorlatinib for lung cancer,?",[0.130232   0.34893188 0.5208361 ],neutral,-0.21869987
+"Pfizer mulling sale of women's health products - Bloomberg,?",[0.0260696 0.0366208 0.9373096],neutral,-0.010551194
+"FDA OKs genetic test to inform on drug metabolism,?",[0.08477455 0.02178529 0.8934402 ],neutral,0.062989265
+"FDA OKs Merck's Keytruda + chemo for first-line lung cancer,?",[0.26376727 0.07970118 0.6565316 ],neutral,0.18406609
+"Pfizer down 2% after Q3 revenue miss,?",[0.00953601 0.9765555  0.01390852],negative,-0.9670195
+"Pfizer Q3 revenues up 1%; non-GAAP EPS up 16%; narrowed guidance range,?",[0.9408157  0.03327212 0.02591213],positive,0.90754354
+"""Pfizer beats by $0 03, misses on revenue"",?",[0.23595765 0.4367884  0.32725388],negative,-0.20083076
+"Novartis teams up with Pfizer in NASH,?",[0.10773386 0.01105969 0.88120645],neutral,0.096674174
+"ViiV Healthcare's cabotegravir and rilpivirine regimen shows durable treatment effect in mid-stage HIV study,?",[0.5285279  0.02131515 0.45015693],positive,0.50721276
+"Syndax Pharma down 25% on negative outcome of entinostat study,?",[0.00938942 0.9757447  0.01486588],negative,-0.9663553
+"Trump mulling tieing U S  drug prices to Europe's,?",[0.09964583 0.30177897 0.5985752 ],neutral,-0.20213315
+"""Pfizer, Eli Lilly say their non-opioid drug helps reduce osteoarthritis pain"",?",[0.29226577 0.02862133 0.6791129 ],neutral,0.26364443
+"Pfizer and Bain Capital launch new biotech aimed at CNS therapies,?",[0.1220056  0.01086926 0.86712515],neutral,0.11113634
+"Ibrance + Faslodex extends survival in late-stage breast cancer study,?",[0.885588   0.02552419 0.08888787],positive,0.8600638
+"England's cost watchdog not on board with Lilly's Verzenio; shares down 1%,?",[0.00984063 0.96915734 0.02100212],negative,-0.95931673
+"Takeda's Alunbrig beats Pfizer's Xalkori in first-line lung cancer study,?",[0.32593396 0.36878505 0.30528098],negative,-0.04285109
+"Mylan launches generic version of Pfizer's Depo-Provera,?",[0.06920268 0.01341628 0.917381  ],neutral,0.0557864
+"Merck's Keytruda + Pfizer's Inlyta successful in late-stage kidney cancer study,?",[0.09037903 0.0264639  0.883157  ],neutral,0.063915126
+"FDA OKs Myriad's BRACAnalysis CDx as a companion diagnostic for Pfizer's Talzenna,?",[0.15560837 0.01571989 0.8286718 ],neutral,0.13988848
+"FDA issues new guidance aimed at more efficient drug development,?",[0.5877442  0.01367825 0.3985775 ],positive,0.5740659
+"Myriad announces new laboratory agreement with Pfizer,?",[0.7728696  0.01341613 0.21371424],positive,0.7594535
+"New Pfizer chief fills out management team,?",[0.05709781 0.02725714 0.91564506],neutral,0.02984067
+"Myriad Genetics inks commercialization plan with Pfizer related to BRACAnalysis CDx,?",[0.11061528 0.00498966 0.884395  ],neutral,0.10562562
+"Playing a split Congress,?",[0.05504773 0.33133736 0.6136149 ],neutral,-0.27628964
+"FDA OKs Akcea's inotersen for hATTR,?",[0.06552999 0.27926797 0.65520203],neutral,-0.21373796
+"Britain's NICE on board with Pfizer's Xeljanz for psoriatic arthritis,?",[0.4680595  0.05192979 0.4800107 ],neutral,0.4161297
+"FDA issues new draft guidance aimed at speedier generic approvals,?",[0.50230527 0.01959274 0.478102  ],positive,0.48271254
+"Health Canada issues warning on EpiPen devices,?",[0.04332873 0.7805649  0.17610635],negative,-0.73723614
+"Pfizer announces CEO succession,?",[0.03117111 0.2149345  0.7538943 ],neutral,-0.18376338
+"FDA OKs Pfizer's dacomitinib for first-line lung cancer,?",[0.08643574 0.43468782 0.47887638],neutral,-0.3482521
+"HighTide's HTD1801 Fast Track'd for PSC,?",[0.19374593 0.03579264 0.7704614 ],neutral,0.15795329
+"Pfizer declares $0 34 dividend,?",[0.06015989 0.6399405  0.2998996 ],negative,-0.57978064
+"Pfizer facing difficult path to ramp up biosimilar business,?",[0.3979387  0.11786976 0.4841916 ],neutral,0.28006893
+"Tris Pharma acquires Pfizer's NextWave Pharmaceuticals,?",[0.09130241 0.02091243 0.88778514],neutral,0.070389986
+"Express Scripts taking credit for Gilead's planned launch of generic HCV meds,?",[0.09152285 0.00930433 0.89917284],neutral,0.08221853
+"Immutep teams up with Merck KGaA and Pfizer in cancer combo therapy; shares up 7% premarket,?",[0.76592493 0.0094998  0.22457534],positive,0.75642514
+"Gilead to launch generic versions of Epclusa and Harvoni,?",[0.11791696 0.00717194 0.87491107],neutral,0.11074502
+"FDA grants Breakthrough Therapy designation to Pfizer's PF-06482077,?",[0.56318927 0.01418394 0.4226268 ],positive,0.5490053
+"House nixes drug prices in TV ads,?",[0.01647685 0.9259904  0.05753276],negative,-0.90951353
+"Pfizer's JAK inhibitors show positive effect in mid-stage alopecia areata study,?",[0.7793001  0.0374869  0.18321304],positive,0.7418132
+"ViiV Healthcare files European marketing application for two-drug HIV regimen,?",[0.22483696 0.0127376  0.7624254 ],neutral,0.21209936
+"Pfizer to suspend operations at NC injectables plant ahead of Hurricane Florence,?",[0.01208801 0.9437158  0.04419615],negative,-0.9316278
+"Pfizer's Bavencio + Inlyta shows treatment benefit in late-stage kidney cancer study,?",[0.36987343 0.02520375 0.60492283],neutral,0.3446697
+"FDA OKs revised labeling for ViiV Healthcare HIV meds to include risk of birth defects,?",[0.527845   0.04525881 0.42689615],positive,0.4825862
+"Biotechs and biopharmas in the red,?",[0.04861804 0.03826562 0.91311634],neutral,0.010352422
+"Abivax UC candidate shows positive action in mid-stage study,?",[0.6001705  0.02789338 0.37193617],positive,0.5722771
+"Pfizer receives Breakthrough Therapy designation for PF-06651600 for the treatment of patients with alopecia areata,?",[0.7899956  0.01551624 0.19448811],positive,0.7744794
+"Pfizer prices $5B debt offering,?",[0.04248676 0.05871119 0.8988021 ],neutral,-0.016224425
+"Big Pharma in the red after AstraZeneca lupus flop,?",[0.50323045 0.15182735 0.34494224],positive,0.35140312
+"FDA OKs two new HIV treatments from Merck,?",[0.6393562  0.14916056 0.21148318],positive,0.49019563
+"Pfizer bails on DMD candidate domagrozumab,?",[0.13631576 0.5794499  0.28423432],negative,-0.44313413
+"Roche to maintain leadership in oncology - Bloomberg Intelligence,?",[0.7763839  0.0135471  0.21006897],positive,0.76283675
+"84% of companies dabbling in blockchain,?",[0.02898452 0.05727685 0.91373867],neutral,-0.028292324
+"Sell-siders bullish on Pfizer tafamidis after release of positive data,?",[0.12982284 0.7711341  0.09904308],negative,-0.6413112
+"Alnylam and Ionis up on lower perceived threat from Pfizer's tafamidis in ATTR,?",[0.66991657 0.29065326 0.03943022],positive,0.3792633
+"Pfizer's tafamidis shows positive effect in late-stage ATTR-CM study; shares up 1% premarket,?",[0.9443941  0.0254993  0.03010668],positive,0.9188948
+"23andMe cuts off app developers from raw genetic data,?",[0.01482676 0.9325509  0.05262228],negative,-0.91772413
+"Oklahoma first state to negotiate efficacy-based drug prices,?",[0.30938944 0.01920702 0.6714035 ],neutral,0.2901824
+"""Pfizer, Astellas amend procols on prostate cancer trials"",?",[0.03554978 0.0246873  0.93976295],neutral,0.010862479
+"Exact Sciences up 21% premarket on Cologuard co-promotion deal with Pfizer,?",[0.90410733 0.0664354  0.0294572 ],positive,0.83767194
+"Class action suit against Mylan and Pfizer to proceed,?",[0.03106113 0.10907217 0.8598667 ],neutral,-0.07801104
+"Big Pharma in the green in early trade,?",[0.09555167 0.13693275 0.76751554],neutral,-0.041381076
+"Pfizer conference call August 27 on tafamidis data,?",[0.02490166 0.06916375 0.9059346 ],neutral,-0.04426209
+"FDA approves Teva's generic EpiPen; shares +5 7%,?",[0.80368227 0.01902099 0.17729668],positive,0.7846613
+"Pfizer teams up with BioNTech to develop flu vaccines in deal valued as high as $425M,?",[0.8415918  0.01055923 0.14784893],positive,0.8310326
+"Sangamo up 15% on bullish prospects for hemophilia A gene therapy,?",[0.85774046 0.1152569  0.02700269],positive,0.74248356
+"BeiGene launches late-stage study of tislelizumab in first-line lung cancer,?",[0.11615654 0.02130644 0.862537  ],neutral,0.09485011
+"FDA Ad Com backs Paratek's omadacycline for ABSSSI,?",[0.04719127 0.40490118 0.54790753],neutral,-0.3577099
+"Gemphire down 20% after hours on extended timeline in amended gemcabene license agreement with Pfizer,?",[0.01121992 0.97613305 0.01264706],negative,-0.96491313
+"FDA issues new guidance for opioid use disorders meds,?",[0.180331   0.01763436 0.80203456],neutral,0.16269664
+"Antares Pharma enters into development agreement with Pfizer Inc ,?",[0.7346909  0.00845059 0.25685856],positive,0.72624034
+"Allergan sues Pfizer in attempt to sidestep potential damages from opioid crisis litigation,?",[0.01850897 0.934252   0.04723901],negative,-0.91574305
+"Pfizer's Read thinks drug rebates going bye-bye in U S ,?",[0.09407671 0.08845076 0.8174725 ],neutral,0.0056259483
+"U S  healthcare spending nearing 20% of GDP,?",[0.4335152  0.21213242 0.35435238],positive,0.22138277
+"Pfizer's Herceptin biosimilar OK'd in Europe,?",[0.05818997 0.10966318 0.8321469 ],neutral,-0.05147321
+"Pfizer Q2 revenues up 4%; non-GAAP EPS up 21%; shares down 1% premarket,?",[0.25408792 0.730175   0.01573703],negative,-0.4760871
+"""Pfizer beats by $0 07, beats on revenue"",?",[0.55267084 0.10173126 0.34559792],positive,0.4509396
+"""J&amp;J loses arthritis patent ruling to Celltrion, Hospira"",?",[0.04905594 0.90909356 0.04185048],negative,-0.8600376
+"BeiGene launches late-stage study of tislelizumab in first-line lung cancer,?",[0.11615654 0.02130644 0.862537  ],neutral,0.09485011
+"Pfizer to build state-of-the-art injectables facility in Michigan,?",[0.24567498 0.00793582 0.74638915],neutral,0.23773916
+"BeiGene commences late-stage study of PARP inhibitor pamiparib in gastric cancer,?",[0.08779424 0.02416558 0.8880402 ],neutral,0.063628666
+"Leap Therapeutics teams up with Merck KGaA and Pfizer to evaluate combo cancer treatment; shares up 6% premarket,?",[0.77520543 0.00940473 0.21538988],positive,0.7658007
+"FDA OK's Pfizer's Neupogen biosimilar,?",[0.03874987 0.08497504 0.8762751 ],neutral,-0.046225168
+"Big Pharma in the red on ramped up pressure on drug prices,?",[0.23705225 0.58779377 0.175154  ],negative,-0.3507415
+"FDA committed to easing approval path for biosimilars,?",[0.7956273  0.01603281 0.18833989],positive,0.7795945
+"Pfizer and Lilly's tanezumab successful in late-stage osteoarthritis pain study,?",[0.85313094 0.02113755 0.12573153],positive,0.8319934
+"FDA OKs J&amp;J's single tablet darunavir-based regimen for HIV-1,?",[0.05793595 0.0509568  0.8911072 ],neutral,0.006979145
+"Novartis next to halt drug price hikes,?",[0.26393577 0.19371092 0.5423533 ],neutral,0.07022485
+"Pfizer launches late-stage study of hemophilia B gene therapy,?",[0.08239056 0.01170241 0.905907  ],neutral,0.07068816
+"FDA OKs expanded use for prostate cancer med Xtandi,?",[0.675938   0.02884532 0.29521665],positive,0.6470927
+"Capricor up 5% ahead of DMD study update,?",[0.9314106  0.04059417 0.02799525],positive,0.89081645
+"Alexandria Real Estate buys midtown Manhattan building for $203M,?",[0.05689477 0.01064778 0.93245745],neutral,0.046246983
+"Big Pharma in the red after Pfizer backs away from price hikes,?",[0.25236553 0.6264341  0.1212004 ],negative,-0.37406856
+"Pfizer to reorganize into three businesses in 2019,?",[0.03305802 0.01599493 0.95094705],neutral,0.017063094
+"Pfizer to defer price increases following CEO's talk with Trump,?",[0.10064382 0.71181303 0.18754314],negative,-0.6111692
+"""Pricing transparency law in California having effect, drug makers nix planned increases"",?",[0.3463707  0.04767595 0.60595334],neutral,0.29869473
+"Trump slams Pfizer price increases,?",[0.06639232 0.78641725 0.14719045],negative,-0.72002494
+"Vaccinex files for $46M initial public offering,?",[0.02942645 0.01280753 0.957766  ],neutral,0.01661892
+"Biotechs give up gains after Trump tweet on prices,?",[0.02842116 0.9060744  0.06550446],negative,-0.87765324
+"Big Pharma in the green on Biogen's bullish news,?",[0.23213767 0.10034645 0.6675159 ],neutral,0.1317912
+"Insurers making headway on corralling drug costs with copay accumulators,?",[0.4249033  0.13278973 0.44230697],neutral,0.29211357
+"Pfizer boosts prices of certain drugs by almost 10%,?",[0.9224367  0.01521448 0.06234882],positive,0.9072222
+"FDA withdraws draft guidance related to biosimilar development,?",[0.02582105 0.88163733 0.09254166],negative,-0.8558163
+"Novartis scoops up rights to EpiPen rival,?",[0.13824473 0.03068931 0.8310659 ],neutral,0.10755543
+"Pfizer declares $0 34 dividend,?",[0.06015989 0.6399405  0.2998996 ],negative,-0.57978064
+"Pfizer's Ibrance breast cancer combination misses secondary endpoint,?",[0.04898915 0.07424662 0.8767642 ],neutral,-0.025257464
+"Sarepta set to pop on encouraging data on DMD gene therapy,?",[0.87113965 0.03613459 0.09272572],positive,0.83500504
+"""FDA accepts Myriad Genetics' application for BRACAnalysis CDx as companion diagnostic with Pfizer's talazoparib, action date December; shares up 1%"",?",[0.847268   0.01204678 0.14068525],positive,0.83522123
+"ViiV Healthcare's two-drug HIV regimen successful in late-stage studies; Glaxo up 2% premarket,?",[0.93737257 0.03527899 0.02734845],positive,0.9020936
+"EC OKs AstraZeneca's Tagrisso for first-line lung cancer,?",[0.0654791  0.29095283 0.6435681 ],neutral,-0.22547373
+"BioMarin earns $20M in milestones from Pfizer on talazoparib filings,?",[0.81782585 0.04586206 0.1363121 ],positive,0.7719638
+"Pfizer's marketing applications for PARP inhibitor talazoparib accepted in U S  and Europe,?",[0.04206827 0.02447559 0.9334561 ],neutral,0.017592683
+"PBMs one-up drug makers on drug copay assistance schemes,?",[0.04718095 0.42635828 0.52646077],neutral,-0.37917733
+"Pfizer to expand venture investing with $600M commitment,?",[0.8024328  0.00743948 0.19012775],positive,0.7949933
+"Deciphera Pharma up 33% on positive DCC-2618 data,?",[0.9078919  0.06793452 0.02417348],positive,0.8399574
+"ASCO wary of Trump plan to lower drug prices,?",[0.05384834 0.80205715 0.14409445],negative,-0.7482088
+"EMA advisory group backs four biosimilars,?",[0.13238731 0.02984451 0.8377682 ],neutral,0.1025428
+"Bristol-Myers' Opdivo + Yervoy beats Pfizer's Sutent in late-stage RCC study,?",[0.62194115 0.2549766  0.12308218],positive,0.36696455
+"FDA issues draft guidance aimed at easing regulatory path for generic drugs,?",[0.6821893  0.01615897 0.30165178],positive,0.6660303
+"FDA OKs Pfizer's Xeljanz for ulcerative colitis; shares up 1%,?",[0.87366855 0.08316289 0.04316853],positive,0.79050565
+"Pfizer 셲 XALKORI receives FDA breakthrough therapy designation in two new indications,?",[0.9318527  0.01997825 0.04816904],positive,0.9118745
+"Eidos Therapeutics files for initial public offering,?",[0.03333562 0.01030569 0.9563586 ],neutral,0.023029929
+"Healthcare roundup,?",[0.03771547 0.22443101 0.7378535 ],neutral,-0.18671554
+"EpiPen shortage heaps pressure on Pfizer,?",[0.01242837 0.9629924  0.02457925],negative,-0.9505641
+"FDA clamps down on OTC benzocaine teething products on safety concerns,?",[0.01867924 0.92457277 0.05674798],negative,-0.9058935
+"Pfizer's Tafamidis a Breakthrough Therapy for rare heart disorder,?",[0.33934045 0.015295   0.64536464],neutral,0.32404545
+"""Goldman Sachs: Hedge funds betting against Nvidia, Intel"",?",[0.04230886 0.22684951 0.7308417 ],neutral,-0.18454064
+"Pfizer launches RSV vaccine study,?",[0.0835572  0.03355055 0.88289225],neutral,0.050006643
+"Spark's gene therapy SPK-9001 shows treatment benefit in hemophilia B study,?",[0.49270332 0.02755519 0.4797415 ],positive,0.46514812
+"ViiV Healthcare's HIV med Juluca OK'd in Europe,?",[0.06658354 0.2938793  0.63953716],neutral,-0.22729576
+"Investors bullish on biotechs after Trump drug pricing speech,?",[0.5382825  0.19343632 0.2682812 ],positive,0.3448462
+"Pfizer's Lyrica successful in late-stage pediatric epilepsy study,?",[0.4938588  0.02998646 0.4761547 ],positive,0.46387234
+"Roche's Alecensa beats Pfizer's Xalkori in late-stage lung cancer study,?",[0.3032353 0.4329977 0.263767 ],negative,-0.12976241
+"FDA OKs Pfizer's Epogen/Procrit biosimilar,?",[0.06375191 0.27451366 0.66173446],neutral,-0.21076176
+"Trump speech on drug prices light on specifics,?",[0.03127027 0.05446739 0.9142624 ],neutral,-0.023197122
+"Trump plan on drug prices to be announced this afternoon,?",[0.05478739 0.0442325  0.9009801 ],neutral,0.010554891
+"Pfizer selects two additional hepatic targets under partnership with Wave,?",[0.10156898 0.00573077 0.89270025],neutral,0.09583821
+"Pfizer to eschew deals in favor of pipeline development - CEO Read; shares down 4%,?",[0.01111132 0.9658025  0.02308614],negative,-0.9546912
+"Pfizer Q1 revenues up 1%; non-GAAP EPS up 12%; reiterates guidance,?",[0.9441595 0.0225073 0.0333332],positive,0.9216522
+"""Pfizer beats by $0 02, misses on revenue"",?",[0.26056162 0.39512798 0.3443104 ],negative,-0.13456637
+"Solid Biosciences moving closer to removal of clinical hold on early-stage study of DMD candidate SGT-001; shares up 6%,?",[0.9218685  0.01504205 0.06308942],positive,0.90682644
+"Capricor launches mid-stage study of DMD candidate CAP-1002; shares up 2%,?",[0.9181002  0.02349002 0.05840984],positive,0.89461017
+"Celyad up 20% on encouraging data on CAR-T candidate CYAD-01,?",[0.90047026 0.07485007 0.02467971],positive,0.8256202
+"European advisory group April meeting results,?",[0.03363366 0.17483838 0.791528  ],neutral,-0.14120471
+"Pfizer declares $0 34 dividend,?",[0.06015989 0.6399405  0.2998996 ],negative,-0.57978064
+"Opioid prescriptions dropped 12% in 2017,?",[0.01098276 0.97578406 0.01323317],negative,-0.9648013
+"FDA advisory committees back cardiovascular safety data for Pfizer's Celebrex,?",[0.06869221 0.56722957 0.36407825],negative,-0.49853736
+"FDA rejects Pfizer's application for Herceptin biosimilar,?",[0.03033104 0.88447344 0.08519551],negative,-0.8541424
+"Pfizer's Trumenba a Breakthrough Therapy for prevention of MenB disease,?",[0.23519656 0.01313569 0.7516678 ],neutral,0.22206087
+"Pfizer's Mylotarg OK'd in Europe for certain type of AML,?",[0.04332154 0.04314773 0.9135307 ],neutral,0.00017381087
+"Novartis Q1 results weigh on pharma stocks,?",[0.01554088 0.94738454 0.0370745 ],negative,-0.93184364
+"""U S  opioid prescriptions down 12% last year, largest drop in 25 years"",?",[0.00998292 0.97837925 0.01163793],negative,-0.9683963
+"Provectus awarded patents in Japan and Europe covering PV-10,?",[0.26257625 0.01266623 0.72475755],neutral,0.24991003
+"EpiPen shortage plagues Canada,?",[0.0193925  0.91686714 0.06374041],negative,-0.89747465
+"DEA aims to collar production of opioids,?",[0.07512818 0.00508233 0.9197895 ],neutral,0.07004585
+"Sen  Sanders introduces bill to fine opioid makers for marketing practices,?",[0.39566305 0.18691514 0.41742185],neutral,0.20874791
+"FDA OKs Bristol-Myers' Opdivo + Yervoy for first-line kidney cancer,?",[0.17193459 0.14117612 0.6868893 ],neutral,0.03075847
+"Dosing underway in early-stage study of Pfizer DMD candidate,?",[0.04737037 0.03456612 0.9180635 ],neutral,0.012804255
+"Bristol-Myers slips 1% premarket on lack of Pfizer interest,?",[0.01596278 0.9600394  0.0239979 ],negative,-0.9440766
+"Pfizer's Inlyta flunks late-stage label-expansion study,?",[0.05470201 0.16894995 0.776348  ],neutral,-0.11424793
+"Barclays cuts price target on Pfizer after diminished prospects for major acquisition,?",[0.04983775 0.9067603  0.04340202],negative,-0.8569225
+"Pfizer's marketing applications for dacomitinib in first-line NSCLC accepted in U S  and Europe,?",[0.03160826 0.02451177 0.94388   ],neutral,0.0070964918
+"P&amp;G in talks with Pfizer over consumer unit,?",[0.04113084 0.04077782 0.91809136],neutral,0.00035302714
+"CMS finalizes policies to reduce drug costs for Medicare beneficiaries,?",[0.7569309  0.01674787 0.22632124],positive,0.740183
+"Pfizer to contribute assets backing CAR T developer Allogene Therapeutics,?",[0.04057086 0.01255228 0.9468768 ],neutral,0.028018579
+"Pfizer's tafamidis successful in late-stage study in rare heart failure condition,?",[0.28392655 0.05499066 0.6610828 ],neutral,0.2289359
+"FDA working on policies to boost biosimilars,?",[0.4943293  0.01968305 0.4859877 ],positive,0.47464624
+"Big Pharma in the green as bargain hunters move in,?",[0.1265252  0.04170369 0.83177114],neutral,0.0848215
+"FDA Ad Com next month for label revision for Pfizer's Celebrex,?",[0.05467341 0.05386278 0.89146376],neutral,0.00081063434
+"FDA Ad Com backs lofexidine for opioid withdrawal,?",[0.05105704 0.4185065  0.53043646],neutral,-0.36744946
+"Pfizer's smoke cessation med Chantix flunks study in adolescents; shares down 1% premarket,?",[0.00943719 0.9735831  0.01697968],negative,-0.9641459
+"European advisory group backs ViiV Healthcare's two-drug HIV pill Juluca,?",[0.54695696 0.06729139 0.38575166],positive,0.47966558
+"Glaxo pulls out of Pfizer asset auction,?",[0.03224333 0.79861253 0.16914415],negative,-0.7663692
+"Rituxan biosimilar captures 80% of British market,?",[0.1112663  0.01580316 0.8729306 ],neutral,0.09546314
+"Reckitt Benckiser backs away from Pfizer's consumer healthcare unit,?",[0.03509383 0.8498234  0.11508274],negative,-0.8147296
+"Transgene outlines key 2018 milestones,?",[0.20963442 0.00894907 0.78141654],neutral,0.20068535
+"FDA accepts Pfizer's marketing application for expanded use of Xtandi,?",[0.6153205  0.03558036 0.34909913],positive,0.57974017
+"Drug stocks in the red on as Trump mulls suing pharma firms over opioid crisis,?",[0.02275148 0.9198839  0.05736471],negative,-0.89713246
+"Trump to release opioid epidemic plan,?",[0.08272354 0.07702715 0.8402493 ],neutral,0.0056963935
+"Biogen to acquire mid-stage asset from Pfizer for cognitive impairment associated with schizophrenia for up to $590M,?",[0.13059475 0.00818632 0.8612189 ],neutral,0.12240843
+"FDA Ad Com back Pfizer's Xeljanz for certain UC patients; shares up 2%,?",[0.8361465  0.130298   0.03355544],positive,0.70584846
+"Opioid settlement talks hit roadblocks,?",[0.01768184 0.9394166  0.04290155],negative,-0.92173475
+"Opioid overdoses spiked 30% in a year,?",[0.83495116 0.04166171 0.12338714],positive,0.7932895
+"FDA OKs TaiMed's HIV med ibalizumab,?",[0.06493231 0.1699642  0.76510346],neutral,-0.105031885
+"Ad Com Thursday for Pfizer's Xeljanz for ulcerative colitis,?",[0.04233152 0.19196913 0.7656993 ],neutral,-0.14963761
+"Gilead's HIV med Biktarvy on par with Viiv's Triumeq in late-stage study,?",[0.5256296  0.06350802 0.4108624 ],positive,0.46212155
+"Key events next week - healthcare,?",[0.03136595 0.05637267 0.91226137],neutral,-0.025006726
+"DOJ cracks down on opioid companies,?",[0.01678548 0.92587686 0.05733778],negative,-0.90909135
+"European advisory group backs expanded use for Pfizer's Bosulif,?",[0.8403383  0.01622437 0.14343742],positive,0.8241139
+"European advisory group thumbs down on expanded use for Pfizer's Sutent,?",[0.03505857 0.94064844 0.02429298],negative,-0.9055899
+"European advisory group recommends five new drugs,?",[0.11808582 0.01592965 0.8659845 ],neutral,0.10215617
+"Merck KGaA and Pfizer's Bavencio OK'd in Canada for rare type of skin cancer,?",[0.05204654 0.6246582  0.32329518],negative,-0.5726117
+"FDA tentatively OKs Mylan's HIV combo pill,?",[0.3107007  0.06036561 0.62893367],neutral,0.2503351
+"""Pfizer's marketing applications for lorlatinib in NSCLC accepted in U S , Europe and Japan; shares up 1% premarket"",?",[0.9378903  0.02004029 0.04206941],positive,0.91785
+"OxyContin maker stops promoting opioids,?",[0.03430389 0.8234382  0.14225785],negative,-0.7891343
+"ViiV Healthcare sues Gilead for patent infringement over bictegravir,?",[0.01535582 0.9498578  0.03478639],negative,-0.93450195
+"Nestle backs away from Merck KGaA's consumer unit,?",[0.01936007 0.9418027  0.03883727],negative,-0.9224426
+"Big biopharma firms poised to end session in the red after Trump comments on high prices,?",[0.08415075 0.7322581  0.1835912 ],negative,-0.64810735
+"Height weighs in on Amazon/Berkshire/JPMorgan healthcare venture,?",[0.08256514 0.2274933  0.6899415 ],neutral,-0.14492816
+"Pfizer Q4 revenues up 1%; non-GAAP EPS up 32%; updates guidance,?",[0.94449884 0.02688049 0.02862075],positive,0.91761833
+"""Pfizer beats by $0 06, beats on revenue"",?",[0.50374824 0.10449991 0.39175192],positive,0.39924833
+"Big biopharma in the green after AbbVie's Q4 beat,?",[0.31303436 0.2701127  0.416853  ],neutral,0.042921662
+"Key events next week - healthcare,?",[0.03136595 0.05637266 0.91226137],neutral,-0.025006715
+"Johnson &amp; Johnson backs away from Pfizer's consumer health unit,?",[0.03816947 0.82194525 0.13988528],negative,-0.7837758
+"Profit-taking weighs on biotechs and biopharmas,?",[0.03711341 0.8341043  0.12878221],negative,-0.7969909
+"Pfizer's biosimilar candidate to Roche's Rituxan/MabThera shows equivalence in comparative lymphoma study,?",[0.19660531 0.05529749 0.74809724],neutral,0.14130782
+"Hospitals still grappling with IV fluid shortage,?",[0.01679494 0.95096457 0.0322404 ],negative,-0.93416965
+"Big Biopharma in the red in early trade,?",[0.09136625 0.29548058 0.6131532 ],neutral,-0.20411433
+"Ad Com March 8 for Pfizer's Xeljanz for ulcerative colitis,?",[0.05020447 0.23378219 0.7160133 ],neutral,-0.18357772
+"FDA launches new program to boost transparency of clinical data used to support approvals,?",[0.8644118  0.01315174 0.12243648],positive,0.85126
+"Foundation Medicine and Pfizer team up to develop companion diagnostics,?",[0.5734933  0.01254888 0.41395783],positive,0.56094444
+"PARP competitors under pressure as AstraZeneca nabs U S  OK for Lynparza in breast cancer,?",[0.03453821 0.8473394  0.11812242],negative,-0.8128012
+"Novartis poaches Pfizer exec to head oncology unit,?",[0.04900268 0.19602238 0.7549749 ],neutral,-0.14701968
+"Glaxo may be interested in Pfizer's consumer products unit at the right price,?",[0.08367746 0.00529681 0.9110257 ],neutral,0.07838065
+"Start of JPM18 fails to buoy healthcare stocks,?",[0.05678625 0.9068033  0.03641047],negative,-0.8500171
+"Pfizer halts development of Alzheimer's drugs,?",[0.02241918 0.8625637  0.11501715],negative,-0.8401445
+"Goldman bullish on biopharma in 2018,?",[0.05836136 0.7270896  0.21454906],negative,-0.66872823
+"Pfizer teams up with Arvinas to develop small molecule drugs targeting disease-causing cellular proteins,?",[0.56440604 0.014106   0.42148796],positive,0.55030006
+"FDA advancing plan to streamline generic drug reviews,?",[0.4768693  0.01682369 0.50630707],neutral,0.4600456
+"Sangamo teams up with Pfizer to develop gene therapy to treat ALS; shares ahead 4% premarket,?",[0.7026616  0.01774382 0.27959454],positive,0.68491775
+"U S  drug approvals highest in 21 years,?",[0.41051763 0.13345073 0.45603165],neutral,0.2770669
+"""Boeing, Caterpillar top Dow 2017 standings; GE lags far behind"",?",[0.20404077 0.47463995 0.32131934],negative,-0.2705992
+"FDA OKs Merck's Steglatro for type 2 diabetics,?",[0.13887447 0.13399991 0.7271256 ],neutral,0.0048745573
+"Merck KGaA's Bavencio + Pfizer's Inlyta a Breakthrough Therapy for first-line kidney cancer,?",[0.12767076 0.01524734 0.85708183],neutral,0.11242342
+"FDA OKs Merck's ertugliflozin/sitagliptin for T2D,?",[0.10006868 0.5070282  0.39290303],negative,-0.40695953
+"FDA OKs expanded use for Pfizer's bosutinib,?",[0.6789487  0.06187811 0.25917318],positive,0.6170706
+"Array Bio teams up with Pfizer on combo cancer therapies; shares up 2%,?",[0.883497   0.01155733 0.10494568],positive,0.87193966
+"Pfizer declares $0 34 dividend &amp; authorizes new share repurchase program,?",[0.0812047  0.00762479 0.9111705 ],neutral,0.07357991
+"FDA OKs Pfizer's Xeljanz for psoriatic arthritis; shares up 1% premarket,?",[0.89435357 0.06588672 0.03975976],positive,0.82846683
+"Pfizer launches Phase 3 program for JAK1 inhibitor PF-04965842 in atopic dermatitis,?",[0.23104748 0.0229009  0.7460516 ],neutral,0.20814659
+"Pfizer gets FDA nod for second biosimilar of J&amp;J's Remicade,?",[0.8590603  0.02223572 0.11870398],positive,0.83682454
+"Servier and Pfizer's CAR-T candidate shows positive effect in two early-stage leukemia studies; licensor Cellectis up 13% premarket,?",[0.93130267 0.04130837 0.027389  ],positive,0.88999426
+"FDA extends action date three months for review of Pfizer's marketing application for Xeljanz for UC,?",[0.2718548  0.10535933 0.62278587],neutral,0.16649546
+"Tecentriq/Avastin combo beats Pfizer's Sutent in late-stage kidney cancer study,?",[0.7395783  0.20084764 0.05957402],positive,0.5387307
+"""AT&amp;T, Pfizer, Boeing, Lilly among those raising dividends next week - Bloomberg"",?",[0.04482466 0.01131827 0.9438571 ],neutral,0.033506386
+"Pfizer's PARP inhibitor talazoparib shows treatment effect in late-stage breast cancer study,?",[0.10674769 0.03266443 0.8605879 ],neutral,0.07408326
+"Updated late-stage data continue to show effectiveness of Pfizer's Ibrance in ER+/HER2- breast cancer,?",[0.31540293 0.02488191 0.6597152 ],neutral,0.29052103
+"Pfizer to commercialize antifungal Cresemba in Asia,?",[0.05586793 0.02300362 0.92112845],neutral,0.032864317
+"UK approves OTC version of Pfizer's Viagra; shares up 1%,?",[0.92095816 0.03426174 0.04478021],positive,0.8866964
+"Premarket analyst action - healthcare,?",[0.03490145 0.0790403  0.8860583 ],neutral,-0.044138853
+"ViiV Healthcare launches late-stage study assessing long-acting two-drug combo for HIV-1,?",[0.23538053 0.01180511 0.7528144 ],neutral,0.22357541
+"FDA OKs ViiV Healthcare's two-drug combo for HIV-1,?",[0.2401223  0.01415134 0.74572635],neutral,0.22597097
+"Cost of U S  opioid epidemic tops $500B,?",[0.22383386 0.21934047 0.55682564],neutral,0.0044933856
+"FDA OKs expanded use of Pfizer's cancer med Sutent,?",[0.7676726  0.03618054 0.19614694],positive,0.73149204
+"FDA OKs Roche's Hemlibra for hemophilia A,?",[0.08697779 0.5885251  0.32449707],negative,-0.50154734
+"Expanded use of AstraZeneca's Faslodex OK'd in Europe,?",[0.7561666  0.00876268 0.23507077],positive,0.7474039
+"Expanded use of Pfizer's Xalkori OK'd in Canada,?",[0.7129003  0.00898661 0.27811313],positive,0.7039137
+"New operating chief at Pfizer,?",[0.04421448 0.07392506 0.8818605 ],neutral,-0.029710587
+"Argos up 70% premarket on positive late-stage kidney cancer data on lead candidate Rocapuldencel-T,?",[0.90652865 0.06284826 0.03062319],positive,0.8436804
+"Mallinckrodt's rough treatment after Q3 revenue miss reflects the space - WSJ,?",[0.02315109 0.9334263  0.04342249],negative,-0.9102752
+"FDA OKs Roche's Alecensa for first-line ALK+ lung cancer,?",[0.12980857 0.23427123 0.63592017],neutral,-0.10446265
+"Ad Com next week to clarify development plan for Pfizer's Staph vaccine,?",[0.06847276 0.0078874  0.92363983],neutral,0.060585357
+"Pfizer Q3 revenues up 1%; non-GAAP EPS up 10%; revises guidance,?",[0.9462967  0.02349554 0.03020778],positive,0.92280114
+"""Pfizer beats by $0 02, revenue in-line"",?",[0.46698067 0.22661412 0.30640525],positive,0.24036655
+"Biotech-led selloff engulfs hospitals and Big Pharma,?",[0.01881877 0.91331315 0.06786808],negative,-0.89449435
+"Pfizer readying consumer health sale,?",[0.03453567 0.03406073 0.9314036 ],neutral,0.00047493353
+"""Glaxo would consider bid for Pfizer 셲 consumer health business, CEO says"",?",[0.1057701  0.01377052 0.8804593 ],neutral,0.091999575
+"""Big pharma/biotech players under pressure, Valeant only bright spot"",?",[0.2906038  0.08051717 0.6288791 ],neutral,0.21008661
+"U S  Orphan Drug roundup,?",[0.04162756 0.24028662 0.7180858 ],neutral,-0.19865906
+"""President Trump at it again with comments on """"out of control"""" drug prices"",?",[0.04916246 0.24603668 0.7048009 ],neutral,-0.19687422
+"Pfizer's lorlatinib shows treatment effect in mid-stage lung cancer study,?",[0.11284166 0.02991966 0.85723865],neutral,0.082922
+"FDA approves LYRICA CR extended-release tablets CV,?",[0.7761469  0.04009552 0.1837576 ],positive,0.7360514
+"""Merck bails on cholesterol med anacetrapib, no regulatory applications planned; shares down 1% after hours"",?",[0.01081515 0.97140944 0.01777551],negative,-0.9605943
+"Hurricane-related damage could cause shortages of 40 drugs - FDA,?",[0.01787209 0.9311383  0.05098966],negative,-0.9132662
+"California enacts law aimed at corralling high drug prices,?",[0.35850683 0.0343475  0.6071457 ],neutral,0.32415932
+"Pfizer mulling potential sale of consumer healthcare unit; shares up 1% premarket,?",[0.87169164 0.06587908 0.06242925],positive,0.8058126
+"China to accept out-of-country trial data to speed up drug approvals,?",[0.7713931  0.04502703 0.18357979],positive,0.7263661
+"Texas court strikes down Treasury Department's inversion law,?",[0.02540222 0.89477986 0.07981789],negative,-0.8693776
+"""Med stocks up early, biotechs lead"",?",[0.43226027 0.23300108 0.33473864],positive,0.19925919
+"FDA launches new tool aimed at easier access to adverse event data,?",[0.78152174 0.01516051 0.20331778],positive,0.76636124
+"New measures to fight opioid addiction,?",[0.67712265 0.02041484 0.30246255],positive,0.6567078
+"Pfizer declares $0 32 dividend,?",[0.05912255 0.6595489  0.2813286 ],negative,-0.6004263
+"Pfizer and Merck KGaA's Bavencio OK'd in Japan for rare skin cancer,?",[0.04403757 0.6977314  0.258231  ],negative,-0.6536938
+"Versartis' lead candidate VRS-317 flunks late-stage study; shares poised for significant drop,?",[0.01034396 0.9712568  0.01839933],negative,-0.9609128
+"FDA's Woodcock says clinical trials system &quot;broken&quot;,?",[0.05205838 0.3927385  0.5552032 ],neutral,-0.34068012
+"FDA advisory committee to meet November 7 on development plan for Pfizer's staph vaccine,?",[0.05404412 0.00996112 0.9359948 ],neutral,0.04408299
+"Merck KGaA and Pfizer's avelumab OK'd in Europe for rare skin cancer,?",[0.07021494 0.25106725 0.6787178 ],neutral,-0.18085231
+"""Pfizer sues J&amp;J over """"anticompetitive practices"""" against Remicade biosimilar"",?",[0.01478277 0.9326345  0.05258278],negative,-0.9178517
+"Premarket analyst action - healthcare,?",[0.03490145 0.0790403  0.8860583 ],neutral,-0.044138853
+"Ad Com vote split on Pfizer's Sutent for certain kidney cancer patients,?",[0.07971012 0.36928675 0.5510031 ],neutral,-0.28957662
+"Ad Comm approaches for expanded use for Pfizer's Sutent,?",[0.07178167 0.00604206 0.9221763 ],neutral,0.0657396
+"Xtandi/ADT combo extends survival in late-stage prostate cancer study,?",[0.9195852  0.02254058 0.0578742 ],positive,0.89704466
+"Mallinckrodt targeted by Missouri AG over opioid marketing; shares down 14%,?",[0.00950062 0.97165334 0.01884602],negative,-0.9621527
+"FDA OK's Pfizer's Mylotarg for certain AML patients,?",[0.04016479 0.09856    0.86127526],neutral,-0.05839521

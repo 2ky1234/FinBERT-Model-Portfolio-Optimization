@@ -1,0 +1,366 @@
+sentence,logit,prediction,sentiment_score
+"title,
+Investors' Covid trend expectations laid bare in Q3 analysis of top performers,?",[0.09420487 0.03290966 0.87288547],neutral,0.06129521
+"UBS says Nike's digital transition is just getting started,?",[0.1037654  0.01304673 0.88318783],neutral,0.090718664
+"Is it the shoes  Online ETF stands out amid Nike's digital new normal,?",[0.61269546 0.02622271 0.3610818 ],positive,0.58647275
+"""Nike jump, Amazon rebound lifting discretionary out of doldrums: At the Open"",?",[0.24937844 0.05858627 0.69203526],neutral,0.19079217
+"Nike runs to all-time high after FQ1 results dazzle,?",[0.79077244 0.094076   0.11515164],positive,0.69669646
+"Nike +8% after earnings smasher; Foot Locker and Under Armour also up,?",[0.88916194 0.07197063 0.03886734],positive,0.8171913
+"""Nike EPS beats by $0 47, beats on revenue"",?",[0.17228846 0.03592598 0.79178554],neutral,0.13636248
+"Nike Q1 2021 Earnings Preview,?",[0.06930251 0.3903613  0.54033613],neutral,-0.3210588
+"UBS picks names to watch/avoid as survey suggests weak sentiment could dampen holiday softlines season,?",[0.02016381 0.9451876  0.03464858],negative,-0.9250238
+"Seeking Alpha Catalyst Watch,?",[0.05278901 0.02536337 0.92184764],neutral,0.027425641
+"Nike sized up by BTIG ahead of earnings next week,?",[0.3308814  0.41957355 0.2495451 ],negative,-0.08869216
+"J P  Morgan weighs names to gain from sporting goods' direct-to-consumer shift,?",[0.57747895 0.0637127  0.3588084 ],positive,0.5137662
+"Nike defies doubters with run to new high,?",[0.546455   0.21567175 0.2378732 ],positive,0.33078328
+"""Pandemic's back-to-school season could bring record retail spending, CFRA says"",?",[0.67006284 0.04879858 0.2811386 ],positive,0.6212643
+"NBA playoffs resuming tomorrow,?",[0.03733008 0.16770613 0.7949638 ],neutral,-0.13037606
+"NBA players to resume playoffs - ESPN,?",[0.03528451 0.08803045 0.876685  ],neutral,-0.05274594
+"""Visa, BofA, Qualcomm join campaign giving workers time to vote"",?",[0.2973427  0.03577922 0.6668781 ],neutral,0.26156348
+"NBA season could be over - Deadline Hollywood,?",[0.04513863 0.49025303 0.4646083 ],negative,-0.4451144
+"Wholesale friends of Nike list gets narrower,?",[0.04078775 0.8982711  0.06094118],negative,-0.8574833
+"Nike to offer free virtual training with NFL stars as share price outperformance continues,?",[0.793615   0.02290439 0.18348067],positive,0.7707106
+"Consumer smallcap ETFs harbor alpha as battle for wallets heats up,?",[0.32681632 0.08074277 0.5924409 ],neutral,0.24607354
+"Nike expected to hit long-term targets as tailwinds kick in,?",[0.16088153 0.03490445 0.804214  ],neutral,0.12597708
+"Rising fashion brands outpace stalwarts in UBS look at TikTok likes,?",[0.23070401 0.14314844 0.62614757],neutral,0.08755557
+"Nike seen as beneficiary of second stimulus round,?",[0.17541747 0.08271048 0.7418721 ],neutral,0.092706986
+"""Coatue buys Boeing, adds Disney, cuts Tesla, exits Snap"",?",[0.06891377 0.41389364 0.51719254],neutral,-0.34497988
+"UBS softlines check warns of weak back-to-school clothing season,?",[0.03253002 0.90268147 0.06478855],negative,-0.87015146
+"Animal spirits lift consumer discretionary names as earnings continue to satisfy,?",[0.56429493 0.2649438  0.17076126],positive,0.29935113
+"Foot Locker and peers gain after Q2 guidance arrives ahead of expectations,?",[0.81018806 0.12833704 0.0614749 ],positive,0.681851
+"Nike declares $0 245 dividend,?",[0.05294244 0.72787046 0.21918719],negative,-0.674928
+"German soccer eyes bringing fans back to games,?",[0.0875498  0.04260504 0.8698452 ],neutral,0.044944756
+"Nike to close innovation site in another cost-cutting move,?",[0.01934986 0.92890286 0.05174731],negative,-0.909553
+"Nike names new diversity chief,?",[0.05343822 0.04542232 0.90113944],neutral,0.008015897
+"""Picks from poring through a choppy softline retail quarter, from Evercore"",?",[0.15134068 0.03534691 0.81331235],neutral,0.11599377
+"""Nike cutting jobs, reorganizing management team"",?",[0.15790747 0.45010516 0.39198735],negative,-0.2921977
+"Investors rush into sporting goods sector as trends look strong,?",[0.8428737  0.02388729 0.13323897],positive,0.8189864
+"Nike and Dick's having a strong June - BofA,?",[0.76350456 0.03058499 0.20591035],positive,0.7329196
+"Amazon pulls Washington Redskins merch as team weighs name change,?",[0.04897588 0.47351834 0.47750574],neutral,-0.42454246
+"Under Armour might sell its digital fitness app,?",[0.09413835 0.01883041 0.8870312 ],neutral,0.07530794
+"Nike looks to outpace Adidas and Under Armour on social relevance,?",[0.8543125  0.04258345 0.10310404],positive,0.811729
+"FedEx asks Washington Redskins to change team name,?",[0.06499608 0.04306352 0.8919404 ],neutral,0.021932557
+"Wall Street bulls see past Nike's short-term COVID hit,?",[0.34633717 0.12927996 0.5243828 ],neutral,0.21705721
+"Nike -4% after earnings fall short for lockdown quarter,?",[0.01490869 0.9660465  0.01904477],negative,-0.95113784
+"""Nike EPS misses by $0 54, misses on revenue"",?",[0.0214445  0.9204264  0.05812909],negative,-0.8989819
+"Nike Q4 2020 Earnings Preview,?",[0.06126947 0.3201636  0.618567  ],neutral,-0.25889415
+"Nike rallies as analysts exude confidence ahead of earnings,?",[0.8128575  0.1052276  0.08191494],positive,0.7076299
+"Juneteenth celebrations spread to corporate America,?",[0.23171468 0.01770857 0.75057673],neutral,0.21400611
+"Nike seen benefiting from long-term lifestyle changes,?",[0.56979316 0.01339986 0.41680703],positive,0.5563933
+"""Slow return of major sports could hit media giants, retailers and betting shops"",?",[0.05217622 0.75250244 0.19532144],negative,-0.7003262
+"Nike a long-term favorite at UBS,?",[0.04029782 0.19592361 0.7637786 ],neutral,-0.15562579
+"Nike responds to racial protests,?",[0.05331991 0.19409704 0.752583  ],neutral,-0.14077714
+"Consumer brands find positives in Baird shopping survey,?",[0.7244576  0.12921168 0.14633071],positive,0.59524596
+"NBA to vote on 22-team short-season return (updated),?",[0.1802018  0.16322434 0.65657383],neutral,0.01697746
+"Nationwide protests force retail closures,?",[0.01448725 0.94611335 0.03939937],negative,-0.9316261
+"NBA planning July 31 return - report,?",[0.03697552 0.18970646 0.77331805],neutral,-0.15273094
+"Investors give exercise stocks a workout,?",[0.07816225 0.06196363 0.8598741 ],neutral,0.016198628
+"Nike seen emerging as a stronger brand after the pandemic,?",[0.9177059  0.02578313 0.05651091],positive,0.8919228
+"Nike up and running in Asia,?",[0.27819714 0.05800576 0.66379714],neutral,0.22019137
+"Nike declares $0 245 dividend,?",[0.05294244 0.72787046 0.21918717],negative,-0.674928
+"""Nascar starts engines, expects resumption May 17"",?",[0.03365897 0.02633438 0.9400066 ],neutral,0.0073245894
+"Lebron James says play on,?",[0.04394513 0.10147248 0.85458237],neutral,-0.057527356
+"NBA season in jeopardy of being canceled,?",[0.01960352 0.88730705 0.09308937],negative,-0.86770356
+"'Bubble City' floated for NBA return,?",[0.10352301 0.10456199 0.791915  ],neutral,-0.0010389835
+"College athletes closer to getting paid,?",[0.19355968 0.32466277 0.48177764],neutral,-0.1311031
+"Adidas sees strong recovery for sporting goods,?",[0.9194903  0.01641936 0.06409039],positive,0.9030709
+"NBA looking to start next season around Christmas,?",[0.06331753 0.1410039  0.79567856],neutral,-0.07768638
+"Nike names new North America chief,?",[0.03606164 0.05039462 0.9135437 ],neutral,-0.014332984
+"Athletic apparel disruption amid the pandemic,?",[0.01785378 0.92370564 0.05844055],negative,-0.90585184
+"Nike seen as back on track in China,?",[0.47770965 0.2225693  0.2997211 ],positive,0.25514036
+"""Amazon, Nike and Goldfish big winners in teen survey"",?",[0.59755147 0.04838444 0.3540641 ],positive,0.54916704
+"Big league baseball mulls May start - ESPN,?",[0.02792494 0.05578578 0.91628927],neutral,-0.027860843
+"Trump pushes for end to sports hiatus,?",[0.07987233 0.06392775 0.85619986],neutral,0.015944585
+"Investors dress down the apparel sector,?",[0.0672259  0.5276986  0.40507555],negative,-0.46047267
+"Wimbledon a scratch in 2020,?",[0.07023183 0.39631784 0.53345037],neutral,-0.326086
+"Nike confident on recovery plan,?",[0.7458293  0.10366849 0.15050231],positive,0.6421608
+"Nike +7% after earnings topper,?",[0.10257727 0.44848365 0.44893909],neutral,-0.34590638
+"""Nike EPS beats by $0 22, beats on revenue"",?",[0.17551637 0.04260348 0.7818802 ],neutral,0.13291289
+"Big swing in Nike expected after earnings drop,?",[0.16919702 0.743929   0.08687396],negative,-0.574732
+"Competition heats up in the fitness-at-home sector,?",[0.07549743 0.03498093 0.88952166],neutral,0.0405165
+"Tokyo Olympics officially delayed,?",[0.01819285 0.89118344 0.09062374],negative,-0.8729906
+"Nike reports amid coronavirus closures,?",[0.02900037 0.8326302  0.13836937],negative,-0.8036299
+"Nike Q3 2020 Earnings Preview,?",[0.05556201 0.26278746 0.6816505 ],neutral,-0.20722546
+"""Olympic postponement 'decided,' IOC veteran says - report"",?",[0.06298076 0.05407713 0.88294214],neutral,0.00890363
+"Nike rides BofA upgrade higher,?",[0.87302196 0.06559465 0.06138342],positive,0.8074273
+"Apparel stocks bounce back from lows,?",[0.67323494 0.24628478 0.08048026],positive,0.42695016
+"Consumer sector slammed by social distancing reality,?",[0.02063984 0.9235388  0.05582139],negative,-0.90289897
+"""Sports: Euros off, Kentucky Derby next "",?",[0.04401989 0.25436813 0.701612  ],neutral,-0.21034823
+"Mall names sink on wave of closings and uncertainty,?",[0.02348469 0.8799865  0.09652883],negative,-0.8565018
+"Nike closing stores in U S  amid coronavirus outbreak,?",[0.01134309 0.9571855  0.03147139],negative,-0.9458424
+"Shockwaves in the sports world rattle investors as multiple sports suspend seasons,?",[0.02314465 0.9140451  0.06281018],negative,-0.89090043
+"Nike falls further after another NBA All-Star tests positive for coronavirus,?",[0.01538126 0.96945065 0.01516813],negative,-0.9540694
+"Nike -7% after NBA pulls games,?",[0.09361975 0.49221873 0.41416153],negative,-0.39859897
+"Modell's files for bankruptcy protection,?",[0.02250402 0.7181888  0.25930712],negative,-0.6956848
+"Sports stocks slammed as major event cancellations rise,?",[0.01214549 0.95224816 0.03560632],negative,-0.9401027
+"Tokyo Olympics in doubt due to coronavirus,?",[0.02011296 0.8867021  0.09318494],negative,-0.8665892
+"Nike -7% amid market turmoil,?",[0.05491759 0.7645837  0.18049864],negative,-0.70966613
+"Fear trading drives down consumer majors,?",[0.01843436 0.9198145  0.06175116],negative,-0.9013802
+"Consumer favorites lead the Dow after rate cut,?",[0.12642816 0.30953467 0.5640372 ],neutral,-0.18310651
+"UBS confident on long-term story with Nike,?",[0.85203505 0.04917782 0.09878714],positive,0.8028572
+"Nike temporarily shuts European headquarters,?",[0.01076861 0.9566322  0.03259926],negative,-0.9458636
+"Consumer heavyweights battered on coronavirus fears,?",[0.01866493 0.92924803 0.05208707],negative,-0.9105831
+"HSBC downgrades Nike,?",[0.01985444 0.91648597 0.06365958],negative,-0.89663154
+"Nike swoons on coronavirus anxiety,?",[0.0352863  0.7562937  0.20841998],negative,-0.7210074
+"Nike unveils new CFO and COO,?",[0.04597985 0.01679488 0.93722534],neutral,0.02918497
+"Cole Haan to go public,?",[0.04343275 0.07048856 0.8860787 ],neutral,-0.027055811
+"Nike declares $0 245 dividend,?",[0.05294244 0.72787046 0.21918717],negative,-0.674928
+"Coronavirus anxiety fades a bit in apparel sector,?",[0.30668595 0.33197144 0.3613426 ],neutral,-0.025285482
+"Under Armour anxiety not contagious,?",[0.0610198  0.38227436 0.55670583],neutral,-0.32125455
+"Nike sets strategy in South America,?",[0.0700454 0.0116535 0.9183011],neutral,0.058391903
+"Nike's Alphafly will also avoid Olympic ban,?",[0.07253193 0.4756974  0.45177072],negative,-0.40316546
+"Nike -2% after China update,?",[0.08005504 0.63196504 0.28797993],negative,-0.55191
+"BMO Capital joins Nike bull camp,?",[0.06024317 0.23843649 0.70132035],neutral,-0.17819332
+"JPMorgan sees Dow favorite as undervalued,?",[0.11859978 0.7117459  0.16965432],negative,-0.59314615
+"Nike +2% after UBS turns bullish,?",[0.08004048 0.8549811  0.06497846],negative,-0.77494067
+"Nike's Vaporfly to fly in Tokyo Olympics,?",[0.07944066 0.02292751 0.8976318 ],neutral,0.056513146
+"Nike pulls Kobe gear from online store,?",[0.0181697  0.9041208  0.07770953],negative,-0.8859511
+"Wells Fargo sees huge upside for resale market,?",[0.6349058  0.07642526 0.28866896],positive,0.55848056
+"Nike Vaporfly may face World Athletics ban,?",[0.02686622 0.8433659  0.12976792],negative,-0.8164997
+"Nike signs red-hot Liverpool,?",[0.05315187 0.25550187 0.6913463 ],neutral,-0.20234999
+"Retail chains scrap for foot traffic,?",[0.03151038 0.800474   0.16801558],negative,-0.76896363
+"Nike plays defense in Avenatti trial,?",[0.03101682 0.05430805 0.9146751 ],neutral,-0.02329123
+"""Apple, Microsoft top Dow 2019 standings; Walgreens wobbles to the bottom"",?",[0.03133077 0.8605796  0.10808964],negative,-0.82924885
+"Nike fills out new Jordan Brand roster,?",[0.10447193 0.02651882 0.86900926],neutral,0.07795311
+"Nike adds a new bull,?",[0.10913841 0.03587389 0.8549877 ],neutral,0.07326452
+"Nike falls back from all-time high,?",[0.09900445 0.86503726 0.03595833],negative,-0.7660328
+"""Nike EPS beats by $0 12, beats on revenue"",?",[0.20147097 0.04469629 0.7538327 ],neutral,0.15677468
+"Nike earnings: What to expect,?",[0.06143731 0.0408017  0.897761  ],neutral,0.020635605
+"Nike Q2 2020 Earnings Preview,?",[0.05963483 0.27154905 0.6688161 ],neutral,-0.21191421
+"Oppenheimer preps for Nike earnings,?",[0.03207603 0.1153579  0.85256606],neutral,-0.08328187
+"Markdown madness in retail ,?",[0.02221218 0.9125265  0.06526122],negative,-0.8903143
+"Goldman Sachs dials up the conviction on Nike,?",[0.08308377 0.22484228 0.692074  ],neutral,-0.1417585
+"Nike makes hands-on investment in hands-free tech,?",[0.0890848  0.00505927 0.9058559 ],neutral,0.08402553
+"NIKE declares $0 245 dividend,?",[0.05294244 0.72787046 0.21918719],negative,-0.674928
+"Nike sees Foot Locker as better partner than Amazon,?",[0.8564501  0.01613446 0.12741545],positive,0.84031564
+"Barclays slices up retail,?",[0.15868767 0.08256593 0.75874645],neutral,0.07612173
+"Nike breaks up with Amazon,?",[0.03984009 0.6076911  0.35246888],negative,-0.567851
+"Nike expands community store concept,?",[0.7354795  0.0153776  0.24914297],positive,0.7201019
+"Nike unloads Hurley business,?",[0.03467361 0.07609374 0.88923264],neutral,-0.041420132
+"NCAA clears a path for paid college athletes,?",[0.1714561 0.0287411 0.7998028],neutral,0.14271499
+"Nike and Skechers tussle in court again,?",[0.02649669 0.85335445 0.12014885],negative,-0.82685775
+"Pence takes a shot at Nike,?",[0.12099964 0.37250817 0.50649214],neutral,-0.25150853
+"Nordstrom storms Manhattan,?",[0.04355108 0.31095883 0.64549005],neutral,-0.26740775
+"Nike names new CEO,?",[0.07061402 0.08438352 0.8450025 ],neutral,-0.0137694925
+"Credit Suisse sees tough road for retail,?",[0.21251535 0.3829627  0.4045219 ],neutral,-0.17044735
+"Skechers over Nike in court again,?",[0.03893614 0.7686741  0.19238968],negative,-0.72973794
+"Nike shakes off a bear rating,?",[0.10017516 0.56707096 0.3327539 ],negative,-0.46689582
+"Nike closes running camp tied to scandal,?",[0.01925791 0.8738073  0.10693476],negative,-0.8545494
+"Oppenheimer sees tailwinds for Nike,?",[0.06029944 0.32160407 0.61809653],neutral,-0.26130462
+"NBA goes on in China,?",[0.05035522 0.45785272 0.491792  ],neutral,-0.4074975
+"NBA spat in China worsens,?",[0.02432708 0.92215747 0.05351544],negative,-0.89783037
+"Winners from Piper Jaffray's teenager spending survey,?",[0.10619979 0.1103235  0.78347665],neutral,-0.0041237026
+"China cuts the cord on NBA broadcasts,?",[0.02061794 0.8841379  0.09524413],negative,-0.86351997
+"It's gotta be the shoes - NBA backs off critical China comments,?",[0.05971668 0.6718678  0.26841554],negative,-0.6121511
+"Nike reportedly aware of anti-doping efforts by well-known track coach,?",[0.05355913 0.22427815 0.7221628 ],neutral,-0.17071903
+"Nike fires another legal shot at Skechers,?",[0.04395319 0.5036666  0.4523802 ],negative,-0.4597134
+"Nike issues strong outlook,?",[0.89685065 0.02327827 0.0798711 ],positive,0.87357235
+"Nike +5% after strong quarter,?",[0.36611098 0.5611328  0.07275621],negative,-0.19502181
+"""Nike EPS beats by $0 15, beats on revenue"",?",[0.17498992 0.04747011 0.77753997],neutral,0.12751982
+"Nike Q1 2020 Earnings Preview,?",[0.05951133 0.27021194 0.6702767 ],neutral,-0.2107006
+"Puma opens flagship store on Fifth Avenue,?",[0.0325621 0.0315618 0.9358761],neutral,0.0010002926
+"Shoe companies press for tariff relief,?",[0.11512397 0.5299082  0.35496783],negative,-0.4147842
+"Nike a favorite at Guggenheim,?",[0.09155997 0.17165513 0.73678493],neutral,-0.080095164
+"Fashion companies sign environment pact,?",[0.6799099  0.03532683 0.2847633 ],positive,0.64458305
+"Morgan Stanley names SHEconomy picks,?",[0.02940703 0.11494655 0.85564643],neutral,-0.08553953
+"Apparel sector hopes to shake off tariff drag,?",[0.8054537  0.08302861 0.11151765],positive,0.7224251
+"Nike seen nabbing Foot Locker sales,?",[0.02602472 0.8421623  0.13181295],negative,-0.8161376
+"JPMorgan sees tariffs hurting S&amp;P 500 earnings in 2020,?",[0.01173057 0.9654148  0.02285469],negative,-0.9536843
+"Retail rallies after tariffs delayed,?",[0.02684488 0.91894007 0.0542151 ],negative,-0.8920952
+"Nike to offer kids subscription service,?",[0.05250358 0.00619988 0.9412966 ],neutral,0.046303697
+"Nike declares $0 22 dividend,?",[0.0581323  0.69122404 0.25064367],negative,-0.63309175
+"Nike makes another tech investment,?",[0.2173923  0.01922912 0.76337856],neutral,0.19816318
+"Investors nibble on Nike and Lululemon,?",[0.04716206 0.6282936  0.3245444 ],negative,-0.5811315
+"Retail sector thrashed around by tariff anxiety,?",[0.0163798  0.9474292  0.03619102],negative,-0.9310494
+"New tariff threat runs ramshod over apparel/footwear sector,?",[0.02012765 0.9390347  0.04083764],negative,-0.91890705
+"Nike dips after weak Under Armour print,?",[0.02129167 0.9543745  0.02433383],negative,-0.9330828
+"Nike has a Zion plan,?",[0.06983957 0.01436969 0.9157907 ],neutral,0.055469885
+"Nike keeps plans for Arizona factory,?",[0.072951   0.04434767 0.88270134],neutral,0.028603327
+"Nike looks to capitalize on World Cup buzz,?",[0.8392825  0.00951279 0.1512047 ],positive,0.82976973
+"Nike on target with Women's World Cup,?",[0.12437186 0.09360302 0.7820251 ],neutral,0.030768842
+"Arizona wades into Nike 'Betsy Ross' controversy,?",[0.03483425 0.63399935 0.33116633],negative,-0.5991651
+"Nike pulls 'Betsy Ross' sneaker after Kaepernick intervenes,?",[0.01542013 0.93554914 0.04903072],negative,-0.920129
+"Bull market for golf ,?",[0.04673893 0.27004036 0.68322074],neutral,-0.22330143
+"Nike says it's ready for macro wildcards,?",[0.12183273 0.01094041 0.86722684],neutral,0.11089232
+"Nike -2% after profit miss,?",[0.02097807 0.94335407 0.03566782],negative,-0.922376
+"""Nike EPS misses by $0 04, beats on revenue"",?",[0.31686327 0.15122862 0.5319081 ],neutral,0.16563465
+"Nike volatility expected post-earnings,?",[0.034074   0.7754969  0.19042908],negative,-0.7414229
+"Nike Q4 2019 Earnings Preview,?",[0.06011505 0.34759733 0.5922876 ],neutral,-0.2874823
+"Nike runs into political issue in China,?",[0.03181258 0.83993196 0.12825544],negative,-0.80811936
+"BAML sees headwinds for Nike,?",[0.02810747 0.90365034 0.06824222],negative,-0.8755429
+"Nike seen trimming factory store base,?",[0.06797012 0.56926453 0.3627653 ],negative,-0.50129443
+"Athletic blue chips pulled into apparel sell-off,?",[0.01594646 0.9202586  0.06379494],negative,-0.90431213
+"Foot Locker suppliers on watch,?",[0.02721973 0.8323287  0.1404515 ],negative,-0.80510896
+"Nike seen striking gold with Fortnite deal,?",[0.21492481 0.03562464 0.7494505 ],neutral,0.17930017
+"Footwear players press Trump on tariffs,?",[0.05052086 0.7764472  0.17303193],negative,-0.72592634
+"Shoe stocks hit their stride again,?",[0.38149387 0.16153583 0.45697033],neutral,0.21995804
+"Nike declares $0 22 dividend,?",[0.0581323  0.69122404 0.25064364],negative,-0.63309175
+"Trade jitters hit the apparel sector,?",[0.03090627 0.8513482  0.11774552],negative,-0.82044196
+"Adidas dazzles again,?",[0.15965512 0.29647657 0.5438683 ],neutral,-0.13682145
+"Nike looks to bring women into 'sneakers culture',?",[0.3856671  0.01126412 0.60306877],neutral,0.37440297
+"Golf stocks rally after Tiger Woods victory,?",[0.48031887 0.24179335 0.27788773],positive,0.23852552
+"A win for Tiger is a win for Nike,?",[0.53688115 0.0576282  0.40549064],positive,0.47925296
+"Avenatti dumps docs on alleged Nike bribes,?",[0.01432367 0.9504623  0.03521405],negative,-0.93613863
+"Nike sweetens its loyalty program,?",[0.6837296  0.02968157 0.28658882],positive,0.654048
+"Caleres and Shoe Carnival seen riding high with Nike,?",[0.05651301 0.07132228 0.87216467],neutral,-0.014809273
+"Nike looks to cruise past NCAA probe,?",[0.4004596  0.05036234 0.5491781 ],neutral,0.35009724
+"Avenatti arrested for extortion scheme against Nike,?",[0.02064671 0.9023243  0.07702892],negative,-0.8816776
+"Nike an Avenatti target; shares dip,?",[0.01771739 0.94955564 0.03272694],negative,-0.9318383
+"Nike fined   2 5M for blocking cross-border sales,?",[0.01534385 0.9595429  0.02511326],negative,-0.944199
+"Analysts keep the faith in Nike despite cool guidance,?",[0.45029962 0.16725558 0.3824448 ],positive,0.28304404
+"""Nike profit beats amid broad revenue, margin gains"",?",[0.8866555  0.06648073 0.04686376],positive,0.8201748
+"""Nike beats by $0 03, beats on revenue"",?",[0.45582435 0.05488369 0.489292  ],neutral,0.40094066
+"Nike Q3 2019 Earnings Preview,?",[0.05512609 0.29478598 0.65008795],neutral,-0.23965988
+"Private label move by Dick's sends a jolt through athletic apparel sector,?",[0.4861933  0.21300766 0.30079898],positive,0.27318564
+"Nike recovers after broken PG 2 5,?",[0.37809664 0.5337012  0.08820216],negative,-0.15560454
+"Nike -1 4% after Williamson blowout,?",[0.03972356 0.8810956  0.07918088],negative,-0.841372
+"Nike declares $0 22 dividend,?",[0.0581323  0.69122404 0.25064364],negative,-0.63309175
+"Apparel stocks hitch a ride with Under Armour,?",[0.06611687 0.44360635 0.49027675],neutral,-0.37748948
+"Nike and Lowe's top consumer picks at Oppenheimer,?",[0.04125092 0.04359152 0.91515756],neutral,-0.0023406036
+"Nike breaks into men's yoga,?",[0.06090661 0.21488391 0.7242095 ],neutral,-0.1539773
+"Citi sees Nike momentum in China holding up,?",[0.57481533 0.05554895 0.36963564],positive,0.51926637
+"Puma rivals Nike with self-lacing smart shoes,?",[0.60208404 0.07848278 0.3194332 ],positive,0.5236013
+"Nike signs 10-year deal with MLB,?",[0.7785616  0.0239564  0.19748202],positive,0.7546052
+"Cowen expects Nike to run higher,?",[0.64032847 0.04557735 0.3140942 ],positive,0.5947511
+"Nike's first self-lacing smart basketball shoe,?",[0.13997695 0.01475969 0.8452633 ],neutral,0.12521726
+"Nike goes data mining in China,?",[0.03827076 0.17916788 0.78256136],neutral,-0.14089713
+"EU opens probe into Nike's Dutch tax treatment,?",[0.05756672 0.5954503  0.34698302],negative,-0.5378836
+"Dueling ratings on Nike,?",[0.05122726 0.05233483 0.89643794],neutral,-0.0011075735
+"Retailers with high exposure to China and none,?",[0.03439778 0.11122832 0.8543738 ],neutral,-0.076830536
+"Scorecard for the markets in 2018,?",[0.0380905  0.0438242  0.91808534],neutral,-0.005733695
+"""Merck, Pfizer top Dow 2018 standings; Goldman Sachs slides to the bottom"",?",[0.0378437  0.8314235  0.13073282],negative,-0.7935798
+"Digging through the retail stocks bin,?",[0.0746613 0.3184846 0.6068541],neutral,-0.2438233
+"Nike steams into 2019,?",[0.0508742  0.06990145 0.8792244 ],neutral,-0.019027252
+"""American Eagle enjoys rising sales and margins, shares +11% in two days"",?",[0.95225763 0.01716929 0.03057307],positive,0.93508834
+"""Nike +7% as earnings beat, China strength spark bullish analyst calls"",?",[0.85824585 0.10470551 0.03704863],positive,0.75354034
+"Nike taps Coca-Cola vet to head Converse,?",[0.05776641 0.20263213 0.7396015 ],neutral,-0.14486572
+"Nike +8% on Q2 beats,?",[0.08964889 0.79438096 0.11597017],negative,-0.70473206
+"""Nike beats by $0 07, beats on revenue"",?",[0.587188   0.05303432 0.35977766],positive,0.5341537
+"Nike Q2 2018 Earnings Preview,?",[0.05744268 0.27366632 0.668891  ],neutral,-0.21622364
+"Lululemon leads apparel sector lower,?",[0.01231781 0.96508926 0.02259288],negative,-0.9527714
+"Online holiday sales tracking at +19% pace,?",[0.15087764 0.08916675 0.7599556 ],neutral,0.061710887
+"Retail outperformers off U S -China tariff de-escalatation,?",[0.02154274 0.956604   0.02185316],negative,-0.9350613
+"Citi calls Nike a Best Idea for 2019,?",[0.06555124 0.01432154 0.92012715],neutral,0.051229693
+"Black Friday online sales trending strong,?",[0.92522687 0.03407327 0.04069981],positive,0.8911536
+"Nike gains after Foot Locker beats,?",[0.62057173 0.248862   0.13056631],positive,0.37170973
+"Nike declares $0 22 dividend,?",[0.0581323  0.69122404 0.25064367],negative,-0.63309175
+"Nvidia and Nike among those seen boosting dividends,?",[0.8785613  0.02920766 0.09223106],positive,0.8493537
+"Nike seeks to dismiss class action lawsuit,?",[0.05065496 0.3967701  0.55257493],neutral,-0.34611514
+"Jet com adds Nike and Bonobos products,?",[0.0235281  0.03790214 0.9385698 ],neutral,-0.01437404
+"Moody's positive on apparel/footwear industry,?",[0.29725266 0.0346418  0.66810554],neutral,0.26261085
+"""Nike, Lululemon tag along with UA rally"",?",[0.03101464 0.0481733  0.9208121 ],neutral,-0.017158667
+"Winners and losers from Piper's teen survey,?",[0.06650998 0.4488088  0.4846812 ],neutral,-0.38229883
+"Piper's fall survey: Instagram beats Snap in teen use,?",[0.0997633  0.771118   0.12911873],negative,-0.6713547
+"Nike seen as 'well-insulated' from tariff threat,?",[0.6565006  0.05846737 0.28503212],positive,0.5980332
+"Oppenheimer confident on Nike,?",[0.0606407 0.0760188 0.8633405],neutral,-0.015378099
+"'Messaging win' on China could lift consumer products stocks,?",[0.8758873  0.06164391 0.06246885],positive,0.8142434
+"""Visa,Nike leading Dow gainers"",?",[0.44469762 0.21158843 0.34371397],positive,0.23310919
+"Apparel sector dragged down by LVMH commentary,?",[0.01088791 0.97133124 0.01778081],negative,-0.9604433
+"Puma back in basketball,?",[0.04763382 0.09571588 0.85665035],neutral,-0.04808206
+"Nike 'deeply concerned' over Ronaldo charges,?",[0.02896763 0.82749754 0.14353482],negative,-0.7985299
+"Athletic apparel stocks on watch after Nike earnings,?",[0.04603844 0.70502913 0.2489324 ],negative,-0.6589907
+"Nike conference call highlights,?",[0.0249719  0.06866084 0.9063672 ],neutral,-0.043688938
+"Nike posts strong sales growth again,?",[0.94884115 0.01945836 0.03170056],positive,0.9293828
+"""Nike beats by $0 04, beats on revenue"",?",[0.49238056 0.05154306 0.45607632],positive,0.4408375
+"Retailers warn on higher prices from tariffs,?",[0.15068609 0.56590027 0.28341365],negative,-0.41521418
+"Barclays sees Nike running to triple digits,?",[0.3010634  0.05139158 0.64754504],neutral,0.24967182
+"Analysts say Nike is polling well,?",[0.88925093 0.02623786 0.08451114],positive,0.8630131
+"Nike all-time high amid Kaepernick campaign,?",[0.18265088 0.09030647 0.7270427 ],neutral,0.09234441
+"Nike included in Jet com revamp,?",[0.03447772 0.03495803 0.9305643 ],neutral,-0.00048031285
+"Canaccord Genuity upgrades Nike,?",[0.04414676 0.06177955 0.8940737 ],neutral,-0.01763279
+"Nike tracks higher again,?",[0.5286497  0.11541015 0.35594013],positive,0.41323954
+"Report: Nike's online sales rose 31% after unveiling Kaepernick ad campaign,?",[0.9474417  0.0214232  0.03113512],positive,0.9260185
+"Nike's 12-city strategy,?",[0.06357633 0.00955129 0.92687243],neutral,0.05402504
+"Nike seen outliving initial Kaepernick backlash,?",[0.02653108 0.9090509  0.06441811],negative,-0.8825198
+"Nike ad campaign features Kaepernick,?",[0.0330854  0.10772217 0.8591924 ],neutral,-0.07463677
+"Jordan coolness continues to lift Nike,?",[0.91146404 0.02040879 0.06812724],positive,0.8910552
+"Sporting goods sector sees DTC impact,?",[0.055072   0.82433665 0.12059136],negative,-0.76926464
+"Nike catches pair of upgrades,?",[0.5659467  0.05232324 0.38173002],positive,0.5136235
+"Nike scores a couple of upgrades; shares gain 2% premarket,?",[0.9338513  0.02969018 0.03645853],positive,0.9041611
+"""Adidas faces tough H2 as growth falters in Western Europe, Wells Fargo says"",?",[0.01731168 0.95496625 0.02772209],negative,-0.93765455
+"Two women file workplace discrimination lawsuit against Nike,?",[0.02223315 0.90416723 0.07359957],negative,-0.8819341
+"Nike declares $0 20 dividend,?",[0.05990263 0.68467885 0.2554185 ],negative,-0.62477624
+"Morgan Stanley positive on Nike,?",[0.1505371  0.61791027 0.23155263],negative,-0.46737316
+"Pay increases at Nike,?",[0.40113804 0.3728158  0.22604617],positive,0.02832225
+"Nike sees World Cup boost,?",[0.7430593  0.05686886 0.20007186],positive,0.6861904
+"Nike wins fake imports case,?",[0.02713936 0.89636046 0.07650025],negative,-0.8692211
+"World Cup: Nike vs  Adidas,?",[0.03787909 0.32190976 0.64021116],neutral,-0.28403068
+"Nike still top athletic brand of women,?",[0.14419003 0.03179418 0.8240158 ],neutral,0.11239585
+"World Cup fever filters down to some bottom lines,?",[0.04093086 0.6046357  0.3544335 ],negative,-0.56370485
+"Nike favored to beat Adidas at World Cup,?",[0.6433171  0.13710031 0.21958262],positive,0.50621676
+"Celebrity news: Is Nike shifting to the Lululemon marketing model ,?",[0.27014166 0.01128573 0.7185726 ],neutral,0.25885594
+"Nike down nearly 3% as Federer exits,?",[0.01016274 0.9741809  0.01565642],negative,-0.9640181
+"""Nike +9% as North America sales return to growth, beating estimates"",?",[0.93161243 0.03998728 0.02840031],positive,0.89162517
+"""Nike beats by $0 05, beats on revenue"",?",[0.5226218  0.0526017  0.42477655],positive,0.47002012
+"Dueling analysts on Nike,?",[0.13079433 0.28290105 0.5863046 ],neutral,-0.15210672
+"Investors bid down multinationals amid U S -China tension,?",[0.01753567 0.94056904 0.04189518],negative,-0.92303336
+"Credit Suisse previews Nike,?",[0.0441661  0.20220436 0.7536295 ],neutral,-0.15803826
+"Stock watch ahead of World Cup,?",[0.04258944 0.1401455  0.81726503],neutral,-0.097556055
+"Adidas takes World Cup lead over Nike,?",[0.38841316 0.08065628 0.5309306 ],neutral,0.3077569
+"World Cup to provide summer boost to sporting goods sector,?",[0.8345558  0.01465739 0.15078682],positive,0.8198984
+"Sporting goods sector reacts to Dick's stunner,?",[0.04319229 0.6406478  0.31615984],negative,-0.59745556
+"Nike and Fanatics close in on MLB deal,?",[0.13485715 0.02214782 0.842995  ],neutral,0.11270933
+"Nike breaks to new all-time high,?",[0.82567745 0.04988127 0.12444128],positive,0.7757962
+"""Pershing Square added United Technologies, exited Nike in Q1"",?",[0.05100158 0.03605337 0.91294503],neutral,0.014948204
+"Nike declares $0 20 dividend,?",[0.05990263 0.68467885 0.2554185 ],negative,-0.62477624
+"Four more execs depart Nike,?",[0.03339919 0.7258437  0.24075702],negative,-0.69244456
+"Nike CEO issues company-wide apology,?",[0.01976498 0.91510147 0.06513358],negative,-0.8953365
+"Nike promotes another woman to top management position,?",[0.14826494 0.02789108 0.82384396],neutral,0.12037387
+"A healthy reason to like Nike,?",[0.19998871 0.0366228  0.76338845],neutral,0.1633659
+"Nike expected to see more management turnover,?",[0.07461489 0.80590886 0.11947628],negative,-0.731294
+"Nike's footwear chief latest exec to exit,?",[0.02335695 0.8200955  0.15654759],negative,-0.7967385
+"Another Nike exec exits,?",[0.02138369 0.900999   0.07761735],negative,-0.8796153
+"Winners and losers for teenager attention,?",[0.09431027 0.3208294  0.5848604 ],neutral,-0.22651912
+"Nike makes second acquisition in less than a month,?",[0.45083767 0.06232647 0.48683596],neutral,0.3885112
+"Nike HR chief pens memo on gender and racial disparities: WSJ,?",[0.03997444 0.30043182 0.6595937 ],neutral,-0.26045737
+"Nike looks to move away from boy's club label,?",[0.06735531 0.21706137 0.7155833 ],neutral,-0.14970607
+"Nike signs long-term deal with the NFL,?",[0.69980776 0.02134406 0.27884817],positive,0.6784637
+"Nike Air flying higher again,?",[0.23790942 0.05729969 0.70479083],neutral,0.18060973
+"Nike acquires Zodiac; post-earnings gains rise to 6%,?",[0.9016047  0.03592974 0.06246557],positive,0.865675
+"""Nike +2 5% as revenues, inventories grow in Q3"",?",[0.65956855 0.07204126 0.26839024],positive,0.5875273
+"Nike EPS of $0 68,?",[0.09076924 0.65601283 0.25321794],negative,-0.5652436
+"Report: Ackman cashes out Nike stake at 32% gain,?",[0.72596514 0.04369775 0.23033714],positive,0.68226737
+"Nike VP forced out after investigation,?",[0.01511791 0.93019474 0.05468729],negative,-0.91507685
+"Deep bench at Nike seen as a positive,?",[0.6724835  0.12666821 0.20084825],positive,0.5458153
+"Nike Brand President Edwards to retire; Parker to stay as Chairman/CEO,?",[0.02638336 0.07473861 0.898878  ],neutral,-0.04835525
+"Credit Suisse sees 20% upside on Nike,?",[0.68591154 0.20812157 0.10596684],positive,0.47778997
+"Advertisers flee InfoWars YouTube channel,?",[0.0338835  0.22547045 0.74064606],neutral,-0.19158696
+"""Foot Locker down 8 5% after results; Nike, UA, Finnish Line dinged too"",?",[0.01015386 0.97523546 0.01461059],negative,-0.9650816
+"Amazon might have the OS of future retail,?",[0.10437738 0.00839221 0.8872304 ],neutral,0.095985174
+"Nike declares $0 20 dividend,?",[0.05990263 0.68467885 0.2554185 ],negative,-0.62477624
+"Consumer favorites routed along with rest of market,?",[0.12075476 0.0885689  0.79067636],neutral,0.032185853
+"WSJ: Ackman has purchased passive stake in Nike,?",[0.04385952 0.00591747 0.950223  ],neutral,0.03794205
+"""Nike +3% as Wedbush upgrades, says new footwear styles 'notably higher'"",?",[0.9387826  0.03037987 0.03083754],positive,0.9084027
+"Nike names new marketing boss,?",[0.04568049 0.08996738 0.8643521 ],neutral,-0.0442869
+"Adidas aims to double U S  market share,?",[0.9352587  0.01351269 0.05122873],positive,0.921746
+"Buckingham Research updates on Nike and Under Armour,?",[0.04148497 0.0299712  0.9285438 ],neutral,0.011513768
+"""Boeing, Caterpillar top Dow 2017 standings; GE lags far behind"",?",[0.20404077 0.4746399  0.3213193 ],negative,-0.27059913
+"Nike -3% as margin pressure outweighs above-consensus results,?",[0.06827757 0.88920283 0.04251967],negative,-0.82092524
+"Nike beats margin expectations,?",[0.83672714 0.07489973 0.08837313],positive,0.7618274
+"""Nike beats by $0 06, beats on revenue"",?",[0.5388186  0.05321063 0.40797073],positive,0.48560795
+"Analysts confident on Nike ahead of earnings,?",[0.5178674  0.11600196 0.36613065],positive,0.40186542
+"Guggenheim positive on Nike,?",[0.49028617 0.25573134 0.25398242],positive,0.23455483
+"Nike to showcase next-gen retail concepts at new flagstore store,?",[0.17459252 0.01197633 0.81343114],neutral,0.1626162
+"HSBC Securities cools on Nike,?",[0.19503063 0.35036513 0.4546042 ],neutral,-0.1553345
+"Foot Locker and Nike expand partnership,?",[0.8497131  0.0198473  0.13043961],positive,0.8298658
+"Nike and Under Armour jump in early trading,?",[0.17305556 0.2925171  0.53442734],neutral,-0.11946154
+"Nike declares $0 20 dividend,?",[0.05990263 0.68467885 0.2554185 ],negative,-0.62477624
+"Top portfolio adds and drops from Eminence Capital,?",[0.01541336 0.9280028  0.05658387],negative,-0.91258943
+"Retail on watch after magic wears off at Under Armour,?",[0.04863802 0.48344934 0.46791267],negative,-0.43481132
+"Nike to launch pants studio in 5K stores,?",[0.07606596 0.00911    0.914824  ],neutral,0.06695597
+"Lululemon lower on report of Nike yoga investment,?",[0.0124947  0.96791875 0.0195866 ],negative,-0.9554241
+"Sporting goods sector rides out Nike investor day,?",[0.26373008 0.08226954 0.6540004 ],neutral,0.18146053
+"Nike rallies as execs lay out future goals,?",[0.2514228  0.09580509 0.6527721 ],neutral,0.1556177
+"Skechers lights a torch in retail sector,?",[0.07911439 0.04030939 0.88057613],neutral,0.038805004
+"Nike falls after Goldman Sachs warns on inventory,?",[0.01429935 0.9606817  0.02501895],negative,-0.94638234
+"Puma a star performer in sporting goods sector,?",[0.13477927 0.02465045 0.8405703 ],neutral,0.11012883
+"Teenagers pick their favorite brands,?",[0.07058271 0.05149326 0.877924  ],neutral,0.019089453
+"Profit beat for Nike despite F/X pressure,?",[0.7468458  0.19003859 0.06311562],positive,0.55680716
+"""Nike beats by $0 09, misses on revenue"",?",[0.35722357 0.25653845 0.38623795],neutral,0.10068512
+"Adidas exec reportedly charged in college basketball scandal,?",[0.03137025 0.7128658  0.2557639 ],negative,-0.6814956
+"Major college basketball scandal to be revealed,?",[0.0402251  0.39951962 0.5602553 ],neutral,-0.35929453
+"NFL corporate sponsors speak out,?",[0.05052583 0.05539369 0.89408046],neutral,-0.004867859
+"Susquehanna warns on basketball headaches for Nike,?",[0.07007851 0.32540885 0.60451263],neutral,-0.25533032
+"Adidas stuns with basketball shoes momentum,?",[0.08135188 0.36512536 0.5535227 ],neutral,-0.28377348
+"Deutsche Bank sees rewards for patient Nike investors,?",[0.663332   0.01798421 0.31868386],positive,0.6453478
+"Bernstein launches new coverage in retail sector,?",[0.58169585 0.01223771 0.40606648],positive,0.5694581

@@ -1,0 +1,219 @@
+sentence,logit,prediction,sentiment_score
+"title,
+Global markets churn higher on vaccine hopes,?",[0.61438334 0.16123728 0.22437942],positive,0.45314604
+"Trian Fund cuts back on P&amp;G,?",[0.03713819 0.892911   0.06995075],negative,-0.85577285
+"WeChat ban challenges Apple's $44B market in China,?",[0.02521688 0.9174249  0.05735824],negative,-0.89220804
+"Largest annual sales gain for Procter &amp; Gamble since '06,?",[0.8071293  0.04988557 0.1429851 ],positive,0.75724375
+"""Procter &amp; Gamble EPS beats by $0 15, beats on revenue"",?",[0.16009736 0.08865438 0.7512483 ],neutral,0.071442984
+"Procter &amp; Gamble Q4 2020 Earnings Preview,?",[0.05949572 0.15346178 0.78704256],neutral,-0.09396606
+"Market share grabs continue for Procter &amp; Gamble and Clorox,?",[0.72646475 0.04965527 0.22387995],positive,0.6768095
+"Procter &amp; Gamble makes major sustainability pledge,?",[0.72082824 0.01378247 0.2653893 ],positive,0.7070458
+"Procter &amp; Gamble declares $0 7907 dividend,?",[0.04629643 0.16111018 0.7925934 ],neutral,-0.114813745
+"Procter &amp; Gamble guidance expected to steal the show on earnings day,?",[0.08642645 0.10486523 0.80870837],neutral,-0.018438779
+"JPMorgan warms up to staples on macro concerns,?",[0.30787197 0.5635318  0.12859628],negative,-0.25565985
+"P&amp;G review could be new bombshell for digital ad companies,?",[0.13739271 0.01706105 0.8455462 ],neutral,0.12033167
+"Unilever criticized over skin-lightening products,?",[0.01881741 0.9323869  0.04879572],negative,-0.91356945
+"Johnson &amp; Johnson drops skin-whitening creams amid environment over race issues,?",[0.01668909 0.94915897 0.034152  ],negative,-0.9324699
+"Barron's touts eight dividend stocks for the COVID-19 recession,?",[0.0362438  0.23665568 0.7271005 ],neutral,-0.20041189
+"The Charmin trade is back on,?",[0.10420682 0.05388026 0.8419129 ],neutral,0.05032656
+"""Trian Fund adds stake in General Electric, cuts Procter &amp; Gamble"",?",[0.03093877 0.8117956  0.15726559],negative,-0.78085685
+"Charlotte Tilbury said to be in play,?",[0.07147405 0.09419516 0.8343308 ],neutral,-0.022721112
+"Procter &amp; Gamble seen powering into economic downturn,?",[0.05142573 0.6447377  0.30383655],negative,-0.593312
+"Procter &amp; Gamble gains after organic sales beat,?",[0.89598083 0.05765115 0.04636798],positive,0.8383297
+"""Procter &amp; Gamble EPS beats by $0 04, misses on revenue"",?",[0.13193433 0.34486407 0.5232016 ],neutral,-0.21292974
+"Procter &amp; Gamble Q3 2020 Earnings Preview,?",[0.05359877 0.1311236  0.8152776 ],neutral,-0.07752483
+"""Procter &amp; Gamble hikes dividend, pushes up earnings day"",?",[0.5891309  0.24437381 0.1664953 ],positive,0.34475708
+"Procter &amp; Gamble increases dividend by 6%,?",[0.91143215 0.02465799 0.06390989],positive,0.8867742
+"Top picks at JPMorgan include stay-at-home beneficiaries,?",[0.02672916 0.03358235 0.93968856],neutral,-0.006853195
+"Investors hunker down in Walmart and Procter &amp; Gamble again,?",[0.05622075 0.25069705 0.6930822 ],neutral,-0.1944763
+"Investors play defense with Walmart and Procter &amp; Gamble again,?",[0.04242351 0.14291573 0.8146607 ],neutral,-0.10049221
+"Argus bullish on Procter &amp; Gamble,?",[0.04568272 0.768937   0.1853803 ],negative,-0.72325426
+"Tokyo Olympics officially delayed,?",[0.01819285 0.89118344 0.09062374],negative,-0.8729906
+"Procter &amp; Gamble warns on duration of pandemic,?",[0.04683863 0.42837653 0.52478486],neutral,-0.38153788
+"Virus plays sold as animal spirits makes appearance,?",[0.03632219 0.18195283 0.781725  ],neutral,-0.14563064
+"Pantry loading picks from UBS,?",[0.06261764 0.6214302  0.31595218],negative,-0.55881256
+"""Stocks down big, but off worst levels"",?",[0.04069383 0.9091829  0.0501233 ],negative,-0.8684891
+"Procter &amp; Gamble the least ugly of the Dow stocks on the day,?",[0.05959928 0.55789727 0.38250342],negative,-0.498298
+"Investors size up consumer staples,?",[0.05247405 0.15007502 0.7974509 ],neutral,-0.09760097
+"Tokyo Olympics in doubt due to coronavirus,?",[0.02011296 0.8867021  0.09318494],negative,-0.8665892
+"Target says stockpiling trend is still strong,?",[0.9080554  0.01782194 0.07412259],positive,0.8902335
+"JPMorgan stays positive on Procter &amp; Gamble amid the market turmoil,?",[0.622026   0.214754   0.16322003],positive,0.40727204
+"Fear trading drives down consumer majors,?",[0.01843435 0.9198145  0.06175117],negative,-0.9013802
+"Investors dive into consumer staples,?",[0.05337713 0.29145133 0.6551715 ],neutral,-0.2380742
+"Big let's-stock-up rally in retail,?",[0.49879485 0.1201094  0.3810957 ],positive,0.37868544
+"Consumer heavyweights battered on coronavirus fears,?",[0.01866493 0.92924803 0.05208708],negative,-0.9105831
+"Procter &amp; Gamble sees material impact from coronavirus,?",[0.04904491 0.43115622 0.5197989 ],neutral,-0.3821113
+"Nelson Peltz trims stake in Procter &amp; Gamble,?",[0.06930144 0.67545277 0.2552458 ],negative,-0.60615134
+"Procter &amp; Gamble talks China,?",[0.03115049 0.10485221 0.86399734],neutral,-0.07370172
+"Procter &amp; Gamble -3% after mixed quarter,?",[0.08997051 0.49489594 0.4151336 ],negative,-0.40492544
+"""Procter &amp; Gamble EPS beats by $0 05, misses on revenue"",?",[0.13115998 0.33531094 0.5335291 ],neutral,-0.20415096
+"Procter &amp; Gamble Q2 2020 Earnings Preview,?",[0.05439423 0.11834665 0.8272591 ],neutral,-0.063952416
+"Procter &amp; Gamble declares $0 7459 dividend,?",[0.04538164 0.20167218 0.7529462 ],neutral,-0.15629053
+"Procter &amp; Gamble to buy women's shaving upstart,?",[0.06621043 0.02619365 0.90759593],neutral,0.040016785
+"Procter &amp; Gamble shows off new tech at CES,?",[0.0548466  0.04774368 0.8974097 ],neutral,0.007102914
+"""Apple, Microsoft top Dow 2019 standings; Walgreens wobbles to the bottom"",?",[0.03133078 0.8605795  0.10808966],negative,-0.8292487
+"Investors eye Unilever warning,?",[0.0570219  0.6226423  0.32033578],negative,-0.56562036
+"Procter &amp; Gamble looks to get well in healthcare,?",[0.75577503 0.01780632 0.22641866],positive,0.73796874
+"Trian Fund exits PPG Industries,?",[0.03604386 0.10108452 0.8628716 ],neutral,-0.06504066
+"Procter &amp; Gamble looks for new refillable products,?",[0.04447676 0.00670434 0.94881886],neutral,0.03777242
+"Organic sales shine at Procter &amp; Gamble,?",[0.04207336 0.07468574 0.88324094],neutral,-0.032612387
+"""Procter &amp; Gamble EPS beats by $0 13, beats on revenue"",?",[0.16617331 0.10293184 0.7308949 ],neutral,0.06324147
+"Procter &amp; Gamble Q3 2020 Earnings Preview,?",[0.05359877 0.1311236  0.8152776 ],neutral,-0.07752483
+"Procter &amp; Gamble declares $0 7459 dividend,?",[0.04538166 0.20167223 0.75294614],neutral,-0.15629056
+"""Trian Fund bought an activist stake in Legg Mason in 2Q19, reduced stake in PPG Industries"",?",[0.04256877 0.02429296 0.93313825],neutral,0.018275809
+"Procter &amp; Gamble and Coca-Cola gain on positive retail readouts,?",[0.8489447  0.11299855 0.03805673],positive,0.7359462
+"Procter &amp; Gamble seen running laps around peers,?",[0.03233099 0.10570946 0.8619595 ],neutral,-0.07337847
+"Procter &amp; Gamble and Coca-Cola ride out tariff turmoil,?",[0.15951638 0.29839742 0.5420862 ],neutral,-0.13888104
+"Consumer names stumble after Fed rate cut,?",[0.02284382 0.91991115 0.05724512],negative,-0.8970673
+"Procter &amp; Gamble confident on Gillette despite huge writedown,?",[0.85829633 0.04465649 0.09704716],positive,0.8136398
+"Procter &amp; Gamble +4% after earnings smasher,?",[0.07702894 0.32415253 0.59881854],neutral,-0.2471236
+"""Procter &amp; Gamble EPS beats by $0 05, beats on revenue"",?",[0.16987845 0.0678253  0.7622962 ],neutral,0.10205315
+"Procter &amp; Gamble Q4 Earnings Preview,?",[0.05952859 0.17117779 0.76929367],neutral,-0.1116492
+"Procter &amp; Gamble declares $0 7459 dividend,?",[0.04538166 0.20167223 0.75294614],neutral,-0.15629056
+"Procter &amp; Gamble looks to bug spray line for growth,?",[0.13413294 0.01289128 0.8529758 ],neutral,0.12124165
+"Procter &amp; Gamble gains after Goldman Sachs lift,?",[0.6805883  0.25292897 0.06648277],positive,0.42765933
+"Outsized rally for consumer staples giants ,?",[0.071856   0.6342263  0.29391763],negative,-0.5623703
+"Procter &amp; Gamble seen as 'relatively' attractive,?",[0.12115052 0.02333573 0.8555137 ],neutral,0.09781478
+"Walmart guides select retailers higher,?",[0.6539019  0.11344868 0.23264939],positive,0.5404532
+"Gillette heats up the razor war,?",[0.0778243  0.13919926 0.7829764 ],neutral,-0.061374955
+"Morgan Stanley sees Procter &amp; Gamble undervalued vs  HPC peers,?",[0.14389461 0.8200311  0.03607428],negative,-0.6761365
+"Investors bid down Procter &amp; Gamble,?",[0.02517644 0.83997387 0.13484971],negative,-0.8147974
+"Procter &amp; Gamble sees FQ3 volume and pricing gains,?",[0.9219772  0.01977182 0.05825093],positive,0.9022054
+"""Procter &amp; Gamble beats by $0 02, beats on revenue"",?",[0.25456482 0.08783282 0.65760237],neutral,0.16673201
+"Procter &amp; Gamble Q3 2019 Earnings Preview,?",[0.0489759  0.13202521 0.81899893],neutral,-0.08304931
+"Unilever snaps up dental brands from P&amp;G,?",[0.09051713 0.2993436  0.61013925],neutral,-0.20882645
+"Procter &amp; Gamble declares $0 7459 dividend,?",[0.04538166 0.20167223 0.75294614],neutral,-0.15629056
+"Procter &amp; Gamble gains a new fan in Wells Fargo,?",[0.45954454 0.04431567 0.49613982],neutral,0.41522887
+"Morgan Stanley lifts estimates on Procter &amp; Gamble,?",[0.10859644 0.4084962  0.48290735],neutral,-0.29989976
+"Procter &amp; Gamble acquires This is L ,?",[0.02904304 0.03249712 0.9384598 ],neutral,-0.0034540743
+"Morgan Stanley sees earnings upside on Procter &amp; Gamble,?",[0.1040345  0.82773703 0.06822851],negative,-0.72370255
+"Russian regulators probe Burger King and P&amp;G on data compliance,?",[0.02827555 0.81067735 0.16104703],negative,-0.7824018
+"Procter &amp; Gamble earnings call highlights,?",[0.03934765 0.04520815 0.9154442 ],neutral,-0.0058605
+"Earnings shakeup in household products sector,?",[0.02443022 0.9394699  0.03609987],negative,-0.91503966
+"Organic sales solid at Procter &amp; Gamble,?",[0.5051544  0.15509197 0.33975366],positive,0.3500624
+"""Procter &amp; Gamble beats by $0 04, beats on revenue"",?",[0.2518156 0.0829303 0.6652541],neutral,0.16888529
+"Procter &amp; Gamble Q2 2019 Earnings Preview,?",[0.05011912 0.1285499  0.82133096],neutral,-0.07843079
+"New Gillette spot goes political,?",[0.03548438 0.7695265  0.19498922],negative,-0.7340421
+"Procter &amp; Gamble declares $0 7172 dividend,?",[0.04583149 0.18115754 0.7730109 ],neutral,-0.13532606
+"Procter &amp; Gamble a favorite at BAML,?",[0.03421155 0.08034083 0.8854477 ],neutral,-0.046129283
+"Procter &amp; Gamble seen running back to triple digits,?",[0.57020414 0.06475016 0.36504567],positive,0.50545394
+"BAML unveils its high conviction calls,?",[0.19155619 0.02800107 0.7804427 ],neutral,0.16355512
+"""Merck, Pfizer top Dow 2018 standings; Goldman Sachs slides to the bottom"",?",[0.0378437  0.8314235  0.13073282],negative,-0.7935798
+"""Chenault leaving boards of IBM, P&amp;G"",?",[0.03400234 0.37910035 0.5868973 ],neutral,-0.34509802
+"Chenault retires from PG board,?",[0.03536617 0.21158794 0.75304586],neutral,-0.17622176
+"Morgan Stanley sees upside for Procter &amp; Gamble,?",[0.12791939 0.57238585 0.29969475],negative,-0.44446647
+"Procter &amp; Gamble gains after BAML nod,?",[0.19203548 0.45801574 0.34994882],negative,-0.26598024
+"Procter &amp; Gamble acquires Walker &amp; Company,?",[0.03102042 0.04431811 0.92466146],neutral,-0.013297688
+"Invesco S&amp;P 500 Quality ETF (SPHQ) November Summary,?",[0.04509376 0.5658879  0.38901836],negative,-0.52079415
+"""Investors play defense with Coca-Cola, McDonald's and P&amp;G"",?",[0.03643756 0.10273708 0.86082536],neutral,-0.06629951
+"Investors expected to wait on Procter &amp; Gamble evolution,?",[0.02916193 0.05902011 0.911818  ],neutral,-0.02985818
+"P&amp;G unveils simplified organization structure,?",[0.03419917 0.01102603 0.95477474],neutral,0.023173148
+"Invesco S&amp;P 500 Quality ETF (SPHQ) October Summary,?",[0.04478485 0.5839968  0.37121838],negative,-0.5392119
+"Invesco S&amp;P 500 Low Volatility ETF (SPLV) October Summary,?",[0.04283683 0.6626383  0.29452488],negative,-0.61980146
+"Household goods sector boosted by Church &amp; Dwight earnings,?",[0.823176   0.05924267 0.11758135],positive,0.76393336
+"Trump to terminate birthright citizenship,?",[0.04071795 0.50623214 0.45304987],negative,-0.46551418
+"""Verizon best Dow stock when market is in correction, analysis says"",?",[0.15297166 0.22114086 0.6258875 ],neutral,-0.06816921
+"Procter &amp; Gamble now +8 1%; JPMorgan boosts to Overweight,?",[0.8851596  0.04375648 0.0710839 ],positive,0.8414031
+"""P&amp;G gains 4 4% premarket as fiscal Q1 EPS beats, reaffirms year guidance"",?",[0.87980187 0.05300622 0.0671919 ],positive,0.82679564
+"""Procter &amp; Gamble beats by $0 03, beats on revenue"",?",[0.22402307 0.08537604 0.6906009 ],neutral,0.13864703
+"Procter &amp; Gamble lands steel tariff exemption,?",[0.12551151 0.0911256  0.7833628 ],neutral,0.034385912
+"Invesco S&amp;P 500 Quality ETF (SPHQ) September Summary,?",[0.04557366 0.57420176 0.3802246 ],negative,-0.5286281
+"Procter &amp; Gamble declares $0 7172 dividend,?",[0.04583151 0.18115751 0.773011  ],neutral,-0.135326
+"Invesco S&amp;P 500 Low Volatility ETF (SPLV) September Summary,?",[0.04549365 0.6101895  0.34431684],negative,-0.56469584
+"Target to launch new discount brand,?",[0.08456389 0.0110016  0.90443444],neutral,0.073562294
+"Atlantic Equities bullish on Procter &amp; Gamble,?",[0.06936067 0.58498764 0.34565172],negative,-0.51562697
+"Chinese regulator discusses trade tensions with Procter &amp; Gamble,?",[0.02398643 0.8299222  0.14609136],negative,-0.80593574
+"Unilever seen landing Reckitt unit,?",[0.04563074 0.13020279 0.8241665 ],neutral,-0.08457205
+"Invesco S&amp;P 500 Quality ETF (SPHQ) August Summary,?",[0.04632061 0.5877675  0.36591187],negative,-0.54144686
+"Invesco S&amp;P 500 Low Volatility ETF (SPLV) August Summary,?",[0.0464585 0.6209301 0.3326114],negative,-0.5744716
+"China may scrap two-child limit,?",[0.10583686 0.4071345  0.48702866],neutral,-0.30129763
+"P&amp;G lands European approval for Merck's health unit,?",[0.56893015 0.01301499 0.41805488],positive,0.5559152
+"Procter &amp; Gamble trademarks go millennial,?",[0.0276716  0.08944478 0.88288367],neutral,-0.061773174
+"""Trian Fund updates portfolio with declines in Wendy's, Sysco"",?",[0.07697373 0.7342549  0.18877137],negative,-0.65728116
+"Invesco S&amp;P 500 Quality ETF (SPHQ) July Summary,?",[0.04568502 0.5679347  0.3863803 ],negative,-0.5222497
+"Invesco S&amp;P 500 Low Volatility ETF (SPLV) July Summary,?",[0.05009911 0.53282416 0.41707668],negative,-0.48272505
+"Procter &amp; Gamble price hikes bring sector cheer,?",[0.53199613 0.05820161 0.4098023 ],positive,0.47379452
+"Procter &amp; Gamble lower after organic sales trail estimates,?",[0.01373634 0.96992964 0.01633406],negative,-0.95619327
+"""Procter &amp; Gamble beats by $0 04, misses on revenue"",?",[0.16994712 0.34867415 0.48137873],neutral,-0.17872703
+"Procter &amp; Gamble earnings preview,?",[0.03835921 0.07839032 0.8832505 ],neutral,-0.04003111
+"Procter &amp; Gamble acquires First Aid Beauty,?",[0.05973673 0.00677998 0.93348336],neutral,0.052956756
+"Procter &amp; Gamble faces tariff headache in Canada,?",[0.036484   0.8861332  0.07738283],negative,-0.8496492
+"The Procter &amp; Gamble Company declares $0 7172 dividend,?",[0.05413425 0.24822974 0.697636  ],neutral,-0.19409549
+"Invesco S&amp;P 500 Quality ETF (SPHQ) June Summary,?",[0.04624701 0.5639824  0.3897705 ],negative,-0.5177354
+"Invesco S&amp;P 500 Low Volatility ETF (SPLV) June Summary,?",[0.04988763 0.52953565 0.42057678],negative,-0.47964802
+"Jefferies cautious on Procter &amp; Gamble,?",[0.04735327 0.47085178 0.4817949 ],neutral,-0.4234985
+"California outlaws city soda taxes,?",[0.03205612 0.08902527 0.8789186 ],neutral,-0.056969143
+"Investor take refuge in consumer staples stocks,?",[0.05340336 0.5878833  0.35871336],negative,-0.5344799
+"Nelson Peltz gains traction at Procter &amp; Gamble,?",[0.63811356 0.05303667 0.30884978],positive,0.58507687
+"Procter &amp; Gamble recommits to Russia,?",[0.0367465  0.03285465 0.9303988 ],neutral,0.0038918555
+"Procter &amp; Gamble makes big move into SmartLabel platform,?",[0.8041543  0.01404775 0.18179795],positive,0.79010653
+"Procter &amp; Gamble announces $1 25B debt tender offer,?",[0.12483615 0.01826475 0.85689914],neutral,0.106571406
+"""Consumer staples down after 3% breakthrough, Coke earnings"",?",[0.01181766 0.9684211  0.01976127],negative,-0.95660347
+"P&amp;G gets two downgrades after disappointing Q1 results,?",[0.01573322 0.9629932  0.0212735 ],negative,-0.94725996
+"P&amp;G earnings weigh on household products stocks,?",[0.02520523 0.8706978  0.10409701],negative,-0.84549254
+"Pricing drags on P&amp;G in Q1,?",[0.01390686 0.96109235 0.02500075],negative,-0.9471855
+"""Procter &amp; Gamble beats by $0 01, beats on revenue"",?",[0.2414776  0.08023088 0.6782915 ],neutral,0.16124672
+"Procter &amp; Gamble pays    4B for Merck KGaA consumer health unit,?",[0.04535485 0.10867441 0.84597075],neutral,-0.06331956
+"WSJ: Procter &amp; Gamble nears deal for vitamin maker Merck KGaA (updated),?",[0.14056303 0.02271149 0.8367255 ],neutral,0.11785153
+"The Procter &amp; Gamble Company declares $0 7172 dividend,?",[0.05413423 0.24822974 0.697636  ],neutral,-0.1940955
+"Procter &amp; Gamble to consolidate some ad work,?",[0.11177896 0.0135619  0.8746591 ],neutral,0.098217055
+"Procter &amp; Gamble among those seen raising dividends next week,?",[0.2415989  0.01437584 0.74402523],neutral,0.22722307
+"Morgan Stanley cuts estimates on consumer products majors,?",[0.01881407 0.93422383 0.0469621 ],negative,-0.91540974
+"P&amp;G in talks with Pfizer over consumer unit,?",[0.04113084 0.04077782 0.91809136],neutral,0.00035302714
+"Dividend watch at Procter &amp; Gamble,?",[0.0341361  0.14129393 0.82456994],neutral,-0.10715783
+"The stock market's biggest losers speak volumes about Trump tariffs,?",[0.07936141 0.41566706 0.50497156],neutral,-0.33630565
+"P&amp;G settles patent case with Ranir,?",[0.09217294 0.26396844 0.6438586 ],neutral,-0.17179549
+"Procter &amp; Gamble lowers digital ad spending,?",[0.14707558 0.5287176  0.32420686],negative,-0.38164198
+"Procter &amp; Gamble goes natural with new diapers line,?",[0.24732044 0.01279498 0.7398846 ],neutral,0.23452546
+"Walmart looks to capture e-commerce profit,?",[0.5875298  0.01501254 0.39745772],positive,0.5725172
+"P&amp;G to cut several hundred jobs in Iowa and Kansas,?",[0.01548253 0.9662896  0.01822788],negative,-0.95080703
+"Consumer favorites routed along with rest of market,?",[0.12075476 0.0885689  0.79067636],neutral,0.032185853
+"Caution abounds on Procter &amp; Gamble,?",[0.04681956 0.19023079 0.7629496 ],neutral,-0.14341122
+"Procter &amp; Gamble lifts full-year profit view,?",[0.7342644  0.18967167 0.07606395],positive,0.54459274
+"""Procter &amp; Gamble beats by $0 05, revenue in-line"",?",[0.23578678 0.24804926 0.51616395],neutral,-0.0122624785
+"Procter &amp; Gamble earnings preview,?",[0.03835921 0.07839034 0.8832505 ],neutral,-0.04003113
+"Procter &amp; Gamble shakes off Goldman bear call,?",[0.04915044 0.6673453  0.28350428],negative,-0.6181948
+"Procter &amp; Gamble declares $0 6896 dividend,?",[0.0437602  0.15818013 0.7980597 ],neutral,-0.11441993
+"Invesco Diversified Dividend Fund A (LCEAX) December Summary,?",[0.05281906 0.19682841 0.7503525 ],neutral,-0.14400935
+"Consumer product giants eye Alexa advertising,?",[0.03863966 0.09240273 0.8689577 ],neutral,-0.053763065
+"""Boeing, Caterpillar top Dow 2017 standings; GE lags far behind"",?",[0.20404077 0.47463995 0.32131934],negative,-0.2705992
+"South Africa to institute soda tax,?",[0.04717972 0.08407374 0.8687466 ],neutral,-0.03689402
+"""Procter &amp; Gamble certifies election, names Peltz to board"",?",[0.03388477 0.03296223 0.93315303],neutral,0.0009225458
+"Razor wars: Keep an eye on Harry's,?",[0.04806482 0.18082805 0.77110714],neutral,-0.13276324
+"California tightens rules on cleaning product labels,?",[0.20076531 0.495427   0.3038076 ],negative,-0.2946617
+"Invesco Diversified Dividend Fund A (LCEAX) November Summary,?",[0.05290607 0.21288767 0.73420626],neutral,-0.15998161
+"Kroger plays hardball with suppliers,?",[0.04409907 0.33290702 0.6229939 ],neutral,-0.28880796
+"Procter &amp; Gamble challenges Peltz win in expensive proxy contest,?",[0.03996842 0.71230054 0.24773109],negative,-0.6723321
+"""Peltz claims win, P&amp;G says not yet"",?",[0.26232788 0.15057945 0.58709264],neutral,0.11174843
+"Procter &amp; Gamble jumps on report of Trian recount win,?",[0.11324261 0.6685615  0.21819586],negative,-0.5553189
+"Procter &amp; Gamble acquires deodorant startup,?",[0.0475439  0.01603449 0.93642163],neutral,0.03150941
+"Trian Partners updates on portfolio holdings,?",[0.02965512 0.01959691 0.95074797],neutral,0.010058207
+"Bernstein talks Amazon aftershocks,?",[0.03509761 0.1170745  0.8478279 ],neutral,-0.08197688
+"Invesco Diversified Dividend Fund A (LCEAX) October Summary,?",[0.05410964 0.24311124 0.7027791 ],neutral,-0.18900159
+"Pfizer readying consumer health sale,?",[0.03453567 0.03406073 0.9314036 ],neutral,0.00047493353
+"Pfizer to launch consumer health unit sale next month - Reuters,?",[0.08412456 0.00818781 0.90768766],neutral,0.07593674
+"Light profit guidance from Procter &amp; Gamble,?",[0.04005093 0.07049265 0.88945645],neutral,-0.030441716
+"""Procter &amp; Gamble beats by $0 01, misses on revenue"",?",[0.15612109 0.3744325  0.46944645],neutral,-0.21831141
+"Investors react to weakness at Unilever and Nestle,?",[0.04057337 0.8469796  0.11244708],negative,-0.80640626
+"P&amp;G won proxy battle vs  Peltz by just 0 2% of share count,?",[0.14117    0.752685   0.10614502],negative,-0.61151505
+"Jefferies sees win-win in Procter &amp; Gamble board outcome,?",[0.14943688 0.07606149 0.7745016 ],neutral,0.07337539
+"P&amp;G claims victory in board vote,?",[0.53361416 0.12618774 0.34019813],positive,0.40742642
+"P&amp;G board vote too close to call,?",[0.01878707 0.8636823  0.11753064],negative,-0.84489524
+"Procter &amp; Gamble declares $0 6896 dividend,?",[0.04376018 0.1581801  0.7980597 ],neutral,-0.11441992
+"Procter &amp; Gamble faces cliffhanger in shareholder vote over Peltz proxy,?",[0.02296199 0.93447924 0.04255871],negative,-0.91151726
+"P&amp;G pushes hard to keep away Peltz,?",[0.03911956 0.7286465  0.23223397],negative,-0.689527
+"Invesco Diversified Dividend Fund A (LCEAX) September Summary,?",[0.05355952 0.22235665 0.72408384],neutral,-0.16879712
+"""P&amp;G shareholders should add Peltz to board, ISS says"",?",[0.12970535 0.00975078 0.8605439 ],neutral,0.11995457
+"Consumer staples fall off a bit,?",[0.01446542 0.95149726 0.03403733],negative,-0.9370318
+"Rajoy meets Trump amid Catalonia tensions,?",[0.04158723 0.80368555 0.15472719],negative,-0.7620983
+"Razor wars: Gillette sues Edgewell,?",[0.04346625 0.4194922  0.53704154],neutral,-0.37602594
+"Glass Lewis backs Peltz in fight for P&amp;G board seat,?",[0.07404385 0.49136236 0.43459377],negative,-0.41731852
+"Consumer staples underperform after Dr Pepper warning,?",[0.02022214 0.9673359  0.012442  ],negative,-0.94711375
+"Procter &amp; Gamble goes on the offensive again,?",[0.06081694 0.21340814 0.7257749 ],neutral,-0.1525912
+"Procter &amp; Gamble's battle with Nelson Peltz ratchets up again,?",[0.2929519  0.17184773 0.53520036],neutral,0.12110418
+"Macquarie up and down the consumer goods sector,?",[0.07791384 0.2703272  0.6517589 ],neutral,-0.19241336
+"Procter &amp; Gamble highlights transformation in place,?",[0.14243646 0.00849142 0.8490721 ],neutral,0.13394503
+"Peltz outlines his plans for Procter &amp; Gamble,?",[0.01972788 0.01592219 0.9643499 ],neutral,0.003805684
+"P&amp;G comments on Peltz's plan,?",[0.02784388 0.03678531 0.93537074],neutral,-0.008941434
+"Peltz advances plan to shake up Procter &amp; Gamble,?",[0.03915203 0.04149256 0.91935545],neutral,-0.0023405217
+"Invesco Diversified Dividend Fund A (LCEAX) August Summary,?",[0.05365929 0.222657   0.7236837 ],neutral,-0.1689977

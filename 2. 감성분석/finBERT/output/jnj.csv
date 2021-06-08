@@ -1,0 +1,776 @@
+sentence,logit,prediction,sentiment_score
+"title,
+First rolling review of COVID-19 vaccine data underway in Europe,?",[0.10127038 0.00674081 0.8919888 ],neutral,0.09452957
+"J&amp;J finalizes Momenta Pharma buy,?",[0.04060133 0.08620038 0.8731983 ],neutral,-0.045599047
+"FDA OKs expanded use of J&amp;J's Simponi Aria,?",[0.5940118  0.03502797 0.37096033],positive,0.5589838
+"J&amp;J files U S  application for IV selexipag for high blood pressure in lung arteries,?",[0.07479541 0.06639974 0.8588048 ],neutral,0.008395672
+"Lonza confident on production of Moderna COVID-19 vaccine,?",[0.37802073 0.02024812 0.6017311 ],neutral,0.35777262
+"""Devon, Chevron giving lift to badly-bruised energy sector: At the Open"",?",[0.49285877 0.07490455 0.43223667],positive,0.4179542
+"J&amp;J COVID-19 vaccine sees strong immune response in early trial,?",[0.86947197 0.01292935 0.11759864],positive,0.8565426
+"FDA issues final rule for importation of drugs from abroad,?",[0.15427677 0.01095887 0.83476436],neutral,0.14331791
+"Vaccine news roundup - Cuomo sets up panel for separate NY review,?",[0.09903254 0.04309469 0.8578728 ],neutral,0.05593785
+"All six COVID-19 vaccines in industrial manufacturing - HHS Secretary Azar,?",[0.03194725 0.07600047 0.8920523 ],neutral,-0.04405322
+"White House may overrule tightening of FDA vaccine rules,?",[0.07975049 0.7080017  0.21224783],negative,-0.6282512
+"U K  to host first human challenge studies for COVID-19 vaccines,?",[0.40639728 0.01813264 0.57547003],neutral,0.38826466
+"J&amp;J launches large-scale study of COVID-19 vaccine,?",[0.1220573  0.01216695 0.8657757 ],neutral,0.10989036
+"Genmab drops 12% on legal dispute with J&amp;J over cancer drug Darzalex,?",[0.01553344 0.9682864  0.01618015],negative,-0.95275295
+"Stricter FDA standards make COVID-19 vaccine approval unlikely before election day,?",[0.04808173 0.6615122  0.29040617],negative,-0.61343044
+"Medicare coverage of COVID-19 vaccine not there - WSJ,?",[0.04275547 0.24215992 0.7150847 ],neutral,-0.19940445
+"New York files civil charges against J&amp;J over opioids,?",[0.01674796 0.90243953 0.08081246],negative,-0.8856916
+"SpringWorks teams up with Janssen in multiple myeloma study,?",[0.27480212 0.02388309 0.70131475],neutral,0.250919
+"COVID-19 vaccine trials ramp up as world awaits efficacy data,?",[0.78056973 0.02780785 0.19162236],positive,0.7527619
+"AstraZeneca COVID-19 vaccine on track for 2020 filing: Soriot,?",[0.05173551 0.10661171 0.8416528 ],neutral,-0.054876205
+"J&amp;J files U S  application for expanded use of Darzalex Faspro,?",[0.04271339 0.01936199 0.93792456],neutral,0.0233514
+"AstraZeneca COVID-19 vaccine study put on hold after adverse reaction,?",[0.0266195  0.7979557  0.17542484],negative,-0.7713362
+"Drug company chiefs sign pledge backing COVID-19 vaccine safety and efficacy,?",[0.81937253 0.0219725  0.15865503],positive,0.79740006
+"EC OKs expanded use of J&amp;J's Imbruvica + Rituximab for leukemia,?",[0.7930638  0.01401245 0.19292377],positive,0.77905136
+"Trump considers 'decoupling' U S  from China,?",[0.05287402 0.47906968 0.46805623],negative,-0.42619565
+"COVID-19 vaccine developers prepare joint pledge on safety - WSJ,?",[0.5249907  0.01249707 0.46251222],positive,0.5124936
+"J&amp;J COVID-19 vaccine prevents severe disease in preclinical studies,?",[0.07852034 0.07892407 0.8425556 ],neutral,-0.00040373206
+"Dr  Reddy's launches generic Concerta in U S ,?",[0.13721181 0.02170863 0.8410796 ],neutral,0.11550318
+"Novavax higher after positive early data on COVID-19 vaccine candidate,?",[0.90118784 0.07437885 0.02443337],positive,0.826809
+"""Sanofi/GSK initiate Phase 1/2 COVID-19 trial, first results expected early December"",?",[0.06569541 0.00797095 0.92633367],neutral,0.057724457
+"Prepare for coronavirus vaccine as soon as late October - CDC,?",[0.02955941 0.02581156 0.944629  ],neutral,0.0037478488
+"""Muddy Waters goes short on Inovio, citing Covid 'hype'"",?",[0.02214979 0.8997175  0.07813262],negative,-0.8775677
+"J&amp;J bails on flu candidate pimodivir,?",[0.56382036 0.03351419 0.40266547],positive,0.53030616
+"AbbVie under pressure on House Committee subpoena in drug pricing probe,?",[0.03586107 0.875457   0.08868191],negative,-0.8395959
+"Arrowhead reports encouraging data on cardiometabolic candidates ARO-APOC3 and ARO-ANG3,?",[0.93171555 0.02303998 0.04524448],positive,0.90867555
+"Janssen/Arrowhead RNAi candidate shows positive action in early-stage hepatitis B study,?",[0.5118156  0.03034167 0.4578427 ],positive,0.48147392
+"Sanofi plans to start human testing of COVID-19 vaccine - Bloomberg,?",[0.04666162 0.0088614  0.94447696],neutral,0.037800223
+"BofA sees Medtronic's building strength as bullish for medtech names,?",[0.71624833 0.01503885 0.26871282],positive,0.7012095
+"Coronavirus vaccine makers seek EU liability protections,?",[0.14412242 0.01899662 0.8368809 ],neutral,0.12512581
+"""Pfizer booted from DJIA, Amgen replaces"",?",[0.03991183 0.7671187  0.1929695 ],negative,-0.7272069
+"Investors in COVID-19 stocks face turmoil in coming weeks on vaccine data readouts,?",[0.01631607 0.9358412  0.04784285],negative,-0.91952515
+"Johnson &amp; Johnson draws cheap pricing in $7 5B bond offering for Momenta purchase,?",[0.22185771 0.01607147 0.76207083],neutral,0.20578624
+"FDA OKs new use of J&amp;J's Darzalex,?",[0.11723818 0.14809714 0.7346646 ],neutral,-0.030858964
+"Updated FDA adverse event data on breast implants show no definitive link to cancer,?",[0.03917206 0.310482   0.6503459 ],neutral,-0.27130994
+"J&amp;J planning 60K-subject study to test COVID-19 vaccine,?",[0.04933448 0.03975358 0.9109119 ],neutral,0.009580903
+"J&amp;J files for debt offering to fund Momenta buy,?",[0.03724968 0.02653809 0.93621224],neutral,0.010711592
+"J&amp;J takeout of Momenta lifts argenx SE,?",[0.063841   0.12228294 0.8138761 ],neutral,-0.058441937
+"J&amp;J to acquire Momenta Pharmaceuticals for $6 5B,?",[0.03860038 0.02242567 0.9389739 ],neutral,0.016174713
+"CureVac aims to make reasonable profit on COVID-19 vaccine,?",[0.5736945  0.01282572 0.41347978],positive,0.5608688
+"Johnson &amp; Johnson closing in on COVID-19 vaccine supply deal in Europe,?",[0.1746178  0.13995415 0.685428  ],neutral,0.034663647
+"Moderna supply deal lifts COVID-19 vaccine players,?",[0.81055593 0.07783066 0.11161342],positive,0.73272526
+"Russia nod on COVID-19 vaccine a propaganda win for Putin - NYT,?",[0.43382865 0.2235851  0.34258622],positive,0.21024355
+"Trump signs executive action to boost U S  production of 'essential' drugs,?",[0.9132695  0.01540009 0.07133038],positive,0.8978694
+"J&amp;J inks deal with feds to supply 100M doses of COVID-19 vaccine,?",[0.8151872  0.01472748 0.17008531],positive,0.80045974
+"DOJ wants as much as $18 1B from Purdue Pharma for opioid epidemic,?",[0.23233394 0.03076218 0.73690385],neutral,0.20157176
+"Zhongchao renews contract with J&amp;J China,?",[0.7604821  0.08359872 0.15591916],positive,0.67688334
+"Subcutaneous version of J&amp;J's Darzalex OK'd in Canada,?",[0.03486179 0.08031174 0.8848265 ],neutral,-0.04544995
+"J&amp;J's subcutaneous daratumumab on par with IV version in multiple myeloma study,?",[0.5636886  0.03960298 0.39670843],positive,0.5240856
+"J&amp;J COVID-19 vaccine candidate shows positive effect in primate study; shares gain premarket,?",[0.9010505  0.04478374 0.05416582],positive,0.85626674
+"""JNJ's McEvoy sells 29,000 common shares"",?",[0.05206902 0.02096097 0.92697006],neutral,0.031108048
+"Pfizer to seek FDA emergency use nod for COVID-19 vaccine as early as October,?",[0.18674915 0.06179196 0.75145894],neutral,0.12495719
+"EU talks to procure COVID-19 supply stalled over financial issues,?",[0.01220901 0.9649254  0.02286559],negative,-0.9527164
+"European advisory backs expanded label for J&amp;J's HIV med Prezista,?",[0.6345082  0.01242896 0.35306287],positive,0.62207925
+"European advisory groups backs expanded use of Imbruvica,?",[0.6090321  0.04552514 0.3454428 ],positive,0.56350696
+"XBiotech in the green on advancement of new anti-inflammatory antibody,?",[0.6996393  0.02636113 0.27399957],positive,0.6732782
+"COVID-19 vaccine makers have different plans on pricing,?",[0.03839271 0.02571319 0.93589413],neutral,0.012679525
+"Johnson &amp; Johnson declares $1 01 dividend,?",[0.04316049 0.09896281 0.85787666],neutral,-0.055802327
+"EU in talks with Moderna and others for COVID-19 vaccine supply,?",[0.17774051 0.01532544 0.80693406],neutral,0.16241507
+"J&amp;J gene therapy shows encouraging action in vision loss disorder,?",[0.8461345  0.01587258 0.13799296],positive,0.8302619
+"J&amp;J on go with early-stage study of COVID-19 vaccine candidate,?",[0.07873423 0.01566927 0.9055965 ],neutral,0.06306496
+"AC Immune up big on advancement of Alzheimer's vaccine study,?",[0.6869768  0.10038472 0.21263851],positive,0.5865921
+"J&amp;J beats Q2 consensus; guidance raise tops estimates,?",[0.1954348 0.239996  0.5645692],neutral,-0.044561207
+"""Johnson &amp; Johnson EPS beats by $0 16, beats on revenue"",?",[0.1701109  0.05103343 0.7788557 ],neutral,0.11907747
+"Johnson &amp; Johnson Q2 2020 Earnings Preview,?",[0.06129792 0.21570744 0.7229947 ],neutral,-0.15440951
+"FDA OKs J&amp;J's Tremfya for psoriatic arthritis,?",[0.04776311 0.11411091 0.83812594],neutral,-0.06634781
+"""Healthcare resilient, but still looking for a breakout moment"",?",[0.5909431  0.05366684 0.3553901 ],positive,0.53727627
+"Pressure builds on J&amp;J to halt global talc sales,?",[0.01157985 0.9645992  0.02382093],negative,-0.9530193
+"Guardant Health teams up with Janssen to develop liquid biopsy diagnostic,?",[0.8058679  0.00975765 0.18437447],positive,0.7961103
+"Emergent Bio inks five-year deal with J&amp;J for manufacture of COVID-19 vaccine,?",[0.15299161 0.00866109 0.8383473 ],neutral,0.14433052
+"Moderna -4 8% after report COVID-19 vaccine trial is delayed,?",[0.02020696 0.9238195  0.05597357],negative,-0.9036125
+"Johnson &amp; Johnson Ebola vaccine OK'd in Europe,?",[0.04548515 0.07869119 0.87582374],neutral,-0.033206042
+"J&amp;J bails on Stelara for lupus,?",[0.07132288 0.80862665 0.12005046],negative,-0.7373038
+"Vaxart +70% after Covid-19 'Warp Speed' designation for its vaccine,?",[0.7467954  0.07597692 0.1772277 ],positive,0.6708185
+"European advisory group backs new uses of five meds,?",[0.6490633  0.01743929 0.33349746],positive,0.631624
+"""COVID-19 Update: NY and NJ impose inbound quarantine, CA and TX cases surge"",?",[0.078922  0.5894921 0.3315859],negative,-0.5105701
+"Unilever criticized over skin-lightening products,?",[0.01881741 0.9323869  0.04879572],negative,-0.91356945
+"Court cuts J&amp;J talc verdict to $2 1B,?",[0.02038191 0.94813466 0.03148337],negative,-0.92775273
+"FDA to review AbbVie application to update Imbruvica labeling,?",[0.11260954 0.10668822 0.78070223],neutral,0.005921319
+"Halozyme earns $10M milestone from J&amp;J under Enhanze license,?",[0.8589493  0.02238004 0.11867071],positive,0.83656925
+"Johnson &amp; Johnson drops skin-whitening creams amid environment over race issues,?",[0.01668909 0.94915897 0.034152  ],negative,-0.9324699
+"Dr  Reddy's launches generic abiraterone acetate tablets in U S ,?",[0.12799644 0.02432328 0.84768033],neutral,0.10367316
+"EU in talks with J&amp;J for supply of COVID-19 vaccine,?",[0.13223033 0.01660708 0.8511627 ],neutral,0.11562325
+"Pfizer and Merck's diabetes med Steglatro shows mixed results in cardiovascular outcomes study,?",[0.01775952 0.94439465 0.03784592],negative,-0.92663515
+"Barron's touts eight dividend stocks for the COVID-19 recession,?",[0.0362438  0.23665564 0.7271005 ],neutral,-0.20041184
+"Momentum mover candidates on a down market day,?",[0.23102464 0.3893316  0.37964374],negative,-0.15830697
+"Three key studies of COVID-19 vaccines to launch in summer,?",[0.05768608 0.00805446 0.9342594 ],neutral,0.049631618
+"Johnson &amp; Johnson accelerates start of COVID-19 vaccine trial,?",[0.45219707 0.0316947  0.5161082 ],neutral,0.42050236
+"Astellas' roxadustat successful in late-stage anemia study,?",[0.8604373  0.02101117 0.11855151],positive,0.8394261
+"China in thick of race for COVID-19 vaccine,?",[0.3256775  0.15042606 0.52389646],neutral,0.17525145
+"""Legend Biotech prices IPO, trading kicks off today"",?",[0.10347563 0.01244442 0.88408   ],neutral,0.09103121
+"Subcutaneous formulation of J&amp;J's Darzalex OK'd in Europe,?",[0.03712604 0.07307264 0.8898013 ],neutral,-0.035946604
+"Gilead and Galapagos' filgotinib shows sustained benefit in RA studies,?",[0.88722205 0.017592   0.09518598],positive,0.86963004
+"White House picks five COVID vaccine candidates for Warp Speed initiative,?",[0.09721465 0.01676736 0.88601804],neutral,0.08044729
+"Bristol-Myers' Orencia shows sustained benefit in post-market RA study,?",[0.9147473  0.01582618 0.06942641],positive,0.89892113
+"Sanofi's isatuximab OK'd in Europe for multiple myeloma,?",[0.08686679 0.22254047 0.69059277],neutral,-0.13567367
+"""'99%' chance Covid-19 vaccine will be effective, Sinovac claims"",?",[0.795942   0.01993433 0.18412365],positive,0.77600765
+"European advisory group backs new indications of five meds,?",[0.7491294  0.021393   0.22947757],positive,0.7277364
+"European advisory group backs J&amp;J Ebola vaccine regimen,?",[0.11075791 0.10963659 0.7796055 ],neutral,0.0011213198
+"Moderna correction pressures COVID-19 vaccine developers,?",[0.06085467 0.31892562 0.6202197 ],neutral,-0.25807095
+"Johnson &amp; Johnson to terminate talc-based baby powder sales in North America,?",[0.01554553 0.92681295 0.05764154],negative,-0.9112674
+"J&amp;J reports first-time data on bispecific antibody candidates,?",[0.02650801 0.03380192 0.9396901 ],neutral,-0.0072939117
+"Small vaccine developers up in wake of Sorrento rally,?",[0.35846487 0.28066367 0.36087146],neutral,0.0778012
+"Halozyme bags $15M milestone from J&amp;J under Enhanze license,?",[0.7274898  0.02292219 0.24958806],positive,0.7045676
+"FDA accepts Arbor Pharma application for ADHD med AR19,?",[0.35783795 0.03617848 0.60598356],neutral,0.32165945
+"J&amp;J settles device litigation in West Virginia for $3 9M,?",[0.04247439 0.14964564 0.80788   ],neutral,-0.10717125
+"FDA OKs subcutaneous version of J&amp;J's Darzalex,?",[0.04763174 0.08908457 0.8632837 ],neutral,-0.041452825
+"European advisory group on board with subcutaneous Darzalex,?",[0.03657249 0.04736259 0.9160649 ],neutral,-0.010790098
+"Alveo teams up with J&amp;J to advance at-home testing for COVID-19,?",[0.88425195 0.01096318 0.10478488],positive,0.87328875
+"J&amp;J teams up with Catalent to supply COVID-19 vaccine,?",[0.7848131  0.0099844  0.20520249],positive,0.77482873
+"COVID-19 vaccine could be ready for emergency use by fall,?",[0.08760487 0.01904687 0.8933483 ],neutral,0.068558
+"""Pfizer to make """"hundreds of millions"""" doses of COVID-19 vaccine next year - CEO"",?",[0.06074972 0.02232506 0.91692525],neutral,0.038424667
+"UBS heads to sidelines on J&amp;J after big rally,?",[0.09773073 0.3681867  0.5340826 ],neutral,-0.270456
+"J&amp;J must face talc lawsuits - New Jersey court,?",[0.03325426 0.35073185 0.6160138 ],neutral,-0.31747758
+"J&amp;J files application in Japan for subcutaneous formulation of Darzalex,?",[0.09827819 0.01188683 0.889835  ],neutral,0.08639136
+"Heartburn meds for COVID-19  NY is trying it,?",[0.05914804 0.03250116 0.9083508 ],neutral,0.026646882
+"J&amp;J files U S  applications for expanded use of IV golimumab,?",[0.05366157 0.02620311 0.9201353 ],neutral,0.027458468
+"Tracon Pharma up 17% premarket on rights to cancer candidate TRC253,?",[0.8531103  0.11353043 0.03335925],positive,0.7395799
+"J&amp;J to partner with Emergent Bio on coronavirus vaccine candidate,?",[0.693896   0.00986132 0.29624268],positive,0.6840347
+"""Big universities, others to return $350M of PPP loans: coronavirus briefing"",?",[0.05427682 0.05162304 0.89410007],neutral,0.0026537813
+"FDA OK new use of AbbVie's Imbruvica,?",[0.24149872 0.06102828 0.697473  ],neutral,0.18047045
+"Money flow spikes in COVID-19 vaccine players amid rush for early data,?",[0.21546412 0.69534034 0.08919551],negative,-0.47987622
+"Sanofi can produce up to 600M doses of COVID-19 vaccine - CEO,?",[0.03492879 0.02389723 0.9411739 ],neutral,0.011031562
+"RemeGen candidate Fast Track'd for lupus,?",[0.08633059 0.08226776 0.83140165],neutral,0.004062824
+"J&amp;J delivers strong Q1 but lowers guidance amid COVID-19 headwinds,?",[0.01350787 0.9751746  0.01131748],negative,-0.96166676
+"""Johnson &amp; Johnson EPS beats by $0 30, beats on revenue"",?",[0.13994093 0.04266536 0.81739366],neutral,0.09727557
+"Johnson &amp; Johnson raises dividend by 6%,?",[0.8544491  0.02526856 0.12028232],positive,0.82918054
+"Johnson &amp; Johnson Q1 2020 Earnings Preview,?",[0.06347319 0.21581946 0.7207073 ],neutral,-0.15234627
+"J&amp;J drops deal for Takeda's TachoSil surgical patch,?",[0.21996893 0.6061686  0.17386246],negative,-0.3861997
+"""Amazon, Nike and Goldfish big winners in teen survey"",?",[0.59755147 0.04838444 0.3540641 ],positive,0.54916704
+"Healthcare firms pile on initiatives as COVID-19 pandemic advances,?",[0.45723367 0.08793623 0.45483008],positive,0.36929744
+"Fate Therapeutics up 23% after-hours on J&amp;J cell therapy deal,?",[0.92377687 0.05225331 0.02396989],positive,0.87152356
+"J&amp;J postpones medical device review,?",[0.02253655 0.78554314 0.19192025],negative,-0.76300657
+"J&amp;J picks lead Covid-19 vaccine candidate; shares gain,?",[0.75371116 0.14699875 0.09929007],positive,0.6067124
+"CHMP thumbs up for label extensions in Europe,?",[0.6949951  0.0567089  0.24829602],positive,0.63828623
+"J&amp;J finance chief warns on reliability of guidance amid Covid-19 outbreak,?",[0.07214901 0.88826126 0.03958971],negative,-0.8161123
+"ViiV Healthcare long-acting HIV med OK'd in Canada,?",[0.05001215 0.13694139 0.8130464 ],neutral,-0.08692924
+"Profit-taking pressures Moderna after Hahn comments on vaccine timeline,?",[0.02123463 0.94394976 0.03481561],negative,-0.9227151
+"J&amp;J files U S  application for MS med ponesimod,?",[0.03513439 0.06728943 0.8975762 ],neutral,-0.032155037
+"Darunavir unlikely to be effective against COVID-19 - J&amp;J,?",[0.07057528 0.38413903 0.54528564],neutral,-0.31356376
+"U S  stocks set to gap down at open,?",[0.01929652 0.9252266  0.05547683],negative,-0.9059301
+"J&amp;J launches COVID-19 vaccine program,?",[0.04909668 0.03060683 0.92029655],neutral,0.01848985
+"Thermo Fisher teams up with J&amp;J to develop cancer companion diagnostic test,?",[0.65805876 0.01374251 0.3281987 ],positive,0.64431626
+"J&amp;J MET antibody nabs accelerated review status for certain lung cancer patients,?",[0.10489335 0.02617531 0.8689314 ],neutral,0.07871804
+"Final tally from FDA testing of cosmetic products for asbestos: 17% positive,?",[0.10361853 0.3998516  0.49652988],neutral,-0.29623306
+"ViiV Healthcare reports positive data on less-frequent dosing of HIV regimen,?",[0.91701055 0.04179652 0.04119295],positive,0.87521404
+"J&amp;J on short end of Remicade patent ruling,?",[0.04041779 0.7557262  0.20385598],negative,-0.7153084
+"""Coronavirus plays - vaccines, drugs &amp; infection control products"",?",[0.02341097 0.0254442  0.95114475],neutral,-0.0020332225
+"""J&amp;J should separate CEO and chairman roles, shareholder says"",?",[0.03414893 0.05375765 0.9120934 ],neutral,-0.019608721
+"U S  authorities ramp up coronavirus plans on expected jump in cases,?",[0.28869644 0.40920618 0.30209738],negative,-0.12050974
+"FDA OKs Sanofi drug for previously treated multiple myeloma,?",[0.21731341 0.06962673 0.71305984],neutral,0.14768668
+"J&amp;J gene therapy nabs accelerated review status in Europe for vision loss disorder,?",[0.09353347 0.22511244 0.6813541 ],neutral,-0.13157897
+"Co-Diagnostics up 59% premarket on availability of COVID-19 test,?",[0.92389506 0.05009675 0.02600814],positive,0.8737983
+"J&amp;J told to pay $9M in talc cancer jury ruling,?",[0.086588   0.48440623 0.4290058 ],negative,-0.39781824
+"""Apple roundup: Coronavirus impacts timeline, stroke study with J&amp;J"",?",[0.05427641 0.04727258 0.89845103],neutral,0.0070038326
+"Dems attack Trump over stalled efforts to lower drug prices,?",[0.01620423 0.9509424  0.03285347],negative,-0.93473816
+"Molecular Templates up 8% on ETB advancement,?",[0.9410995  0.03059268 0.02830779],positive,0.91050684
+"Opioid-related payouts to be less than expected - NYT,?",[0.01673502 0.9666831  0.01658187],negative,-0.9499481
+"J&amp;J's Stelara shows positive action in late-stage Crohn's study,?",[0.47347596 0.03139376 0.49513027],neutral,0.4420822
+"J&amp;J teams up with BARDA to accelerate coronavirus vaccine development,?",[0.8594443  0.00986583 0.13068989],positive,0.8495785
+"J&amp;J files U S  application for expanded use of Darzalex,?",[0.04774988 0.01110234 0.94114774],neutral,0.036647543
+"""Coronavirus outbreak continues to spread, still largely restricted to Hubei province"",?",[0.2514622  0.13641165 0.6121262 ],neutral,0.11505054
+"Coronavirus cases inch up in U S  but still very light,?",[0.45726904 0.2580305  0.28470042],positive,0.19923854
+"Johnson &amp; Johnson told to pay $750M in New Jersey talc case,?",[0.03880052 0.6475448  0.3136547 ],negative,-0.60874426
+"Coronavirus cases remain modest in U S ,?",[0.08179951 0.571215   0.34698552],negative,-0.48941547
+"European advisory group backs expanded use of J&amp;J's Rezolsta,?",[0.7708882  0.01422448 0.21488732],positive,0.75666374
+"J&amp;J ordered to pay $344M in pelvic mesh case,?",[0.02862823 0.8794086  0.09196328],negative,-0.85078037
+"J&amp;J enters coronavirus fray with planned vaccine,?",[0.07530259 0.08226581 0.8424316 ],neutral,-0.006963223
+"Expanded use of J&amp;J's Invokana OK'd in Canada,?",[0.66126794 0.00786286 0.3308692 ],positive,0.6534051
+"""J&amp;J baby powder is safe, CEO testifies in court case"",?",[0.16585998 0.10822345 0.7259166 ],neutral,0.057636537
+"Expanded use of J&amp;J's Stelara OK'd in Canada,?",[0.6682503  0.00810718 0.32364252],positive,0.66014314
+"Judge OKs ad blitz for opioid epidemic claimants,?",[0.07169746 0.18947093 0.7388316 ],neutral,-0.11777347
+"Prison time for the opioid crisis,?",[0.03541083 0.7581314  0.20645778],negative,-0.72272056
+"Genmab earns $150M Darzalex milestone from J&amp;J,?",[0.86830384 0.03425323 0.09744292],positive,0.8340506
+"JNJ EPS up 34% in Q4,?",[0.9362924  0.04018986 0.0235177 ],positive,0.89610255
+"""Johnson &amp; Johnson EPS beats by $0 01, misses on revenue"",?",[0.17323793 0.24875946 0.57800263],neutral,-0.07552153
+"Johnson &amp; Johnson Q4 2019 Earnings Preview,?",[0.05734179 0.27056864 0.6720896 ],neutral,-0.21322685
+"Judge reduces J&amp;J Risperdal damages 99 9%,?",[0.01641488 0.9529199  0.03066526],negative,-0.936505
+"J&amp;J files application in Europe for expanded use of Spravato,?",[0.25091806 0.00765122 0.7414307 ],neutral,0.24326685
+"Drugmakers getting creative over ways to pay for pricey meds,?",[0.26921806 0.0777887  0.65299326],neutral,0.19142936
+"J&amp;J to collaborate with Exonate in eye diseases,?",[0.4577948  0.00837587 0.53382933],neutral,0.4494189
+"Janssen to expand R&amp;D footprint in San Francisco,?",[0.8435362  0.01043355 0.14603026],positive,0.83310264
+"Endo settles opioid case in Oklahoma,?",[0.04092455 0.7217737  0.23730177],negative,-0.68084913
+"Kaleido Bio teams up with J&amp;J to identify microbiome metabolic candidates,?",[0.47221828 0.01176861 0.51601315],neutral,0.46044967
+"California mulling private-label generics to address high drug costs,?",[0.38789636 0.04048318 0.57162046],neutral,0.34741318
+"Johnson &amp; Johnson settles talc trial in California,?",[0.03418883 0.06078289 0.90502834],neutral,-0.026594061
+"Mabpharm files application for Remicade biosimilar in China,?",[0.05955188 0.01234525 0.9281029 ],neutral,0.047206633
+"I-Mab Biopharma commences registrational MM study in China,?",[0.0855474  0.00956364 0.9048889 ],neutral,0.07598376
+"End-of-year drug approvals in U S  associated with more adverse events - study,?",[0.12943196 0.23464456 0.6359235 ],neutral,-0.1052126
+"Washington state sues J&amp;J over role in opioid epidemic,?",[0.01569786 0.9502854  0.03401679],negative,-0.93458754
+"Pulmatrix up 49% premarket on J&amp;J deal,?",[0.88870555 0.07567027 0.03562411],positive,0.81303525
+"Johnson &amp; Johnson declares $0 95 dividend,?",[0.04219464 0.11214728 0.845658  ],neutral,-0.06995264
+"""Apple, Microsoft top Dow 2019 standings; Walgreens wobbles to the bottom"",?",[0.03133078 0.8605795  0.10808966],negative,-0.8292487
+"Drugmakers to hike U S  prices of over 200 meds,?",[0.4761878  0.29905367 0.22475848],positive,0.17713413
+"X4 Pharma launches early-stage study of lead drug in rare type of NHL,?",[0.1334429  0.05194922 0.81460786],neutral,0.081493676
+"Johnson &amp; Johnson's Tremfya gets China approval,?",[0.79313207 0.01990423 0.1869637 ],positive,0.7732278
+"J&amp;J acquires Taris Biomedical,?",[0.04084974 0.02353217 0.9356181 ],neutral,0.017317569
+"Johnson &amp; Johnson to acquire remainder of Verb Surgical,?",[0.03208729 0.02832041 0.93959236],neutral,0.0037668794
+"J&amp;J's Spravato OK'd in Europe for treatment-resistant depression,?",[0.0874371  0.09145519 0.8211077 ],neutral,-0.0040180907
+"White House releases plan allowing drug imports from Canada,?",[0.3705067  0.03044211 0.59905124],neutral,0.3400646
+"Purdue paid out $10 4B amid opioid crisis,?",[0.23848595 0.5012608  0.26025322],negative,-0.26277488
+"USPTO allows challenge to key Intuitive Surgical patent,?",[0.6027502  0.08001353 0.31723627],positive,0.52273667
+"BeiGene's zanubrutinib fails to beat Imbruvica in WM study; shares down 9% PM,?",[0.01165699 0.9730204  0.01532272],negative,-0.9613634
+"European advisory group backs new use of J&amp;J's Erleada,?",[0.41376305 0.01996301 0.566274  ],neutral,0.39380005
+"European advisory group backs expanded use of J&amp;J's Darzalex,?",[0.77212566 0.01192577 0.21594854],positive,0.7601999
+"""House passes drug pricing bill, Senate unlikely to support"",?",[0.33575028 0.14121519 0.5230346 ],neutral,0.19453509
+"SCOTUS rejects Arizona opioid case against Purdue Pharma &amp; Sackler family,?",[0.03867904 0.6566222  0.30469877],negative,-0.6179431
+"Kinase inhibitors in focus after Merck bid for ArQule,?",[0.05677902 0.6561461  0.2870749 ],negative,-0.5993671
+"J&amp;J CAR T shows significant treatment benefit in refractory MM patients,?",[0.72365767 0.02005603 0.25628626],positive,0.70360166
+"XBiotech out-licenses anti-inflammatory antibody to Janssen for up to $1 35B,?",[0.36825258 0.01626979 0.6154776 ],neutral,0.3519828
+"J&amp;J CAR T nabs accelerated review status in U S  for multiple myeloma,?",[0.12646714 0.07714023 0.7963926 ],neutral,0.04932691
+"FDA OKs Amgen's Remicade biosimilar,?",[0.12856324 0.2541612  0.61727554],neutral,-0.12559797
+"JNJ says no asbestos found in baby powder,?",[0.02262851 0.894551   0.0828205 ],negative,-0.8719225
+"Federal prosecutors launch criminal opioid probe - WSJ,?",[0.02987608 0.7966866  0.17343734],negative,-0.76681054
+"J&amp;J loses pelvic mesh suit in Australia,?",[0.02409874 0.93621624 0.03968499],negative,-0.9121175
+"Launch of new generic drugs in U S  still lags - WSJ,?",[0.08999056 0.54090893 0.3691005 ],negative,-0.45091838
+"State AGs agree to (temporarily) halt opioid lawsuits against Purdue Pharma,?",[0.3300738  0.20479481 0.46513137],neutral,0.125279
+"Expanded use of J&amp;J's Darzalex OK'd in Europe,?",[0.72937375 0.00817327 0.2624529 ],positive,0.72120047
+"J&amp;J launches innovative study for expanded use of Invokana,?",[0.6603896  0.00905822 0.33055225],positive,0.65133137
+"Oklahoma judge lowers J&amp;J's opioid epidemic tab by $107M,?",[0.0197562  0.95629215 0.02395159],negative,-0.93653595
+"NY opioid trial pushed back three months,?",[0.08288348 0.68966895 0.22744758],negative,-0.6067855
+"Imbruvica combo OK'd in Canada for certain CLL patients,?",[0.07757925 0.39283174 0.529589  ],neutral,-0.31525248
+"AbbVie files U S  application for Imbruvica combo for first-line CLL/SLL,?",[0.09468454 0.01394075 0.8913747 ],neutral,0.08074379
+"Boston nonprofit playing big role in drug pricing,?",[0.06044889 0.00998659 0.92956454],neutral,0.050462306
+"Wright Medical Group up 8% premarket on possible sale,?",[0.8517842  0.08381396 0.06440178],positive,0.76797026
+"J&amp;J recalls surgical staplers on safety issue,?",[0.04357306 0.3604342  0.5959928 ],neutral,-0.31686115
+"J&amp;J in uncomfortable spot after asbestos tests,?",[0.02374868 0.84049344 0.1357578 ],negative,-0.81674474
+"Additional tests found no asbestos in J&amp;J Baby Powder,?",[0.04907712 0.48224238 0.46868053],negative,-0.43316525
+"Johnson &amp; Johnson shares halted pending news,?",[0.01590325 0.90357125 0.08052555],negative,-0.887668
+"""Drug shortages reflect """"broken market"""" - FDA"",?",[0.03655954 0.7459697  0.2174707 ],negative,-0.7094102
+"Grand jury subpoenas in J&amp;J opioid probe,?",[0.03551918 0.43163896 0.5328419 ],neutral,-0.39611977
+"J&amp;J mulling future of online contact lens service,?",[0.03887076 0.0304606  0.93066865],neutral,0.008410152
+"Three top retailers pull 22-ounce J&amp;J Baby Powder off shelves,?",[0.01137355 0.9590872  0.02953933],negative,-0.9477137
+"CVS reportedly removing J&amp;J Baby Powder 22 oz  from shelves amid recall,?",[0.0126479  0.96534204 0.02201009],negative,-0.9526941
+"J&amp;J's proposed opioid settlement to cut Q3 profit by $3B,?",[0.01428403 0.97094935 0.01476663],negative,-0.95666534
+"FDA OKs J&amp;J's Stelara for ulcerative colitis,?",[0.05284673 0.45659396 0.49055934],neutral,-0.40374723
+"Huge opioid settlement hits late snag,?",[0.09367312 0.76182604 0.14450087],negative,-0.6681529
+"J&amp;J recalls lot of Baby Powder on trace levels of asbestos,?",[0.03802132 0.44547766 0.516501  ],neutral,-0.40745634
+"European advisory group backs J&amp;J antidepressant Spravato,?",[0.05627431 0.34124994 0.60247576],neutral,-0.28497565
+"European advisory group backs expanded label for J&amp;J's Darzalex,?",[0.71933866 0.01758495 0.26307642],positive,0.70175374
+"J&amp;J's Tremfya shows long-term benefit in late-stage psoriasis study,?",[0.78851086 0.01847262 0.19301654],positive,0.77003825
+"Pelosi drug bill passes first House committee,?",[0.1061075  0.06412653 0.829766  ],neutral,0.041980974
+"Johnson &amp; Johnson declares $0 95 dividend,?",[0.04219466 0.11214728 0.845658  ],neutral,-0.06995262
+"UCB's bimekizumab successful in late-stage psoriasis study,?",[0.8760522  0.02558841 0.09835935],positive,0.8504638
+"J&amp;J offers $4B opioid litigation settlement - WSJ,?",[0.30723557 0.04850853 0.6442559 ],neutral,0.25872704
+"Opioid associated players up on improved settlement prospects,?",[0.89313066 0.06256995 0.04429944],positive,0.8305607
+"Johnson &amp; Johnson sees $110M talc verdict overturned,?",[0.04049195 0.87292176 0.08658624],negative,-0.8324298
+"Pelosi drug bill would save $345B - CBO,?",[0.5330992  0.10223491 0.36466596],positive,0.43086427
+"J&amp;J gains on Q3 beat; guidance raised,?",[0.8726688  0.07605013 0.0512811 ],positive,0.7966187
+"""Johnson &amp; Johnson EPS beats by $0 11, beats on revenue"",?",[0.16595975 0.05274571 0.7812945 ],neutral,0.11321404
+"Earnings season kicks off,?",[0.30541772 0.24993758 0.4446447 ],neutral,0.055480137
+"Johnson &amp; Johnson Q3 2019 Earnings Preview,?",[0.05531658 0.23629004 0.70839345],neutral,-0.18097346
+"Congo to use J&amp;J Ebola vaccine to counter current outbreak,?",[0.32169136 0.02622395 0.6520847 ],neutral,0.2954674
+"FDA OKs new use for J&amp;J's Xarelto,?",[0.12447379 0.07011402 0.8054122 ],neutral,0.05435977
+"'Historically cheap' J&amp;J a buy - Bernstein,?",[0.07217843 0.12904292 0.79877865],neutral,-0.056864493
+"Johnson &amp; Johnson to appeal $8B Risperdal judgement,?",[0.06647876 0.563712   0.3698092 ],negative,-0.49723324
+"""J&amp;J must pay $8B in Risperdal case, jury says"",?",[0.03940777 0.74418455 0.21640769],negative,-0.70477676
+"J&amp;J files U S  application for expanded use of Stelara,?",[0.05844649 0.0116667  0.9298869 ],neutral,0.04677979
+"""Keytruda on path to become world's no  1 selling drug, research firm says"",?",[0.8617356  0.02003918 0.11822533],positive,0.8416964
+"""JNJ pledges $500M, four-year investment to fight HIV, tuberculosis"",?",[0.8270797  0.01094761 0.16197261],positive,0.81613207
+"J&amp;J's Janssen gets breakthrough designation for niraparib in prostate cancer,?",[0.88941395 0.02145875 0.08912724],positive,0.8679552
+"Janssen files for new indication for Spravato,?",[0.15424494 0.07334064 0.77241445],neutral,0.080904305
+"""J&amp;J opioid settlement should help return focus to fundamentals, analyst says"",?",[0.9078075  0.01397409 0.07821833],positive,0.89383346
+"J&amp;J agrees to settlement with two Ohio counties ahead of opioid trial,?",[0.7455342  0.07724838 0.1772175 ],positive,0.6682858
+"Drugmakers pursue new plan to wrap opioid suits,?",[0.2829396  0.01726142 0.699799  ],neutral,0.2656782
+"Johnson &amp; Johnson discloses positive Invokana development,?",[0.22731853 0.01247745 0.760204  ],neutral,0.21484108
+"J&amp;J's Erleada lowers risk of death in late-stage prostate cancer study,?",[0.67277783 0.0357842  0.29143795],positive,0.63699365
+"USPTO to review validity of Imbruvica patent,?",[0.06333471 0.10705766 0.8296076 ],neutral,-0.04372295
+"FDA OKs expanded use of J&amp;J's Darzalex,?",[0.62795866 0.02785813 0.34418318],positive,0.6001005
+"Congo to deploy J&amp;J's Ebola vaccine,?",[0.09616691 0.06714915 0.8366839 ],neutral,0.029017754
+"Drug makers up after McConnell thumbs down on Pelosi price pricing plan,?",[0.1654755  0.7373854  0.09713921],negative,-0.5719099
+"FDA OKs Janssen Pharma's Erleada for mCSPC,?",[0.1538093  0.22098987 0.62520087],neutral,-0.067180574
+"J&amp;J files U S  application for expanded use of Tremfya,?",[0.07021463 0.00715974 0.9226256 ],neutral,0.06305489
+"""$8B in opioid damage demanded from J&amp;J, McKesson"",?",[0.05210907 0.8370622  0.11082873],negative,-0.7849531
+"Purdue Pharma nearing partial settlement of opioid cases,?",[0.15654212 0.60818845 0.2352694 ],negative,-0.45164633
+"Allergan and J&amp;J sue to block generic encroachment on IBS med Viberzi,?",[0.21884644 0.06565298 0.7155006 ],neutral,0.15319346
+"Purdue Pharma in talks to settle DOJ opioid probes - WSJ,?",[0.20502117 0.1581294  0.63684946],neutral,0.04689178
+"Feds grant $1 8B to fight opioid epidemic,?",[0.8857048  0.03282939 0.08146571],positive,0.8528754
+"J&amp;J's Stelara OK'd in Europe for ulcerative colitis,?",[0.06391239 0.43615335 0.4999342 ],neutral,-0.37224096
+"J&amp;J RSV vaccine nabs accelerated review status in U S ,?",[0.0661136  0.13986011 0.79402626],neutral,-0.07374651
+"Moody's softens outlook on J&amp;J after OK opioid ruling,?",[0.02812445 0.91617906 0.05569643],negative,-0.8880546
+"Arrowhead earns $25M from Janssen on launch of ARO-HBV study,?",[0.6415376  0.05271823 0.30574414],positive,0.5888194
+"Opioid-related stocks under pressure on perceived financial risk after J&amp;J verdict,?",[0.0187154  0.9456594  0.03562514],negative,-0.926944
+"Everyday Health acquires Babycenter,?",[0.05625793 0.02304206 0.92069995],neutral,0.033215865
+"J&amp;J opioid ruling a relief for shareholders but others may not benefit - WSJ,?",[0.2751576  0.12854129 0.59630114],neutral,0.14661631
+"J&amp;J gains after opioid ruling,?",[0.82133347 0.1369747  0.04169176],positive,0.6843588
+"Johnson and Johnson opioid ruling expected today,?",[0.04269658 0.20313403 0.7541694 ],neutral,-0.16043745
+"J&amp;J's Darzalex OK'd in Japan for first-line multiple myeloma,?",[0.06112318 0.09518383 0.84369296],neutral,-0.034060657
+"ViiV and Janssen announce positive data on long-acting HIV doublet therapy,?",[0.89698315 0.03254483 0.07047202],positive,0.8644383
+"J&amp;J to hear judgement in OK opioid case Monday,?",[0.07533275 0.4119101  0.5127572 ],neutral,-0.33657736
+"FDA OKs AbbVie's Rinvoq rheumatoid arthritis; shares up 2%,?",[0.9234203  0.03825508 0.03832455],positive,0.8851652
+"Expanded use of J&amp;J's Imbruvica OK'd in Europe,?",[0.7441172  0.00782536 0.24805745],positive,0.7362918
+"Lilly's Taltz beats J&amp;J's Tremfya in post-market psoriasis study,?",[0.05219448 0.09523492 0.85257053],neutral,-0.043040432
+"FDA OKs use of J&amp;J's Situro for younger TB patients,?",[0.10243454 0.29850534 0.5990601 ],neutral,-0.19607079
+"J&amp;J says jury rejects baby powder/cancer claim,?",[0.02614223 0.86414444 0.10971341],negative,-0.8380022
+"Final briefs in Oklahoma opioid lawsuit,?",[0.03346881 0.11987361 0.8466576 ],neutral,-0.0864048
+"Trump readies plan to allow drug imports from Canada,?",[0.23189089 0.02099379 0.7471153 ],neutral,0.2108971
+"ViiV Healthcare files European application for HIV doublet therapy,?",[0.27937853 0.01771271 0.7029087 ],neutral,0.26166582
+"Drug pricing bill passes Senate committee,?",[0.09736327 0.0569513  0.8456854 ],neutral,0.040411968
+"European advisory group backs J&amp;J's Stelara for ulcerative colitis,?",[0.07850624 0.32495767 0.59653616],neutral,-0.24645144
+"J&amp;J's ponesimod successful in late-stage MS study,?",[0.82438356 0.02134069 0.15427576],positive,0.8030429
+"Amarin up 3% premarket on draft ICER report confirming Vascepa value,?",[0.8988597  0.07214216 0.0289981 ],positive,0.8267175
+"Next courtroom battle for Johnson &amp; Johnson,?",[0.0348957  0.1436426  0.82146174],neutral,-0.10874691
+"J&amp;J files application in Europe for subcutaneous Darzalex,?",[0.05130659 0.02396583 0.92472756],neutral,0.027340762
+"JNJ +1% premarket on Q2 beat; revenue guidance raised,?",[0.8982098  0.06087433 0.04091583],positive,0.83733547
+"""Johnson &amp; Johnson EPS beats by $0 14, beats on revenue"",?",[0.18030813 0.06261175 0.7570801 ],neutral,0.11769638
+"Legal battles in focus as J&amp;J reports results,?",[0.04329477 0.3273152  0.62939   ],neutral,-0.28402042
+"Johnson &amp; Johnson Q2 2019 Earnings Preview,?",[0.05558894 0.23736648 0.70704454],neutral,-0.18177754
+"Johnson &amp; Johnson declares $0 95 dividend,?",[0.04219464 0.11214728 0.845658  ],neutral,-0.06995264
+"Janssen files U S  application for subcutaneous Darzalex,?",[0.04223791 0.22811726 0.72964483],neutral,-0.18587935
+"J&amp;J down 5% on criminal probe into baby powder asbestos claims,?",[0.01006657 0.97386235 0.01607109],negative,-0.9637958
+"J&amp;J to launch study of HIV vaccine this year,?",[0.17632662 0.0111294  0.812544  ],neutral,0.16519722
+"Big Biopharma in the red as investors wait for Trump's drug price plan,?",[0.12227994 0.30262405 0.575096  ],neutral,-0.1803441
+"FDA accepts Sanofi's isatuximab application for multiple myeloma,?",[0.6882338  0.07814091 0.23362532],positive,0.6100929
+"Drug makers perk up on block of price disclosures in TV ads,?",[0.5814777  0.19793846 0.22058386],positive,0.38353926
+"Vaxart up 11% premarket on Janssen deal for oral flu vaccine,?",[0.86519945 0.1032343  0.03156625],positive,0.76196516
+"J&amp;J's Darzalex shows treatment effect in mid-stage study in certain MM patients,?",[0.16959412 0.03529802 0.79510784],neutral,0.1342961
+"Biotechs and biopharmas under pressure ahead of Trump order on drug prices,?",[0.02890452 0.8849845  0.08611099],negative,-0.85608
+"Drug stocks slip after Trump talks up `favored nations' plan,?",[0.03068205 0.93824273 0.03107514],negative,-0.9075607
+"U S  drugmakers institute new round of increases,?",[0.56877416 0.02739524 0.40383062],positive,0.5413789
+"Amgen withdraws European application for Remicade biosimilar,?",[0.11126706 0.7970331  0.09169982],negative,-0.685766
+"FDA OKs J&amp;J's Darzalex in first-line multiple myeloma,?",[0.07439379 0.2091739  0.7164323 ],neutral,-0.13478011
+"Healthcare stocks under pressure ahead of Dem debate,?",[0.02818133 0.884058   0.08776066],negative,-0.8558767
+"Pharma players in green on AbbVie/Allergan deal,?",[0.03242384 0.07224407 0.8953321 ],neutral,-0.03982023
+"Motus GI makes two senior management hires,?",[0.05156304 0.21959606 0.72884095],neutral,-0.16803302
+"Janssen Tremfya for psoriatic arthritis meets primary endpoints,?",[0.44757506 0.02524671 0.52717817],neutral,0.42232835
+"J&amp;J and Colgate-Palmolive on short end of talc verdict,?",[0.05234501 0.35889056 0.5887644 ],neutral,-0.30654556
+"J&amp;J's Invokana shows CV benefit in type 2 diabetics with kidney disease,?",[0.72634614 0.02211947 0.2515344 ],positive,0.7042267
+"Genmab inks deal with J&amp;J for next-gen anti-CD38 antibody,?",[0.28516722 0.02536806 0.68946475],neutral,0.25979915
+"FDA Ad Com tomorrow on utility of higher-dose opioids,?",[0.09160742 0.02981051 0.878582  ],neutral,0.061796915
+"J&amp;J files marketing app in Europe for expanded use of Erleada,?",[0.1567715  0.00705833 0.8361702 ],neutral,0.14971317
+"Talc case in California against J&amp;J and Colgate-Palmolive winding down,?",[0.02046257 0.8582822  0.12125534],negative,-0.83781964
+"J&amp;J nabs accelerated review for U S  application for Darzalex combo for certain multiple myeloma patients,?",[0.13297044 0.02060973 0.8464198 ],neutral,0.112360716
+"J&amp;J down 6% on Oklahoma opioid litigation,?",[0.01004366 0.9739067  0.01604966],negative,-0.963863
+"J&amp;J's Tremfya self-injection device OK'd in Canada,?",[0.04014736 0.09098174 0.8688709 ],neutral,-0.050834376
+"Oklahoma opioid claims cost Teva $85M,?",[0.01712204 0.9130233  0.06985459],negative,-0.89590126
+"J&amp;J nabs accelerated review in U S  for expanded label for Invokana,?",[0.65148336 0.0151457  0.33337086],positive,0.63633764
+"""J&amp;J loses talc case in NY, ordered to pay $25M"",?",[0.01899285 0.933395   0.0476121 ],negative,-0.9144022
+"J&amp;J recalls certain surgical staplers due to potential failure,?",[0.0217514  0.8378023  0.14044623],negative,-0.8160509
+"""FBI targeting J&amp;J, Siemens, GE and Philips in Brazil graft case - Reuters"",?",[0.02896187 0.6316998  0.3393383 ],negative,-0.6027379
+"NeuClone to launch clinical development of Stelara biosimilar,?",[0.05196416 0.01106528 0.93697053],neutral,0.04089888
+"J&amp;J to review key priorities in today's pharma business review,?",[0.0849695  0.00812988 0.90690064],neutral,0.07683962
+"""Minerva down 11% premarket on """"successful"""" study of seltorexant in MDD"",?",[0.01535641 0.9729504  0.01169324],negative,-0.957594
+"FDA finalizes guidance on interchangeable biosimilars,?",[0.10185465 0.00869719 0.88944817],neutral,0.09315746
+"Takeda to divest two products for up to $5 7B; shares up 4% after hours,?",[0.90756303 0.05203184 0.04040519],positive,0.8555312
+"Protagonist expands PTG-200 deal with Janssen; shares up 13%,?",[0.93567926 0.02948931 0.03483147],positive,0.9061899
+"Drug makers to face added pricing pressure in Canada under new proposal - Reuters,?",[0.7122327  0.16497713 0.12279012],positive,0.5472556
+"Drug makers to disclose prices in TV ads as early as this summer,?",[0.03426062 0.41447988 0.5512595 ],neutral,-0.38021928
+"AstraZeneca's Calquence successful in late-stage leukemia study,?",[0.9093874  0.02012602 0.07048652],positive,0.88926136
+"J&amp;J to pay $1B to settle bulk of litigation over all-metal hips,?",[0.13695747 0.31668314 0.54635936],neutral,-0.17972568
+"FDA OKs AstraZeneca's combo pill for T2D,?",[0.18226689 0.14535795 0.6723752 ],neutral,0.03690894
+"Lannett to launch generic Concerta; shares up 2% premarket,?",[0.9150809  0.03738762 0.04753141],positive,0.8776933
+"Janssen files U S  application for expanded use of Erleada,?",[0.09758931 0.01920934 0.8832014 ],neutral,0.078379974
+"ViiV files U S  application for two-drug combo for HIV,?",[0.11609373 0.02837515 0.8555311 ],neutral,0.087718576
+"Johnson &amp; Johnson declares $0 95 dividend,?",[0.04219466 0.11214728 0.845658  ],neutral,-0.06995262
+"Arrowhead nabs $25M milestone from Janssen on advancement of ARO-HBV,?",[0.6732004  0.02727763 0.29952186],positive,0.6459228
+"Pfizer and BMY's Eliquis beating J&amp;J and Bayer's Xarelto,?",[0.06008721 0.71636724 0.22354555],negative,-0.65628004
+"UroGen up 2% premarket on Janssen partnership,?",[0.8694266  0.09903167 0.03154167],positive,0.7703949
+"Drugmaker selloff intensifies on D C  pricing headwinds,?",[0.03148921 0.9244717  0.04403913],negative,-0.8929825
+"Hospital operators in health insurer/managed care downdraft,?",[0.01901246 0.89877415 0.08221329],negative,-0.8797617
+"FDA orders removal of vaginal mesh devices from U S ,?",[0.05354004 0.6799077  0.26655227],negative,-0.6263676
+"JNJ up 1% premarket on Q1 beat,?",[0.8868505  0.08621157 0.026938  ],positive,0.8006389
+"""Johnson &amp; Johnson beats by $0 06, beats on revenue"",?",[0.24050991 0.04880301 0.7106871 ],neutral,0.1917069
+"Johnson &amp; Johnson Q1 2019 Earnings Preview,?",[0.05676374 0.22514342 0.7180928 ],neutral,-0.16837968
+"J&amp;J's Invokana shows positive effect in CKD patients with type 2 diabetes,?",[0.88813996 0.02948742 0.08237258],positive,0.85865253
+"FDA OKs J&amp;J's Balversa for bladder cancer,?",[0.05432792 0.16811074 0.7775613 ],neutral,-0.11378282
+"Arrowhead's RNAi therapeutic shows positive effect in hepatitis B study,?",[0.85073733 0.02757704 0.12168559],positive,0.8231603
+"J&amp;J's Symtuza shows long-term effect in late-stage HIV study,?",[0.18881762 0.03777693 0.7734055 ],neutral,0.15104069
+"Alkermes' Aristada on par with J&amp;J's Invega Sustenna in schizophrenia study,?",[0.18035981 0.0283292  0.7913109 ],neutral,0.15203062
+"Immunomedics to co-promote erdafitinib with Janssen in U S ,?",[0.16328889 0.01365712 0.82305396],neutral,0.14963177
+"J&amp;J completes divestiture of ASP to Fortive,?",[0.04303914 0.13186942 0.8250914 ],neutral,-0.08883028
+"Constellation Pharma down 1% on CPI-1205 data,?",[0.00956039 0.97392863 0.01651097],negative,-0.9643682
+"J&amp;J baby shampoo samples fail Indian quality test,?",[0.02720394 0.93948364 0.03331244],negative,-0.9122797
+"Filgotinib worth as much as $6/share to Gilead - Leerink,?",[0.04585509 0.10494391 0.849201  ],neutral,-0.059088815
+"J&amp;J files U S  application for expanded use of Invokana,?",[0.07919101 0.00826652 0.9125425 ],neutral,0.07092449
+"J&amp;J: No settlement program for Baby Powder cases,?",[0.04869703 0.12203711 0.82926583],neutral,-0.07334007
+"J&amp;J prevails in NJ talc case,?",[0.12434845 0.29455733 0.58109415],neutral,-0.17020887
+"J&amp;J files European application for expanded use of Darzalex,?",[0.22276545 0.00735839 0.7698761 ],neutral,0.21540706
+"Trump reaches across the aisle on drug prices,?",[0.08864289 0.29083198 0.6205251 ],neutral,-0.20218909
+"J&amp;J files U S  marketing application for expanded use of Darzalex,?",[0.03688585 0.0155523  0.94756186],neutral,0.021333555
+"J&amp;J antihistamine-releasing contact lens successful in late-stage studies,?",[0.8307344  0.01498135 0.15428422],positive,0.81575304
+"Legal battle against opioid crisis heats up,?",[0.19258267 0.25021613 0.5572012 ],neutral,-0.05763346
+"Bayer and J&amp;J to settle Xarelto suits for $775M,?",[0.07266793 0.08916138 0.83817065],neutral,-0.016493455
+"VA to offer J&amp;J's Spravato to veterans with depression,?",[0.4722456  0.03224875 0.4955057 ],neutral,0.43999684
+"J&amp;J files European marketing application for expanded use of Darzalex,?",[0.06055549 0.01014967 0.9292948 ],neutral,0.05040582
+"Johnson &amp; Johnson bails on top candidate from $1 75B Alios Pharma buy,?",[0.6683287  0.19459638 0.13707493],positive,0.47373232
+"FDA Ad Com approaches on breast implant safety,?",[0.03635833 0.03754422 0.9260974 ],neutral,-0.0011858903
+"FDA warns J&amp;J and Sientra over lack of valid post-market studies,?",[0.01575578 0.95859903 0.02564526],negative,-0.94284326
+"Open-label study affirms treatment benefit of Actelion's Opsumit,?",[0.28956944 0.04303617 0.6673944 ],neutral,0.24653326
+"J&amp;J dips on latest jury talc award,?",[0.03256059 0.91254634 0.05489307],negative,-0.87998575
+"Johnson &amp; Johnson files U S  marketing application for expanded use of Darzalex,?",[0.06302048 0.00727983 0.9296997 ],neutral,0.055740647
+"Trump 2020 drug pricing initiatives - part 2,?",[0.05858786 0.01319763 0.92821455],neutral,0.04539023
+"Trump aiming to rein in drug cost with range of proposals,?",[0.25155714 0.01099635 0.7374465 ],neutral,0.2405608
+"Realogy Holdings gets CFO from J&amp;J,?",[0.04906476 0.40651602 0.5444193 ],neutral,-0.35745126
+"J&amp;J's Stelara shows positive action in late-stage UC study,?",[0.72626823 0.03178768 0.24194406],positive,0.69448054
+"Monthly two-drug HIV regimen on par with daily three-drug treatment,?",[0.58978736 0.01759628 0.39261636],positive,0.57219106
+"FDA OKs J&amp;J's esketamine nasal spray for depression,?",[0.05427254 0.15529773 0.7904298 ],neutral,-0.10102518
+"""Novartis sues J&amp;J over """"misleading"""" Tremfya data"",?",[0.02725499 0.78489393 0.18785106],negative,-0.75763893
+"J&amp;J resumes baby powder production in India after no asbestos found,?",[0.02852065 0.9036586  0.06782077],negative,-0.875138
+"J&amp;J teams up with AdoRx in lung cancer,?",[0.41775152 0.02496969 0.5572788 ],neutral,0.39278182
+"FDA OKs patient-controlled injector formulation of J&amp;J's Tremfya,?",[0.05817653 0.08808669 0.8537368 ],neutral,-0.029910166
+"Pharma chiefs defend merits of current system on innovation at Senate hearing,?",[0.34418508 0.10217886 0.553636  ],neutral,0.24200623
+"Day of reckoning for Big Pharma,?",[0.12897174 0.03318313 0.83784515],neutral,0.09578861
+"J&amp;J eyes Missouri Supreme Court ruling,?",[0.03937974 0.26548105 0.69513917],neutral,-0.22610131
+"U S  healthcare spending to rise 5 5% per annum over next decade,?",[0.93548167 0.0123371  0.05218122],positive,0.9231446
+"Johnson &amp; Johnson receives federal subpoenas,?",[0.04741442 0.06845094 0.8841347 ],neutral,-0.021036517
+"Maryland strikes out in reviving drug price-gouging law,?",[0.50890714 0.07255215 0.4185407 ],positive,0.436355
+"FDA finalizes guidance for expedited review of cell and gene therapy applications,?",[0.11898839 0.00996732 0.87104434],neutral,0.10902107
+"FDA creates new accelerated review pathway for generic drug applications,?",[0.64949435 0.01183326 0.33867237],positive,0.6376611
+"J&amp;J's niraparib shows positive action in mid-stage prostate cancer study,?",[0.6695071  0.03114755 0.2993453 ],positive,0.63835955
+"J&amp;J supplier seeks bankruptcy over talc lawsuits,?",[0.01955397 0.8120951  0.16835095],negative,-0.79254115
+"Johnson &amp; Johnson to acquire Auris Health for $3 4B,?",[0.03524532 0.022518   0.9422367 ],neutral,0.012727322
+"FDA Ad Com backs J&amp;J's esketamine nasal spray antidepressant,?",[0.04703951 0.27177334 0.68118715],neutral,-0.22473383
+"FDA OKs split-dosing regimen for J&amp;J's Darzalex,?",[0.05626743 0.04197752 0.90175503],neutral,0.014289901
+"FDA Ad Com tomorrow for J&amp;J's esketamine nasal spray,?",[0.03580121 0.09618019 0.86801857],neutral,-0.060378976
+"J&amp;J to begin giving drug pricing in TV ads,?",[0.1520172  0.00728139 0.84070146],neutral,0.14473581
+"FDA finalizes guidance for developing meds for opioid dependence,?",[0.16509919 0.01138334 0.82351744],neutral,0.15371585
+"JNJ's TECNIS Eyhance IOL available in Europe,?",[0.0328426  0.06139867 0.9057587 ],neutral,-0.028556075
+"Morphosys settles patent dispute with Janssen and Genmab,?",[0.07657284 0.76342064 0.16000648],negative,-0.6868478
+"Drug wholesalers/PBMs claw back from selloff from proposed elimination of rebates,?",[0.48686692 0.48629266 0.02684039],positive,0.00057426095
+"MeiraGTx teams up with Janssen to develop gene therapies for inherited retinal disorders,?",[0.6693111  0.01307846 0.31761044],positive,0.65623266
+"Sri Lanka halts imports of J&amp;J Baby Powder,?",[0.01544129 0.9210131  0.06354554],negative,-0.9055718
+"TG Therapeutics up 7% premarket on positive TG-1101/TGR-1202 data,?",[0.918876   0.0563465  0.02477751],positive,0.8625295
+"Johnson &amp; Johnson's Erleada successful in late-stage metastatic prostate cancer study,?",[0.30111185 0.01801883 0.68086934],neutral,0.28309304
+"FDA OKs patient-controller injector for J&amp;J's Tremfya,?",[0.04970608 0.10310721 0.8471867 ],neutral,-0.05340113
+"Tiny Israeli firm touts cancer cure,?",[0.11096476 0.17471549 0.7143197 ],neutral,-0.06375073
+"FDA OKs new use for AbbVie's Imbruvica,?",[0.17756991 0.06269807 0.759732  ],neutral,0.114871845
+"Early Q4 reports weigh on large cap drug makers,?",[0.01702692 0.9430623  0.03991074],negative,-0.9260354
+"Philogen stacking up collaborations,?",[0.04141077 0.03821884 0.92037034],neutral,0.0031919293
+"J&amp;J settles hip implant litigation with 45 states for $120M,?",[0.08817855 0.17531654 0.7365049 ],neutral,-0.08713799
+"J&amp;J initiates U S  filing for expanded use of daratumumab,?",[0.17778489 0.0384921  0.783723  ],neutral,0.13929279
+"JNJ up 1% premarket on strong Q4,?",[0.81010044 0.15798023 0.03191933],positive,0.65212023
+"""Johnson &amp; Johnson beats by $0 02, beats on revenue"",?",[0.23514934 0.05140619 0.7134445 ],neutral,0.18374315
+"AbbVie's Imbruvica flunks late-stage pancreatic cancer study,?",[0.0392661 0.5891482 0.3715857],negative,-0.5498821
+"Study links opioid prescriptions to marketing spend,?",[0.05085448 0.01524975 0.9338958 ],neutral,0.035604734
+"Janssen expands Tremfya development into ulcerative colitis,?",[0.15268947 0.03405068 0.81325984],neutral,0.11863878
+"J&amp;J teams up with Apple in heart health program,?",[0.803098   0.01473456 0.1821674 ],positive,0.78836346
+"Hospitals squeezed by high drug costs,?",[0.01736939 0.9282488  0.05438172],negative,-0.91087943
+"Biopharma firms under pressure on Brexit uncertainty,?",[0.02554046 0.90402794 0.07043155],negative,-0.87848747
+"J&amp;J's Erleada OK'd in Europe for certain prostate cancer patients,?",[0.04553108 0.03673523 0.91773367],neutral,0.0087958425
+"Massachusetts AG after Purdue Pharma owners for role in opioid crisis,?",[0.03088357 0.8942636  0.07485282],negative,-0.8633801
+"FDA to beef up cell and gene therapy staff,?",[0.08739396 0.80803335 0.10457266],negative,-0.7206394
+"FDA Commish touts advances/successes,?",[0.0690129 0.1513903 0.7795968],neutral,-0.082377404
+"Rep  Cummings opens investigation into drug prices,?",[0.05710393 0.20343022 0.7394659 ],neutral,-0.14632629
+"Dem lawmakers introduce bill to lower U S  drug prices,?",[0.3899921  0.21655986 0.39344808],neutral,0.17343223
+"J&amp;J completes acquisition of Ci:z Holdings shares,?",[0.05090714 0.04795166 0.90114117],neutral,0.0029554777
+"Johnson &amp; Johnson boosts prices on top-selling drugs,?",[0.9261775  0.01749915 0.05632341],positive,0.90867835
+"""FDA to """"take action"""" against branded drug makers using scare tactics to thwart biosimilar competition"",?",[0.16890626 0.22428153 0.60681224],neutral,-0.055375278
+"Drug applications take back seat to safety surveillance at FDA during shutdown,?",[0.28142592 0.06187795 0.6566961 ],neutral,0.21954797
+"Halozyme presents 2019 outlook at JPM19; shares up 2%,?",[0.9312336  0.02562943 0.04313705],positive,0.9056041
+"EUSA Pharma acquires global rights to SYLVANT,?",[0.14440283 0.00636344 0.8492337 ],neutral,0.1380394
+"Latest trial over J&amp;J's talc-based products,?",[0.04149151 0.02274579 0.9357627 ],neutral,0.01874572
+"Veracyte teams up with J&amp;J in lung cancer; shares up 2%,?",[0.9127573  0.0145113  0.07273141],positive,0.898246
+"J&amp;J teams up with Locus Biosciences to develop CRISPR-based therapies for infections,?",[0.6644503  0.01171507 0.3238347 ],positive,0.65273523
+"J&amp;J's India sales dip 3% in 2017/18,?",[0.02507496 0.9492671  0.02565793],negative,-0.92419213
+"Drug makers OK with price inclusion in TV ads if done fairly,?",[0.16820462 0.01973196 0.81206346],neutral,0.14847267
+"Johnson &amp; Johnson declares $0 90 dividend,?",[0.04297697 0.10344627 0.8535767 ],neutral,-0.060469303
+"""Merck, Pfizer top Dow 2018 standings; Goldman Sachs slides to the bottom"",?",[0.0378437  0.8314235  0.13073282],negative,-0.7935798
+"Indian regulator issues Baby Powder order to J&amp;J,?",[0.06302298 0.587701   0.349276  ],negative,-0.52467805
+"J&amp;J files U S  marketing application for expanded use for Stelara,?",[0.03654107 0.01822106 0.9452379 ],neutral,0.018320013
+"J&amp;J loses bid to reverse $4 7B award to baby powder plaintiffs; shares down 1%,?",[0.01152512 0.9730839  0.01539097],negative,-0.9615588
+"Indian drug inspectors seize J&amp;J baby powder,?",[0.01646488 0.9116903  0.07184488],negative,-0.8952254
+"Indian regulator &quot;considering&quot; inquiry into J&amp;J's baby powder,?",[0.02930702 0.06419297 0.90650004],neutral,-0.034885943
+"Stocks gain strongly after blue Monday,?",[0.84233594 0.1136557  0.04400836],positive,0.72868025
+"Johnson &amp; Johnson OK's $5B stock buyback program,?",[0.10649949 0.00911994 0.8843806 ],neutral,0.09737954
+"""J&amp;J chief Gorsky defends talc powder; shares remain under pressure, down 4%"",?",[0.01144363 0.97333366 0.01522276],negative,-0.96189004
+"Amgen submits U S  marketing application for Remicade biosimilar,?",[0.11985691 0.01241358 0.8677295 ],neutral,0.107443325
+"J&amp;J extends baby powder crisis slump,?",[0.02252249 0.87954247 0.09793497],negative,-0.85701996
+"J&amp;J: Reuters story 'false',?",[0.01793896 0.9102397  0.07182141],negative,-0.8923007
+"Sell-siders defend Johnson &amp; Johnson,?",[0.03886646 0.16319804 0.7979355 ],neutral,-0.12433158
+"J&amp;J weighing on big biopharma players,?",[0.0551872  0.2871435  0.65766937],neutral,-0.2319563
+"Johnson &amp; Johnson down 4% on reports of prior knowledge of asbestos in baby powder,?",[0.00943084 0.9742624  0.01630663],negative,-0.9648316
+"Johnson &amp; Johnson files U S  marketing application for expanded use of Xarelto,?",[0.07859517 0.00693732 0.9144675 ],neutral,0.07165785
+"""Senate Dems introduce bill to block """"excessive"""" increases in drug prices"",?",[0.06372406 0.4535793  0.48269662],neutral,-0.38985527
+"Johnson &amp; Johnson inks results-based contract with Oklahoma health authority in schizophrenia,?",[0.64212483 0.02658701 0.33128813],positive,0.6155378
+"Bloomberg: J&amp;J willing to pay $400M-plus in hip device cases,?",[0.10634824 0.02382851 0.8698233 ],neutral,0.082519725
+"J&amp;J's Tremfya beats Novartis' Cosentyx in late-stage psoriasis study; shares up 1% premarket,?",[0.9282545  0.03080341 0.04094217],positive,0.8974511
+"Constellation Pharma advances clinical development of lead drug CPI-1205,?",[0.06673642 0.01385742 0.91940624],neutral,0.052878994
+"J&amp;J's Actelion to pay $360M for illegal kickback scheme,?",[0.04172848 0.6951438  0.26312768],negative,-0.6534153
+"AbbVie's Imbruvica improves survival over chemo in certain CLL/SLL patients,?",[0.9282276  0.04034236 0.03143012],positive,0.8878852
+"Johnson &amp; Johnson's Darzalex shows positive effect in certain multiple myeloma patients; shares up 2%,?",[0.93323076 0.01557665 0.05119254],positive,0.9176541
+"Johnson &amp; Johnson's Xarelto fails to beat placebo in late-stage study in high-risk cancer patients,?",[0.32744437 0.5868402  0.08571544],negative,-0.25939584
+"Janssen affiliate teams up with argenx to develop cancer candidate cusatuzumab,?",[0.7239803  0.01146163 0.26455802],positive,0.7125187
+"Johnson &amp; Johnson -3% following negative appeals court ruling on Zytiga,?",[0.02829255 0.91951466 0.05219284],negative,-0.8912221
+"European advisory group backs J&amp;J's apalutamide for castration-resistant prostate cancer,?",[0.07621709 0.03900147 0.8847815 ],neutral,0.037215613
+"J&amp;J cleared of liability in talc cancer case by California jury,?",[0.03961562 0.47166073 0.4887237 ],neutral,-0.4320451
+"Express Scripts launches new formulary aimed at reducing drug costs,?",[0.79577124 0.02592365 0.17830513],positive,0.7698476
+"Janssen recalls three lots of Ortho-Novum due to lack of instructions for dispenser,?",[0.01406726 0.9536783  0.03225447],negative,-0.9396111
+"FDA OKs genetic test to inform on drug metabolism,?",[0.08477455 0.02178529 0.8934402 ],neutral,0.062989265
+"FDA OKs CV benefit claim for J&amp;J's Invokana,?",[0.07607419 0.28541464 0.6385112 ],neutral,-0.20934045
+"J&amp;J's Symtuza shows durable treatment effect in late-stage HIV study,?",[0.57199836 0.02772339 0.4002782 ],positive,0.544275
+"J &amp; J's Darzalex successful in late-stage study in first-line multiple myeloma,?",[0.8956352  0.01284872 0.09151608],positive,0.88278645
+"Trump to terminate birthright citizenship,?",[0.04071795 0.50623214 0.45304987],negative,-0.46551418
+"ViiV Healthcare's cabotegravir and rilpivirine regimen shows durable treatment effect in mid-stage HIV study,?",[0.5285279  0.02131515 0.45015693],positive,0.50721276
+"""Johnson &amp; Johnson loses Zytiga patent dispute, appeal planned"",?",[0.07747131 0.72219586 0.20033284],negative,-0.64472455
+"Trump mulling tieing U S  drug prices to Europe's,?",[0.09964583 0.30177897 0.5985752 ],neutral,-0.20213315
+"Trump signs STOP Act aimed at opioid crisis,?",[0.3503675  0.34293246 0.30670005],positive,0.007435024
+"J&amp;J's Stelara shows sustained benefit in late-stage Crohn's study,?",[0.8396007  0.01821329 0.14218608],positive,0.8213874
+"J&amp;J makes $2 1B offer to buy out Ci:z,?",[0.29786357 0.02292513 0.6792113 ],neutral,0.27493843
+"""Bloomberg: J&amp;J, KKR could be buyers for Nestle's skin health unit"",?",[0.11542081 0.00612863 0.8784506 ],neutral,0.10929218
+"Johnson &amp; Johnson declares $0 90 dividend,?",[0.04297697 0.10344627 0.8535767 ],neutral,-0.060469303
+"Johnson &amp; Johnson suspends clinical development of antiviral lumicitabine,?",[0.01714982 0.9122838  0.07056642],negative,-0.895134
+"FDA accepts AbbVie's application for Imbruvica + Gazyva in certain blood cancers,?",[0.69656014 0.04394291 0.25949705],positive,0.6526172
+"MeiraGTx inks gene therapy research agreement with Johnson &amp; Johnson,?",[0.6064272  0.01034333 0.38322946],positive,0.5960839
+"Johnson &amp; Johnson Q3 revenues up 4%; non-GAAP EPS up 8%,?",[0.9492538  0.0214679  0.02927826],positive,0.9277859
+"""Johnson &amp; Johnson beats by $0 02, beats on revenue"",?",[0.23514932 0.0514062  0.7134445 ],neutral,0.18374312
+"FDA issues new guidance aimed at more efficient drug development,?",[0.5877442  0.01367825 0.3985775 ],positive,0.5740659
+"J&amp;J cleared of liability by New Jersey jury in talc cancer case,?",[0.03436192 0.6443457  0.3212924 ],negative,-0.6099838
+"FDA OKs expanded label for Johnson &amp; Johnson's Xarelto,?",[0.1122473  0.03746148 0.85029125],neutral,0.07478583
+"Single dose of J&amp;J's Stelara shows treatment effect in late-stage UC study,?",[0.09929191 0.02449811 0.87621   ],neutral,0.07479379
+"FDA OKs expanded use for Zeiss ReLex SMILE vision correction system,?",[0.7376865 0.0208915 0.241422 ],positive,0.716795
+"Arrowhead Pharma shares halted,?",[0.01158499 0.9537266  0.03468849],negative,-0.9421416
+"Janssen's once-daily darunavir-based pill for HIV-1 shows durable treatment effect in late-stage study,?",[0.31519747 0.02900823 0.6557943 ],neutral,0.28618923
+"FDA issues new draft guidance aimed at speedier generic approvals,?",[0.50230515 0.01959273 0.4781021 ],positive,0.48271242
+"Johnson &amp; Johnson completes divestiture of LifeScan business to Platinum Equity,?",[0.06012112 0.02770657 0.9121724 ],neutral,0.032414548
+"Janssen bails on developing Aduro's Listeria strains,?",[0.15899076 0.05324688 0.78776234],neutral,0.10574387
+"Geron to update investors tomorrow on imetelstat deal with Janssen; shares down 2% after hours,?",[0.00931589 0.97441894 0.01626511],negative,-0.96510303
+"Pfizer facing difficult path to ramp up biosimilar business,?",[0.39793867 0.11786977 0.4841916 ],neutral,0.2800689
+"Express Scripts taking credit for Gilead's planned launch of generic HCV meds,?",[0.09152287 0.00930432 0.89917284],neutral,0.08221855
+"J&amp;J launches 10-year initiative to end tuberculosis,?",[0.66108555 0.03815566 0.30075878],positive,0.6229299
+"J&amp;J's esketamine nasal spray flunks late-stage study in treatment-resistant depression,?",[0.05951596 0.7011558  0.2393283 ],negative,-0.6416398
+"Gilead to launch generic versions of Epclusa and Harvoni,?",[0.11791704 0.00717194 0.874911  ],neutral,0.1107451
+"Almirall's tildrakizumab OK'd in Europe for plaque psoriasis,?",[0.09484608 0.20006198 0.70509195],neutral,-0.10521589
+"J&amp;J files U S  marketing application for erdafitinib for urothelial cancer,?",[0.03731964 0.05464106 0.90803933],neutral,-0.017321419
+"Senate passes opioid crisis bill,?",[0.5695881  0.09245723 0.33795464],positive,0.4771309
+"House nixes drug prices in TV ads,?",[0.01647685 0.9259904  0.05753276],negative,-0.90951353
+"""Johnson &amp; Johnson sees """"above-market"""" growth in pharma unit for next three years"",?",[0.8850861  0.00987877 0.10503516],positive,0.87520736
+"Bristol-Myers Squibb's TYK2 inhibitor successful in mid-stage psoriasis study,?",[0.8056264  0.02155589 0.17281775],positive,0.7840705
+"FDA OKs Perrigo's OTC equivalent of J&amp;J's Imodium,?",[0.08456694 0.15332663 0.7621064 ],neutral,-0.068759695
+"Lilly launches comparative study between Taltz and Tremfya in psoriasis,?",[0.46929008 0.02158753 0.5091224 ],neutral,0.44770256
+"Senate vote approaches on bill to combat opioid crisis,?",[0.6913959  0.06456415 0.24403997],positive,0.6268317
+"EC OK's new labeling for J&amp;J's Invokana and Vokanamet to include positive data on CV outcomes,?",[0.5309366  0.01409146 0.45497197],positive,0.51684517
+"J&amp;J working on India hip compensation,?",[0.04022407 0.12280475 0.83697116],neutral,-0.08258068
+"Biotechs and biopharmas in the red,?",[0.04861803 0.03826561 0.91311634],neutral,0.010352418
+"Abivax UC candidate shows positive action in mid-stage study,?",[0.6001705  0.02789338 0.37193617],positive,0.5722771
+"Johnson &amp; Johnson files U S  marketing application for esketamine nasal spray for depression,?",[0.037144   0.05552815 0.90732783],neutral,-0.018384155
+"Big Pharma in the red after AstraZeneca lupus flop,?",[0.50323045 0.15182735 0.34494224],positive,0.35140312
+"Darzalex combo therapy OK'd in Europe for first-line multiple myeloma,?",[0.1115655  0.02357784 0.86485666],neutral,0.087987654
+"FDA OKs two new HIV treatments from Merck,?",[0.6393562  0.14916056 0.21148318],positive,0.49019563
+"J&amp;J's Actelion files marketing application in Europe for expanded use of Opsumit,?",[0.18373176 0.00753859 0.80872965],neutral,0.17619318
+"FDA updates on multifaceted plan to combat opioid crisis,?",[0.74094516 0.02439363 0.23466122],positive,0.71655154
+"Roche to maintain leadership in oncology - Bloomberg Intelligence,?",[0.77638394 0.01354711 0.21006897],positive,0.7628368
+"FDA clamps down on opioid-peddling websites,?",[0.0191588  0.8562885  0.12455266],negative,-0.8371297
+"Bayer's Xarelto comes up short in two late-stage studies,?",[0.03364595 0.8681315  0.09822255],negative,-0.8344856
+"Johnson &amp; Johnson to host conference call on the phase 3 MARINER and COMMANDER HF studies for XARELTO,?",[0.056927   0.00826041 0.9348126 ],neutral,0.04866659
+"23andMe cuts off app developers from raw genetic data,?",[0.01482677 0.9325509  0.05262228],negative,-0.91772413
+"Johnson &amp; Johnson buried key facts on faulty hip implant surgeries - IndianExpress,?",[0.04379407 0.43312252 0.52308345],neutral,-0.38932845
+"Xarelto OK'd in Europe for prevention of blood clots in patients with CAD or PAD,?",[0.21111594 0.02415692 0.7647272 ],neutral,0.18695903
+"Oklahoma first state to negotiate efficacy-based drug prices,?",[0.30938944 0.01920702 0.6714035 ],neutral,0.2901824
+"DOJ to restrict opioid script writing by docs under investigation,?",[0.04240966 0.55375725 0.4038331 ],negative,-0.5113476
+"""Missouri judge affirms $4 69B verdict against J&amp;J in talc case, appeal planned"",?",[0.35608342 0.15425801 0.48965856],neutral,0.20182541
+"FDA awards contract to develop guidelines for opioid prescribing,?",[0.8869031  0.02156975 0.09152717],positive,0.8653334
+"Big Pharma in the green in early trade,?",[0.09555167 0.13693275 0.76751554],neutral,-0.041381076
+"Johnson &amp; Johnson to update on pharma business September 13,?",[0.03402279 0.03045349 0.9355237 ],neutral,0.0035692975
+"Purdue Pharma taps restructuring advisor amidst opioid lawsuits,?",[0.06031643 0.8574533  0.08223023],negative,-0.79713684
+"White House proposing cuts in opioid production,?",[0.17418242 0.4639472  0.3618704 ],negative,-0.2897648
+"J&amp;J's long-acting injectable two-drug regimen successful in late-stage HIV study,?",[0.8370597  0.01376381 0.14917655],positive,0.8232959
+"FDA OKs birth control app,?",[0.06780986 0.10705474 0.8251354 ],neutral,-0.039244875
+"BeiGene launches late-stage study of tislelizumab in first-line lung cancer,?",[0.11615654 0.02130644 0.862537  ],neutral,0.09485011
+"Johnson &amp; Johnson files marketing applications for Darzalex split dosing regimen,?",[0.02888179 0.03270194 0.93841624],neutral,-0.003820153
+"Trump dinner with business leaders,?",[0.04497612 0.1812432  0.77378064],neutral,-0.13626708
+"FDA issues new guidance for opioid use disorders meds,?",[0.18033104 0.01763437 0.80203456],neutral,0.16269666
+"Congo declares new Ebola outbreak,?",[0.03468394 0.8617285  0.10358762],negative,-0.82704455
+"Pfizer's Read thinks drug rebates going bye-bye in U S ,?",[0.09407671 0.08845076 0.8174725 ],neutral,0.0056259483
+"U S  healthcare spending nearing 20% of GDP,?",[0.4335152  0.21213244 0.35435238],positive,0.22138275
+"""J&amp;J loses arthritis patent ruling to Celltrion, Hospira"",?",[0.04905594 0.90909356 0.04185048],negative,-0.8600376
+"J&amp;J Consumer to acquire natural healthcare products maker Zarbee's,?",[0.03460084 0.02528144 0.94011766],neutral,0.009319395
+"House repeals tax on medical devices,?",[0.06155154 0.62343585 0.31501266],negative,-0.56188434
+"BeiGene launches late-stage study of tislelizumab in first-line lung cancer,?",[0.11615654 0.02130644 0.862537  ],neutral,0.09485011
+"FDA releases updated industry guidelines for development of generic abuse-deterrent opioid pain meds,?",[0.06212089 0.00907958 0.9287995 ],neutral,0.053041305
+"Big Pharma in the red on ramped up pressure on drug prices,?",[0.23705225 0.58779377 0.175154  ],negative,-0.3507415
+"FDA committed to easing approval path for biosimilars,?",[0.7956273  0.01603281 0.18833989],positive,0.7795945
+"FDA OKs J&amp;J's single tablet darunavir-based regimen for HIV-1,?",[0.05793595 0.0509568  0.8911072 ],neutral,0.006979145
+"J&amp;J near deal to sell Sylvant,?",[0.04162983 0.0359827  0.9223874 ],neutral,0.0056471303
+"Johnson &amp; Johnson Q2 revenues up 11%; non-GAAP EPS up 15%; updates guidance,?",[0.94272614 0.01772566 0.03954822],positive,0.9250005
+"""Johnson &amp; Johnson beats by $0 03, beats on revenue"",?",[0.19558442 0.04586258 0.758553  ],neutral,0.14972183
+"J&amp;J stops late-stage study of Invokana in type 2 diabetics with CKD after endpoints met,?",[0.07516149 0.20988587 0.71495265],neutral,-0.13472438
+"CVS responds to Trump Administration's request for info on now to lower drug prices,?",[0.44169962 0.06458196 0.4937184 ],neutral,0.37711766
+"Johnson &amp; Johnson declares $0 90 dividend,?",[0.04297697 0.10344627 0.8535767 ],neutral,-0.060469303
+"Law experts see challenges in J&amp;J appeal of $4 7B talc verdict,?",[0.12293527 0.7591095  0.11795527],negative,-0.6361742
+"FDA extends review time for CV benefit claim for J&amp;J's Invokana,?",[0.12860902 0.17046517 0.7009259 ],neutral,-0.041856155
+"Johnson &amp; Johnson down 2% premarket on $4 69B talcum powder award,?",[0.00990665 0.9695963  0.02049696],negative,-0.9596897
+"J&amp;J slammed with $4 69B jury verdict in Missouri cancer case,?",[0.1131564  0.6163394  0.27050415],negative,-0.503183
+"""J&amp;J found liable in cancer case, ordered by jury to pay $550M"",?",[0.03537071 0.7915999  0.17302944],negative,-0.7562292
+"Drug prices still marching upward - Bloomberg,?",[0.26511264 0.17230695 0.5625804 ],neutral,0.09280568
+"Ligand Pharma teams up with J&amp;J to develop transgenic chicken platform,?",[0.73105365 0.00924849 0.2596978 ],positive,0.72180516
+"Big Pharma in the red after Pfizer backs away from price hikes,?",[0.25236553 0.6264341  0.1212004 ],negative,-0.37406856
+"""Pricing transparency law in California having effect, drug makers nix planned increases"",?",[0.34637067 0.04767596 0.60595334],neutral,0.2986947
+"Biotechs give up gains after Trump tweet on prices,?",[0.02842116 0.9060744  0.06550446],negative,-0.87765324
+"Big Pharma in the green on Biogen's bullish news,?",[0.23213767 0.10034645 0.6675159 ],neutral,0.1317912
+"Insurers making headway on corralling drug costs with copay accumulators,?",[0.4249033  0.13278973 0.44230697],neutral,0.29211357
+"J&amp;J's Erleada OK'd in Canada for certain type of prostate cancer,?",[0.03808408 0.0521247  0.90979123],neutral,-0.014040623
+"Pfizer boosts prices of certain drugs by almost 10%,?",[0.9224367  0.01521448 0.06234882],positive,0.9072222
+"FDA withdraws draft guidance related to biosimilar development,?",[0.02582105 0.88163733 0.09254166],negative,-0.8558163
+"Johnson &amp; Johnson chairman to retire; Wolk takes CFO role,?",[0.03262264 0.16171381 0.8056636 ],neutral,-0.12909117
+"Establishment Labs files for initial public offering,?",[0.02968142 0.00858327 0.96173525],neutral,0.021098148
+"FDA OKs J&amp;J's new LASIK platform,?",[0.08320322 0.03700317 0.87979364],neutral,0.04620005
+"J&amp;J agrees to sell LifeScan unit for $2 1B,?",[0.15251985 0.01608492 0.8313952 ],neutral,0.13643494
+"EC OKs AstraZeneca's Tagrisso for first-line lung cancer,?",[0.06547913 0.29095277 0.6435681 ],neutral,-0.22547364
+"Aduro Bio announces launch of early-stage study of ADU-214 in lung cancer,?",[0.15194571 0.01324858 0.8348057 ],neutral,0.13869713
+"Amazon aims to attract indie beauty brands,?",[0.68804586 0.01038257 0.3015715 ],positive,0.67766327
+"Fortive buys J&amp;J's sterilization business for $2 7B,?",[0.1560454  0.03056891 0.8133857 ],neutral,0.1254765
+"PBMs one-up drug makers on drug copay assistance schemes,?",[0.04718096 0.42635828 0.52646077],neutral,-0.37917733
+"ASCO wary of Trump plan to lower drug prices,?",[0.05384834 0.80205715 0.14409445],negative,-0.7482088
+"FDA OKs Lannett's levofloxacin oral solution,?",[0.11635232 0.3199178  0.5637298 ],neutral,-0.20356548
+"Johnson &amp; Johnson's nasal esketamine shows positive long-term effect in late-stage depression studies,?",[0.7466313  0.03017063 0.22319812],positive,0.7164607
+"FDA issues draft guidance aimed at easing regulatory path for generic drugs,?",[0.6821893  0.01615897 0.30165178],positive,0.6660303
+"Genmab down 20% on Darzalex setback,?",[0.01020407 0.9747293  0.01506663],negative,-0.9645252
+"Kezar Life Sciences on deck for IPO,?",[0.03179767 0.07457433 0.89362806],neutral,-0.042776655
+"Healthcare roundup,?",[0.03771546 0.22443107 0.73785347],neutral,-0.1867156
+"Novartis' Remicade biosimilar OK'd in Europe,?",[0.07130121 0.12704872 0.80165005],neutral,-0.0557475
+"J&amp;J loses second verdict in talc asbestos cancer case,?",[0.02498172 0.9234171  0.05160112],negative,-0.89843535
+"""Goldman Sachs: Hedge funds betting against Nvidia, Intel"",?",[0.04230886 0.22684951 0.7308417 ],neutral,-0.18454064
+"ViiV Healthcare's HIV med Juluca OK'd in Europe,?",[0.06658354 0.29387927 0.63953716],neutral,-0.22729573
+"Congo begins Ebola vaccinations,?",[0.05249649 0.19870684 0.74879664],neutral,-0.14621034
+"J&amp;J bails on Alzheimer's candidate atabecestat on toxicity issues,?",[0.11873319 0.03055669 0.8507101 ],neutral,0.088176504
+"Investors bullish on biotechs after Trump drug pricing speech,?",[0.5382825  0.19343632 0.2682812 ],positive,0.3448462
+"FDA OKs first non-opioid treatment for opioid withdrawal,?",[0.57600164 0.05100542 0.37299293],positive,0.5249962
+"More states sue over opioid epidemic,?",[0.01528679 0.94673556 0.03797763],negative,-0.93144876
+"Novartis to initiate head-to-head study of Cosentyx versus J&amp;J's Tremfya in patients with psoriatic plaques resistant to J&amp;J's Stelara,?",[0.06692867 0.03961911 0.8934522 ],neutral,0.02730956
+"Trump speech on drug prices light on specifics,?",[0.03127027 0.05446739 0.9142624 ],neutral,-0.023197122
+"Trump plan on drug prices to be announced this afternoon,?",[0.05478739 0.0442325  0.9009801 ],neutral,0.010554891
+"J&amp;J to host review of consumer and device businesses May 16,?",[0.03266221 0.01056682 0.95677096],neutral,0.022095393
+"Johnson &amp; Johnson to acquire BeneVir Biopharm,?",[0.03540318 0.02685135 0.9377455 ],neutral,0.008551834
+"Actelion files marketing application for expanded use for macitentan,?",[0.06774916 0.00639501 0.9258559 ],neutral,0.06135415
+"Celyad up 20% on encouraging data on CAR-T candidate CYAD-01,?",[0.90047026 0.07485007 0.02467971],positive,0.8256202
+"Johnson &amp; Johnson prevails in appeal of $151M judgement in hip implant case; shares up 2%,?",[0.92737997 0.02865157 0.04396841],positive,0.8987284
+"Johnson &amp; Johnson declares $0 90 dividend,?",[0.04297697 0.1034463  0.8535767 ],neutral,-0.060469333
+"Opioid prescriptions dropped 12% in 2017,?",[0.01098276 0.97578406 0.01323317],negative,-0.9648013
+"AbbVie files U S  marketing application for plaque psoriasis med risankizumab,?",[0.0551508  0.10781286 0.8370363 ],neutral,-0.05266206
+"""IBM, Exxon, J&amp;J among expected dividend hikes next week"",?",[0.4382099  0.11200058 0.44978952],neutral,0.3262093
+"Novartis Q1 results weigh on pharma stocks,?",[0.01554088 0.94738454 0.0370745 ],negative,-0.93184364
+"""U S  opioid prescriptions down 12% last year, largest drop in 25 years"",?",[0.00998292 0.97837925 0.01163793],negative,-0.9683963
+"J&amp;J ramps up Imbruvica price ahead of potential potential lower dose usage - Washington Post,?",[0.6620273  0.03170627 0.30626643],positive,0.630321
+"Kentucky sues J&amp;J over opioid marketing,?",[0.01326804 0.94772255 0.0390094 ],negative,-0.9344545
+"DEA aims to collar production of opioids,?",[0.0751282  0.00508234 0.9197895 ],neutral,0.07004586
+"Sen  Sanders introduces bill to fine opioid makers for marketing practices,?",[0.39566305 0.18691514 0.41742185],neutral,0.20874791
+"J&amp;J cost cutting plan may pressure suppliers - Bloomberg,?",[0.02685394 0.93385494 0.03929113],negative,-0.907001
+"Johnson &amp; Johnson Q1 revenues and non-GAAP EPS up 13%; updates guidance,?",[0.94486153 0.02817112 0.02696735],positive,0.9166904
+"""Johnson &amp; Johnson beats by $0 05, beats on revenue"",?",[0.23628557 0.04810917 0.71560526],neutral,0.1881764
+"Bristol-Myers teams up with J&amp;J to develop next-gen cardiovascular therapy,?",[0.7293913  0.01044807 0.2601607 ],positive,0.71894324
+"Health insurers/managed care firms up ahead of UNH Q1 earnings tomorrow,?",[0.4125282  0.15509729 0.43237454],neutral,0.2574309
+"J&amp;J's Invokana shows positive effect on kidney function in type 2 diabetics,?",[0.86600405 0.02278249 0.1112135 ],positive,0.84322155
+"""Jury awards $117M in total damages over J&amp;J, Imerys talc products"",?",[0.491433   0.27852276 0.23004425],positive,0.21291023
+"FDA OKs J&amp;J contact lens that darkens with exposed to bright light,?",[0.0393844  0.06642211 0.8941935 ],neutral,-0.027037714
+"Winners and losers for teenager attention,?",[0.09431027 0.3208294  0.5848604 ],neutral,-0.22651912
+"J&amp;J loses talc case in New Jersey,?",[0.027402   0.8947374  0.07786063],negative,-0.86733544
+"New Jersey jury finds J&amp;J's iconic baby powder tainted by asbestos,?",[0.01183193 0.9620102  0.02615786],negative,-0.95017827
+"CMS finalizes policies to reduce drug costs for Medicare beneficiaries,?",[0.7569309  0.01674787 0.22632124],positive,0.740183
+"Arkansas sues drugmakers over opioid crisis,?",[0.01444749 0.94720834 0.03834417],negative,-0.93276083
+"FDA working on policies to boost biosimilars,?",[0.49432918 0.01968306 0.48598778],positive,0.47464612
+"Big Pharma in the green as bargain hunters move in,?",[0.1265252  0.04170369 0.83177114],neutral,0.0848215
+"FDA Ad Com backs lofexidine for opioid withdrawal,?",[0.05105704 0.4185065  0.53043646],neutral,-0.36744946
+"European advisory group backs Novartis biosimilar to J&amp;J's Remicade,?",[0.07628433 0.10149869 0.822217  ],neutral,-0.025214352
+"Rituxan biosimilar captures 80% of British market,?",[0.1112663  0.01580316 0.8729306 ],neutral,0.09546314
+"FDA OKs Sun Pharma's Ilumya for plaque psoriasis,?",[0.13233265 0.46234524 0.4053221 ],negative,-0.3300126
+"Johnson &amp; Johnson finance chief to retire in September,?",[0.02800523 0.2542024  0.71779233],neutral,-0.22619717
+"Drug stocks in the red on as Trump mulls suing pharma firms over opioid crisis,?",[0.02275149 0.9198838  0.05736473],negative,-0.8971323
+"Geron up 35% premarket on rosier outlook for imetelstat,?",[0.8500561  0.11955653 0.03038733],positive,0.73049957
+"Trump to release opioid epidemic plan,?",[0.0827236  0.07702718 0.84024924],neutral,0.005696416
+"Johnson &amp; Johnson to divest LifeScan unit for $2 1B,?",[0.03715006 0.6147707  0.34807923],negative,-0.5776206
+"Johnson &amp; Johnson' erdafitinib a Breakthrough Therapy for urothelial cancer,?",[0.13712388 0.01194206 0.850934  ],neutral,0.12518182
+"Johnson &amp; Johnson's Invokana lowers risk of CV death or hospitalization in T2D,?",[0.5175449  0.03022819 0.45222685],positive,0.48731673
+"Anthera to terminate development of Sollpura after failed late-stage study,?",[0.02365869 0.8728305  0.10351089],negative,-0.8491718
+"Opioid settlement talks hit roadblocks,?",[0.01768184 0.9394166  0.04290155],negative,-0.92173475
+"Opioid overdoses spiked 30% in a year,?",[0.83495116 0.04166171 0.12338714],positive,0.7932895
+"FDA OKs TaiMed's HIV med ibalizumab,?",[0.06493231 0.1699642  0.76510346],neutral,-0.105031885
+"DOJ cracks down on opioid companies,?",[0.01678548 0.92587686 0.05733776],negative,-0.90909135
+"Johnson &amp; Johnson's Tremfya shows sustained treatment effect in late-stage psoriasis study,?",[0.60404974 0.01821503 0.3777353 ],positive,0.5858347
+"Key events next week - healthcare,?",[0.03136595 0.05637267 0.91226137],neutral,-0.025006726
+"FDA OKs Johnson &amp; Johnson's apalutamide for prostate cancer,?",[0.03820061 0.08135563 0.8804438 ],neutral,-0.043155022
+"OxyContin maker stops promoting opioids,?",[0.03430389 0.8234382  0.14225787],negative,-0.7891343
+"Key events next week - healthcare,?",[0.03136595 0.05637267 0.91226137],neutral,-0.025006726
+"Webcast of late-stage data on J&amp;J's prostate cancer med apalutamide available later today,?",[0.02754032 0.04443944 0.92802024],neutral,-0.016899122
+"FDA OKs expanded use for J&amp;J's Zytiga,?",[0.46784797 0.04811555 0.4840364 ],neutral,0.41973242
+"Janssen teams up with Theravance to develop candidate for inflammatory bowel disease,?",[0.60488087 0.02321527 0.37190384],positive,0.5816656
+"Wells Fargo: Worries about JNJ talc litigation overblown,?",[0.02811345 0.91841227 0.05347427],negative,-0.89029884
+"Key events next week - healthcare,?",[0.03136595 0.05637267 0.91226137],neutral,-0.025006726
+"Big biopharma firms poised to end session in the red after Trump comments on high prices,?",[0.08415075 0.7322581  0.1835912 ],negative,-0.64810735
+"Height weighs in on Amazon/Berkshire/JPMorgan healthcare venture,?",[0.08256517 0.22749326 0.6899416 ],neutral,-0.14492808
+"Big biopharma in the green after AbbVie's Q4 beat,?",[0.31303433 0.2701127  0.416853  ],neutral,0.042921633
+"Johnson &amp; Johnson backs away from Pfizer's consumer health unit,?",[0.03816947 0.82194525 0.13988528],negative,-0.7837758
+"Profit-taking weighs on biotechs and biopharmas,?",[0.03711341 0.8341043  0.12878221],negative,-0.7969909
+"NYC sues Big Pharma over opioid epidemic,?",[0.01835381 0.93673235 0.04491375],negative,-0.91837853
+"Johnson &amp; Johnson Q4 revenues up 12%; non-GAAP EPS up 10%; updates guidance,?",[0.9435838  0.01805317 0.03836299],positive,0.9255306
+"""Johnson &amp; Johnson beats by $0 02, beats on revenue"",?",[0.23514932 0.0514062  0.7134445 ],neutral,0.18374312
+"Key events next week - healthcare,?",[0.03136595 0.05637266 0.91226137],neutral,-0.025006715
+"Big Biopharma in the red in early trade,?",[0.09136625 0.2954806  0.6131531 ],neutral,-0.20411435
+"U S  Patent Office invalidates key patent covering J&amp;J's cancer drug Zytiga,?",[0.01493878 0.95094424 0.03411696],negative,-0.9360055
+"J&amp;J diabetes business attracts Chinese interest,?",[0.3245706  0.01173364 0.6636957 ],neutral,0.31283695
+"FDA launches new program to boost transparency of clinical data used to support approvals,?",[0.8644118  0.01315174 0.12243646],positive,0.85126
+"Novartis' Cosentyx beats Janssen's Stelara in head-to-head psoriasis study,?",[0.4929766  0.35465935 0.15236406],positive,0.13831726
+"""Johnson &amp; Johnson chief Gorsky thumbs up new tax law, plans repatriate $16B in overseas cash"",?",[0.46471876 0.02795436 0.50732684],neutral,0.4367644
+"Start of JPM18 fails to buoy healthcare stocks,?",[0.05678624 0.9068033  0.03641047],negative,-0.8500171
+"Goldman bullish on biopharma in 2018,?",[0.05836136 0.7270896  0.21454906],negative,-0.66872823
+"FDA advancing plan to streamline generic drug reviews,?",[0.4768693  0.01682369 0.50630707],neutral,0.4600456
+"U S  drug approvals highest in 21 years,?",[0.41051763 0.13345073 0.45603165],neutral,0.2770669
+"Premarket analyst action - healthcare,?",[0.03490145 0.0790403  0.8860583 ],neutral,-0.044138853
+"Johnson &amp; Johnson declares $0 84 dividend,?",[0.04045254 0.09842535 0.8611221 ],neutral,-0.05797281
+"""Boeing, Caterpillar top Dow 2017 standings; GE lags far behind"",?",[0.20404077 0.47463995 0.32131934],negative,-0.2705992
+"Janssen teams up with Legend Biotech to develop CAR-T candidate,?",[0.6276526  0.0164784  0.35586897],positive,0.61117417
+"Janssen's prostate cancer candidate apalutamide granted accelerated review in U S ,?",[0.5934039  0.01550339 0.39109275],positive,0.57790047
+"Ionis earns $5M milestone from J&amp;J on initiation of early-stage study of orally delivered antisense drug for GI disorders,?",[0.91160536 0.02595841 0.06243623],positive,0.88564694
+"Britain's cost watchdog backs J&amp;J's Imbruvica for mantle cell lymphoma,?",[0.05457379 0.4748921  0.47053418],negative,-0.4203183
+"Pfizer gets FDA nod for second biosimilar of J&amp;J's Remicade,?",[0.8590603  0.02223572 0.11870398],positive,0.83682454
+"Johnson &amp; Johnson files U S  marketing application for expanded label of blood thinner Xarelto,?",[0.26700628 0.01587373 0.71712   ],neutral,0.25113255
+"Imbruvica successful in late-stage study in rare type of blood cancer,?",[0.7063135  0.01699407 0.27669242],positive,0.68931943
+"Genmab earns $20M milestone from Janssen on daratumumab advancement,?",[0.8432425  0.06144784 0.0953097 ],positive,0.78179467
+"Johnson &amp; Johnson files marketing application in Europe for expanded use for multiple myeloma med Darzalex,?",[0.10006157 0.00845103 0.8914874 ],neutral,0.09161054
+"Expanded use of Johnson &amp; Johnson's prostate cancer med Zytiga OK'd in Europe,?",[0.4204792  0.00986832 0.56965244],neutral,0.41061088
+"Cost of U S  opioid epidemic tops $500B,?",[0.22383386 0.21934047 0.55682564],neutral,0.0044933856
+"J&amp;J wins California lawsuit claiming asbestos in baby powder caused cancer,?",[0.05183606 0.8388122  0.10935178],negative,-0.7869761
+"Cytori's generic doxorubicin candidate ATI-0918 matches branded versions in bioequivalence study; shares ahead 4%,?",[0.88893276 0.06168104 0.0493861 ],positive,0.82725173
+"""Ionis licenses second antisense candidate to Janssen Biotech, triggers $5M payment"",?",[0.5067096  0.01217906 0.4811114 ],positive,0.4945305
+"Johnson &amp; Johnson's Tremfya OK'd in Canada for plaque psoriasis,?",[0.05631897 0.15824154 0.78543943],neutral,-0.10192257
+"Achillion readies sale of 18 4M-share J&amp;J stake; shares down 9% after hours,?",[0.0090718  0.97260946 0.01831868],negative,-0.96353763
+"Genmab earns $25M milestone from Janssen's first Darzalex sale in Japan,?",[0.8994859  0.02140732 0.07910676],positive,0.8780786
+"Zymeworks inks deal with Janssen Biotech to develop six bispecific antibodies,?",[0.8598545  0.01117653 0.12896898],positive,0.848678
+"Mallinckrodt's rough treatment after Q3 revenue miss reflects the space - WSJ,?",[0.02315108 0.93342644 0.0434225 ],negative,-0.91027534
+"Johnson &amp; Johnson to advance Tremfya into Phase 3 for psoriatic arthritis,?",[0.5985209  0.01014664 0.39133248],positive,0.58837426
+"Johnson &amp; Johnson's Stelara successful in mid-stage lupus study,?",[0.46820217 0.03104233 0.5007555 ],neutral,0.43715984
+"CMS issues final list of therapies facing expiration of pass-through status for 2018,?",[0.02939826 0.02546594 0.94513583],neutral,0.003932325
+"FDA OKs 10 mg Xarelto for reducing risk of recurrent VTE,?",[0.8231633  0.05183213 0.12500462],positive,0.77133113
+"J&amp;J's Imbruvica OK'd in Canada for chronic graft-versus-host disease,?",[0.06614145 0.22553639 0.70832217],neutral,-0.15939495
+"Biotech-led selloff engulfs hospitals and Big Pharma,?",[0.01881877 0.91331315 0.06786808],negative,-0.89449435
+"""AbbVie's risankizumab beats Humira and Stelara in late-stage psoriasis studies; investors unmoved, shares down 5%"",?",[0.0126108  0.97270244 0.01468674],negative,-0.96009165
+"Pfizer readying consumer health sale,?",[0.03453567 0.03406073 0.9314036 ],neutral,0.00047493353
+"Pfizer to launch consumer health unit sale next month - Reuters,?",[0.08412456 0.00818781 0.90768766],neutral,0.07593674
+"""Big pharma/biotech players under pressure, Valeant only bright spot"",?",[0.2906038  0.08051717 0.6288791 ],neutral,0.21008661
+"Courts reverse major judgements against Johnson &amp; Johnson in baby powder liability cases,?",[0.02445742 0.93730974 0.03823281],negative,-0.91285235
+"FDA OKs expanded uses for J&amp;J's Simponi Aria,?",[0.6587701  0.02210734 0.31912258],positive,0.6366627
+"Alcobra up 46% premarket on Arcturus/Janssen deal in HBV,?",[0.82854706 0.13507871 0.03637418],positive,0.69346833
+"Johnson &amp; Johnson to acquire Surgical Process Institute,?",[0.03703263 0.01783371 0.9451336 ],neutral,0.019198924
+"Johnson &amp; Johnson declares $0 84 dividend,?",[0.04045254 0.09842535 0.8611221 ],neutral,-0.05797281
+"Premarket analyst action - healthcare,?",[0.03490145 0.0790403  0.8860583 ],neutral,-0.044138853
+"RBC raises price target on Johnson &amp; Johnson to $147 on outlook for pharma business,?",[0.7679818  0.09650665 0.13551153],positive,0.6714752
+"Johnson &amp; Johnson gets court reversal of verdict over talc cancer risks,?",[0.3937541  0.38305303 0.22319289],positive,0.01070106
+"Johnson &amp; Johnson Q3 revenues up 10%; non-GAAP EPS up 13%; raises 2017 guidance; shares ahead 2% premarket,?",[0.94816035 0.02464693 0.0271928 ],positive,0.9235134
+"""Johnson &amp; Johnson beats by $0 10, beats on revenue"",?",[0.24693218 0.05787059 0.69519717],neutral,0.18906158
+"""President Trump at it again with comments on """"out of control"""" drug prices"",?",[0.04916246 0.24603668 0.7048009 ],neutral,-0.19687422
+"Premarket analyst action - healthcare,?",[0.03490145 0.0790403  0.8860583 ],neutral,-0.044138853
+"FDA OKs Johnson &amp; Johnson's Stelara for psoriatic patients as young as 12 years,?",[0.03215507 0.05448455 0.9133604 ],neutral,-0.022329483
+"Johnson &amp; Johnson files U S  marketing application for prostate cancer med apalutamide,?",[0.04052342 0.03988839 0.9195882 ],neutral,0.0006350316
+"Premarket analyst action - healthcare,?",[0.03490145 0.0790403  0.8860583 ],neutral,-0.044138853
+"China to accept out-of-country trial data to speed up drug approvals,?",[0.7713931  0.04502703 0.18357979],positive,0.7263661
+"Premarket analyst action - healthcare,?",[0.03490145 0.0790403  0.8860583 ],neutral,-0.044138853
+"J&amp;J's single-tablet combo HIV pill successful in late-stage study,?",[0.91727155 0.01785102 0.06487736],positive,0.89942056
+"Bayer maintains Xarelto sales outlook despite study setback,?",[0.7702739  0.16685376 0.06287236],positive,0.60342014
+"J&amp;J completes Codman sale to Integra for more than $1B,?",[0.03820115 0.02935944 0.9324394 ],neutral,0.008841712
+"""Med stocks up early, biotechs lead"",?",[0.43226022 0.23300108 0.33473867],positive,0.19925913
+"Merck bails on future HCV drugs; shares down 1%,?",[0.00967871 0.97428054 0.01604074],negative,-0.9646018
+"New measures to fight opioid addiction,?",[0.67712265 0.02041484 0.30246255],positive,0.6567078
+"Janssen's Darzalex OK'd in Japan for multiple myeloma,?",[0.1237855  0.2095841  0.66663045],neutral,-0.0857986
+"FDA launches pre-certification program for developers of healthcare-related software,?",[0.5180553  0.01532713 0.46661758],positive,0.50272816
+"""FDA rejects J&amp;J's marketing application for RA med sirukumab, more safety data needed"",?",[0.04059332 0.79197776 0.16742897],negative,-0.75138444
+"FDA's Woodcock says clinical trials system &quot;broken&quot;,?",[0.05205838 0.39273855 0.5552031 ],neutral,-0.34068018
+"""Pfizer sues J&amp;J over """"anticompetitive practices"""" against Remicade biosimilar"",?",[0.01478277 0.9326345  0.05258278],negative,-0.9178517
+"Premarket analyst action - healthcare,?",[0.03490145 0.0790403  0.8860583 ],neutral,-0.044138853
+"""State AGs gang up on opioid makers, 41 now in coalition"",?",[0.03301843 0.8327151  0.13426645],negative,-0.7996967
+"J&amp;J's Tremfya shows durable effect in late-stage psoriasis study,?",[0.52015406 0.0257691  0.4540769 ],positive,0.49438497
+"J&amp;J files marketing application in U S  for expanded use of Zytiga,?",[0.13791716 0.00812364 0.8539592 ],neutral,0.12979352
+"Achillion down 10% premarket after Janssen backs out of hep C collaboration,?",[0.01074075 0.97359335 0.0156659 ],negative,-0.9628526
+"FDA OKs Tracleer for pediatric PAH patients,?",[0.07355001 0.1315893  0.7948607 ],neutral,-0.058039285
+"Mallinckrodt targeted by Missouri AG over opioid marketing; shares down 14%,?",[0.00950062 0.97165334 0.01884602],negative,-0.9621527
+"Janssen bails on duvortuxizumab development deal with MacroGenics after neurotoxicity observed in early-stage study,?",[0.07713512 0.1138747  0.80899024],neutral,-0.036739573

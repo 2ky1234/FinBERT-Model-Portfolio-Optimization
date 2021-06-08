@@ -1,0 +1,257 @@
+sentence,logit,prediction,sentiment_score
+"title,
+BofA names the defensive stocks to consider to ride out fall volatility,?",[0.0432515  0.00995008 0.9467985 ],neutral,0.033301424
+"Visa partnership expands PayPal's Instant Transfer service to global markets,?",[0.9272148  0.0129667  0.05981853],positive,0.9142481
+"Visa reports August operating metrics,?",[0.06617551 0.6398653  0.2939592 ],negative,-0.57368976
+"""Evercore weighs comparative growth, COVID opportunities for payment networks"",?",[0.50491774 0.01171112 0.48337117],positive,0.49320662
+"""Visa, BofA, Qualcomm join campaign giving workers time to vote"",?",[0.29734278 0.03577923 0.666878  ],neutral,0.26156354
+"DOJ antitrust unit to shake up operations for better oversight - WSJ,?",[0.05506169 0.7550717  0.1898666 ],negative,-0.70001
+"Appaloosa (David Tepper) adds new stakes in AT&amp;T; trims Facebook position,?",[0.05630256 0.7822467  0.16145068],negative,-0.72594416
+"Visa prices $500M green bond offering,?",[0.03970537 0.05166361 0.908631  ],neutral,-0.011958245
+"KBW dives into what it takes to make these fintech names work,?",[0.14253509 0.01125575 0.8462091 ],neutral,0.13127933
+"Visa declares $0 30 dividend,?",[0.07183142 0.57214373 0.35602486],negative,-0.5003123
+"""Visa fiscal Q3 payments volume falls 10%, adjusted EPS beats estimate"",?",[0.01050938 0.97235423 0.01713632],negative,-0.96184486
+"""Visa EPS beats by $0 02, misses on revenue"",?",[0.21271849 0.41580713 0.37147433],negative,-0.20308864
+"Visa Q3 2020 Earnings Preview,?",[0.06035569 0.43838635 0.50125796],neutral,-0.37803066
+"Visa declares $0 30 dividend,?",[0.0718314 0.5721437 0.3560249],negative,-0.50031227
+"""Goldman adds Mastercard, Fiserv to conviction list in new payments coverage"",?",[0.280387   0.01220449 0.7074085 ],neutral,0.26818252
+"""AmEx, Discover, Mastercard, Visa expand Click to Pay"",?",[0.03049276 0.08003102 0.8894762 ],neutral,-0.049538262
+"""Visa, Mastercard reassess Wirecard ties - Bloomberg"",?",[0.05562964 0.06486796 0.8795024 ],neutral,-0.009238318
+"Visa and Terrapay partner to drive real-time payments interoperability,?",[0.7875257  0.00694627 0.20552799],positive,0.78057945
+"Visa launches identity score tool to help prevent account fraud,?",[0.57781816 0.0246766  0.39750525],positive,0.55314153
+"""Visa, CPI launch upcycled credit card"",?",[0.15440878 0.01571777 0.82987344],neutral,0.13869101
+"Visa helps launch payments on WhatsApp in Brazil,?",[0.61249727 0.01896613 0.3685366 ],positive,0.59353113
+"American Express lands green light in China,?",[0.3615741  0.04465332 0.5937726 ],neutral,0.3169208
+"""Consumer spending improves, but doesn't rise, in May: Mastercard"",?",[0.91037506 0.03867987 0.05094512],positive,0.87169516
+"Visa reports recovery in U S  payments volume in May,?",[0.8946006  0.07907135 0.02632802],positive,0.8155292
+"""PayPal's new users '30% more engaged' than others, CEO says"",?",[0.70765436 0.06257372 0.22977199],positive,0.6450806
+"Visa hires CapitalOne's Newkirk as chief strategy officer,?",[0.03793485 0.07602057 0.8860446 ],neutral,-0.038085718
+"Visa invests in analytics firm GoodData,?",[0.04002035 0.00905925 0.9509204 ],neutral,0.030961093
+"Visa employees granted WFH status through year end,?",[0.11004139 0.02839917 0.86155945],neutral,0.08164222
+"""Pandemic speeds e-commerce, Visa says"",?",[0.06924326 0.19427669 0.73648006],neutral,-0.12503344
+"Visa rises 1 1% after fiscal Q2 beats expectations,?",[0.8712793  0.09398771 0.03473309],positive,0.7772916
+"""Visa EPS beats by $0 04, beats on revenue"",?",[0.3566532  0.07711653 0.56623024],neutral,0.2795367
+"Visa Q1 2020 Earnings Preview,?",[0.06122183 0.4049687  0.5338094 ],neutral,-0.34374687
+"""Visa, Mastercard price targets lifted on lofty ecommerce outlook: Wedbush"",?",[0.6218903  0.15244731 0.22566243],positive,0.469443
+"Visa declares $0 30 dividend,?",[0.0718314 0.5721437 0.3560249],negative,-0.50031227
+"Valuation makes Baird a bear (for now) on 'top-two all-time' company,?",[0.33098578 0.06330938 0.6057049 ],neutral,0.2676764
+"Visa to launch debit card offering bitcoin rewards,?",[0.30703968 0.01135734 0.681603  ],neutral,0.29568234
+"Small businesses may face higher card fees as U S  gets back to work - WSJ,?",[0.3231691  0.4877814  0.18904951],negative,-0.1646123
+"Trump to video-meet with finance chiefs about small business loans - Bloomberg,?",[0.03376392 0.08542697 0.88080907],neutral,-0.051663052
+"""Visa announces """"meaningful deterioration"""" in payment volumes in second half of March"",?",[0.02151449 0.9635692  0.01491627],negative,-0.94205475
+"""Mastercard lowers 1Q net revenue guidance, evaluating expenses"",?",[0.02532551 0.9014535  0.07322101],negative,-0.87612796
+"Barron's Bary: Time for Buffett to get greedy,?",[0.10967888 0.23764713 0.652674  ],neutral,-0.12796825
+"Tokyo Olympics in doubt due to coronavirus,?",[0.02011296 0.8867021  0.09318494],negative,-0.8665892
+"Nomura trims payment network EPS estimates; more may come,?",[0.27104706 0.21939576 0.5095572 ],neutral,0.0516513
+"'Like trying to stop air' - latest coronavirus updates here,?",[0.04052746 0.42559934 0.5338732 ],neutral,-0.38507187
+"Visa -2% after cutting FQ2 revenue guidance due to coronavirus,?",[0.0232096 0.9635637 0.0132268],negative,-0.9403541
+"KBW says these are the 13 financial stocks to own for a rally,?",[0.03387097 0.03311265 0.9330164 ],neutral,0.0007583238
+"""Fiserv develops solution to enable phones, tablets as POS devices"",?",[0.3143342  0.00777689 0.6778889 ],neutral,0.30655733
+"MoneyGram's new service transmits money to a phone number,?",[0.02499194 0.01991162 0.9550964 ],neutral,0.0050803144
+"Visa set to sell Earthport's FX business,?",[0.02589211 0.02729451 0.94681334],neutral,-0.001402406
+"""Mastercard may follow Visa in fee structure overhaul, KBW says"",?",[0.84140986 0.01601414 0.14257607],positive,0.8253957
+"Visa plans biggest swipe fee changes in a decade - Bloomberg,?",[0.16762851 0.09467073 0.73770076],neutral,0.072957784
+"Visa -2 6% after incentives guidance disappoints,?",[0.03457999 0.9124123  0.05300773],negative,-0.8778323
+"Visa declares $0 30 dividend,?",[0.07183142 0.57214373 0.35602486],negative,-0.5003123
+"Visa -1 4% as fiscal Q1 underwhelms,?",[0.04196402 0.9049249  0.05311103],negative,-0.86296093
+"""Visa EPS misses by $0 01, misses on revenue"",?",[0.01470105 0.95494944 0.0303495 ],negative,-0.94024837
+"Visa Q1 2020 Earnings Preview,?",[0.06122186 0.40496874 0.53380936],neutral,-0.34374687
+"""Commerce Bank, Visa power Progressive digital claims payment"",?",[0.03453504 0.04517119 0.9202938 ],neutral,-0.010636151
+"""Fintech teams up with Worldpay, Visa for expansion in Africa"",?",[0.8846407  0.01165017 0.10370913],positive,0.87299055
+"""Amazon's paying by palm still has a lot of questions, KBW says"",?",[0.04406259 0.14406578 0.8118716 ],neutral,-0.1000032
+"""Mastercard, Visa gain a bull in Macquarie"",?",[0.09058461 0.37003452 0.53938085],neutral,-0.2794499
+"Amazon Palm - Pay with your hand,?",[0.03871848 0.05852367 0.9027578 ],neutral,-0.01980519
+"""Visa, Mastercard, AmEx get access to Chinese payment markets"",?",[0.5716488  0.01159206 0.41675913],positive,0.5600567
+"Visa to buy Plaid for $5 3B,?",[0.050002   0.06003845 0.8899595 ],neutral,-0.010036446
+"Visa closes in on a deal to buy fintech Plaid - WSJ,?",[0.46373934 0.03106915 0.50519156],neutral,0.43267018
+"""Bernstein sees upside for PayPal, Square in 2020"",?",[0.5144994  0.03059989 0.45490068],positive,0.48389953
+"""Visa, Mastercard, Global Payments among KBW top picks in payments"",?",[0.27989674 0.02029637 0.6998069 ],neutral,0.25960037
+"2019 leaders and laggards,?",[0.04704444 0.48457915 0.4683764 ],negative,-0.4375347
+"""Apple, Microsoft top Dow 2019 standings; Walgreens wobbles to the bottom"",?",[0.03133077 0.8605796  0.10808964],negative,-0.82924885
+"Banks on the rise as consumers spend,?",[0.12023225 0.3817552  0.49801254],neutral,-0.26152295
+"""TD Bank, Visa start U S -to-Canada money transfer service"",?",[0.05381343 0.03242862 0.913758  ],neutral,0.02138481
+"""Morgan Stanley lifts Visa, Mastercard price targets"",?",[0.23798166 0.25407743 0.5079409 ],neutral,-0.016095772
+"Visa and MFS Africa to enable more digital payments use in Africa,?",[0.6215386  0.00812466 0.3703367 ],positive,0.61341393
+"Visa signs on TransferWise to global remittance network,?",[0.05834896 0.06202474 0.8796263 ],neutral,-0.0036757812
+"AmEx pays up to lure business to accept its cards - WSJ,?",[0.09086096 0.0144497  0.8946893 ],neutral,0.076411255
+"Visa adds PepsiCo CEO to board,?",[0.03724303 0.10997425 0.8527827 ],neutral,-0.07273123
+"""Visa, Mastercard said to draw FTC inquiry over debit transactions - Bloomberg"",?",[0.08849771 0.24644805 0.6650542 ],neutral,-0.15795034
+"Visa plans new HQ as part of Bay Area expansion plan,?",[0.13337345 0.00852301 0.8581035 ],neutral,0.12485045
+"Visa to work with Tencent on mobile payment,?",[0.09726183 0.01752024 0.8852179 ],neutral,0.07974159
+"Industry is catching up to Square - Barron's,?",[0.20970374 0.02623414 0.7640621 ],neutral,0.18346961
+"""Visa boosts dividend, Q4 EPS and revenue beat consensus"",?",[0.92347175 0.04115087 0.03537739],positive,0.8823209
+"Visa hikes dividend by 20%,?",[0.54572845 0.3741804  0.08009119],positive,0.17154804
+"""Visa EPS beats by $0 04, beats on revenue"",?",[0.35665327 0.07711653 0.5662302 ],neutral,0.27953672
+"Visa Q4 2019 Earnings Preview,?",[0.06028362 0.3996661  0.5400503 ],neutral,-0.33938247
+"Visa launches line aimed at fast-growing small businesses,?",[0.55651534 0.01360902 0.4298757 ],positive,0.54290634
+"""Visa wraps up acquisition of Rambus's token, ticketing businesses"",?",[0.1688575  0.00941824 0.82172424],neutral,0.15943925
+"""AmEx, Discover, Mastercard, Visa implement click to pay online checkout"",?",[0.02664195 0.05735099 0.9160071 ],neutral,-0.030709043
+"Libra's Marcus calls exits 'liberating',?",[0.07156882 0.29881883 0.6296123 ],neutral,-0.22725001
+"Visa exits Facebook's Libra amid rush of departures,?",[0.03935526 0.8723828  0.08826194],negative,-0.83302754
+"""Visa, Mastercard, Stripe CEOs urged to take Libra risks seriously"",?",[0.3891342  0.08229543 0.52857035],neutral,0.30683878
+"""U S  lobbied Indonesia for Visa, Mastercard - Reuters"",?",[0.05372904 0.09605838 0.8502126 ],neutral,-0.04232934
+"Facebook scrambles as Libra partners reconsider - WSJ,?",[0.03273682 0.84479463 0.12246855],negative,-0.8120578
+"""Visa's $300M escrow for litigation isn't material to EPS, KBW says"",?",[0.05319783 0.4347364  0.51206577],neutral,-0.38153857
+"""Visa doubles its B2B cross-border payment network, adds Infosys as partner"",?",[0.88014156 0.01166143 0.10819699],positive,0.86848015
+"Visa closes on Verifi deal,?",[0.04683837 0.5535167  0.3996449 ],negative,-0.50667834
+"MoneyGram teams with Visa on deposit service,?",[0.221007   0.01490754 0.7640855 ],neutral,0.20609947
+"Visa's Verifi deal lands FTC approval,?",[0.7187557  0.03209125 0.24915305],positive,0.68666446
+"Square +1 2% after gaining two bulls,?",[0.8218985  0.11539816 0.06270338],positive,0.70650035
+"Visa adds new capabilities to fight payment fraud,?",[0.88553816 0.0100929  0.10436893],positive,0.87544525
+"Repay climbs 3 1% after pact with Visa Canada,?",[0.8509358  0.10843959 0.04062461],positive,0.74249625
+"Visa latest to weigh in on gun purchases,?",[0.04871629 0.7723287  0.17895506],negative,-0.72361237
+"""Mastercard, Visa may face risk from Fed's RTP plan in 5-7 years - Bernstein"",?",[0.23228835 0.47066575 0.29704595],negative,-0.2383774
+"Visa taps AmEx exec for risk chief role,?",[0.04458828 0.09376664 0.8616451 ],neutral,-0.049178362
+"Visa tones down 2019 adjusted EPS outlook,?",[0.01388882 0.9443701  0.04174115],negative,-0.93048126
+"""Visa EPS beats by $0 05, beats on revenue"",?",[0.38264862 0.0833604  0.5339909 ],neutral,0.2992882
+"Visa Q3 2019 Earnings Preview,?",[0.05874648 0.3734724  0.56778115],neutral,-0.3147259
+"Visa declares $0 25 dividend,?",[0.07780956 0.5087569  0.41343358],negative,-0.4309473
+"Visa acquires Payworks,?",[0.04325459 0.02050142 0.936244  ],neutral,0.022753168
+"Alliance Data in credit-card pact with Sportsman's Warehouse,?",[0.23564732 0.03028711 0.7340656 ],neutral,0.2053602
+"""Visa, PayPal launch instant transfer in Canada for consumers, small businesses"",?",[0.20715384 0.01010808 0.7827381 ],neutral,0.19704577
+"Visa gains dispute-resolution technology through Verifi acquisition,?",[0.40517774 0.01036142 0.58446085],neutral,0.3948163
+"Visa introduces APIs to allow installment payment plans,?",[0.47704557 0.01044564 0.5125088 ],neutral,0.46659994
+"Visa to buy Rambus's token services and ticketing businesses,?",[0.36500877 0.01022515 0.6247661 ],neutral,0.35478362
+"Visa may be `poised to outperform' Mastercard - Susquehanna,?",[0.6274628 0.3371634 0.0353738],positive,0.29029942
+"Facebook releases plan for Libra crypto,?",[0.03130672 0.02429879 0.9443945 ],neutral,0.007007934
+"""Visa, Mastercard, PayPal, Uber on board Facebook cryptocurrency - WSJ"",?",[0.03029091 0.04808847 0.92162055],neutral,-0.017797565
+"""Mastercard, Visa price targets get a boost"",?",[0.89721406 0.02291059 0.07987539],positive,0.87430346
+"European expansion for crypto Visa card,?",[0.1742868  0.0104213  0.81529194],neutral,0.16386549
+"Visa launches B2B cross-border payment network,?",[0.59866834 0.02256037 0.37877133],positive,0.576108
+"Western Union and Visa in payments pact,?",[0.17256501 0.0541602  0.7732748 ],neutral,0.118404806
+"Visa's CFO takes on expanded role,?",[0.12226179 0.00971421 0.868024  ],neutral,0.112547584
+"""Visa, Chase announce tap-and-pay for NYC subways, buses"",?",[0.04955822 0.01686632 0.9335755 ],neutral,0.032691896
+"Visa goes ex-dividend tomorrow,?",[0.05256787 0.35098216 0.59645   ],neutral,-0.2984143
+"""AOC, Sanders target payday loan, credit-card rates"",?",[0.0290215 0.0360238 0.9349547],neutral,-0.0070022997
+"Facebook building crypto payments system,?",[0.03033569 0.06386149 0.9058028 ],neutral,-0.033525802
+"""Sabre, Visa team up for B2B virtual payments in travel industry"",?",[0.8670336  0.01548888 0.11747749],positive,0.85154474
+"""Mastercard, Visa finalize EU card probe by agreeing to cut fee"",?",[0.5727679  0.25503018 0.17220186],positive,0.31773773
+"""Visa Q1 revenue driven by payments volume, processed transactions"",?",[0.04950743 0.03609519 0.91439736],neutral,0.013412241
+"""Visa beats by $0 07, beats on revenue"",?",[0.71981716 0.08849757 0.1916853 ],positive,0.6313196
+"Visa Q2 2019 Earnings Preview,?",[0.0595259  0.3841306  0.55634356],neutral,-0.3246047
+"Visa unveils platform to build new digital-first payment products,?",[0.6731558  0.00796764 0.3188766 ],positive,0.66518813
+"Coinbase launches crypto Visa card,?",[0.07605474 0.10457374 0.8193716 ],neutral,-0.028518997
+"Credit card players mull Apple's entry into business,?",[0.03785777 0.1540294  0.80811286],neutral,-0.11617163
+"U S  weighs banning transaction-processing in Venezuela: Bloomberg,?",[0.03327971 0.2697078  0.6970125 ],neutral,-0.2364281
+"Visa and PayActiv offer real-time access to earned wages,?",[0.2094534  0.01490817 0.77563834],neutral,0.19454522
+"U S  credit card balances hit record $870B in December: Fed,?",[0.6909195  0.0640216  0.24505883],positive,0.62689793
+"""Bernstein bullish on Visa, Mastercard cross-border payments prospects"",?",[0.29467955 0.38249436 0.32282606],negative,-0.08781481
+"Kroger's Smith's stores nixes Visa credit cards,?",[0.0149454  0.9292798  0.05577479],negative,-0.9143344
+"EU weighs new rules on payments,?",[0.15113273 0.14651349 0.7023538 ],neutral,0.0046192408
+"""Visa, Mastercard $6 24B settlement gets preliminary okay from court"",?",[0.86456466 0.03005236 0.10538295],positive,0.8345123
+"Paying with plastic is about to get more expensive: WSJ,?",[0.05599922 0.42410955 0.5198912 ],neutral,-0.36811033
+"Visa goes ex-dividend tomorrow,?",[0.05256787 0.35098216 0.59645   ],neutral,-0.2984143
+"""Visa sweetens offer for Earthport, edging above Mastercard's bid"",?",[0.9053828  0.02855256 0.06606461],positive,0.8768302
+"Visa slips as concerns about Q2 trends emerge,?",[0.01412355 0.9671751  0.01870131],negative,-0.95305157
+"Visa +2 2% as Q1 gains on payments volume growth,?",[0.8044001  0.15423995 0.04136004],positive,0.65016013
+"""Visa beats by $0 05, beats on revenue"",?",[0.6863929  0.09523932 0.21836771],positive,0.59115356
+"Visa Q1 2019 Earnings Preview,?",[0.05784917 0.33710256 0.60504824],neutral,-0.2792534
+"Visa starts using its own network for transactions in Argentina,?",[0.39732218 0.01334591 0.5893319 ],neutral,0.38397625
+"Visa and NFL extend partnership through 2025 season,?",[0.57443905 0.02022768 0.4053333 ],positive,0.5542114
+"Earthport agrees to ￡233M buyout by Mastercard,?",[0.7208242  0.01854756 0.2606282 ],positive,0.70227665
+"""Chinese market entry for Visa, Mastercard delayed"",?",[0.01964933 0.90985143 0.07049927],negative,-0.8902021
+"Square loses head of payments to Visa,?",[0.01503113 0.9645368  0.02043212],negative,-0.9495057
+"""Visa, SiriusXM team up for in-vehicle dashboard commerce"",?",[0.6084547  0.01328241 0.37826288],positive,0.5951723
+"Scorecard for the markets in 2018,?",[0.0380905  0.0438242  0.91808534],neutral,-0.005733695
+"""Merck, Pfizer top Dow 2018 standings; Goldman Sachs slides to the bottom"",?",[0.0378437  0.8314235  0.13073282],negative,-0.7935798
+"Fintech ETFs outperform the S&amp;P in 2018,?",[0.29412532 0.68492675 0.02094791],negative,-0.39080143
+"Visa to buy British payments firm for $250M,?",[0.07959174 0.05092166 0.86948663],neutral,0.028670076
+"Payment stocks with `recession resistance' may outperform in 2019: RBC,?",[0.02732831 0.9485374  0.02413423],negative,-0.9212091
+"Invesco S&amp;P 500 Quality ETF (SPHQ) November Summary,?",[0.04509376 0.5658879  0.38901836],negative,-0.52079415
+"Guggenheim sees good Q4 for payments firms on healthy holiday spend,?",[0.8171373  0.09827542 0.08458725],positive,0.7188619
+"""Mastercard, Visa slip after reports on tourist card fee cut in EU"",?",[0.01619201 0.96856266 0.01524529],negative,-0.95237064
+"Visa invests in digital payments platform in India,?",[0.08060955 0.00626378 0.91312665],neutral,0.07434576
+"""JPMorgan Chase, Visa tap into contactless cards"",?",[0.06729463 0.01525503 0.9174503 ],neutral,0.0520396
+"Invesco S&amp;P 500 Quality ETF (SPHQ) October Summary,?",[0.04478485 0.58399683 0.37121835],negative,-0.539212
+"Visa parters up with Billtrust,?",[0.16907361 0.08845691 0.7424695 ],neutral,0.0806167
+"""Verizon best Dow stock when market is in correction, analysis says"",?",[0.15297166 0.22114086 0.6258875 ],neutral,-0.06816921
+"Visa CEO comments on cryptos,?",[0.0359671  0.32628283 0.6377501 ],neutral,-0.29031575
+"""Visa gains 2 1%, sees FY2019 EPS growth in mid-teens"",?",[0.9295976 0.0259504 0.044452 ],positive,0.9036472
+"""Visa beats by $0 01, misses on revenue"",?",[0.47074997 0.25849748 0.27075258],positive,0.2122525
+"Visa invests in Conductor digital payment platform in Brazil,?",[0.12613763 0.00548179 0.8683806 ],neutral,0.12065584
+"FICO plans big change to credit scores,?",[0.41247252 0.02901767 0.5585098 ],neutral,0.38345486
+"Visa declares $0 25 dividend,?",[0.07780956 0.5087569  0.41343358],negative,-0.4309473
+"Oppenheimer confident on Mastercard and Visa,?",[0.04006274 0.04477102 0.91516626],neutral,-0.004708279
+"""Visa,Nike leading Dow gainers"",?",[0.44469762 0.21158843 0.34371397],positive,0.23310919
+"Invesco S&amp;P 500 Quality ETF (SPHQ) September Summary,?",[0.04557368 0.57420176 0.3802246 ],negative,-0.5286281
+"""Fintech, payment-related stocks sink on tech slide, credit concern"",?",[0.01502274 0.94432086 0.04065646],negative,-0.9292981
+"Visa and Postmates partner on instant payments,?",[0.04343256 0.02704977 0.9295177 ],neutral,0.016382786
+"Wells Fargo raises price targets on five credit card stocks on Q3 optimism,?",[0.6813769  0.06560545 0.2530177 ],positive,0.6157714
+"BMO Capital confident on Visa and Mastercard,?",[0.14607732 0.02446511 0.8294576 ],neutral,0.121612206
+"Retailers object to swipe fee settlement,?",[0.03769192 0.6570573  0.30525088],negative,-0.6193654
+"""Visa, Mastercard, U S  financial institutions defendants reach settlement"",?",[0.5389323  0.12955527 0.33151245],positive,0.40937704
+"Invesco S&amp;P 500 Quality ETF (SPHQ) August Summary,?",[0.04632061 0.5877675  0.36591187],negative,-0.54144686
+"RBC Capital lifts price target on Visa,?",[0.52035075 0.31451488 0.16513436],positive,0.20583588
+"Visa makes strategic investment in Paidy,?",[0.41202822 0.01138091 0.5765909 ],neutral,0.4006473
+"The latest portfolio moves by Third Point,?",[0.09266829 0.05257888 0.8547529 ],neutral,0.040089417
+"Invesco S&amp;P 500 Quality ETF (SPHQ) July Summary,?",[0.04568502 0.5679347  0.3863803 ],negative,-0.5222497
+"Medpace Holdings announces pricing of common stock,?",[0.11926355 0.01791008 0.8628264 ],neutral,0.101353474
+"Medpace Holdings announces offering of common stock,?",[0.0943253  0.00852496 0.8971497 ],neutral,0.085800335
+"Kroger-owned chain bans Visa at some stores,?",[0.0191274  0.9188556  0.06201696],negative,-0.8997282
+"Visa Q3 GAAP EPS takes a $600M hit from litigation provision,?",[0.13352811 0.6934613  0.17301059],negative,-0.5599332
+"""Visa beats by $0 11, beats on revenue"",?",[0.61903924 0.10898197 0.27197883],positive,0.5100573
+"MoneyGram up in premarket action after pact with Visa on overseas money transfers,?",[0.35561886 0.5728823  0.07149882],negative,-0.21726343
+"Visa and Wex team up in commercial payment sector,?",[0.7113763  0.01129944 0.27732417],positive,0.7000769
+"Spotlight on Visa and Mastercard ahead of earnings,?",[0.05480013 0.0337307  0.91146916],neutral,0.021069437
+"Payments sector upgraded by Morgan Stanley,?",[0.05074165 0.0495414  0.8997169 ],neutral,0.001200255
+"Visa declares $0 21 dividend,?",[0.07310749 0.63067687 0.2962156 ],negative,-0.5575694
+"Oppenheimer confident on Visa and Mastercard,?",[0.04367477 0.04294829 0.9133769 ],neutral,0.0007264763
+"Mastercard and Visa dip after major banks report,?",[0.01490943 0.95503414 0.03005643],negative,-0.9401247
+"Invesco S&amp;P 500 Quality ETF (SPHQ) June Summary,?",[0.04624701 0.5639824  0.3897705 ],negative,-0.5177354
+"Visa starts digital loyalty program in Latin America and the Caribbean,?",[0.5230203  0.01362698 0.4633527 ],positive,0.50939333
+"Visa cuts conversion rate for class B common stock on litigation escrow deposit,?",[0.13065049 0.67534024 0.19400923],negative,-0.5446898
+"""Visa, Mastercard close in on settlement over card-swipe fees: WSJ"",?",[0.62807244 0.26208782 0.10983975],positive,0.36598462
+"Visa to deposit $600M in fund litigation escrow account,?",[0.04078924 0.1467718  0.81243896],neutral,-0.105982564
+"Investors bid down multinationals amid U S -China tension,?",[0.01753568 0.94056904 0.04189518],negative,-0.92303336
+"""Visa reports $100M investment for Europe fintechs, fast-track network access"",?",[0.6200312  0.01065309 0.3693157 ],positive,0.6093781
+"Visa reports service disruption in Europe,?",[0.01461179 0.9534297  0.03195853],negative,-0.9388179
+"Visa makes strategic investment in Yellowpepper,?",[0.4676726  0.01150674 0.5208207 ],neutral,0.45616585
+"China's payment apps scare U S  bankers: Bloomberg,?",[0.03527037 0.51887953 0.4458501 ],negative,-0.48360917
+"""Supreme Court okays sports gambling, but will credit cards allow it "",?",[0.1167547  0.02321064 0.8600347 ],neutral,0.093544066
+"Morgan Stanley selects 30 stocks for a three-year sideways market,?",[0.05414661 0.02172215 0.9241312 ],neutral,0.032424465
+"""Glenview added Express Scripts, exited Apple in Q1"",?",[0.06022487 0.03505834 0.9047168 ],neutral,0.025166534
+"Women execs at Visa meet with CEO over 'bro' culture,?",[0.02658437 0.856973   0.11644264],negative,-0.8303886
+"2018 Berkshire Hathaway annual meeting updates,?",[0.02581791 0.05896256 0.9152196 ],neutral,-0.033144653
+"Medpace down 8% premarket on 3M-share stock offering,?",[0.00958102 0.97529423 0.0151248 ],negative,-0.9657132
+"Payment processors lower on Amazon Pay report,?",[0.01963902 0.95054424 0.02981686],negative,-0.9309052
+"Boost for Raytheon's radar receiver,?",[0.8525825  0.02010774 0.12730975],positive,0.83247477
+"Double-digit growth at Visa continues,?",[0.89699805 0.01464907 0.08835291],positive,0.88234895
+"""Visa beats by $0 09, beats on revenue"",?",[0.69445753 0.09498128 0.2105612 ],positive,0.5994762
+"Visa declares $0 21 dividend,?",[0.07310749 0.63067687 0.2962156 ],negative,-0.5575694
+"Piper's picks ahead of financial sector earnings,?",[0.1035265  0.11882104 0.7776524 ],neutral,-0.015294537
+"Amazon mulls getting into the payments business,?",[0.05634132 0.01567992 0.92797875],neutral,0.0406614
+"""Bernstein initiates coverage, favors Visa and Mastercard over PayPal"",?",[0.2745757  0.01091482 0.7145095 ],neutral,0.26366088
+"MasterCard keeps options open on cryptos,?",[0.03387717 0.0484079  0.9177149 ],neutral,-0.0145307295
+"Visa makes renewable electricity pledge,?",[0.0651463  0.01676885 0.9180849 ],neutral,0.04837745
+"Visa to play defense at European Commission hearing,?",[0.05226571 0.35170537 0.5960289 ],neutral,-0.29943967
+"Venture capital deals of the week,?",[0.03981891 0.09317428 0.8670068 ],neutral,-0.053355373
+"Visa acquires Fraedom,?",[0.03657684 0.03483416 0.928589  ],neutral,0.0017426759
+"Consumer favorites swept into selling wave,?",[0.2696565  0.0808017  0.64954185],neutral,0.18885481
+"Consumer favorites routed along with rest of market,?",[0.12075476 0.0885689  0.79067636],neutral,0.032185853
+"Visa approves $7 5B buyback authorization,?",[0.87785524 0.01995618 0.10218861],positive,0.85789907
+"Visa lower as investors eye operating expenses,?",[0.01273119 0.9666718  0.02059703],negative,-0.95394063
+"Visa declares $0 21 dividend,?",[0.07310749 0.63067687 0.2962156 ],negative,-0.5575694
+"""Visa beats by $0 10, beats on revenue"",?",[0.6454094  0.11570182 0.23888883],positive,0.52970755
+"Earnings time for Mastercard and Visa,?",[0.05208133 0.22925465 0.71866405],neutral,-0.17717332
+"Meet the names in the Amplify blockchain ETF,?",[0.0318835  0.03389031 0.9342262 ],neutral,-0.0020068102
+"Visa expected to boost employee perks,?",[0.9434959  0.01618493 0.04031911],positive,0.927311
+"Credit card debt on watch,?",[0.04449806 0.49378023 0.46172178],negative,-0.44928217
+"VanEck Vectors Morningstar Wide Moat ETF (MOAT) December Summary,?",[0.04269572 0.20081817 0.7564861 ],neutral,-0.15812245
+"2017 leaders and laggards,?",[0.04283317 0.60272616 0.35444066],negative,-0.559893
+"""Boeing, Caterpillar top Dow 2017 standings; GE lags far behind"",?",[0.20404077 0.47463995 0.32131934],negative,-0.2705992
+"Susquehanna lifts fintech targets after tax bill,?",[0.59752744 0.11800878 0.2844637 ],positive,0.47951865
+"VanEck Vectors Morningstar Wide Moat ETF (MOAT) November Summary,?",[0.04270704 0.20116267 0.75613034],neutral,-0.15845563
+"Buy the dip in payment platforms - Credit Suisse,?",[0.08407217 0.02176639 0.89416146],neutral,0.06230577
+"Visa keeps gaining as analysts keep gushing,?",[0.87072736 0.04446812 0.08480459],positive,0.82625926
+"""Visa isn't shiny, but it's undervalued - SunTrust"",?",[0.7546489  0.04156866 0.20378241],positive,0.7130803
+"Healthy earnings beat for Visa,?",[0.92079985 0.0376831  0.04151706],positive,0.8831168
+"""Visa beats by $0 05, beats on revenue"",?",[0.6863929  0.09523932 0.21836771],positive,0.59115356
+"Visa Inc declares $0 195 dividend,?",[0.04776744 0.77109545 0.1811371 ],negative,-0.723328
+"Stephens sees more gains for Visa and Mastercard,?",[0.8998193  0.02033282 0.07984786],positive,0.8794865
+"Wells Fargo positive on Visa and Mastercard,?",[0.19898511 0.12406555 0.6769493 ],neutral,0.07491957
+"VanEck Vectors Morningstar Wide Moat ETF (MOAT) September Summary,?",[0.04250332 0.22822629 0.7292704 ],neutral,-0.18572296
+"Buckingham Research bullish on payments stocks,?",[0.10430948 0.3920449  0.5036456 ],neutral,-0.2877354
+"Cantor Fitzgerald positive on Visa,?",[0.11428154 0.4311887  0.45452973],neutral,-0.31690717
+"Visa and Mastercard warn on stolen credit card accounts,?",[0.01667896 0.9157505  0.0675706 ],negative,-0.8990715
+"VanEck Vectors Morningstar Wide Moat ETF (MOAT) August Summary,?",[0.04286126 0.21860501 0.73853374],neutral,-0.17574374
+"Visa appoints chief for European operations,?",[0.04841066 0.2869721  0.6646173 ],neutral,-0.23856145
