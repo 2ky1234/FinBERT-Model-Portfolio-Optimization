@@ -1,0 +1,157 @@
+<p> text table</p>
+
+{% load static %}
+<!doctype html>
+<html lang="ko">
+<head>
+
+    <style type = 'text/css'>
+        table.paleBlueRows {
+        font-family: "Times New Roman", Times, serif;
+        border: 1px solid #FFFFFF;
+        width: 950px;
+        height: 600px;
+        text-align: center;
+        border-collapse: collapse;
+        }
+        table.paleBlueRows td, table.paleBlueRows th {
+        border: 1px solid #FFFFFF;
+        padding: 3px 2px;
+        }
+        table.paleBlueRows tbody td {
+        font-size: 23px;
+        }
+        table.paleBlueRows tr:nth-child(even) {
+        background: #D0E4F5;
+        }
+        table.paleBlueRows thead {
+        background: #0B6FA4;
+        border-bottom: 5px solid #FFFFFF;
+        }
+        table.paleBlueRows thead th {
+        font-size: 23px;
+        font-weight: bold;
+        color: #FFFFFF;
+        text-align: center;
+        border-left: 2px solid #FFFFFF;
+        }
+        table.paleBlueRows thead th:first-child {
+        border-left: none;
+        }
+
+        table.paleBlueRows tfoot {
+        font-size: 14px;
+        font-weight: bold;
+        color: #333333;
+        background: #D0E4F5;
+        border-top: 3px solid #444444;
+        }
+        table.paleBlueRows tfoot td {
+        font-size: 14px;
+        }
+    
+    </style>
+</head>
+
+<body>
+    <table class="paleBlueRows">
+        <thead>
+            <tr>
+                <th>index</th>
+                <th>textmining_pfo</th>
+                <th>Equal_Weighted</th>
+                <th>SNP</th>
+                <th>Cnsmr</th>
+                <th>Manuf</th>
+                <th>HiTec</th>
+                <th>Hlth</th>
+                <th>Other</th>
+            </tr>
+        </thead>
+            
+        <tbody>
+
+            <tr>
+                <td>{{eval_index0}}</td>
+                <td>{{eval_textmining_pfo0}}</td>
+                <td>{{eval_Equal_Weighted0}}</td>
+                <td>{{eval_SNP0}}</td>
+                <td>{{eval_Cnsmr0}}</td>
+                <td>{{eval_Manuf0}}</td>
+                <td>{{eval_HiTec0}}</td>
+                <td>{{eval_Hlth0}}</td>
+                <td>{{eval_Other0}}</td>
+            </tr>
+
+            <tr>
+                <td>{{eval_index1}}</td>
+                <td>{{eval_textmining_pfo1}}</td>
+                <td>{{eval_Equal_Weighted1}}</td>
+                <td>{{eval_SNP1}}</td>
+                <td>{{eval_Cnsmr1}}</td>
+                <td>{{eval_Manuf1}}</td>
+                <td>{{eval_HiTec1}}</td>
+                <td>{{eval_Hlth1}}</td>
+                <td>{{eval_Other1}}</td>
+            </tr>
+            <tr>
+                <td>{{eval_index2}}</td>
+                <td>{{eval_textmining_pfo2}}</td>
+                <td>{{eval_Equal_Weighted2}}</td>
+                <td>{{eval_SNP2}}</td>
+                <td>{{eval_Cnsmr2}}</td>
+                <td>{{eval_Manuf2}}</td>
+                <td>{{eval_HiTec2}}</td>
+                <td>{{eval_Hlth2}}</td>
+                <td>{{eval_Other2}}</td>
+            </tr>
+            <tr>
+                <td>{{eval_index3}}</td>
+                <td>{{eval_textmining_pfo3}}</td>
+                <td>{{eval_Equal_Weighted3}}</td>
+                <td>{{eval_SNP3}}</td>
+                <td>{{eval_Cnsmr3}}</td>
+                <td>{{eval_Manuf3}}</td>
+                <td>{{eval_HiTec3}}</td>
+                <td>{{eval_Hlth3}}</td>
+                <td>{{eval_Other3}}</td>
+            </tr>
+            <tr>
+                <td>{{eval_index4}}</td>
+                <td>{{eval_textmining_pfo4}}</td>
+                <td>{{eval_Equal_Weighted4}}</td>
+                <td>{{eval_SNP4}}</td>
+                <td>{{eval_Cnsmr4}}</td>
+                <td>{{eval_Manuf4}}</td>
+                <td>{{eval_HiTec4}}</td>
+                <td>{{eval_Hlth4}}</td>
+                <td>{{eval_Other4}}</td>
+            </tr>
+            <tr>
+                <td>{{eval_index5}}</td>
+                <td>{{eval_textmining_pfo5}}</td>
+                <td>{{eval_Equal_Weighted5}}</td>
+                <td>{{eval_SNP5}}</td>
+                <td>{{eval_Cnsmr5}}</td>
+                <td>{{eval_Manuf5}}</td>
+                <td>{{eval_HiTec5}}</td>
+                <td>{{eval_Hlth5}}</td>
+                <td>{{eval_Other5}}</td>
+            </tr>
+            
+        </tbody>
+    </table>
+</body>
+</html>
+
+
+
+<p> eval_index : {{eval_index}} </p>
+<p> eval_textmining_pfo : {{eval_textmining_pfo}} </p>
+<p> eval_Equal_Weighted : {{eval_Equal_Weighted}} </p>
+<p> eval_SNP : {{eval_SNP}} </p>
+<p> eval_Cnsmr : {{eval_Cnsmr}} </p>
+<p> eval_Manuf : {{eval_Manuf}} </p>
+<p> eval_HiTec : {{eval_HiTec}} </p>
+<p> eval_Hlth : {{eval_Hlth}} </p>
+<p> eval_Other : {{eval_Other}} </p>

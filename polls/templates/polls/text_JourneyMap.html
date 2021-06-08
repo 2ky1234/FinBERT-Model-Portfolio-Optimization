@@ -1,0 +1,391 @@
+<p> journey map </p>
+
+<p> start_data: {{start_data}}</p>
+<p> end_data  : {{end_data}}</p>
+<p> rebal    : {{ rebal }} </p>
+<p> Date  : {{rebal_graph_Date}} </p>
+
+<!doctype html>
+<html class="zc-html">
+
+<head>
+  <meta charset="utf-8">
+  <title>ZingSoft Demo</title>
+  <script src="https://cdn.zingchart.com/zingchart.min.js"></script>
+
+  
+  <style>
+    .zc-body {
+      background: #fff;
+    }
+
+    .chart--container {
+      height: 100%;
+      width: 100%;
+      min-height: 530px;
+    }
+
+    .zc-ref {
+      display: none;
+    }
+  </style>
+</head>
+ 
+
+<body class="zc-body">
+   
+  <div id="myChart" class="chart--container" >
+    <a href="https://www.zingchart.com/" rel="noopener" class="zc-ref">Powered by ZingChart</a>
+  </div>
+
+  <script>
+    ZC.LICENSE = ["569d52cefae586f634c54f86dc99e6a9", "b55b025e438fa8a98e32482b5f768ff5"]; // full ZingChart schema can be found here:
+    // https://www.zingchart.com/docs/api/json-configuration/
+    // Chart Data
+    console.log({{A}})
+
+    let stock1 = {{A}};
+    let stock2 = {{AB}};
+    let stock3 = {{ABC}};
+    let stock4 = {{ABCD}};
+    let stock5 = {{ABCDE}};
+    let stock6 = {{ABCDEF}};
+    let stock7 = {{ABCDEFG}};
+    let stock8 = {{ABCDEFGH}};
+    let stock9 = {{ABCDEFGHI}};
+    let stock10 = {{ABCDEFGHIJ}};
+    let stock11 = {{ABCDEFGHIJK}};
+    let stock12 = {{ABCDEFGHIJKL}};
+    let stock13 = {{ABCDEFGHIJKLM}};
+    let stock14 = {{ABCDEFGHIJKLMN}};
+    let stock15 = {{ABCDEFGHIJKLMNO}};
+
+
+
+    // Chart Configuration
+    let chartConfig = {
+      type: 'area',
+      globals: {
+        fontFamily: 'Poppins',
+        fontColor: '#333'
+      },
+      title: {
+        text: 'Efficient Frontier Journey Map',
+        align: 'center',
+        padding: '5px'
+      },
+      legend: {
+        align: 'center',
+        verticalAlign: 'bottom',
+        layout: '1x15',
+        border: 'none',
+        item: {
+          fontSize: '18px'
+        },
+        marker: {
+          type: 'circle'
+        }
+      },
+      tooltip: {
+        callout: true,
+        text: '%t:<br>%v',
+        backgroundColor: '#F7F9FA',
+        fontColor: '#505050',
+        fontSize: '18px',
+        padding: '20px 35px',
+        borderRadius: '4px'
+      },
+      plot: {
+        aspect: 'spline'
+      },
+      scaleX: {
+        //labels: '${{rabal_graph_Date}}'
+        values: '${{rebal_graph_Date}}'
+      },
+      scaleY: {
+        //values: '0:16:2'
+        values: '0:1'
+      },
+      series: [{
+          values: stock1,
+          text: 'AMZN',
+          zIndex: 15,
+          alphaArea: 1,
+          lineColor: '#ffffff',
+          lineWidth: '3px',
+          backgroundColor: '#9C27B0',
+          marker: {
+            size: '0px'
+          },
+          hoverMarker: {
+            size: '10px',
+            backgroundColor: '#fff',
+            borderColor: '#eee'
+          }
+        },
+        {
+          values: stock2,
+          text: 'WMT',
+          zIndex: 14,
+          alphaArea: 1,
+          lineColor: '#ffffff',
+          backgroundColor: '#7B1FA2',
+          marker: {
+            size: '0px'
+          },
+          hoverMarker: {
+            size: '10px',
+            backgroundColor: '#fff',
+            borderColor: '#eee'
+          }
+        },
+        {
+          values: stock3,
+          text: 'NVDA',
+          zIndex: 13,
+          alphaArea: 1,
+          lineColor: '#ffffff',
+          backgroundColor: '#2196F3',
+          marker: {
+            size: '0px'
+          },
+          hoverMarker: {
+            size: '10px',
+            backgroundColor: '#fff',
+            borderColor: '#eee'
+          }
+        },
+        {
+          values: stock4,
+          text: 'TSLA',
+          zIndex: 12,
+          alphaArea: 1,
+          lineColor: '#ffffff',
+          backgroundColor: '#1976D2',
+          marker: {
+            size: '0px'
+          },
+          hoverMarker: {
+            size: '10px',
+            backgroundColor: '#fff',
+            borderColor: '#eee'
+          }
+        },
+        {
+          values: stock5,
+          text: 'PG',
+          zIndex: 11,
+          alphaArea: 1,
+          lineColor: '#ffffff',
+          backgroundColor: '#7C4DFF',
+          marker: {
+            size: '0px'
+          },
+          hoverMarker: {
+            size: '10px',
+            backgroundColor: '#fff',
+            borderColor: '#eee'
+          }
+        },
+        {
+          values: stock6,
+          text: 'NKE',
+          zIndex: 10,
+          alphaArea: 1,
+          lineColor: '#ffffff',
+          backgroundColor: '#673AB7',
+          marker: {
+            size: '0px'
+          },
+          hoverMarker: {
+            size: '10px',
+            backgroundColor: '#fff',
+            borderColor: '#eee'
+          }
+        },
+        {
+          values: stock7,
+          text: 'AAPL',
+          zIndex: 9,
+          alphaArea: 1,
+          lineColor: '#ffffff',
+          backgroundColor: '#512DA8',
+          marker: {
+            size: '0px'
+          },
+          hoverMarker: {
+            size: '10px',
+            backgroundColor: '#fff',
+            borderColor: '#eee'
+          }
+        },
+        {
+          values: stock8,
+          text: 'JNJ',
+          zIndex: 8,
+          alphaArea: 1,
+          lineColor: '#ffffff',
+          backgroundColor: '#3F51B5',
+          marker: {
+            size: '0px'
+          },
+          hoverMarker: {
+            size: '10px',
+            backgroundColor: '#fff',
+            borderColor: '#eee'
+          }
+        },
+        {
+          values: stock9,
+          text: 'GOOGL',
+          zIndex: 7,
+          alphaArea: 1,
+          lineColor: '#ffffff',
+          backgroundColor: '#C5CAE9',
+          marker: {
+            size: '0px'
+          },
+          hoverMarker: {
+            size: '10px',
+            backgroundColor: '#fff',
+            borderColor: '#eee'
+          }
+        },
+        {
+          values: stock10,
+          text: 'MSFT',
+          zIndex: 6,
+          alphaArea: 1,
+          lineColor: '#ffffff',
+          backgroundColor: '#303F9F',
+          marker: {
+            size: '0px'
+          },
+          hoverMarker: {
+            size: '10px',
+            backgroundColor: '#fff',
+            borderColor: '#eee'
+          }
+        },
+        {
+          values: stock11,
+          text: 'PFE',
+          zIndex: 5,
+          alphaArea: 1,
+          lineColor: '#ffffff',
+          backgroundColor: '#00BCD4',
+          marker: {
+            size: '0px'
+          },
+          hoverMarker: {
+            size: '10px',
+            backgroundColor: '#fff',
+            borderColor: '#eee'
+          }
+        },
+        {
+          values: stock12,
+          text: 'BRK',
+          zIndex: 4,
+          alphaArea: 1,
+          lineColor: '#ffffff',
+          backgroundColor: '#3fc7d9',
+          marker: {
+            size: '0px'
+          },
+          hoverMarker: {
+            size: '10px',
+            backgroundColor: '#fff',
+            borderColor: '#eee'
+          }
+        },
+        {
+          values: stock13,
+          text: 'FB',
+          zIndex: 3,
+          alphaArea: 1,
+          lineColor: '#ffffff',
+          backgroundColor: '#a2d9e0',
+          marker: {
+            size: '0px'
+          },
+          hoverMarker: {
+            size: '10px',
+            backgroundColor: '#fff',
+            borderColor: '#eee'
+          }
+        },
+        {
+          values: stock14,
+          text: 'MRK',
+          zIndex: 2,
+          alphaArea: 1,
+          lineColor: '#ffffff',
+          backgroundColor: '#B2EBF2',
+          marker: {
+            size: '0px'
+          },
+          hoverMarker: {
+            size: '10px',
+            backgroundColor: '#fff',
+            borderColor: '#eee'
+          }
+        },
+        {
+          values: stock15,
+          text: 'V',
+          zIndex: 1,
+          alphaArea: 1,
+          lineColor: '#ffffff',
+          backgroundColor: '#0097A7',
+          marker: {
+            size: '0px'
+          },
+          hoverMarker: {
+            size: '10px',
+            backgroundColor: '#fff',
+            borderColor: '#eee'
+          }
+        }
+      ]
+    };
+
+    // Render Method
+    zingchart.render({
+      id: 'myChart',
+      data: chartConfig,
+      height: '100%',
+      width: '100%',
+    });
+  </script>
+</body>
+
+</html>
+
+<!--
+<p>{{rebal_graph_Date}}</p>
+<p>{{rebal_graph_Cnsmr}}</p>
+<p>{{rebal_graph_Manuf}}</p>
+<p>{{rebal_graph_HiTec}}</p>
+<p>{{rebal_graph_Hlth}}</p>
+<p>{{rebal_graph_Other}}</p>
+-->
+
+<!--
+<p>{{rebal_graph_Date}}</p>
+<p>{{A}}</p>
+<p>{{AB}}</p>
+<p>{{ABC}}</p>
+<p>{{ABCD}}</p>
+<p>{{ABCDE}}</p>
+<p>{{ABCDEF}}</p>
+<p>{{ABCDEFG}}</p>
+<p>{{ABCDEFGH}}</p>
+<p>{{ABCDEFGHI}}</p>
+<p>{{ABCDEFGHIJ}}</p>
+<p>{{ABCDEFGHIJK}}</p>
+<p>{{ABCDEFGHIJKL}}</p>
+<p>{{ABCDEFGHIJKLM}}</p>
+<p>{{ABCDEFGHIJKLMN}}</p>
+<p>{{ABCDEFGHIJKLMNO}}</p>
+-->

@@ -1,0 +1,76 @@
+<p> test result visual </p>
+<p>stock : {{stock}}</p>
+<p>stock0: {{stock0}} ,stock1: {{stock1}}, stock2: {{stock2}}</p>
+
+<!DOCTYPE html>
+<html>
+ 
+<head>
+  <meta charset="utf-8">
+  <title>ZingSoft Demo</title>
+ 
+  <script src="https://cdn.zingchart.com/zingchart.min.js"></script>
+  <style>
+    html,
+    body,
+    #myChart {
+      height: 100%;
+      width: 100%;
+    }
+  </style>
+</head>
+
+<body>
+  <div id='myChart'></div>
+  <script>
+    ZC.LICENSE = ["569d52cefae586f634c54f86dc99e6a9", "b55b025e438fa8a98e32482b5f768ff5"];
+    var myConfig = {
+        title: {
+        text: 'Text Mining Visualization _ GOOGLE (파랑 : stock0, 빨강 : stock1, 초록 : stock2)',
+        align: 'center',
+        padding: '5px'},
+
+        type: "bar",
+
+      'scale-x': {
+    label: { /* Scale Title */
+      text: "From 2017-09 To 2020-09",
+    },
+    labels: ['2017-09-01', '2017-10-01', '2017-11-01', '2017-12-01', '2018-01-01', '2018-02-01', '2018-03-01', '2018-04-01', '2018-05-01', '2018-06-01', '2018-07-01', '2018-08-01', '2018-09-01', '2018-10-01', '2018-11-01', '2018-12-01', '2019-01-01', '2019-02-01', '2019-03-01', '2019-04-01', '2019-05-01', '2019-06-01', '2019-07-01', '2019-08-01', '2019-09-01', '2019-10-01', '2019-11-01', '2019-12-01', '2020-01-01', '2020-02-01', '2020-03-01', '2020-04-01', '2020-05-01', '2020-06-01', '2020-07-01', '2020-08-01', '2020-09-01']},
+
+      series: [{
+          values: {{stock0_mean}},
+          label : "a",
+        },
+        {
+          values: {{stock1_mean}},
+          label : "b",
+        },
+        {
+          values: {{stock2_mean}},
+          label : "c",
+        }
+      ]
+    };
+ 
+    zingchart.render({
+      id: 'myChart',
+      data: myConfig,
+      height: "100%",
+      width: "100%"
+    });
+  </script>
+</body>
+</html>
+
+
+<p>stock0: {{stock0}}</p>
+<p>stock0_mean: {{stock0_mean}}</p>
+
+<p>stock1: {{stock1}}</p>
+<p>stock1_mean: {{stock1_mean}}</p>
+
+<p>stock2: {{stock2}}</p>
+<p>stock2_mean: {{stock2_mean}}</p>
+
+<p>date: {{date}}</p>

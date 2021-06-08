@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html>
+ 
+<head>
+  <meta charset="utf-8">
+  <title>Text Result Graph</title>
+ 
+  <script src="https://cdn.zingchart.com/zingchart.min.js"></script>
+  <style>
+    html,
+    body {
+      height: 100%;
+      width: 100%;
+    }
+ 
+    #myChart {
+      height: 100%;
+      width: 100%;
+      min-height: 150px;
+    }
+ 
+    .zc-ref {
+      display: none;
+    }
+  </style>
+</head>
+ 
+<body>
+  <div id='myChart'><a class="zc-ref" href="https://www.zingchart.com/">Powered by ZingChart</a></div>
+  <script>
+    
+    let g0 = {{g0}};
+    let g1 = {{g1}};
+    let g2 = {{g2}};
+    let g3 = {{g3}};
+    let g4 = {{g4}};
+    let g5 = {{g5}};
+    let g6 = {{g6}};
+    let g7 = {{g7}};
+
+
+    ZC.LICENSE = ["569d52cefae586f634c54f86dc99e6a9", "b55b025e438fa8a98e32482b5f768ff5"];
+    var myConfig = 
+        {
+            "type": "line",
+            "utc": true,
+            "title": {
+                "text": "Text Result Graph",
+                "font-size": "24px",
+                "adjust-layout":true
+            },
+            "plotarea": {
+                "margin": "dynamic 45 60 dynamic",
+            },
+            "legend": {
+                "layout": "float",
+                "background-color": "none",
+                "border-width": 0,
+                "shadow": 0,
+                "align":"center",
+                "adjust-layout":true,
+              	"toggle-action": "remove",
+                "item":{
+                  "padding": 7,
+                  "marginRight": 17,
+                  "cursor":"hand"
+                }
+            },
+            "scale-x": {
+              value : '${{rebal_graph_Date}}',
+            },
+            "scale-y": {
+                "line-color": "#f6f7f8",
+                "shadow": 0,
+                "guide": {
+                    "line-style": "dashed"
+                },
+                "label": {
+                    "text": "Page Views",
+                },
+                "minor-ticks": 0,
+                "thousands-separator": ","
+            },
+            "crosshair-x": {
+                "line-color": "#efefef",
+                "plot-label": {
+                    "border-radius": "5px",
+                    "border-width": "1px",
+                    "border-color": "#f6f7f8",
+                    "padding": "10px",
+                    "font-weight": "bold"
+                },
+                "scale-label": {
+                    "font-color": "#000",
+                    "background-color": "#f6f7f8",
+                    "border-radius": "5px"
+                }
+            },
+            "tooltip": {
+                "visible": false
+            },
+            "plot": {
+                "highlight":true,
+                "tooltip-text": "%t views: %v<br>%k",
+                "shadow": 0,
+                "line-width": "2px",
+                "marker": {
+                    "type": "circle",
+                    "size": 3
+                },
+                "highlight-state": {
+                    "line-width":3
+                },
+                "animation":{
+                  "effect":1,
+                  "sequence":2,
+                  "speed":100,
+                }
+            },
+            "series": [
+                {
+                    "values":g0,
+                    "text": "textmining_pfo",
+                    "line-color": "#a2d9e0",
+                    "legend-item":{
+                      "background-color": "#a2d9e0",
+                      "borderRadius":5,
+                       "font-color":"white"
+                    },
+                    "legend-marker": {
+                        "visible":false
+                    },
+                    "marker": {
+                        "background-color": "#a2d9e0",
+                        "border-width": 1,
+                        "shadow": 0,
+                        "border-color": "#69dbf1"
+                    },
+                    "highlight-marker":{
+                      "size":6,
+                      "background-color": "#a2d9e0",
+                    }
+                },
+
+                {
+                    "values":g1,
+                    "text": "Equal_Weighted",
+                    "line-color": "#007790",
+                    "legend-item":{
+                      "background-color": "#007790",
+                      "borderRadius":5,
+                       "font-color":"white"
+                    },
+                    "legend-marker": {
+                        "visible":false
+                    },
+                    "marker": {
+                        "background-color": "#007790",
+                        "border-width": 1,
+                        "shadow": 0,
+                        "border-color": "#69dbf1"
+                    },
+                    "highlight-marker":{
+                      "size":6,
+                      "background-color": "#007790",
+                    }
+                },
+                {
+                    "values":  g2,
+                    "text": "SNP",
+                    "line-color": "#009872",
+                    "legend-item":{
+                      "background-color": "#009872",
+                      "borderRadius":5,
+                       "font-color":"white"
+                    },
+                    "legend-marker": {
+                        "visible":false
+                    },
+                    "marker": {
+                        "background-color": "#009872",
+                        "border-width": 1,
+                        "shadow": 0,
+                        "border-color": "#69f2d0"
+                    },
+                    "highlight-marker":{
+                      "size":6,
+                      "background-color": "#009872",
+                    }
+                },
+                {
+                    "values": g3,
+                    "text": "Cnsmr",
+                    "line-color": "#da534d",
+                    "legend-item":{
+                      "background-color": "#da534d",
+                      "borderRadius":5,
+                      "font-color":"white"
+                    },
+                    "legend-marker": {
+                        "visible":false
+                    },
+                    "marker": {
+                        "background-color": "#da534d",
+                        "border-width": 1,
+                        "shadow": 0,
+                        "border-color": "#faa39f"
+                    },
+                    "highlight-marker":{
+                      "size":6,
+                      "background-color": "#da534d",
+                    }
+                },
+                {
+                    "values": g4,
+                    "text": "Manuf",
+                    "line-color": "#9C27B0",
+                    "legend-item":{
+                      "background-color": "#9C27B0",
+                      "borderRadius":5,
+                      "font-color":"white"
+                    },
+                    "legend-marker": {
+                        "visible":false
+                    },
+                    "marker": {
+                        "background-color": "#9C27B0",
+                        "border-width": 1,
+                        "shadow": 0,
+                        "border-color": "#faa39f"
+                    },
+                    "highlight-marker":{
+                      "size":6,
+                      "background-color": "#9C27B0",
+                    }
+                },
+                {
+                    "values": g5,
+                    "text": "HiTec",
+                    "line-color": "#7B1FA2",
+                    "legend-item":{
+                      "background-color": "#7B1FA2",
+                      "borderRadius":5,
+                      "font-color":"white"
+                    },
+                    "legend-marker": {
+                        "visible":false
+                    },
+                    "marker": {
+                        "background-color": "#7B1FA2",
+                        "border-width": 1,
+                        "shadow": 0,
+                        "border-color": "#faa39f"
+                    },
+                    "highlight-marker":{
+                      "size":6,
+                      "background-color": "#7B1FA2",
+                    }
+                },
+                {
+                    "values": g6,
+                    "text": "Hlth",
+                    "line-color": "#2196F3",
+                    "legend-item":{
+                      "background-color": "#2196F3",
+                      "borderRadius":5,
+                      "font-color":"white"
+                    },
+                    "legend-marker": {
+                        "visible":false
+                    },
+                    "marker": {
+                        "background-color": "#2196F3",
+                        "border-width": 1,
+                        "shadow": 0,
+                        "border-color": "#faa39f"
+                    },
+                    "highlight-marker":{
+                      "size":6,
+                      "background-color": "#2196F3",
+                    }
+                },
+                {
+                    "values": g7,
+                    "text": "Other",
+                    "line-color": "#1976D2",
+                    "legend-item":{
+                      "background-color": "#1976D2",
+                      "borderRadius":5,
+                      "font-color":"white"
+                    },
+                    "legend-marker": {
+                        "visible":false
+                    },
+                    "marker": {
+                        "background-color": "#1976D2",
+                        "border-width": 1,
+                        "shadow": 0,
+                        "border-color": "#faa39f"
+                    },
+                    "highlight-marker":{
+                      "size":6,
+                      "background-color": "#1976D2",
+                    }
+                },
+
+
+            ]
+        };
+
+zingchart.render({ 
+	id : 'myChart', 
+	data : myConfig, 
+	height: '100%', 
+	width: '100%' 
+});
+  </script>
+</body>
+ 
+</html>
+
+<p>test result graph </p>
+
+<p>{{rebal_graph_Date}}</p>
+
+<p> g0 : {{g0}} </p>
+<p> g1 : {{g1}} </p>
+<p> g2 : {{g2}} </p>
+<p> g3 : {{g3}} </p>
+<p> g4 : {{g4}} </p>
+<p> g5 : {{g5}} </p>
+<p> g6 : {{g6}} </p>
+<p> g7 : {{g7}} </p>
