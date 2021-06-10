@@ -1,6 +1,7 @@
 # FinBERT-Model-Portfolio-Optimization-
 FinBERT는 금융 텍스트의 감정을 분석하기 위해 사전 훈련된 NLP 모델이다. 금융 영역에서 BERT 언어 모델을 추가로 교육하여 대규모 금융 코퍼스를 사용하여 금융감성 분류를 위해 이를 미세 조정함으로써 구축된다. 이러한 FinBERT 모델을 활용하여 포트폴리오를 구성하는 개별종목(미국의 섹터별 대표 3개의 종목)의 월별 asset allocation을 조정하여 최적화 및 리밸런싱을 진행하였다. 또한 구성된 포트폴리오의 결과를 벤치마크와 비교하고 백테스트를 실행한다.
 
+링크 : https://github.com/ProsusAI/finBERT
 
 <!-- Output copied to clipboard! -->
 
